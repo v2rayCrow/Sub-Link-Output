@@ -1,0 +1,2 @@
+#2025-10-02
+hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@d.eans.top:7009?security=tls&insecure=1&sni=d.eans.top#%3E%3E%40configV2rayNG%3A%3ADE
