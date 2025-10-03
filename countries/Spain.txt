@@ -1,2 +1,2 @@
 #2025-10-03
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AXX#Spain🇪🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?security=&encryption=none&type=grpc#%3E%3E%40configV2rayNG%3A%3AES#Spain🇪🇸
