@@ -1,2 +1,2 @@
 #2025-10-03
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%3E%3E%40v2rayngvpn%3A%3AGB#United States🇺🇸
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh26v6.vetrkot.com:8880?encryption=none&security=none&sni=pqh26v6.vetrkot.com&alpn=&type=grpc&host=pqh26v6.vetrkot.com#%3E%3E%40DailyV2RY%3A%3AUS#United States🇺🇸

@@ -1,2 +1,2 @@
 #2025-10-03
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&encryption=none&type=grpc&sni=pqh31v6.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AUS#Canada🇨🇦
+vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh23v1.hiddendom.shop&alpn=h2&type=grpc&host=pqh23v1.hiddendom.shop#%3E%3E%40DailyV2RY%3A%3AUS#Canada🇨🇦
