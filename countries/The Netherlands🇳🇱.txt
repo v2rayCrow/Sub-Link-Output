@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 12:39
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 12:52
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-04
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#The%20Netherlands🇳🇱
@@ -14,21 +14,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=&encryption=none&type=grpc#The%20Netherlands🇳🇱
 # 2025-10-04
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?security=&encryption=none&type=grpc#The%20Netherlands🇳🇱
-# 2025-10-04
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#The%20Netherlands🇳🇱
-# 2025-10-04
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#The%20Netherlands🇳🇱
-# 2025-10-04
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#The%20Netherlands🇳🇱
-# 2025-10-04
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#The%20Netherlands🇳🇱
-# 2025-10-04
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#The%20Netherlands🇳🇱
-# 2025-10-04
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#The%20Netherlands🇳🇱
-# 2025-10-04
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017453779.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#The%20Netherlands🇳🇱
-# 2025-10-04
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441858146.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#The%20Netherlands🇳🇱
-# 2025-10-04
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#The%20Netherlands🇳🇱
