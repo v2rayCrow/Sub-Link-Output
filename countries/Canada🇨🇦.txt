@@ -1,19 +1,31 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 12:32
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 12:39
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-10-04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Canada🇨🇦
+# 2025-10-04
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#Canada🇨🇦
+# 2025-10-04
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#Canada🇨🇦
+# 2025-10-04
+vless://44e16031-bde2-407a-b629-ae4b84e7e49f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=smits.feronix.org#Canada🇨🇦
+# 2025-10-04
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?flow=&type=ws&host=&path=/&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&allowInsecure=0#Canada🇨🇦
+# 2025-10-04
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#Canada🇨🇦
+# 2025-10-04
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#Canada🇨🇦
+# 2025-10-04
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#Canada🇨🇦
+# 2025-10-04
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#Canada🇨🇦
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=CuEg4R5u01.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=CuEg4R5u01.SoLeNtRaA.iNfO#Canada🇨🇦
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#Canada🇨🇦
 # 2025-10-04
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#Canada🇨🇦
-# 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#Canada🇨🇦
 # 2025-10-04
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#Canada🇨🇦
-# 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#Canada🇨🇦
-# 2025-10-04
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#Canada🇨🇦
 # 2025-10-04
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#Canada🇨🇦
 # 2025-10-04
@@ -23,47 +35,19 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#Canada🇨🇦
 # 2025-10-04
-vless://a546c4de-2840-49b7-b914-98babd165bb1@104.17.25.173:443?path=%2FXYXY0721&security=tls&encryption=none&type=ws&sni=de.xiejiang.dpdns.org#Canada🇨🇦
-# 2025-10-04
 vless://b0ff01b1-04d3-4b01-8b%619-b1dc47416c07@15.235.45.229:40853?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Canada🇨🇦
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#Canada🇨🇦
-# 2025-10-04
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#Canada🇨🇦
-# 2025-10-04
-vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29%26nat64%3D6to4&security=tls&encryption=none&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&fp=chrome&type=ws&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn#Canada🇨🇦
 # 2025-10-04
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada🇨🇦
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#Canada🇨🇦
 # 2025-10-04
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Canada🇨🇦
-# 2025-10-04
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:2096?path=%2F&security=tls&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#Canada🇨🇦
-# 2025-10-04
-trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#Canada🇨🇦
-# 2025-10-04
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#Canada🇨🇦
-# 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#Canada🇨🇦
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#Canada🇨🇦
 # 2025-10-04
-vless://a546c4de-2840-49b7-b914-98babd165bb1@cloudflare.182682.xyz:443?path=%2FXYXY0721&security=tls&encryption=none&host=de.xiejiang.dpdns.org&type=ws&sni=de.xiejiang.dpdns.org#Canada🇨🇦
-# 2025-10-04
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=&encryption=none&type=ws#Canada🇨🇦
-# 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=CuEg4R5u01.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=CuEg4R5u01.SoLeNtRaA.iNfO#Canada🇨🇦
-# 2025-10-04
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#Canada🇨🇦
-# 2025-10-04
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&encryption=none&type=grpc&sni=pqh31v6.hiddendom.shop#Canada🇨🇦
-# 2025-10-04
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&encryption=none&type=grpc&sni=vp39.hiddendom.shop#Canada🇨🇦
-# 2025-10-04
-vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=%2Fwsv%2F48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=chrome&type=ws&sni=banana.fullmargintraders.com#Canada🇨🇦
-# 2025-10-04
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Canada🇨🇦
 # 2025-10-04
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=nareni.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=nareni.rtxiran.info&encryption=none#Canada🇨🇦
 # 2025-10-04
@@ -77,26 +61,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096/?type=ws&encrypti
 # 2025-10-04
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#Canada🇨🇦
 # 2025-10-04
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=vp33.hiddendom.shop#Canada🇨🇦
-# 2025-10-04
-vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#Canada🇨🇦
-# 2025-10-04
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Canada🇨🇦
-# 2025-10-04
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws#Canada🇨🇦
-# 2025-10-04
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#Canada🇨🇦
-# 2025-10-04
-vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#Canada🇨🇦
-# 2025-10-04
 vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:42557?security=reality&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f430927d#Canada🇨🇦
 # 2025-10-04
-trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#Canada🇨🇦
-# 2025-10-04
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300/?insecure=1&sni=www.bing.com#Canada🇨🇦
-# 2025-10-04
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#Canada🇨🇦
-# 2025-10-04
-trojan://o6x5BZAuSj@creativecommons.org:2053?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#Canada🇨🇦
-# 2025-10-04
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443/?type=ws&encryption=none&flow=&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=%2F&security=tls&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome#Canada🇨🇦

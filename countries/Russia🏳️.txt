@@ -1,8 +1,12 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 12:32
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 12:39
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-10-04
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.169.160.84:2053?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#Russia🏳️
 # 2025-10-04
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@yt.connect-iskra.ru:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#Russia🏳️
 # 2025-10-04
 vless://ed97e008-2b8d-4415-94c7-3da4919d361a@bridge.iskra-connect.xyz:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#Russia🏳️
+# 2025-10-04
+vless://0199a017-e8e8-9dc6-eb33-0b56980e01dd@80.90.187.190:8443?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#Russia🏳️
 # 2025-10-04
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wa.sfasti.ru&sid=16895459a2c7768d#Russia🏳️
