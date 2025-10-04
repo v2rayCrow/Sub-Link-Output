@@ -1,2 +1,0 @@
-#2025-10-02
-vless://401374e6-df77-41fb-f638-dad8184f175b@184.174.80.250:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40configV2rayNG%3A%3AXX

@@ -1,2 +1,0 @@
-#2025-10-02
-vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3ADE

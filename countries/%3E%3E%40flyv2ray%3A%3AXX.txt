@@ -1,2 +1,0 @@
-#2025-10-02
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#%3E%3E%40flyv2ray%3A%3AXX

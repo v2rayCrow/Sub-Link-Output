@@ -1,2 +1,0 @@
-#2025-10-02
-vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=%2Fvpnjantit&security=&encryption=none&type=ws#%3E%3E%40configV2rayNG%3A%3ACA
