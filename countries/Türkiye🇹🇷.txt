@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-04 15:42
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-05 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-04
-vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=%2F%40vpnserverrr&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#Türkiye🇹🇷
+# 2025-10-05
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Türkiye🇹🇷
