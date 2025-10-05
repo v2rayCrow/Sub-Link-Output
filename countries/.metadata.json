@@ -119,6 +119,12 @@
       "date": "2025-10-05"
     }
   ],
+  "Pakistan🇵🇰": [
+    {
+      "line": "vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Pakistan🇵🇰",
+      "date": "2025-10-05"
+    }
+  ],
   "Switzerland🇨🇭": [
     {
       "line": "vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#Switzerland🇨🇭",
@@ -227,18 +233,6 @@
       "date": "2025-10-05"
     }
   ],
-  "Türkiye🇹🇷": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Türkiye🇹🇷",
-      "date": "2025-10-05"
-    }
-  ],
-  "Lithuania🇱🇹": [
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434423505.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#Lithuania🇱🇹",
-      "date": "2025-10-05"
-    }
-  ],
   "Ukraine🇺🇦": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#Ukraine🇺🇦",
@@ -272,6 +266,12 @@
   "Luxembourg🇱🇺": [
     {
       "line": "vless://2d0c13f6-5b99-4%65d8-9f88-3%616972f85%659f@141.227.168.52:33288?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Luxembourg🇱🇺",
+      "date": "2025-10-05"
+    }
+  ],
+  "Türkiye🇹🇷": [
+    {
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?encryption=none&security=none&fp=chrome&type=grpc#Türkiye🇹🇷",
       "date": "2025-10-05"
     }
   ],
