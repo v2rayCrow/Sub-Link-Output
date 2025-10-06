@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-06 04:08
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-06 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-06
 vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=%2F&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=%2F&type=xhttp&sni=bimeh.com&sid=c5a5b0#Sweden🇸🇪
