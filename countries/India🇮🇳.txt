@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-07 21:41
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-07 23:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-07
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B3India

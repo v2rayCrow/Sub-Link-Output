@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-07 21:41
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-07 23:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-07
 hysteria2://9d7fd31c-2cbc-4a13-9c92-93242b967f41@103.193.173.217:50622?security=tls&insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0Hong%20Kong
