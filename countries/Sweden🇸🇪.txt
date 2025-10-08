@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-08 04:07
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-08 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-08
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&sid=50#%F0%9F%87%B8%F0%9F%87%AASweden
