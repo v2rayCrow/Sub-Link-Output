@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-08 14:53
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-08 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-10-08
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United%20States🇺🇸
 # 2025-10-08
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#United%20States🇺🇸
 # 2025-10-08
@@ -60,8 +62,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tu
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?security=tls&encryption=none&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=/&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&alpn=h2,h3#United%20States🇺🇸
 # 2025-10-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸
-# 2025-10-08
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443/?type=ws&encryption=none&flow=&host=What.The.Fxxk.cloudns.org&path=%2Fsnippets%2Fip&security=tls&sni=What.The.Fxxk.cloudns.org#United%20States🇺🇸
 # 2025-10-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#United%20States🇺🇸
 # 2025-10-08
