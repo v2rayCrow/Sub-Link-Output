@@ -1,102 +1,74 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-07 23:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-08 04:07
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?encryption=none&security=tls&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=%2F#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?security=tls&encryption=none&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=/&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&alpn=h2,h3#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://41b55c53-7776-4727-b05d-1ccf9cc409a5@104.20.30.132:443?path=%2FFree-VPN-Geo-Project%2F91.187.93.166-443&security=tls&encryption=none&host=gamang.gpj2.dpdns.org&fp=chrome&type=ws&sni=gamang.gpj2.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://4d89daf8-83c1-497d-af73-0d0033daadd8@104.21.36.57:443?path=%2Fwsv%2F4d89daf8-83c1-497d-af73-0d0033daadd8&security=tls&encryption=none&host=psto.fullmargintraders.com&type=ws&sni=psto.fullmargintraders.com#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2FVrChX4o5oasIm4In%3Fed%3D2560&security=tls&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443/?type=ws&encryption=none&flow=&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=%2F&security=tls&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://0c0537c3-f0fb-40e6-bd59-f5038e1855ed@162.159.43.92:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=juzi.634676.xyz&type=ws&sni=juzi.634676.xyz#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=fei.634676.xyz&fp=random&type=ws&sni=fei.634676.xyz#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@backus1.dh03.shop:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096/?type=ws&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&path=%2F&security=tls&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO&alpn=h3%2Ch2&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=angor.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=angor.rtxiran.info&encryption=none#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=nareni.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=nareni.rtxiran.info&encryption=none#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=CuEg4R5u01.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=CuEg4R5u01.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:2096?path=%2F&security=tls&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:443?path=%2F&security=tls&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://b0ff01b1-04d3-4b01-8b%619-b1dc47416c07@15.235.45.229:40853?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://a546c4de-2840-49b7-b914-98babd165bb1@104.17.25.173:443?path=%2FXYXY0721&security=tls&encryption=none&type=ws&sni=de.xiejiang.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=BtEvEjF8zI.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=BtEvEjF8zI.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=CuEg4R5u01.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=CuEg4R5u01.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=mooz.rtxiran.info#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?flow=&type=ws&host=&path=/&security=tls&sni=Rx2TfQ98lT.sOlEnTrAa.InFo&fp=chrome&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6Canada
-# 2025-10-07
+# 2025-10-08
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#%F0%9F%87%A8%F0%9F%87%A6Canada
