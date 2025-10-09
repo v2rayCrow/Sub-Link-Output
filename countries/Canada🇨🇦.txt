@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-09 04:07
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-09 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-09
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=0JtLb8H7bM.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=0JtLb8H7bM.sOlEnTrAa.InFo#Canada🇨🇦
@@ -77,14 +77,18 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3Fed%3D2
 # 2025-10-09
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?security=tls&encryption=none&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=/&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&alpn=h2,h3#Canada🇨🇦
 # 2025-10-09
+vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.6006900.xyz&type=ws&sni=jnir-cdn.6006900.xyz#Canada🇨🇦
+# 2025-10-09
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?encryption=none&security=tls&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=%2F#Canada🇨🇦
 # 2025-10-09
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Canada🇨🇦
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&encryption=none&type=ws&sni=gulf-d96.pages.dev#Canada🇨🇦
 # 2025-10-09
-vless://4f9e2051-1996-48b0-92d3-acb27b380e92@marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#Canada🇨🇦
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#Canada🇨🇦
 # 2025-10-09
-vless://4f9e2051-1996-48b0-92d3-acb27b380e92@krcd-22dm-ncui-294m.51pl.tv:443?security=tls&encryption=none&type=ws&sni=krcd-22dm-ncui-294m.51pl.tv#Canada🇨🇦
+vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&host=vless.keepfuck.me&fp=chrome&type=ws&sni=vless.keepfuck.me#Canada🇨🇦
 # 2025-10-09
-vless://4f9e2051-1996-48b0-92d3-acb27b380e92@shelton-stinker-immersed-debs-curious-licorice-tale-dumps.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=shelton-stinker-immersed-debs-curious-licorice-tale-dumps.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#Canada🇨🇦
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fei.634676.xyz&type=ws&sni=fei.634676.xyz#Canada🇨🇦
 # 2025-10-09
-vless://3d4f244d-4860-4603-9546-184ee632083f@104.21.48.1:2053?path=%2FXJlWBmgB2NGaiV68%3Fed%3D2560fp%3Drandomized&security=tls&alpn=http%2F1.1&encryption=none&host=c6jh01dp783knpd1ygxxwr4d0doe89o1.pages.dev&type=ws&sni=c6jH01dP783kNPD1yGxXwr4d0doe89O1.pAGEs.dEv#Canada🇨🇦
+vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#Canada🇨🇦
+# 2025-10-09
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&encryption=none&host=gulf-d96.pages.dev&type=ws&sni=gulf-d96.pages.dev#Canada🇨🇦
