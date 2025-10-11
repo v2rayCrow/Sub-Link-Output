@@ -1,15 +1,15 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 15:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-11
-hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#United%20States🇺🇸
+# 2025-10-11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#United%20States🇺🇸
 # 2025-10-11
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=angor.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=angor.rtxiran.info&encryption=none#United%20States🇺🇸
 # 2025-10-11
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=nareni.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=nareni.rtxiran.info&encryption=none#United%20States🇺🇸
 # 2025-10-11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
-# 2025-10-11
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@148.135.110.150:48503?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#United%20States🇺🇸
 # 2025-10-11
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#United%20States🇺🇸
 # 2025-10-11
@@ -19,13 +19,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusa
 # 2025-10-11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
 # 2025-10-11
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?encryption=none&security=none&type=ws&host=crazy-identity.oneeat.co&path=%2F#United%20States🇺🇸
-# 2025-10-11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
 # 2025-10-11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?encryption=none&security=none&type=ws&host=crazy-identity.oneeat.co&path=%2F#United%20States🇺🇸
 # 2025-10-11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸
 # 2025-10-11
 vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@backus1.dh03.shop:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#United%20States🇺🇸
 # 2025-10-11
@@ -33,65 +31,39 @@ hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#United%2
 # 2025-10-11
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#United%20States🇺🇸
 # 2025-10-11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#United%20States🇺🇸
-# 2025-10-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#United%20States🇺🇸
 # 2025-10-11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#United%20States🇺🇸
 # 2025-10-11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
 # 2025-10-11
-vless://01996431-3e8b-e8ed-202a-baf93f8e8851@104.26.12.31:2053?path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29&security=tls&encryption=none&host=0000bldeqthqenel0fx1.a1okmqy3tq.82js.7z3d.2547epkag0n.9lwoqaj.9kwravf6r.ksi8orupn.f4o44ew61.pp8yw2u.gv6888al1ckpth5lh753t.neib.cn&type=ws&sni=0000bldeqthqenel0fx1.a1okmqy3tq.82js.7z3d.2547epkag0n.9lwoqaj.9kwravf6r.ksi8orupn.f4o44ew61.pp8yw2u.gv6888al1ckpth5lh753t.neib.cn#United%20States🇺🇸
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
 # 2025-10-11
 vless://4f9e2051-1996-48b0-92d3-acb27b380e92@spoken-superman-drinking-booing-wizard-summers-ally-webber.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=spoken-superman-drinking-booing-wizard-summers-ally-webber.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
 # 2025-10-11
-vless://4f9e2051-1996-48b0-92d3-acb27b380e92@potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
+vless://01996431-3e8b-e8ed-202a-baf93f8e8851@104.26.12.31:2053?path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29&security=tls&encryption=none&host=0000bldeqthqenel0fx1.a1okmqy3tq.82js.7z3d.2547epkag0n.9lwoqaj.9kwravf6r.ksi8orupn.f4o44ew61.pp8yw2u.gv6888al1ckpth5lh753t.neib.cn&type=ws&sni=0000bldeqthqenel0fx1.a1okmqy3tq.82js.7z3d.2547epkag0n.9lwoqaj.9kwravf6r.ksi8orupn.f4o44ew61.pp8yw2u.gv6888al1ckpth5lh753t.neib.cn#United%20States🇺🇸
 # 2025-10-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸
-# 2025-10-11
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443/?type=ws&encryption=none&flow=&host=What.The.Fxxk.cloudns.org&path=%2Fsnippets%2Fip&security=tls&sni=What.The.Fxxk.cloudns.org#United%20States🇺🇸
 # 2025-10-11
 vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.6006900.xyz&type=ws&sni=jnir-cdn.6006900.xyz#United%20States🇺🇸
 # 2025-10-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#United%20States🇺🇸
 # 2025-10-11
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&encryption=none&type=ws&sni=gulf-d96.pages.dev#United%20States🇺🇸
-# 2025-10-11
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#United%20States🇺🇸
-# 2025-10-11
-vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#United%20States🇺🇸
-# 2025-10-11
 vless://76bfc324-e228-47e0-8871-f974fac80390@news.zoom.us:2096?path=%2F&security=tls&encryption=none&host=ip.onhit.xyz&fp=chrome&type=ws&sni=ip.onhit.xyz#United%20States🇺🇸
-# 2025-10-11
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&encryption=none&host=gulf-d96.pages.dev&type=ws&sni=gulf-d96.pages.dev#United%20States🇺🇸
 # 2025-10-11
 vless://4f9e2051-1996-48b0-92d3-acb27b380e92@marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
 # 2025-10-11
+vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#United%20States🇺🇸
+# 2025-10-11
 vless://4f9e2051-1996-48b0-92d3-acb27b380e92@shelton-stinker-immersed-debs-curious-licorice-tale-dumps.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=shelton-stinker-immersed-debs-curious-licorice-tale-dumps.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
-# 2025-10-11
-trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#United%20States🇺🇸
-# 2025-10-11
-vless://32698d90-d663-41ff-83e5-c4f74fac12cd@marco67.sylu.net:443?path=%2F&security=tls&encryption=none&host=marco67.sylu.net&type=ws&sni=marco67.sylu.net#United%20States🇺🇸
-# 2025-10-11
-vless://12345678-1234-1234-1234-123456789123@209.46.30.44:2096?path=%2Fsnippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#United%20States🇺🇸
-# 2025-10-11
-vless://12345678-1234-1234-1234-123456789123@198.71.233.50:2096?path=%2Fsnippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#United%20States🇺🇸
-# 2025-10-11
-vless://Parsashonam-Bot-29@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056%2FTelegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn---Telegram--mtmvpn&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#United%20States🇺🇸
 # 2025-10-11
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsxjp.huasuan666.top:22154?security=tls&insecure=1&sni=hsxjp.huasuan666.top#United%20States🇺🇸
 # 2025-10-11
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsmg.huasuan666.top:22151?security=tls&insecure=1&sni=hsmg.huasuan666.top#United%20States🇺🇸
 # 2025-10-11
-vless://01996549-6892-dbf0-0453-f700236936bd@142.171.202.202:33538?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#United%20States🇺🇸
-# 2025-10-11
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#United%20States🇺🇸
 # 2025-10-11
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#United%20States🇺🇸
-# 2025-10-11
-vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#United%20States🇺🇸
-# 2025-10-11
-vless://1-BYA--CHANEL--JKVPN--JKVPN@www.speedtest.net:2095?path=%2FTELEGRAM-%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN--%40JKVPN%3Fed%3D2048&security=none&encryption=none&host=jokervip.ahang-alpha.ir&type=ws#United%20States🇺🇸
 # 2025-10-11
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#United%20States🇺🇸
 # 2025-10-11
@@ -100,3 +72,31 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United%20States🇺🇸
 # 2025-10-11
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United%20States🇺🇸
+# 2025-10-11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#United%20States🇺🇸
+# 2025-10-11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United%20States🇺🇸
+# 2025-10-11
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@irss-2dk3-v49d-1dc4.51mj.tv:443?security=tls&encryption=none&type=ws&sni=irss-2dk3-v49d-1dc4.51mj.tv#United%20States🇺🇸
+# 2025-10-11
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#United%20States🇺🇸
+# 2025-10-11
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?security=&encryption=none&type=grpc#United%20States🇺🇸
+# 2025-10-11
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#United%20States🇺🇸
+# 2025-10-11
+vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@35.83.185.225:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=01.91md.fun&type=ws&sni=01.91md.fun#United%20States🇺🇸
+# 2025-10-11
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@krcd-22dm-ncui-294m.51pl.tv:443?security=tls&encryption=none&type=ws&sni=krcd-22dm-ncui-294m.51pl.tv#United%20States🇺🇸
+# 2025-10-11
+hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsadly.huasuan666.top:22159?security=tls&insecure=1&sni=hsadly.huasuan666.top#United%20States🇺🇸
+# 2025-10-11
+vless://b4f7b99a-85a4-4dd3-a25e-55e6fae0ad53@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.domnewconfsob1.org#United%20States🇺🇸
+# 2025-10-11
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v5.ipforvetra.shop#United%20States🇺🇸
+# 2025-10-11
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@212.18.104.19:443?security=reality&encryption=none&pbk=9tpeVTkuJ5il6GaLG9YqMn99OK8AFlzgEFtoD1_MkyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nspk.ru&sid=f8c64c7a#United%20States🇺🇸
+# 2025-10-11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#United%20States🇺🇸
+# 2025-10-11
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#United%20States🇺🇸
