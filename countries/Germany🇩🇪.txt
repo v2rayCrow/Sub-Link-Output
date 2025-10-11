@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Germany🇩🇪
@@ -11,12 +11,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378519565.mashhad-drc-tusa
 # 2025-10-11
 vless://88b6ee92-883b-450c-a83d-77f71e1db388@155.254.35.78:16274?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=MqVGNyGgn2-d-VrmwbViA73YFlfwe4O8Cu1qQqpOSXI&fp=chrome&sni=miro.com&sid=f35490&spx=%2F#Germany🇩🇪
 # 2025-10-11
-vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=%2Fsnippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#Germany🇩🇪
-# 2025-10-11
 vless://01997b9d-a1f7-e188-981a-c665b723cfef@181.214.1.43:2096?path=%2Fsnippets%26freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#Germany🇩🇪
 # 2025-10-11
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.149.223.242:443?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#Germany🇩🇪
-# 2025-10-11
-vless://01997b9d-a1f7-e188-981a-c665b723cfef@185.158.133.43:2096?path=%2Fsnippets%26freecodes%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#Germany🇩🇪
 # 2025-10-11
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#Germany🇩🇪
