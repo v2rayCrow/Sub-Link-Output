@@ -1,17 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 15:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-12
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#United%20States🇺🇸
-# 2025-10-12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#United%20States🇺🇸
-# 2025-10-12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#United%20States🇺🇸
-# 2025-10-12
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=angor.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=angor.rtxiran.info&encryption=none#United%20States🇺🇸
-# 2025-10-12
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=nareni.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=nareni.rtxiran.info&encryption=none#United%20States🇺🇸
-# 2025-10-12
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
 # 2025-10-12
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#United%20States🇺🇸
 # 2025-10-12
@@ -22,6 +10,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
 # 2025-10-12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
+# 2025-10-12
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?encryption=none&security=none&type=ws&host=crazy-identity.oneeat.co&path=%2F#United%20States🇺🇸
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸
 # 2025-10-12
@@ -37,15 +27,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:
 # 2025-10-12
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434433309.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸
 # 2025-10-12
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
+# 2025-10-12
 vless://4f9e2051-1996-48b0-92d3-acb27b380e92@spoken-superman-drinking-booing-wizard-summers-ally-webber.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=spoken-superman-drinking-booing-wizard-summers-ally-webber.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
 # 2025-10-12
 vless://01996431-3e8b-e8ed-202a-baf93f8e8851@104.26.12.31:2053?path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29&security=tls&encryption=none&host=0000bldeqthqenel0fx1.a1okmqy3tq.82js.7z3d.2547epkag0n.9lwoqaj.9kwravf6r.ksi8orupn.f4o44ew61.pp8yw2u.gv6888al1ckpth5lh753t.neib.cn&type=ws&sni=0000bldeqthqenel0fx1.a1okmqy3tq.82js.7z3d.2547epkag0n.9lwoqaj.9kwravf6r.ksi8orupn.f4o44ew61.pp8yw2u.gv6888al1ckpth5lh753t.neib.cn#United%20States🇺🇸
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸
 # 2025-10-12
+vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.6006900.xyz&type=ws&sni=jnir-cdn.6006900.xyz#United%20States🇺🇸
+# 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#United%20States🇺🇸
 # 2025-10-12
 vless://76bfc324-e228-47e0-8871-f974fac80390@news.zoom.us:2096?path=%2F&security=tls&encryption=none&host=ip.onhit.xyz&fp=chrome&type=ws&sni=ip.onhit.xyz#United%20States🇺🇸
+# 2025-10-12
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#United%20States🇺🇸
 # 2025-10-12
 vless://2737c5a4-50d5-46a2-9c8c-86920088b8c7@104.21.67.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=4g.zippza404abp.webredirect.org&type=ws&sni=4g.zippza404abp.webredirect.org#United%20States🇺🇸
 # 2025-10-12
@@ -75,9 +71,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#U
 # 2025-10-12
 vless://4f9e2051-1996-48b0-92d3-acb27b380e92@frw2-12dx-cei3-2dxx.51mj.tv:443?security=tls&encryption=none&type=ws&sni=frw2-12dx-cei3-2dxx.51mj.tv#United%20States🇺🇸
 # 2025-10-12
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fei.634676.xyz&type=ws&sni=fei.634676.xyz#United%20States🇺🇸
+# 2025-10-12
 vless://4f9e2051-1996-48b0-92d3-acb27b380e92@irss-2dk3-v49d-1dc4.51mj.tv:443?security=tls&encryption=none&type=ws&sni=irss-2dk3-v49d-1dc4.51mj.tv#United%20States🇺🇸
 # 2025-10-12
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#United%20States🇺🇸
+# 2025-10-12
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#United%20States🇺🇸
 # 2025-10-12
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?security=&encryption=none&type=grpc#United%20States🇺🇸
 # 2025-10-12

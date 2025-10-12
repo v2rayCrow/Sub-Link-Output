@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 15:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Germany🇩🇪
@@ -10,6 +10,8 @@ vless://930989fd-61dd-4d18-%61895-%6548892%61cb32%65@54.36.112.160:25365?mode=gu
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#Germany🇩🇪
 # 2025-10-12
 vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com#Germany🇩🇪
+# 2025-10-12
+vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=177f438f#Germany🇩🇪
 # 2025-10-12
 vless://9422b7fa-4192-4309-9875-0c1556a6e6f9@135.125.245.195:443?path=%2Flinkvkwss&security=tls&encryption=none&host=bLazE-de-195.mETiKAPpS.COm&type=ws&sni=bLazE-de-195.mETiKAPpS.COm#Germany🇩🇪
 # 2025-10-12
