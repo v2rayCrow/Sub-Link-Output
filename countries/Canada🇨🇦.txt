@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Canada🇨🇦
@@ -7,10 +7,14 @@ vless://b0ff01b1-04d3-4b01-8b%619-b1dc47416c07@15.235.45.229:40853?mode=gun&secu
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada🇨🇦
 # 2025-10-12
-vless://4f9e2051-1996-48b0-92d3-acb27b380e92@irss-2dk3-v49d-1dc4.51mj.tv:443?security=tls&encryption=none&type=ws&sni=irss-2dk3-v49d-1dc4.51mj.tv#Canada🇨🇦
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?encryption=none&security=none&type=ws&host=crazy-identity.oneeat.co&path=%2F#Canada🇨🇦
+# 2025-10-12
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=potions-misha-bridal-sykes-robbers-scorn-peep-reverse.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#Canada🇨🇦
+# 2025-10-12
+vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.6006900.xyz&type=ws&sni=jnir-cdn.6006900.xyz#Canada🇨🇦
+# 2025-10-12
+vless://4f9e2051-1996-48b0-92d3-acb27b380e92@marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click:443?security=tls&encryption=none&type=ws&sni=marlin-ebony-noises-outlive-wrinkled-serpent-det-rounds.91-cdascas-23928csmc2-msc1v1mow-sic2p2a-gfx3n3am-swi-xn-cdc-ox1.click#Canada🇨🇦
+# 2025-10-12
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fei.634676.xyz&type=ws&sni=fei.634676.xyz#Canada🇨🇦
 # 2025-10-12
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#Canada🇨🇦
-# 2025-10-12
-vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.203.89:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#Canada🇨🇦
-# 2025-10-12
-vless://4f9e2051-1996-48b0-92d3-acb27b380e92@krcd-22dm-ncui-294m.51pl.tv:443?security=tls&encryption=none&type=ws&sni=krcd-22dm-ncui-294m.51pl.tv#Canada🇨🇦

@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#United%20Kingdom🇬🇧
@@ -82,6 +82,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686411248.lahijan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#United%20Kingdom🇬🇧
 # 2025-10-12
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsyg.huasuan666.top:22156?security=tls&insecure=1&sni=hsyg.huasuan666.top#United%20Kingdom🇬🇧
+# 2025-10-12
+vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=177f438f#United%20Kingdom🇬🇧
 # 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbnRmVmVpQjdjeTNIbTFP@c1.nastuh.link:443#United%20Kingdom🇬🇧
 # 2025-10-12

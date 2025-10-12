@@ -1,4 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-12
 vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=%2F&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=%2F&type=xhttp&sni=bimeh.com&sid=c5a5b0#Sweden🇸🇪
+# 2025-10-12
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&headerType=none&fp=chrome&spx=%2F%40skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Sweden🇸🇪
