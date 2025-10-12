@@ -1,22 +1,18 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 04:10
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-11
+# 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 vless://5e0eddef-95cd-4109-9807-0f32062939f3@141.227.170.178:21232?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 vless://8d9cfb4f-69a7-435f-86d7-79d8e62d72c9@83.147.216.173:8443?security=reality&encryption=none&pbk=etG7kidJiRb4A2LsNbRUJ3HGyrt2yX5YlZGoTgmpSyw&fp=chrome&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=e624b964#Finland🇫🇮
-# 2025-10-11
-vless://b55203fc-19a6-4e18-9cbc-7a7b94be7f58@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#Finland🇫🇮
-# 2025-10-11
-vless://b55203fc-19a6-4e18-9cbc-7a7b94be7f58@netcdn.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@109.172.54.49:443?security=reality&encryption=none&pbk=ZYRpBcSSAGtXIKqjHqZbdbp4WpxwVvuWLSXufsf0-3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=1aa49d75#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=ws&encryption=none&path=%2F&host=&security=none#Finland🇫🇮
-# 2025-10-11
+# 2025-10-12
 vless://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?type=ws&security=none#Finland🇫🇮

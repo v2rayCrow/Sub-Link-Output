@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 04:10
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-11
+# 2025-10-12
 vless://9b1b61ca-2b67-4091-a777-5baa7a8f741f@38.180.26.251:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#United%20Arab%20Emirates🇦🇪

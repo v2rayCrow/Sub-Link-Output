@@ -1,22 +1,22 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-11 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-12 04:10
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-11
+# 2025-10-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 vless://930989fd-61dd-4d18-%61895-%6548892%61cb32%65@54.36.112.160:25365?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsdg.huasuan666.top:22155?security=tls&insecure=1&sni=hsdg.huasuan666.top#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com#Germany🇩🇪
-# 2025-10-11
-vless://join---eliv2ray@crocodilesrver.ir:8443?type=tcp&encryption=none&security=reality&pbk=7BoCcBCb-cYVcE_3z3qcF-ZzOlezFqR-NkwkecMC6A8&fp=chrome&sni=google.com&sid=930fb8b1d8aac565&spx=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY%3Fed%3D2560#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
+vless://f8806934-15d7-4194-9c35-ec7a140bb6f6@fast7.hvitrin.ir:48769?security=reality&encryption=none&pbk=7nXyxyyn6fSlJzPO1DFmIEUV8LAmoP58-_1zP_MKo2E&headerType=none&fp=chrome&type=tcp&sni=miro.com&sid=177f438f#Germany🇩🇪
+# 2025-10-12
 vless://9422b7fa-4192-4309-9875-0c1556a6e6f9@135.125.245.195:443?path=%2Flinkvkwss&security=tls&encryption=none&host=bLazE-de-195.mETiKAPpS.COm&type=ws&sni=bLazE-de-195.mETiKAPpS.COm#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 vless://0%61209%61f5-bb98-4c8c-%61d15-2%65c26cf9%654d9@54.36.115.88:15297?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Germany🇩🇪
-# 2025-10-11
+# 2025-10-12
 vless://4b47a944-9ea5-4f7a-fff9-4ca5f6cd55b6@91.107.245.14:2095?security=reality&encryption=none&pbk=V_ibNuL3PFXIAy0bV1PLlHqiYPMKT_QYC7wA5zqVRnQ&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Germany🇩🇪
