@@ -1,5 +1,9 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 09:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-10-13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#United%20States🇺🇸
+# 2025-10-13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#United%20States🇺🇸
 # 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#United%20States🇺🇸
 # 2025-10-13
@@ -25,6 +29,8 @@ vless://01996431-3e8b-e8ed-202a-baf93f8e8851@104.26.12.31:2053?path=%2Fsnippets%
 # 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸
 # 2025-10-13
+vless://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@cc.cybsecguru.com:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.6006900.xyz&type=ws&sni=jnir-cdn.6006900.xyz#United%20States🇺🇸
+# 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#United%20States🇺🇸
 # 2025-10-13
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsmg.huasuan666.top:22151?security=tls&insecure=1&sni=hsmg.huasuan666.top#United%20States🇺🇸
@@ -32,8 +38,6 @@ hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsmg.huasuan666.top:22151?secur
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsxjp.huasuan666.top:22154?security=tls&insecure=1&sni=hsxjp.huasuan666.top#United%20States🇺🇸
 # 2025-10-13
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#United%20States🇺🇸
-# 2025-10-13
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#United%20States🇺🇸
 # 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#United%20States🇺🇸
 # 2025-10-13
@@ -51,6 +55,8 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?security
 # 2025-10-13
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#United%20States🇺🇸
 # 2025-10-13
+vless://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@172.67.203.89:443?path=%2Fhigate&security=tls&encryption=none&host=backus1.dh03.shop&type=ws&sni=backus1.dh03.shop#United%20States🇺🇸
+# 2025-10-13
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@35.83.185.225:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=01.91md.fun&type=ws&sni=01.91md.fun#United%20States🇺🇸
 # 2025-10-13
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hsadly.huasuan666.top:22159?security=tls&insecure=1&sni=hsadly.huasuan666.top#United%20States🇺🇸
@@ -59,17 +65,11 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun
 # 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#United%20States🇺🇸
 # 2025-10-13
-vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=chrome&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#United%20States🇺🇸
-# 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#United%20States🇺🇸
 # 2025-10-13
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40V2ray_Alpha&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#United%20States🇺🇸
 # 2025-10-13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=&encryption=none&type=grpc#United%20States🇺🇸
-# 2025-10-13
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v5.ipforvetra.shop#United%20States🇺🇸
-# 2025-10-13
-vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#United%20States🇺🇸
 # 2025-10-13
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@212.18.104.19:443?security=reality&encryption=none&pbk=9tpeVTkuJ5il6GaLG9YqMn99OK8AFlzgEFtoD1_MkyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=f8c64c7a#United%20States🇺🇸
 # 2025-10-13
