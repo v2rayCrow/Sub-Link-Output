@@ -1,20 +1,20 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Canada🇨🇦
 # 2025-10-13
 vless://b0ff01b1-04d3-4b01-8b%619-b1dc47416c07@15.235.45.229:40853?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Canada🇨🇦
 # 2025-10-13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada🇨🇦
-# 2025-10-13
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#Canada🇨🇦
-# 2025-10-13
-vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#Canada🇨🇦
-# 2025-10-13
 vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#Canada🇨🇦
 # 2025-10-13
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=chrome&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#Canada🇨🇦
 # 2025-10-13
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#Canada🇨🇦
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=fei.634676.xyz&fp=random&type=ws&sni=fei.634676.xyz#Canada🇨🇦
 # 2025-10-13
-vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Canada🇨🇦
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fei.634676.xyz&type=ws&sni=fei.634676.xyz#Canada🇨🇦
+# 2025-10-13
+vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?encryption=none&security=tls&sni=fei.634676.xyz&alpn=h3&fp=random&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#Canada🇨🇦
+# 2025-10-13
+vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@81.19.140.131:443?security=reality&encryption=none&pbk=18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=5ec229f9#Canada🇨🇦
+# 2025-10-13
+vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Fproxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=random&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#Canada🇨🇦

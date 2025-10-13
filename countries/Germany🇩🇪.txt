@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Germany🇩🇪
@@ -7,22 +7,28 @@ vless://930989fd-61dd-4d18-%61895-%6548892%61cb32%65@54.36.112.160:25365?mode=gu
 # 2025-10-13
 vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?security=reality&encryption=none&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d5bfd6c4#Germany🇩🇪
 # 2025-10-13
-vless://a3185438-23cb-4fe3-95da-3e5f3fc43525@de.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com#Germany🇩🇪
-# 2025-10-13
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#Germany🇩🇪
-# 2025-10-13
-vless://0%61209%61f5-bb98-4c8c-%61d15-2%65c26cf9%654d9@54.36.115.88:15297?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Germany🇩🇪
 # 2025-10-13
 vless://4b47a944-9ea5-4f7a-fff9-4ca5f6cd55b6@91.107.245.14:2095?security=reality&encryption=none&pbk=V_ibNuL3PFXIAy0bV1PLlHqiYPMKT_QYC7wA5zqVRnQ&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Germany🇩🇪
 # 2025-10-13
 vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&headerType=&type=tcp#Germany🇩🇪
-# 2025-10-13
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=&encryption=none&type=grpc#Germany🇩🇪
-# 2025-10-13
-vless://3940e9ba-d0f6-4052-bd8e-f3c2a2a76599@155.254.35.78:33811?type=grpc&encryption=none&serviceName=miro.com&authority=&security=reality&pbk=fa3n6JDInXvPSrde2HYqogCf2YheiIgxhhO3N3gO1Qs&fp=chrome&sni=miro.com&sid=63f811342e9c75&spx=%2F#Germany🇩🇪
 # 2025-10-13
 vless://dbcc8bb3-466c-49de-96da-5c11882d848f@d.eans.top:7008?security=reality&encryption=none&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=efcbe824#Germany🇩🇪
 # 2025-10-13
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@d.eans.top:7009?security=tls&insecure=1&sni=d.eans.top#Germany🇩🇪
 # 2025-10-13
 hysteria2://30c075af-9555-4671-b70e-43e3cfb2e707@31.57.241.25:7009?security=tls&insecure=1&sni=d.eans.top#Germany🇩🇪
+# 2025-10-13
+vless://1946c383-d861-4d3a-8d4d-d286da58ac2d@91.107.170.215:80?type=ws&security=none&path=%2Fali#Germany🇩🇪
+# 2025-10-13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eVhjN042MWRTVTlmaXR4M3QzeDhG@185.140.14.113:443#Germany🇩🇪
+# 2025-10-13
+vless://706a6170-e492-46b0-80c9-9ffc3ff9f828@185.113.10.43:8880?path=%2F%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN%3Fed%3D2048&security=&encryption=none&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&type=ws#Germany🇩🇪
+# 2025-10-13
+vless://7beaf757-0426-4c11-bf15-36dc25a64286@91.98.140.5:443/?type=grpc&serviceName=Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy&authority=&security=reality&pbk=wdfqRiy3Etjhq9fSLzNNQ7txP9sDp5Ft_dOXNk5LNhM&fp=firefox&sni=miro.com&sid=59c6&spx=%2F#Germany🇩🇪
+# 2025-10-13
+vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.farvaharforever.com:443?path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&encryption=none&host=hdfynpv2d1.farvaharforever.com&type=ws&sni=hdfynpv2d1.farvaharforever.com#Germany🇩🇪
+# 2025-10-13
+vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#Germany🇩🇪
+# 2025-10-13
+vless://6c635537-ab39-f22c-b470-f908efc54ce0@ooooooof.ir.fizikade.ir:46942?security=reality&encryption=none&pbk=omg0dIfTHQbMADo5g6COKn73nEFoSYC1X5lV-goPBEg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=1709fe47a82c202e#Germany🇩🇪
