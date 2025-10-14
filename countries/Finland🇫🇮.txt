@@ -1,30 +1,30 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-13 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 04:07
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-13
+# 2025-10-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://5e0eddef-95cd-4109-9807-0f32062939f3@141.227.170.178:21232?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?type=ws&encryption=none&path=%2F&host=&security=none#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://fc3d2ca2-0f38-48dc-8938-688b78c403f2@46.62.206.155:32000?type=ws&security=none#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=%2F&security=&encryption=none&type=ws#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://79475068-e7b7-495c-b67b-a20386dea7b1@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&security=none&encryption=none&host=webde2.parsgit.com.&type=ws#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://df637e12-9381-4270-aeaa-42e5cfcbb0c2@65.109.210.33:2083?mode=gun&security=reality&encryption=none&pbk=qlO2u5XFcovPRx2OYUzPo5apnzKOyoaJo2kQSikkpnQ&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAY&sni=tgju.org&sid=0e33#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://8d9cfb4f-69a7-435f-86d7-79d8e62d72c9@83.147.216.173:8443?mode=gun&security=reality&encryption=none&pbk=etG7kidJiRb4A2LsNbRUJ3HGyrt2yX5YlZGoTgmpSyw&fp=chrome&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=e624b964#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://562c71d0-f18b-402c-b1ad-5c2bbfcd6e02@fin-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&host=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&headerType=none&fp=chrome&spx=%2F%40skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://79475068-e7b7-495c-b67b-a20386dea7b1@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#Finland🇫🇮
-# 2025-10-13
+# 2025-10-14
 vless://79475068-e7b7-495c-b67b-a20386dea7b1@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Finland🇫🇮
