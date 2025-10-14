@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-14
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@38.180.27.182:5901?security=none&encryption=none&headerType=none&type=tcp#United%20Arab%20Emirates🇦🇪
