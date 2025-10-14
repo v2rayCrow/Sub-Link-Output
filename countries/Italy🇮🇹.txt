@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-14
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.company-target.com#Italy🇮🇹

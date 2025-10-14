@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳:2025-10-14 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱
@@ -24,10 +24,6 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?securi
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#Netherlands🇳🇱
 # 2025-10-14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc&serviceName=#Netherlands🇳🇱
-# 2025-10-14
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Netherlands🇳🇱
 # 2025-10-14
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
 # 2025-10-14

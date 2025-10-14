@@ -217,10 +217,6 @@
       "date": "2025-10-14"
     },
     {
-      "line": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#Canada🇨🇦",
-      "date": "2025-10-14"
-    },
-    {
       "line": "vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=chrome&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#Canada🇨🇦",
       "date": "2025-10-14"
     },
@@ -459,14 +455,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸",
-      "date": "2025-10-14"
-    },
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸",
-      "date": "2025-10-14"
-    },
-    {
       "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸",
       "date": "2025-10-14"
     },
@@ -552,6 +540,10 @@
     },
     {
       "line": "vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v5.ipforvetra.shop#United%20States🇺🇸",
+      "date": "2025-10-14"
+    },
+    {
+      "line": "vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#United%20States🇺🇸",
       "date": "2025-10-14"
     },
     {
@@ -652,6 +644,10 @@
     },
     {
       "line": "vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?security=tls&encryption=none&type=ws&sni=azadnet3-9do.pages.dev#United%20States🇺🇸",
+      "date": "2025-10-14"
+    },
+    {
+      "line": "vless://79475068-e7b7-495c-b67b-a20386dea7b1@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#United%20States🇺🇸",
       "date": "2025-10-14"
     },
     {
@@ -831,6 +827,14 @@
     {
       "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#The%20Netherlands🇳🇱",
       "date": "2025-10-14"
+    },
+    {
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&encryption=none&type=grpc#The%20Netherlands🇳🇱",
+      "date": "2025-10-14"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#The%20Netherlands🇳🇱",
+      "date": "2025-10-14"
     }
   ],
   "Netherlands🇳🇱": [
@@ -880,14 +884,6 @@
     },
     {
       "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&type=grpc&serviceName=#Netherlands🇳🇱",
-      "date": "2025-10-14"
-    },
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱",
-      "date": "2025-10-14"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#Netherlands🇳🇱",
       "date": "2025-10-14"
     },
     {
@@ -1177,10 +1173,6 @@
       "date": "2025-10-14"
     },
     {
-      "line": "vless://79475068-e7b7-495c-b67b-a20386dea7b1@cloudcdn2.parsgit.com:4220?path=%2Ftools.parspack.com%2Fhp.shoushmobile.ir%3Fed%3D2095&security=none&encryption=none&host=netde2.parsgit.com.&type=httpupgrade#Finland🇫🇮",
-      "date": "2025-10-14"
-    },
-    {
       "line": "vless://79475068-e7b7-495c-b67b-a20386dea7b1@cloudcdn3.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Finland🇫🇮",
       "date": "2025-10-14"
     }
@@ -1271,29 +1263,17 @@
       "date": "2025-10-14"
     }
   ],
-  "Turkey🏳️": [
+  "Turkey🇹🇷": [
     {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#Turkey🏳️",
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?security=&encryption=none&type=grpc#Turkey🇹🇷",
       "date": "2025-10-14"
     },
     {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#Turkey🏳️",
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127439.yasuj-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#Turkey🇹🇷",
       "date": "2025-10-14"
     },
     {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#Turkey🏳️",
-      "date": "2025-10-14"
-    },
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Turkey🏳️",
-      "date": "2025-10-14"
-    },
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Turkey🏳️",
-      "date": "2025-10-14"
-    },
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#Turkey🏳️",
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#Turkey🇹🇷",
       "date": "2025-10-14"
     }
   ],
@@ -1465,12 +1445,6 @@
       "date": "2025-10-14"
     }
   ],
-  "Turkey🇹🇷": [
-    {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=none&encryption=none&type=grpc#Turkey🇹🇷",
-      "date": "2025-10-14"
-    }
-  ],
   "Greece🇬🇷": [
     {
       "line": "vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@185.39.207.121:443?security=reality&encryption=none&pbk=Mjz6Gz75xTMe9ZU08h0y-A_VgRQ6tnt3qoOzdEn1k1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=0fa84b90#Greece🇬🇷",
@@ -1484,6 +1458,24 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#Latvia🇱🇻",
+      "date": "2025-10-14"
+    }
+  ],
+  "Turkey🏳️": [
+    {
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#Turkey🏳️",
+      "date": "2025-10-14"
+    },
+    {
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.104:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Turkey🏳️",
+      "date": "2025-10-14"
+    },
+    {
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Turkey🏳️",
+      "date": "2025-10-14"
+    },
+    {
+      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#Turkey🏳️",
       "date": "2025-10-14"
     }
   ],
