@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-15 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-15 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#United%20States🇺🇸
 # 2025-10-15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#United%20States🇺🇸
 # 2025-10-15
@@ -86,6 +84,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Fproxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm%3Fed%3D2560&security=tls&encryption=none&host=edc32e3b.bpb-panel-en-87s.pages.dev&fp=random&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#United%20States🇺🇸
 # 2025-10-15
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?security=tls&encryption=none&type=ws&sni=azadnet3-9do.pages.dev#United%20States🇺🇸
+# 2025-10-15
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40V2ray_Alpha&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#United%20States🇺🇸
 # 2025-10-15
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=&encryption=none&host=crazy-identity.oneeat.co&type=ws#United%20States🇺🇸
 # 2025-10-15
