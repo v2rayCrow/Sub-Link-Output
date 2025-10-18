@@ -1,6 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-17 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-18 04:06
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-17
+# 2025-10-18
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#Latvia🇱🇻
-# 2025-10-17
+# 2025-10-18
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=%C3%97http&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#Latvia🇱🇻
+# 2025-10-18
+vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJMYXR2aWFcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZmIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
