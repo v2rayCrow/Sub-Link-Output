@@ -1,6 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-18 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-19 04:14
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjEyNzg5Ny0wNGNjLTQyMDQtOWM0OS1mNzg5YTlmMjQ5NTA%3D@1.170.27.15:10111#Taiwan🇹🇼
-# 2025-10-18
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjEyNzg5Ny0wNGNjLTQyMDQtOWM0OS1mNzg5YTlmMjQ5NTA%3D@36.234.93.10:10042#Taiwan🇹🇼
+# 2025-10-19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#Taiwan🇹🇼

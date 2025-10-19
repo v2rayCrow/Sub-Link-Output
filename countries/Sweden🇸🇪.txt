@@ -1,10 +1,12 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-18 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-19 04:14
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-18
+# 2025-10-19
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=&type=tcp#Sweden🇸🇪
-# 2025-10-18
+# 2025-10-19
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=%2F%40sinavm&type=tcp&flow=xtls-rprx-vision&sni=sto.eu-ffast.com&sid=50#Sweden🇸🇪
-# 2025-10-18
+# 2025-10-19
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org#Sweden🇸🇪
-# 2025-10-18
+# 2025-10-19
 vmess://eyJ2IjoiMiIsInBzIjoiU3dlZGVuXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjUiLCJwb3J0IjoiODAiLCJpZCI6ImQ5NjdmZmNhLWRlOTAtNGRhYS1iZDAwLWQ1MjdlNWJhZTExZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5sZW9zaG9wcGluZzc3LmlyLiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInNuaSI6IiIsImFscG4iOiIifQ
+# 2025-10-19
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335?security=tls&obfs=salamander&obfs-password=U1wBrYQyFm&insecure=1&sni=drhystuichdfy.samanidempire.org%40meli_proxyy#Sweden🇸🇪
