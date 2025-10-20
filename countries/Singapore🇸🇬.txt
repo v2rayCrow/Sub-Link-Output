@@ -1,16 +1,16 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-19 23:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 04:12
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-19
+# 2025-10-20
 vmess://eyJhZGQiOiIxMDkuMTIzLjIzNi4xNTciLCJhaWQiOiIwIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MzcxYjRhZS01OWE2LTQ2YWQtODQxMy00MDIxYjY1YTEwM2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiU2luZ2Fwb3JlXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ0Y3AiLCJ2IjoiMiJ9
-# 2025-10-19
+# 2025-10-20
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM0LjI0MSIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2OTQ4NWY5LWE5ZDctNDFkYS1hMDk1LThlZjk4YzJiOTRlNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJTaW5nYXBvcmVcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InRjcCIsInYiOiIyIn0
-# 2025-10-19
+# 2025-10-20
 vmess://eyJhZGQiOiIxNS4yMzUuMTYzLjE1NyIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NDgxYTIzLWViMjQtNGZkOS1hMDZiLWM1NGVhZjZiOTA1YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJTaW5nYXBvcmVcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InRjcCIsInYiOiIyIn0
-# 2025-10-19
+# 2025-10-20
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjEzIiwiYWlkIjoiMCIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWFkMjI4YjYtM2FhOC00NGM0LTk0ZDYtNjA5NDA0MGY0OTZhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6IlNpbmdhcG9yZVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoidGNwIiwidiI6IjIifQ
-# 2025-10-19
+# 2025-10-20
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#Singapore🇸🇬
-# 2025-10-19
+# 2025-10-20
 vmess://eyJhZGQiOiI0Ni4yNTAuMjMzLjEzMyIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFiZGQ3NmM3LTExNmQtNDFmMi04NTM4LTExMjM5ZGRlNWY0MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJTaW5nYXBvcmVcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InRjcCIsInYiOiIyIn0
-# 2025-10-19
+# 2025-10-20
 vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115&type=grpc&serviceName=2bc2d2fb643af0374b27c5ec#Singapore🇸🇬
