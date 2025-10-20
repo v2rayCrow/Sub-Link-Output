@@ -1,67 +1,9 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 04:12
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434441818.neyshabur-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@tawaguard.xyz:8080#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205?security=tls&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655065548930.bandar-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#Netherlands🇳🇱
-# 2025-10-20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱
-# 2025-10-20
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.189:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#Netherlands🇳🇱
-# 2025-10-20
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@188.42.89.163:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#Netherlands🇳🇱
-# 2025-10-20
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.0:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#Netherlands🇳🇱
-# 2025-10-20
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.22:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#Netherlands🇳🇱
-# 2025-10-20
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@188.42.89.247:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#Netherlands🇳🇱
-# 2025-10-20
-vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#Netherlands🇳🇱
-# 2025-10-20
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096?path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2%20%2F%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#Netherlands🇳🇱
-# 2025-10-20
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637251670.london-blkaft-aaag.info:8880?mode=gun&security=none&encryption=none&type=grpc#Netherlands🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#Netherlands🇳🇱
 # 2025-10-20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Netherlands🇳🇱
-# 2025-10-20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#Netherlands🇳🇱
 # 2025-10-20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=&encryption=none&type=grpc#Netherlands🇳🇱
 # 2025-10-20
@@ -91,8 +33,6 @@ vless://839fde0d-552c-46da-929c-60511e6bca76@45.89.110.227:443?encryption=none&s
 # 2025-10-20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Netherlands🇳🇱
 # 2025-10-20
-vless://e5c2e234-333e-48b4-8199-2793a64527bc@77.238.237.179:443?path=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#Netherlands🇳🇱
-# 2025-10-20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#Netherlands🇳🇱
 # 2025-10-20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
@@ -100,3 +40,63 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?security=&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
 # 2025-10-20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#Netherlands🇳🇱
+# 2025-10-20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N3N6QjkyMDRianlkaXlRRWFDaE9O@78.40.198.60:47346#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.195:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.6.179:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.125:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.102:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.62:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.4.198:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.4.18:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@188.42.89.24:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.163:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.114:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.104:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.113:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.122:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.44:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.141:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.7.71:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.210.191:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.209.90:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.211.82:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.209.88:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.208.247:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.121:2053?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nkGgd-87836.phoenixappdatad.uk&fp=chrome&type=ws&sni=nkGgd-87836.phoenixappdatad.uk#Netherlands🇳🇱
+# 2025-10-20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#Netherlands🇳🇱
+# 2025-10-20
+vless://839fde0d-552c-46da-929c-60511e6bca76@45.89.110.227:8443?encryption=none&security=reality&sni=www.google.com&fp=safari&pbk=EULIFV6_Z6idSQUsWx3UcG8iKBuA-HvLqyur8SlRmVQ&sid=2f8c5445d1a6b661&type=tcp&flow=xtls-rprx-vision#Netherlands🇳🇱
+# 2025-10-20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
+# 2025-10-20
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096?path=%2Ftelegram%40freecodes&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#Netherlands🇳🇱
+# 2025-10-20
+vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#Netherlands🇳🇱
+# 2025-10-20
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942644808582511.abadan-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#Netherlands🇳🇱
