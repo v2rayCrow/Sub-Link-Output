@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 15:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-20
 vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIzYmRmNmRmLWM0ODItNDZkMC1jMGY0LTVhOThkNTM0ZWExMSIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZXN0IiwicG9ydCI6IjQ1OTc5IiwicHMiOiJCcmF6aWxcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0

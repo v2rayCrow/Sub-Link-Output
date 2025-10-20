@@ -13,10 +13,6 @@
       "date": "2025-10-20"
     },
     {
-      "line": "vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2FuYWRhXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Iiwic2N5IjoiYXV0byIsInNuaSI6InB1dGloYi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ",
-      "date": "2025-10-20"
-    },
-    {
       "line": "vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@81.19.140.131:443?security=reality&encryption=none&pbk=18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=5ec229f9#Canada🇨🇦",
       "date": "2025-10-20"
     },
@@ -55,6 +51,10 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@54.81.226.31:80#United%20States🇺🇸",
+      "date": "2025-10-20"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#United%20States🇺🇸",
       "date": "2025-10-20"
     },
@@ -72,10 +72,6 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#United%20States🇺🇸",
-      "date": "2025-10-20"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
       "date": "2025-10-20"
     },
     {
@@ -815,10 +811,6 @@
   ],
   "United Kingdom🇬🇧": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@94.156.250.122:990#United%20Kingdom🇬🇧",
-      "date": "2025-10-20"
-    },
-    {
       "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?mode=gun&security=&encryption=none&type=grpc#United%20Kingdom🇬🇧",
       "date": "2025-10-20"
     },
@@ -888,6 +880,10 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbnRmVmVpQjdjeTNIbTFP@c1.nastuh.link:443#United%20Kingdom🇬🇧",
+      "date": "2025-10-20"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiJwdWxhdS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InB1bGF1Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBLaW5nZG9tXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic2N5IjoiYXV0byIsInNuaSI6InB1bGF1Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
       "date": "2025-10-20"
     },
     {
@@ -1139,6 +1135,10 @@
       "date": "2025-10-20"
     },
     {
+      "line": "vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiR2VybWFueVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiJwdXRpaGIub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
+      "date": "2025-10-20"
+    },
+    {
       "line": "vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMTk1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdlcm1hbnlcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ",
       "date": "2025-10-20"
     },
@@ -1176,10 +1176,6 @@
     },
     {
       "line": "vmess://eyJhZGQiOiI1Ny4xMjkuNTkuMjAxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdlcm1hbnlcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJzY3kiOiJhdXRvIiwic25pIjoia2FtcG9uZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ",
-      "date": "2025-10-20"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiJwdWxhdS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InB1bGF1Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdlcm1hbnlcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJzY3kiOiJhdXRvIiwic25pIjoicHVsYXUub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0",
       "date": "2025-10-20"
     },
     {

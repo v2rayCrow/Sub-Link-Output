@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 15:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-20
 vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?security=reality&encryption=none&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&headerType=none&fp=chrome&spx=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed&type=tcp&sni=yahoo.com&sid=816473be23c2#Iceland🇮🇸
