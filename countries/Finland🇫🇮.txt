@@ -1,26 +1,26 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-20 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-21 04:09
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-20
+# 2025-10-21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&type=tcp#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&encryption=none&headerType=none&type=tcp#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=none&e…#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?type=ws&encryption=none&security=&host=157.180.123.25&path=/linkws?ed=2560&sni=#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://31f246db-6749-4198-9406-96a9d23317ce@65.109.187.13:799?security=&encryption=none&headerType=none&type=tcp#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://Parsashonam-Bot-32@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮
-# 2025-10-20
+# 2025-10-21
 vless://Parsashonam-Bot-32@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮
