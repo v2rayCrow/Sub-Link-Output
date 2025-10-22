@@ -1,94 +1,60 @@
-<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; color: #fff;">
-  <h1 style="font-size: 2em; color: #1abc9c; text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);">🌌 Sub-Link-Output</h1>
-  <p style="font-size: 1.2em;">کانفیگ‌های V2Ray رایگان و پرسرعت</p>
-</div>
+# Sub-Link-Output: کانفیگ‌های V2Ray رایگان و پرسرعت
 
 به **Sub-Link-Output** خوش اومدید!  
-یه پروژه خودکار برای ارائه **کانفیگ‌های V2Ray رایگان**، مرتب‌شده بر اساس کشور و با آپدیت روزانه. سرعت، امنیت و سادگی رو با ما تجربه کنید!  
+یه پروژه خودکار برای ارائه **کانفیگ‌های V2Ray رایگان**، مرتب‌شده بر اساس کشور و با آپدیت روزانه. سرعت، امنیت و سادگی رو با ما تجربه کنید!
 
 ---
 
-<div style="background: #0a1a3d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #1abc9c;">🔗 لینک‌های سابسکریپشن</h2>
+## 🔗 لینک‌های سابسکریپشن
 
-  <div style="margin: 10px 0;">
-    <a href="https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/main/sub.txt#v2sourceSUB" style="display: inline-block; background: #1abc9c; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); margin: 5px;">💎 دریافت 30 کانفیگ</a>
-    <p style="color: #ccc;">بهترین کانفیگ‌ها برای اتصال سریع و پایدار!</p>
-  </div>
+**30 کانفیگ منتخب**  
+[![Get 30 Configs](https://img.shields.io/badge/Get%2030%20Configs-1abc9c?style=for-the-badge&logo=rocket)](https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/main/sub.txt#v2sourceSUB)  
+بهترین کانفیگ‌ها برای اتصال سریع و پایدار
 
-  <div style="margin: 10px 0;">
-    <a href="https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/main/all.txt#v2sourceALL" style="display: inline-block; background: #9b59b6; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); margin: 5px;">🪐 دریافت همه کانفیگ‌ها</a>
-    <p style="color: #ccc;">آرشیو کامل کانفیگ‌ها برای حرفه‌ای‌ها!</p>
-  </div>
-</div>
+**همه کانفیگ‌ها**  
+[![Get All Configs](https://img.shields.io/badge/Get%20All%20Configs-9b59b6?style=for-the-badge&logo=cloud)](https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/main/all.txt#v2sourceALL)  
+آرشیو کامل کانفیگ‌ها برای حرفه‌ای‌ها
 
 ---
 
-<div style="background: #0a1a3d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #2ecc71;">🌐 وبسایت ما</h2>
-  <a href="https://v2raycrow.github.io/Sub-Link-Site" style="display: inline-block; background: #2ecc71; color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); margin: 5px;">🌍 بازدید از وبسایت</a>
+## 🌐 وبسایت ما
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-2ecc71?style=for-the-badge&logo=globe)](https://v2raycrow.github.io/Sub-Link-Site)
 
-  <h3 style="color: #fff;">چرا وبسایتمون خاصه؟</h3>
-  <ul style="color: #ccc;">
-    <li>دسته‌بندی جذاب با پرچم کشورها و تعداد کانفیگ‌ها.</li>
-    <li>آپدیت لحظه‌ای، همیشه به‌روز و آماده.</li>
-    <li>جستجوی سریع برای پیدا کردن کانفیگ دلخواه.</li>
-    <li>انتخاب راحت بین «30 کانفیگ برتر» یا «همه کانفیگ‌ها».</li>
-  </ul>
-</div>
+- دسته‌بندی جذاب با پرچم کشورها و تعداد کانفیگ‌ها  
+- آپدیت لحظه‌ای، همیشه به‌روز  
+- جستجوی سریع برای پیدا کردن کانفیگ دلخواه  
+- انتخاب راحت بین «30 کانفیگ برتر» یا «همه کانفیگ‌ها»
 
 ---
 
-<div style="background: #0a1a3d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #1abc9c;">📣 با ما همراه شو</h2>
-  <p style="color: #ccc;">برای اخبار و آپدیت‌های پروژه:</p>
-  <ul>
-    <li><a href="https://github.com/v2rayCrow/Sub-Link-Output" style="color: #1abc9c; text-decoration: none;">🛠 GitHub پروژه</a></li>
-    <li><a href="https://t.me/v2source" style="color: #1abc9c; text-decoration: none;">📢 کانال تلگرام</a></li>
-  </ul>
-</div>
+## 📣 با ما همراه شو
+- [GitHub پروژه](https://github.com/v2rayCrow/Sub-Link-Output)  
+- [کانال تلگرام](https://t.me/v2source)
 
 ---
 
-<div style="background: #0a1a3d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #2ecc71;">✨ چرا Sub-Link-Output؟</h2>
-  <ul style="color: #ccc;">
-    <li>رایگان و مطمئن: بدون هزینه، همیشه در دسترس!</li>
-    <li>آپدیت خودکار: کانفیگ‌های جدید و تست‌شده هر روز.</li>
-    <li>سادگی برای همه: از مبتدی تا حرفه‌ای.</li>
-  </ul>
-</div>
+## ✨ چرا Sub-Link-Output؟
+- رایگان و مطمئن: بدون هزینه، همیشه در دسترس  
+- آپدیت خودکار: کانفیگ‌های جدید و تست‌شده هر روز  
+- سادگی برای همه: از مبتدی تا حرفه‌ای
 
 ---
 
-<div style="background: #0a1a3d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #1abc9c;">🚀 راهنمای سریع</h2>
-  <ol style="color: #ccc;">
-    <li>یکی از لینک‌های سابسکریپشن بالا رو کپی کن.</li>
-    <li>توی کلاینت V2Ray واردش کن.</li>
-    <li>با سرعت به اینترنت وصل شو!</li>
-  </ol>
-</div>
+## 🚀 راهنمای سریع
+1. یکی از لینک‌های سابسکریپشن بالا رو کپی کن  
+2. توی کلاینت V2Ray واردش کن  
+3. با سرعت به اینترنت وصل شو
 
 ---
 
-<div style="background: #0a1a3d; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #2ecc71;">🤝 بیا تو تیم ما</h2>
-  <p style="color: #ccc;">دوست داری به پروژه کمک کنی؟</p>
-  <ul style="color: #ccc;">
-    <li>پروژه رو توی گیت‌هاب استار کن.</li>
-    <li>باگ یا ایده‌هات رو توی <a href="https://github.com/v2rayCrow/Sub-Link-Output/issues" style="color: #1abc9c; text-decoration: none;">Issues</a> بگو.</li>
-    <li>کد رو فورک کن و Pull Request بفرست!</li>
-  </ul>
-</div>
+## 🤝 بیا تو تیم ما
+- پروژه رو توی گیت‌هاب استار کن  
+- باگ یا ایده‌هات رو توی [Issues](https://github.com/v2rayCrow/Sub-Link-Output/issues) بگو
+- یا به ایدی تلگرام پیام بده .[Telegram] (https://t.me/HamyXO).
+- 
 
 ---
-
-<div align="center" style="color: #ccc; margin-top: 20px;">
-  <i>🌌 ساخته شده با 💜 برای آزادی و سرعت در اینترنت!</i>
-</div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/v2rayCrow/Sub-Link-Output?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/v2rayCrow/Sub-Link-Output?style=social" alt="GitHub forks">
+  <i>ساخته شده با 💜 برای آزادی و سرعت در اینترنت</i>
 </div>
