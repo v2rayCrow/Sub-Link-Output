@@ -1,30 +1,6 @@
 {
   "United States🇺🇸": [
     {
-      "line": "vmess://eyJhZGQiOiJjcHAwMDctMi5mYWNhaTIwMjUwOTA5LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY3BwMDA3LTIuZmFjYWkyMDI1MDkwOS5jb20iLCJpZCI6ImUxMzRiNWU5LTRiMTYtNGQ1MC1iM2Q5LWVhZWY2NTI2NjBiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9lMTM0YjVlOSIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiY3BwMDA3LTIuZmFjYWkyMDI1MDkwOS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.85.144.122:80#United%20States🇺🇸",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.244:443#United%20States🇺🇸",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#United%20States🇺🇸",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=none&encryption=none&type=grpc#United%20States🇺🇸",
-      "date": "2025-10-22"
-    },
-    {
       "line": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.20:80?mode=gun&security=none&encryption=none&type=grpc#United%20States🇺🇸",
       "date": "2025-10-22"
     },
@@ -34,6 +10,10 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#United%20States🇺🇸",
+      "date": "2025-10-22"
+    },
+    {
+      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#United%20States🇺🇸",
       "date": "2025-10-22"
     },
     {
@@ -101,7 +81,19 @@
       "date": "2025-10-22"
     },
     {
+      "line": "vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#United%20States🇺🇸",
+      "date": "2025-10-22"
+    },
+    {
+      "line": "vless://0eaef00e-ffc4-46bd-8f32-07baefd73f70@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=IBIS.zuLAir.site.&type=ws&sni=IBIS.zuLAir.site.#United%20States🇺🇸",
+      "date": "2025-10-22"
+    },
+    {
       "line": "vless://106028c9-a9fa-4062-afa4-6d153b98905d@35.236.239.254:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.amazon.com&pbk=FBEvU_aakCLDyHVguT_jCatymQ7nP_f-CM9FP0_ftHs&fp=chrome#United%20States🇺🇸",
+      "date": "2025-10-22"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#United%20States🇺🇸",
       "date": "2025-10-22"
     },
     {
@@ -118,6 +110,10 @@
     },
     {
       "line": "trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.110:11014?security=tls&headerType=none&type=tcp&sni=wus04.weyaf9sdoh2h.space#United%20States🇺🇸",
+      "date": "2025-10-22"
+    },
+    {
+      "line": "vless://0eaef00e-ffc4-46bd-8f32-07baefd73f70@ip.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=IBIS.zuLAir.site.&type=ws&sni=IBIS.zuLAir.site.#United%20States🇺🇸",
       "date": "2025-10-22"
     },
     {
@@ -186,6 +182,10 @@
     },
     {
       "line": "vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&sid=#United%20States🇺🇸",
+      "date": "2025-10-22"
+    },
+    {
+      "line": "vless://0eaef00e-ffc4-46bd-8f32-07baefd73f70@ip.mirzabox.info:2096/?type=ws&encryption=none&flow=&host=IBIS.zuLAir.site.&path=%2F&security=tls&sni=IBIS.zuLAir.site.#United%20States🇺🇸",
       "date": "2025-10-22"
     },
     {
@@ -779,23 +779,11 @@
       "date": "2025-10-22"
     },
     {
-      "line": "vless://0eaef00e-ffc4-46bd-8f32-07baefd73f70@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=IBIS.zuLAir.site.&type=ws&sni=IBIS.zuLAir.site.#Switzerland🇨🇭",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vless://0eaef00e-ffc4-46bd-8f32-07baefd73f70@ip.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=IBIS.zuLAir.site.&type=ws&sni=IBIS.zuLAir.site.#Switzerland🇨🇭",
-      "date": "2025-10-22"
-    },
-    {
       "line": "vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab#Switzerland🇨🇭",
       "date": "2025-10-22"
     },
     {
       "line": "vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&sid=94f9#Switzerland🇨🇭",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vless://0eaef00e-ffc4-46bd-8f32-07baefd73f70@ip.mirzabox.info:2096/?type=ws&encryption=none&flow=&host=IBIS.zuLAir.site.&path=%2F&security=tls&sni=IBIS.zuLAir.site.#Switzerland🇨🇭",
       "date": "2025-10-22"
     }
   ],
@@ -918,10 +906,6 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@151.244.111.50:57456#Poland🇵🇱",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiJwdXRpaGIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwdXRpaGIub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiUG9sYW5kXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIiwic2N5IjoiYXV0byIsInNuaSI6InB1dGloYi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ",
       "date": "2025-10-22"
     },
     {
@@ -1271,6 +1255,10 @@
       "date": "2025-10-22"
     },
     {
+      "line": "vmess://eyJhZGQiOiJwdWxhdS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InB1bGF1Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdlcm1hbnlcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJzY3kiOiJhdXRvIiwic25pIjoicHVsYXUub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2025-10-22"
+    },
+    {
       "line": "vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.26:2053?path=%2F&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#Germany🇩🇪",
       "date": "2025-10-22"
     },
@@ -1368,10 +1356,6 @@
     },
     {
       "line": "vless://19b7d4d8-de95-41cf-b270-a310cc21f151@a-lf-0.okamii.ir:2095?security=&encryption=none&headerType=none&type=tcp#Germany🇩🇪",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vless://8a32d26c-b896-41d4-9b98-588e9f15b61d@free.httpcustom.ir:443?path=%2Fstream%3Fed&security=tls&alpn=h2&encryption=none&host=free.httpcustom.ir&fp=chrome&type=ws&sni=free.httpcustom.ir#Germany🇩🇪",
       "date": "2025-10-22"
     },
     {
@@ -1591,10 +1575,6 @@
       "date": "2025-10-22"
     },
     {
-      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#Cloudflare🌐",
-      "date": "2025-10-22"
-    },
-    {
       "line": "vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#Cloudflare🌐",
       "date": "2025-10-22"
     },
@@ -1623,19 +1603,11 @@
       "date": "2025-10-22"
     },
     {
-      "line": "vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#Cloudflare🌐",
-      "date": "2025-10-22"
-    },
-    {
       "line": "vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Cloudflare🌐",
       "date": "2025-10-22"
     },
     {
       "line": "vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Cloudflare🌐",
-      "date": "2025-10-22"
-    },
-    {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cloudflare🌐",
       "date": "2025-10-22"
     },
     {
@@ -2004,6 +1976,12 @@
   "Brazil🇧🇷": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.57.90:990#Brazil🇧🇷",
+      "date": "2025-10-22"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://8a32d26c-b896-41d4-9b98-588e9f15b61d@free.httpcustom.ir:443?path=%2Fstream%3Fed&security=tls&alpn=h2&encryption=none&host=free.httpcustom.ir&fp=chrome&type=ws&sni=free.httpcustom.ir#UNKNOWN🏳️",
       "date": "2025-10-22"
     }
   ],
