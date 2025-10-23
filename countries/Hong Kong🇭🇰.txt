@@ -1,6 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-23 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-23 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-23
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#Hong%20Kong🇭🇰
 # 2025-10-23
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top#Hong%20Kong🇭🇰
+# 2025-10-23
+hy2://c85c5422-97a7-4e9a-a9dc-6e16d474fe8c@hg1.xiaohuolongjc.top:37771/?insecure=1&sni=hg1.xiaohuolongjc.top#Hong%20Kong🇭🇰
