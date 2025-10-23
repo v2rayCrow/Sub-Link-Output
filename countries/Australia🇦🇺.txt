@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-23 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-23 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-23
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.107.184.53:80#Australia🇦🇺
