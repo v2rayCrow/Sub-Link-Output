@@ -1,19 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-26 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-26 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-26
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.taron01.info&encryption=none#Cyprus🇨🇾
 # 2025-10-26
 vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#Cyprus🇨🇾
 # 2025-10-26
 vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cyprus🇨🇾
 # 2025-10-26
 vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#Cyprus🇨🇾
-# 2025-10-26
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾
-# 2025-10-26
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾
-# 2025-10-26
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾
 # 2025-10-26
 vless://4301c24e-534c-47de-889d-f32207ea1d23@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=pOlaR-bEar.zuLair.sITe.&type=ws&sni=pOlaR-bEar.zuLair.sITe.#Cyprus🇨🇾
 # 2025-10-26
@@ -23,14 +15,6 @@ vless://9451efa1-bdee-4ddc-84ed-1d32c895ad07@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 # 2025-10-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾
 # 2025-10-26
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾
-# 2025-10-26
 vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=zebra.zulair.site.&fp=chrome&type=ws&sni=zebra.zulair.site.#Cyprus🇨🇾
 # 2025-10-26
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾
-# 2025-10-26
-vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾
-# 2025-10-26
 vless://9451efa1-bdee-4ddc-84ed-1d32c895ad07@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=eel.zuLaiR.siTE.&type=ws&sni=eel.zuLaiR.siTE.#Cyprus🇨🇾
-# 2025-10-26
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾
