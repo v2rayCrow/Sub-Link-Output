@@ -1275,6 +1275,10 @@
       "date": "2025-10-27"
     },
     {
+      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
       "line": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#Cloudflare🌐",
       "date": "2025-10-27"
     },
@@ -1284,6 +1288,14 @@
     },
     {
       "line": "trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
@@ -1308,6 +1320,10 @@
     },
     {
       "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&fp=chrome&type=ws&sni=smrtwtsm.confappha.com#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
@@ -1775,28 +1791,6 @@
       "date": "2025-10-27"
     }
   ],
-  "Cyprus🇨🇾": [
-    {
-      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&fp=chrome&type=ws&sni=smrtwtsm.confappha.com#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    }
-  ],
   "Ecuador🇪🇨": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.47.253.227:990#Ecuador🇪🇨",
@@ -2012,6 +2006,12 @@
   "Puerto Rico🇵🇷": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.47.255.213:990#Puerto%20Rico🇵🇷",
+      "date": "2025-10-27"
+    }
+  ],
+  "Cyprus🇨🇾": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾",
       "date": "2025-10-27"
     }
   ],
