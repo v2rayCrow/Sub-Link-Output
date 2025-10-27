@@ -1263,15 +1263,15 @@
       "date": "2025-10-27"
     },
     {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.taron01.info&encryption=none#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
       "line": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
       "line": "trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
@@ -1287,15 +1287,19 @@
       "date": "2025-10-27"
     },
     {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cloudflare🌐",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#Cloudflare🌐",
-      "date": "2025-10-27"
-    },
-    {
       "line": "vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNsb3VkZmxhcmVcdWQ4M2NcdWRmMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiYzcuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
@@ -1307,10 +1311,6 @@
       "date": "2025-10-27"
     },
     {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&fp=chrome&type=ws&sni=smrtwtsm.confappha.com#Cloudflare🌐",
-      "date": "2025-10-27"
-    },
-    {
       "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Cloudflare🌐",
       "date": "2025-10-27"
     },
@@ -1319,7 +1319,27 @@
       "date": "2025-10-27"
     },
     {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
       "line": "trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
@@ -1348,6 +1368,14 @@
     },
     {
       "line": "vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=none&encryption=none&headerType=none&type=tcp#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
       "date": "2025-10-27"
     },
     {
@@ -1663,56 +1691,6 @@
       "date": "2025-10-27"
     }
   ],
-  "Cyprus🇨🇾": [
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.taron01.info&encryption=none#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
-      "date": "2025-10-27"
-    }
-  ],
   "Egypt🇪🇬": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.180:990#Egypt🇪🇬",
@@ -1794,6 +1772,28 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkVVJySTNWMW00Mk5MZXc5dkprNlhD@95.163.176.37:8506#Austria🇦🇹",
+      "date": "2025-10-27"
+    }
+  ],
+  "Cyprus🇨🇾": [
+    {
+      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=condor.zulair.site&fp=chrome&alpn=h3,h2&type=ws&path=/&host=condor.zulair.site#Cyprus🇨🇾",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cyprus🇨🇾",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://aa690163-f024-4929-bbdd-14d6f9df69b1@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=hIppOPOTamus.ZulaIr.siTE.&type=ws&sni=hIppOPOTamus.ZulaIr.siTE.#Cyprus🇨🇾",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&fp=chrome&type=ws&sni=smrtwtsm.confappha.com#Cyprus🇨🇾",
+      "date": "2025-10-27"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾",
       "date": "2025-10-27"
     }
   ],
