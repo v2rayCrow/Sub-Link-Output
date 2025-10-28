@@ -1,10 +1,6 @@
 {
   "United States🇺🇸": [
     {
-      "line": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966456596320896.malayer-blkaft-aaag.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#United%20States🇺🇸",
-      "date": "2025-10-28"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#United%20States🇺🇸",
       "date": "2025-10-28"
     },
@@ -158,6 +154,10 @@
     },
     {
       "line": "vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@192.241.240.130:59483?encryption=none&type=grpc#United%20States🇺🇸",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&type=ws&host=638971674693810969.brussels-prmpl-aaaad.com&path=/fiedpnws#United%20States🇺🇸",
       "date": "2025-10-28"
     },
     {
@@ -651,22 +651,6 @@
       "date": "2025-10-28"
     },
     {
-      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webpl.parsgit.com.&type=ws#Finland🇫🇮",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#Finland🇫🇮",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#Finland🇫🇮",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Finland🇫🇮",
-      "date": "2025-10-28"
-    },
-    {
       "line": "vless://7c8dd6a8-de7c-42f2-fac5-7135dc0f7f52@65.109.220.20:2096/?type=grpc&encryption=none&flow=&sni=zula.ir&fp=chrome&security=reality&pbk=IfGLvYnl6o6qXux965OwzEMT0t-1nYDqPzOvHHXeoWE&sid=#Finland🇫🇮",
       "date": "2025-10-28"
     }
@@ -1079,10 +1063,6 @@
       "date": "2025-10-28"
     },
     {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.taron01.info&encryption=none#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
       "line": "vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#Cloudflare🌐",
       "date": "2025-10-28"
     },
@@ -1099,31 +1079,11 @@
       "date": "2025-10-28"
     },
     {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
       "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#Cloudflare🌐",
       "date": "2025-10-28"
     },
     {
       "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
       "date": "2025-10-28"
     },
     {
@@ -1143,31 +1103,11 @@
       "date": "2025-10-28"
     },
     {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&type=ws&host=638971674693810969.brussels-prmpl-aaaad.com&path=/fiedpnws#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
       "line": "vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=&encryption=none&headerType=none&type=tcp#Cloudflare🌐",
       "date": "2025-10-28"
     },
     {
       "line": "vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#Cloudflare🌐",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐",
       "date": "2025-10-28"
     },
     {
@@ -1284,6 +1224,22 @@
     },
     {
       "line": "vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=&encryption=none&headerType=none&type=tcp#Germany🇩🇪",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webpl.parsgit.com.&type=ws#Germany🇩🇪",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#Germany🇩🇪",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#Germany🇩🇪",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Germany🇩🇪",
       "date": "2025-10-28"
     },
     {
@@ -1461,6 +1417,64 @@
       "date": "2025-10-28"
     }
   ],
+  "Cyprus🇨🇾": [
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.taron01.info&encryption=none#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&fp=chrome&type=ws&sni=smrtwtsm.confappha.com#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    },
+    {
+      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws&encryption=none&flow=&host=smrtwtsm.confappha.com&path=%2F&security=tls&sni=smrtwtsm.confappha.com#Cyprus🇨🇾",
+      "date": "2025-10-28"
+    }
+  ],
   "Egypt🇪🇬": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.180:990#Egypt🇪🇬",
@@ -1634,24 +1648,6 @@
     },
     {
       "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560security%3Dtls&security=tls&sni=vless.muzheng.top&fp=chrome#Armenia🇦🇲",
-      "date": "2025-10-28"
-    }
-  ],
-  "Cyprus🇨🇾": [
-    {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=smrtwtsm.confappha.com&type=ws&alpn=h3h2&host=smrtwtsm.confappha.com&path=/#Cyprus🇨🇾",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&fp=chrome&type=ws&sni=smrtwtsm.confappha.com#Cyprus🇨🇾",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾",
-      "date": "2025-10-28"
-    },
-    {
-      "line": "vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws&encryption=none&flow=&host=smrtwtsm.confappha.com&path=%2F&security=tls&sni=smrtwtsm.confappha.com#Cyprus🇨🇾",
       "date": "2025-10-28"
     }
   ],

@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-28 04:08
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-28 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-28
 vmess://eyJhZGQiOiI1Ny4xMjkuNzguMTQ3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjRiOTY1NGJkLWE0ZTgtNDFlMC04NDI1LWVmNDYwNGNjMTE2NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -42,6 +42,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozbUNEOU5jaFBrYllJb2pmVEh5TmYw@81.19.141.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#Germany🇩🇪
 # 2025-10-28
 vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=&encryption=none&headerType=none&type=tcp#Germany🇩🇪
+# 2025-10-28
+vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webpl.parsgit.com.&type=ws#Germany🇩🇪
+# 2025-10-28
+vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webfl.parsgit.com.&type=ws#Germany🇩🇪
+# 2025-10-28
+vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webtr.parsgit.com.&type=ws#Germany🇩🇪
+# 2025-10-28
+vless://312bf807-8d01-4b98-a040-2a38f9971014@fastly2024.parsgit.com:4040?path=%2Fadmin%3Fed%3D1024TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-TELEGRAM-SKYPRO_VPN-&security=none&encryption=none&host=webde3.parsgit.com.&type=ws#Germany🇩🇪
 # 2025-10-28
 vless://918c2342-1bdc-4b60-a268-07271a5e3283@91.107.148.218:14352?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#Germany🇩🇪
 # 2025-10-28
