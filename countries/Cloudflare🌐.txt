@@ -1,38 +1,52 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-28 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-28 15:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-28
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#Cloudflare🌐
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐
 # 2025-10-28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Cloudflare🌐
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐
 # 2025-10-28
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#Cloudflare🌐
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐
+# 2025-10-28
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐
+# 2025-10-28
+vless://SERVERNETT-SERVERNETT1@asdf.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Cloudflare🌐
+# 2025-10-28
+vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Cloudflare🌐
+# 2025-10-28
+vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#Cloudflare🌐
+# 2025-10-28
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐
+# 2025-10-28
+vless://4710b85a-66e6-411b-b492-0e0f7366ad21@digitalocean.com:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG#Cloudflare🌐
+# 2025-10-28
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#Cloudflare🌐
+# 2025-10-28
+vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws&security=tls&encryption=none&host=nodegcf.azurka.org&fp=chrome&type=ws&sni=nodegcf.azurka.org#Cloudflare🌐
 # 2025-10-28
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#Cloudflare🌐
 # 2025-10-28
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v1.hiddendom.shop#Cloudflare🌐
 # 2025-10-28
-vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNsb3VkZmxhcmVcdWQ4M2NcdWRmMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiYzcuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# 2025-10-28
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#Cloudflare🌐
-# 2025-10-28
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Cloudflare🌐
-# 2025-10-28
-vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@iplocation.net:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG#Cloudflare🌐
-# 2025-10-28
-vless://4710b85a-66e6-411b-b492-0e0f7366ad21@digitalocean.com:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG#Cloudflare🌐
-# 2025-10-28
-vless://ff84dbed-bbfb-42d8-b397-b0ec025fb570@nodegcf.azurka.org:443?path=%2Fws&security=tls&encryption=none&host=nodegcf.azurka.org&fp=chrome&type=ws&sni=nodegcf.azurka.org#Cloudflare🌐
-# 2025-10-28
-vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=none&encryption=none&headerType=none&type=tcp#Cloudflare🌐
-# 2025-10-28
-vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@104.248.81.75:4655?security=&encryption=none&headerType=none&type=tcp#Cloudflare🌐
-# 2025-10-28
-vless://SERVERNETT-SERVERNETT1@serv.sernett.ir:80?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=none#Cloudflare🌐
-# 2025-10-28
-vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed&security=tls&encryption=none&host=amir-ebr.pages.dev&type=ws&sni=amIR-ebR.pAGeS.Dev#Cloudflare🌐
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐
 # 2025-10-28
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh30v5.hiddendom.shop&alpn=h2#Cloudflare🌐
 # 2025-10-28
 vless://4710b85a-66e6-411b-b492-0e0f7366ad21@digitalocean.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-fr-2.pArIsA.DpDnS.OrG&fp=chrome#Cloudflare🌐
 # 2025-10-28
 vless://4456abe1-63dd-472b-8565-8a9ce14e19dd@104.167.198.122:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=usa31.clearorbitllc.com&fp=firefox&security=reality&pbk=izK-seieiFFBrtVWCLG17yHNSZI72rgGZ7WBLyQ24h0&sid=58a29b#Cloudflare🌐
+# 2025-10-28
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?path=%2F&security=tls&encryption=none&host=smart.taron01.info&fp=chrome&type=ws&sni=smart.taron01.info#Cloudflare🌐
+# 2025-10-28
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F2IBbZjAugSH41qc5%3Fed&security=tls&encryption=none&host=amir-ebr.pages.dev&type=ws&sni=amIR-ebR.pAGeS.Dev#Cloudflare🌐
+# 2025-10-28
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=pas-kale-agha.pages.dev&fp=randomized&type=ws&sni=paS-kaLE-AGhA.pageS.deV#Cloudflare🌐
+# 2025-10-28
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?security=tls&sni=smart.taron01.info&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.taron01.info&encryption=none#Cloudflare🌐
+# 2025-10-28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Cloudflare🌐
+# 2025-10-28
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh30v5.hiddendom.shop#Cloudflare🌐
+# 2025-10-28
+vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNsb3VkZmxhcmVcdWQ4M2NcdWRmMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiYzcuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+# 2025-10-28
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@best.cdniran.info:443?path=%2F&security=tls&encryption=none&alpn=h3,h2&host=smart.trevanda.info&fp=chrome&type=ws&sni=smart.trevanda.info#Cloudflare🌐
