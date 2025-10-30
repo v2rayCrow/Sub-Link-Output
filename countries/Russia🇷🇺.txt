@@ -1,8 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-30 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-30 16:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-30
-vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#Russia🇷🇺
 # 2025-10-30
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#Russia🇷🇺
 # 2025-10-30
-vless://8e7bc1f0-dc10-4c99-974d-987be6a87d7b@94.103.85.168:2053?security=reality&encryption=none&pbk=gdYd0xGNqG_Ms0ejqROgvndr4cNgUEQoTQfuNQ4oKwk&fp=chrome&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&sni=tgju.org&sid=75bc98c9e7964d22#Russia🇷🇺
+vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?security=&encryption=none&headerType=none&type=tcp#Russia🇷🇺
