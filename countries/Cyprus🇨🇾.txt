@@ -1,16 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-31 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-31 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-10-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.148.135.31:990#Cyprus🇨🇾
-# 2025-10-31
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=anjir.soft98-ir-download-ir-cdn-ir-irancell-ir-mci-ir.site&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=anjir.soft98-ir-download-ir-cdn-ir-irancell-ir-mci-ir.site&encryption=none#Cyprus🇨🇾
-# 2025-10-31
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-8981.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-8981.shenzogmbh.com&path=/api/v1#Cyprus🇨🇾
-# 2025-10-31
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-42123.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-42123.shenzogmbh.com&path=/api/v1#Cyprus🇨🇾
-# 2025-10-31
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=DfVrMvWc2.SoLeRiOs.nEt&type=ws&alpn=h3h2&host=DfVrMvWc2.SoLeRiOs.nEt&path=/#Cyprus🇨🇾
-# 2025-10-31
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?encryption=none&security=tls&sni=DdLxDxZc3.VeLiNtO.OrG&type=ws&alpn=h3h2&host=DdLxDxZc3.VeLiNtO.OrG&path=/#Cyprus🇨🇾
-# 2025-10-31
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-021.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-021.shenzogmbh.com&path=/api/v1#Cyprus🇨🇾
