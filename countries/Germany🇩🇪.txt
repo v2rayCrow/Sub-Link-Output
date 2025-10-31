@@ -1,9 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-31 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-31 20:05
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SDl1dkVUeDVrVzZmRTFienlEZGFk@81.19.141.45:443#Germany🇩🇪
-# 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVXBvZVF5OTlqa2tGOHR4U3k0NHFi@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
 vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443/?type=ws&encryption=none&flow=&host=91.99.177.36&path=%2Flinkws%3Fed%3D2560#Germany🇩🇪
 # 2025-10-31
@@ -19,42 +15,52 @@ vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443?type=ws&encryption
 # 2025-10-31
 vless://664cb874-5182-4ebb-b3b4-5f430f0152dd@5.75.198.232:443?path=%2Faverkwhgqb&security=tls&encryption=none&host=free-pubg-697.pages.dev&fp=chrome&type=ws&sni=free-pubg-697.pages.dev#Germany🇩🇪
 # 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRUdHT09SeVhnbE95WjA2VUFDRUF4@81.19.141.45:443#Germany🇩🇪
-# 2025-10-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cVJYNGZVV1RreWN4UjIyZkEwSk85@81.19.141.45:443#Germany🇩🇪
-# 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVkJZUmtTa0hsVHFlYlNKckdjMkM3@81.19.141.45:443#Germany🇩🇪
-# 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRWNMQ3JsN3lxODB5RGVRSlB6c1Zl@81.19.141.45:443#Germany🇩🇪
-# 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakVsWG5FZk1ZTDZQcmtybVBHZDR3@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSmFWZXF5c3N3V29qTkZtSjBQeE0z@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTTBlNHhPTkNHellyNjhHTTgyMXBp@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjakVsWG5FZk1ZTDZQcmtybVBHZDR3@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OFVSRWUyeU51TTlkdkUyNm53aUNL@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTTBlNHhPTkNHellyNjhHTTgyMXBp@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROVVmajlpNkhJcjVHWnVmVHRPTGtl@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4OFVSRWUyeU51TTlkdkUyNm53aUNL@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544306747.oslo-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#Germany🇩🇪
 # 2025-10-31
-vmess://eyJhZGQiOiIxNTUuMjU0LjM1LjE2MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjMzg3YzkxYi0yMWU3LTQzYjctOGIxMi1jMWU1ZjhkNjc5MGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI5OTEyIiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-# 2025-10-31
-vless://58865a9d-cb00-45ad-833c-3de565eaa184@g2.hirbilon.net:8443?security=reality&encryption=none&pbk=Kr5VgkZRLxyRPRCXitrun1qDpU4z2khp-7SWxmpSfjg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=68b7c7#Germany🇩🇪
-# 2025-10-31
-hysteria2://571ec94e-613c-430a-93de-397d3d237475@213.108.198.123:22155?security=tls&insecure=1&sni=%F0%9F%94%92#Germany🇩🇪
-# 2025-10-31
-vless://cd79807f-bcef-46b8-93b6-229676a0c1a0@de.nitroo-tech.ru:443?security=reality&encryption=none&pbk=y_AlGiUJiCRWCT8FyrfUm-Cmpm0bl0cSUMRP3VZ9X0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=89dbda1a1c9369#Germany🇩🇪
-# 2025-10-31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Germany🇩🇪
-# 2025-10-31
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcnJ4VG9adFhXQUlmeFVNc0psSFlk@81.19.141.45:443#Germany🇩🇪
 # 2025-10-31
 vless://b9dc54b4-d474-4087-96d0-81de47f4578d@159.65.120.44:4655?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪
 # 2025-10-31
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544306321.oslo-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#Germany🇩🇪
 # 2025-10-31
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544305912.oslo-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#Germany🇩🇪
+vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪
 # 2025-10-31
-vless://393fabd9-8156-4f1d-c5c7-b3ab609f9abd@164.92.254.251:443?type=grpc&encryption=none&serviceName=&authority=&security=none#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bW01eUc4R0l0aTVBTzFscFMxVkxC@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSM21LeGUyQzc1dzVLTGlrNWRoWlhu@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYk1TSFVtZDBHR1NVVkgxcGRnS2s1@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVEpLQWlPTldhcDk1NVJreHlQaTNG@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBOU1XTWVlSHVFUkZFU0RFQmNKQ01x@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeHVic3JqNHJlQUtFWGVWZ2djSDZV@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMDZtdVJ3a29ya3dJVkZpWDJzNmU1@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUmpZb2tXVXZSS2tjM3EyYTlBYm5u@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VWNkalU2MFNmbGVQOVdmWWlsQmF6@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+vless://c1d7bc79-c%65f3-4b7c-f1fb-512f29c0427d@172.67.146.171:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
+# 2025-10-31
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWjNwSEZVQlh0S0toYVNyTDl6TENz@81.19.141.45:443#Germany🇩🇪
+# 2025-10-31
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544306321.oslo-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#Germany🇩🇪
+# 2025-10-31
+vless://e5134544-ac17-4fa0-afd1-c5e9a9ef673d@188.40.96.166:443?encryption=none&security=reality&sni=www.google.co.uk&fp=safari&pbk=mMxxpaAS99rBKPh_GCSZ1VZLP-rDihRe_VDXhftKgQ0&sid=f32087effdc8a9b6&type=grpc&serviceName=1c024b81a2f7afc130e7c5d5#Germany🇩🇪
