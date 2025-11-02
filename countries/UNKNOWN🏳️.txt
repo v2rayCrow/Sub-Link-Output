@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 09:42
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-02
 vmess://eyJhZGQiOiI0Ny44Ni44NS45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNTBlNDJmMi1kNTc4LTRjYjktOGQzOC1hOWEzODJlZjU1MzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODkzNCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66::HK
