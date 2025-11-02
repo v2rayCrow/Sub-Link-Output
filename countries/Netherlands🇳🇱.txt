@@ -1,11 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 15:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Netherlands🇳🇱
 # 2025-11-02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Netherlands🇳🇱
 # 2025-11-02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#Netherlands🇳🇱
+# 2025-11-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Netherlands🇳🇱
 # 2025-11-02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYWNaSU1Gd21NQ1I2ZFdxTjVBaDBj@194.135.46.13:1419#Netherlands🇳🇱
 # 2025-11-02
@@ -15,11 +15,21 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-
 # 2025-11-02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#Netherlands🇳🇱
 # 2025-11-02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱
-# 2025-11-02
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@208.67.105.196:42029#Netherlands🇳🇱
 # 2025-11-02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱
+# 2025-11-02
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#Netherlands🇳🇱
+# 2025-11-02
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&sid=#Netherlands🇳🇱
+# 2025-11-02
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=LthJBtl69pQPsGvMQNNe100a9YyqaTXdaIY8gzOF2HU&sid=#Netherlands🇳🇱
+# 2025-11-02
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.7:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&sid=#Netherlands🇳🇱
+# 2025-11-02
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&sid=#Netherlands🇳🇱
+# 2025-11-02
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=LthJBtl69pQPsGvMQNNe100a9YyqaTXdaIY8gzOF2HU&sid=#Netherlands🇳🇱
 # 2025-11-02
 vless://54c06c38-a570-4ba0-9ae2-405eb24e8627@193.233.19.241:9090/?type=tcp&encryption=none&flow=&security=tls&sni=shop.smnsoft.com&fp=chrome#Netherlands🇳🇱
 # 2025-11-02
@@ -30,3 +40,5 @@ vless://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060/?type=tcp&encry
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@188.42.145.253:2096/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2FXU0001F1E8U0001F1F3%40ShadowProxy66%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=gaosir.unfeeling.sbs#Netherlands🇳🇱
 # 2025-11-02
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#Netherlands🇳🇱
+# 2025-11-02
+hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#Netherlands🇳🇱
