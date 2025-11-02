@@ -1,102 +1,32 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-30 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 04:13
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-30
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=&encryption=none&type=grpc#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=&encryption=none&type=grpc#UNKNOWN🏳️
-# 2025-10-30
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.34:80?mode=gun&security=none&encryption=none&type=grpc#UNKNOWN🏳️
-# 2025-10-30
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.171:80?mode=gun&security=none&encryption=none&type=grpc#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#UNKNOWN🏳️
-# 2025-10-30
-vless://b9dc54b4-d474-4087-96d0-81de47f4578d@180.149.44.224:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
-# 2025-10-30
-vless://b9dc54b4-d474-4087-96d0-81de47f4578d@51.68.226.185:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
-# 2025-10-30
-vless://b9dc54b4-d474-4087-96d0-81de47f4578d@159.65.120.44:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
-# 2025-10-30
-vless://b9dc54b4-d474-4087-96d0-81de47f4578d@142.93.76.209:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#UNKNOWN🏳️
-# 2025-10-30
-vless://b9dc54b4-d474-4087-96d0-81de47f4578d@203.202.232.252:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544307610.oslo-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973401251721246.esfahan-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://2f27d301-2947-4655-b4a2-75fe8bbda77f@138.68.147.150:8880?type=ws&encryption=none&path=%2F&host=&security=none#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973401251724127.esfahan-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#UNKNOWN🏳️
-# 2025-10-30
-vless://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&sid=7795775a7afe0581&type=grpc&serviceName=92b9086d26e6417608e7a1f4#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973020962043100.paris-blkaft-aabc.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973512850402267.kerman-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544306321.oslo-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-8981.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-8981.shenzogmbh.com&path=/api/v1#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971077544305912.oslo-blkaft-aaav.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050125184.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-42123.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-42123.shenzogmbh.com&path=/api/v1#UNKNOWN🏳️
-# 2025-10-30
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=DfVrMvWc2.SoLeRiOs.nEt&type=ws&alpn=h3h2&host=DfVrMvWc2.SoLeRiOs.nEt&path=/#UNKNOWN🏳️
-# 2025-10-30
-vless://393fabd9-8156-4f1d-c5c7-b3ab609f9abd@164.92.254.251:443?type=grpc&encryption=none&serviceName=&authority=&security=none#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050129620.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#UNKNOWN🏳️
-# 2025-10-30
-vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?encryption=none&security=tls&sni=DdLxDxZc3.VeLiNtO.OrG&type=ws&alpn=h3h2&host=DdLxDxZc3.VeLiNtO.OrG&path=/#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974021050130973.kish-blkaft-aaba.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#UNKNOWN🏳️
-# 2025-10-30
-vless://72239cbc-5a25-411c-b4f5-b9167a10f5e1@77.110.127.105:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&pbk=-Bdu8i-HU28Xmx87RMou5okYo8TqfbyZ8Ufs9RodUGE&sid=097de35e52ec5256&spx=%2F#UNKNOWN🏳️
-# 2025-10-30
-vless://d48ba610-6ef1-475b-9d33-be2a0db96f87@62.60.157.37:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&pbk=jVZNjr5dXzki9VxDHWg_zsiUjSrplC0mnZrG8tuP_2c&sid=149adb1c3cb9ed11&spx=%2F#UNKNOWN🏳️
-# 2025-10-30
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-021.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-021.shenzogmbh.com&path=/api/v1#UNKNOWN🏳️
-# 2025-10-30
-vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0udG9yb2IuTWNpLnphcmFzaG9wMC5pci4iLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IlVOS05PV05cdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.107:990#UNKNOWN🏳️
-# 2025-10-30
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.107.178.116:80#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPQ01TT2RNZ0I1M01JWUloaVF6ejFu@89.185.84.185:443#UNKNOWN🏳️
-# 2025-10-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#UNKNOWN🏳️
-# 2025-10-30
-vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&host=Join---PLANB-PROXY&type=ws#UNKNOWN🏳️
-# 2025-10-30
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638973401251721246.esfahan-blkaft-aaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#UNKNOWN🏳️
-# 2025-10-30
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#UNKNOWN🏳️
-# 2025-10-30
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.99:80?mode=gun&security=none&encryption=none&type=grpc#UNKNOWN🏳️
-# 2025-10-30
-vless://02334dc7-5535-4909-a972-07d1d937ea3f@80.242.56.200:8444?security=reality&encryption=none&pbk=o2jxNDCcRkxW9uur_7MAcnr2umdiRUBfNEKu1bONcnk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#UNKNOWN🏳️
-# 2025-10-30
-vless://02334dc7-5535-4909-a972-07d1d937ea3f@80.242.56.200:8444?security=reality&encryption=none&pbk=o2jxNDCcRkxW9uur_7MAcnr2umdiRUBfNEKu1bONcnk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#UNKNOWN🏳️
-# 2025-10-30
-vmess://eyJhZGQiOiI4LjIxOC43MS4xNDAiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImEyZTNmNDFlLTk3YTYtNGRiYi1iOTI2LTcwOTNmZjU3NGY3NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0Ijo1NzcxNCwicHMiOiJVTktOT1dOXHVkODNjXHVkZmYzXHVmZTBmIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
-# 2025-10-30
-vmess://eyJhZGQiOiI0Ny4yNDMuMTcyLjE3NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjE5OTk1NzEtZjFmNC00N2IxLWIzMDMtNjkyYWIzNTk4OTJkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k_ZWQ9MjA0OCIsInBvcnQiOjQ4NTQwLCJwcyI6IlVOS05PV05cdWQ4M2NcdWRmZjNcdWZlMGYiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+# 2025-11-02
+vmess://eyJhZGQiOiI0Ny4yNDMuMzkuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg5OTNlYTkxLWQ0MzctNDg5OS1hNmQ5LTFkY2MwYWExNzgyMCIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWxlZ3JhbV9Ac3N3aWEiLCJwb3J0IjoiMjA1MjIiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh63wn4ewIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66 🇭🇰::HK
+# 2025-11-02
+vmess://eyJhZGQiOiI4LjIxMC4yMTIuMTk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiOWZjMDQzLTJjNzAtNDJlYi04OGMwLTY2ODA0Y2EzMzA2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkXHUwMDNkMjA0OCIsInBvcnQiOiIzNDM0OCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66::HK
+# 2025-11-02
+vmess://eyJhZGQiOiI4LjIxNy45Mi4xMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzFlMWY5MGYtMDIxOC00MDk3LTkxZjktYTQyZGY5YjMzMzRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RlbGVncmFtX0Bzc3dpYSIsInBvcnQiOiIyMDUyMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66::HK
+# 2025-11-02
+vmess://eyJhZGQiOiI4LjIxNy4yMDkuODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMWY4YTk3ODEtMzA4OC00NDk5LTg5MDktMjgzODI2ZDA1NDU3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjY4NzQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh63wn4ewIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66 🇭🇰::HK
+# 2025-11-02
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJATnB2VjJyYXlGaWxUZXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#@NpvV2rayFilTer::XX
+# 2025-11-02
+vmess://eyJhZGQiOiIxMDYuMTQuNzUuMTE0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDIiLCJwcyI6Ij4+QGNvbmZpZ1YycmF5Tkc6OkNOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ#>>@configV2rayNG::CN
+# 2025-11-02
+vmess://eyJhZGQiOiIxMTkuMjkuOTguNDMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjgyYjg4MjgtNmNiNC00NzZiLTk5ZWEtMzNhYzkxZTMwYzc3IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTIxIiwicHMiOiLwn4+04oCN4pig77iPQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🏴‍☠️@FreakConfig::XX
+# 2025-11-02
+vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiMTUwOTciLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66 🇺🇸::HK
+# 2025-11-02
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0udG9yb2IuTWNpLnphcmFzaG9wMC5pci4iLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IihAVm1lc3NQcm90b2NvbCnYqNix2KfbjCDYrtix24zYryDZiCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2LTZiPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪::XX
+# 2025-11-02
+vmess://eyJhZGQiOiIxODMuMjM2LjUxLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTkwMDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6jwn4ezIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66 🇨🇳::XX
+# 2025-11-02
+vmess://eyJhZGQiOiIxOTMuMTI0LjI0LjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y3ZmNiYy1lMmMxLTQyYzQtZDBkNy03OWM0NWE3ZDU4OGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MTMiLCJwcyI6Ij4+QHYycmF5TkdfTWF0c3VyaTo6VVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#>>@v2rayNG_Matsuri::US
+# 2025-11-02
+vmess://eyJhZGQiOiIxOTIuMy4yMzMuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwMGYwZDNlLWEyNWQtNDY4Yi1jNzg5LTBiNWJhYTJmNTJjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTY1NTYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh7rwn4e4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#Channel id: @ShadowProxy66 🇺🇸::XX
+# 2025-11-02
+vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiLwn6qZNDhAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#🪙48@oneclickvpnkeys::LV
+# 2025-11-02
+vmess://eyJhZGQiOiIzOS4xMDAuODEuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDIiLCJwcyI6Ij4+QGNvbmZpZ1YycmF5Tkc6OlhYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ#>>@configV2rayNG::XX
+# 2025-11-02
+vmess://eyJhZGQiOiJjNy42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjNy42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ij4+QGNvbmZpZ1YycmF5Tkc6OktSIiwic2N5IjoiYXV0byIsInNuaSI6ImM3LjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ#>>@configV2rayNG::KR

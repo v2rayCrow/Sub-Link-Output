@@ -1,8 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-01 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 04:13
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-01
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#Russia🇷🇺
-# 2025-11-01
-vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545?security=&encryption=none&headerType=none&type=tcp#Russia🇷🇺
-# 2025-11-01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#Russia🇷🇺
+# 2025-11-02
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.148.104.253:2096?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#Russia🇷🇺
+# 2025-11-02
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Russia🇷🇺

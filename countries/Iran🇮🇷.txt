@@ -1,16 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-10-18 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 04:13
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-10-18
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#Iran🇮🇷
-# 2025-10-18
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#Iran🇮🇷
-# 2025-10-18
-vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&encryption=none&headerType=none&type=tcp#Iran🇮🇷
-# 2025-10-18
-vless://db316594-959c-48b5-8d8a-96304b7bb37b@TeslaaTeam.niceserver.sbs:124?security=none&encryption=none&headerType=none&type=tcp#Iran🇮🇷
-# 2025-10-18
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495/?type=tcp&encryption=none#Iran🇮🇷
-# 2025-10-18
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500/?type=tcp&encryption=none#Iran🇮🇷
-# 2025-10-18
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#Iran🇮🇷
+# 2025-11-02
+vless://8a80687e-e66e-4a9e-8529-cf0ed2b96d4e@vip.ezrael.shop:2089?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Iran🇮🇷
