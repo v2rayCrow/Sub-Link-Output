@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-02 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-03 04:12
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-02
+# 2025-11-03
 vless://18a056b9-6591-45b4-bace-52667b18f8c1@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#Macedonia🇲🇰
