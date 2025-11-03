@@ -1,32 +1,32 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-03 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-03 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.7:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA&sid=#Netherlands🇳🇱
-vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@91.98.233.176:24199?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Poland🇵🇱
-trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#Cloudflare🌐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.205.153.107:990#Chile🇨🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#Slovenia🇸🇮
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#Singapore🇸🇬
-vmess://eyJhZGQiOiI4LjIxNy4xMjcuMTY3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY1Nzk5ZjRjLWY1ZWEtNDBiZC04OGFjLTRiNDk4MzdmNTY5ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzIyMDkiLCJwcyI6Ij4+IEBTaGFkb3dzb2Nrc00iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0#>> @ShadowsocksM::HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.87:990#Cambodia🇰🇭
-hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.70.207.97:990#Morocco🇲🇦
-vless://48bbb385-8877-4b2d-8f42-d81df401725d@www.speedtest.net:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG#Cloudflare🌐
-vmess://eyJ2IjoiMiIsInBzIjoiPj4gQHYybGluZSIsImFkZCI6IjguMjE3LjE1OS45NiIsInBvcnQiOiI0Nzg3MiIsImlkIjoiMjNlYTBiNzUtMjA2Yi00ZTNiLWI2MjQtZTA5M2Q1ODA4YmY4IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0#>> @v2line::HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcnJ4VG9adFhXQUlmeFVNc0psSFlk@81.19.141.45:443#Germany🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#United%20States🇺🇸
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&sid=#Netherlands🇳🇱
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@108.162.195.75:443/?type=ws&encryption=none&flow=&host=638971674693810969.brussels-prmpl-aaaad.com&path=%2Ffiedpnws&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome#United%20States🇺🇸
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiI+PiBAU2hhZG93c29ja3NNIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#>> @ShadowsocksM::CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#United%20States🇺🇸
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553/?type=ws&encryption=none&flow=&host=gaosir.unfeeling.sbs&path=%2F%40ShadowProxy66%2F&security=tls&sni=gaosir.unfeeling.sbs#Japan🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#United%20States🇺🇸
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6Ij4+IEB2bWVzc2lyYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0#>> @vmessiran::KZ
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiI+PiBAU2hhZG93c29ja3NNIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#>> @ShadowsocksM::HK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.65:990#Cambodia🇰🇭
-vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80/?type=ws&encryption=none&flow=&host=---%40ShadowProxy66---%40ShadowProxy66---&path=%2Fvless%2F#Cloudflare🌐
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.29.95:990#Greece🇬🇷
+vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=DdLxDxZc1.VeLiNtO.OrG&type=ws&alpn=h3h2&host=DdLxDxZc1.VeLiNtO.OrG&path=/#Cyprus🇨🇾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTTBlNHhPTkNHellyNjhHTTgyMXBp@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@109.61.46.43:990#Luxembourg🇱🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#Germany🇩🇪
+vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#United%20Arab%20Emirates🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@176.123.1.175:990#Moldova🇲🇩
+trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#Cloudflare🌐
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.159.250.190:990#Kazakhstan🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@62.100.205.100:990#United%20Kingdom🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.143.130.203:990#Spain🇪🇸
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#Singapore🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.219.237.163:990#Hungary🇭🇺
+vmess://eyJhZGQiOiI4LjIxMC4yMTIuMTk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiOWZjMDQzLTJjNzAtNDJlYi04OGMwLTY2ODA0Y2EzMzA2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzQzNDgiLCJwcyI6IkhvbmcgS29uZ1x1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&sid=#Sweden🇸🇪
-vmess://eyJhZGQiOiI4LjIxNy4yMDkuODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmM4NDU0YmMtMTAwZS00NDNiLWEyNjctYzVmMmI4ZTA5N2M3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOiI1NTc2NCIsInBzIjoiPj4gQFNoYWRvd3NvY2tzTSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ#>> @ShadowsocksM::HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#Singapore🇸🇬
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top#Hong%20Kong🇭🇰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHb2xYTmJCRzFFZmNUWmhhY2NCT0FH@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@109.61.39.28:990#Kazakhstan🇰🇿
+vmess://eyJhZGQiOiI0Ny4yNDMuMjUxLjI0MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NWRhMzQyZi00NWZmLTQzN2ItYmVjNi01NTIwMjk5Y2IwZGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjI0MjI1IiwicHMiOiJIb25nIEtvbmdcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@196.196.192.58:990#Ireland🇮🇪
+vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=amir-ebr.pages.dev#Cloudflare🌐
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRWNMQ3JsN3lxODB5RGVRSlB6c1Zl@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czech🇨🇿
+vless://88626b64-9227-4d9e-84de-8da7476c3331@91.107.170.215:80?type=ws&security=none&path=%2Fali#Germany🇩🇪
+vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#Japan🇯🇵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#Bulgaria🇧🇬
-vmess://eyJhZGQiOiJ5ZS5meGxjbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFlNDI2MDQ2LXQwZmRzMC10MTJjbmotMW9sOTcuaGsucDVwdi5jb20iLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUyNzciLCJwcyI6Ij4+IEB2bWVzc2lyYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#>> @vmessiran::XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QkVRRkZVc0JwcGRSdTBESjZGbUFC@81.19.141.45:443#Germany🇩🇪

@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-03 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-03 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-03
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#United%20States🇺🇸
 # 2025-11-03
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#United%20States🇺🇸
 # 2025-11-03
@@ -35,11 +33,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:
 # 2025-11-03
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸
 # 2025-11-03
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.148.233.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc&sid=#United%20States🇺🇸
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@193.31.127.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=ehRbIcN9HhqjhReY1pjqIBGqHCbdY26Kq70_w7k4jgY&sid=#United%20States🇺🇸
 # 2025-11-03
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@193.202.12.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=BqPcbcS0agCOmW5xem5nQldi_2oGariVJdJZ6Q57810&sid=#United%20States🇺🇸
 # 2025-11-03
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@193.31.127.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=ehRbIcN9HhqjhReY1pjqIBGqHCbdY26Kq70_w7k4jgY&sid=#United%20States🇺🇸
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.148.233.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc&sid=#United%20States🇺🇸
 # 2025-11-03
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.159.23.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=wcgZB6t2VBnMQf55huXkibGw4RPL6WqXPfcZxhJ8Qms&sid=#United%20States🇺🇸
 # 2025-11-03
@@ -51,38 +49,24 @@ vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096/?type=ws&encrypt
 # 2025-11-03
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸
 # 2025-11-03
-vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&sid=#United%20States🇺🇸
-# 2025-11-03
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@108.162.195.75:443/?type=ws&encryption=none&flow=&host=638971674693810969.brussels-prmpl-aaaad.com&path=%2Ffiedpnws&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome#United%20States🇺🇸
-# 2025-11-03
-vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638971674693810969.brussels-prmpl-aaaad.com&path=%2Ffiedpnws&security=tls&sni=638971674693810969.brussels-prmpl-aaaad.com#United%20States🇺🇸
+vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@108.162.195.75:443?path=%2Ffiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&fp=chrome&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#United%20States🇺🇸
 # 2025-11-03
 vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&sid=#United%20States🇺🇸
 # 2025-11-03
-vless://f2e6879f-5f59-47cb-8bcd-959fe4714563@137.220.56.53:33013?type=tcp&encryption=none&security=none#United%20States🇺🇸
-# 2025-11-03
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?security=tls&encryption=none&type=ws&sni=gaosir.unfeeling.sbs#United%20States🇺🇸
 # 2025-11-03
-hy2://44ee8d70-309d-11eb-a8bf-f23c91cfbbc9@9fed4e25-t57ls0-tc0fos-8skf.us.hyhuawei.com:443/?mport=30000-60000&insecure=1&sni=9fed4e25-t57ls0-tc0fos-8skf.us.hyhuawei.com#United%20States🇺🇸
+vless://f2e6879f-5f59-47cb-8bcd-959fe4714563@137.220.56.53:33013?type=tcp&encryption=none&security=none#United%20States🇺🇸
 # 2025-11-03
-hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891/?insecure=1&sni=fus01.mistea.top#United%20States🇺🇸
-# 2025-11-03
-hy2://af7ddbb2-3567-11ec-bd7c-f23c913c8d2b@97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com:443/?mport=30000-60000&sni=97cc76e9-t53wg0-tiqsce-t6fv.us.hyhuawei.com#United%20States🇺🇸
+vmess://eyJhZGQiOiIxOTMuMTI0LjI0LjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y3ZmNiYy1lMmMxLTQyYzQtZDBkNy03OWM0NWE3ZDU4OGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MTMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 # 2025-11-03
 hy2://20050105zhu@204.44.110.129:51541/?insecure=1&sni=www.bing.com#United%20States🇺🇸
 # 2025-11-03
-hy2://c6bccea3-2f03-4f3e-80f4-d6757f1f3f46@192.3.60.176:41951/?insecure=1&sni=www.bing.com#United%20States🇺🇸
-# 2025-11-03
-hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#United%20States🇺🇸
+hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
 # 2025-11-03
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#United%20States🇺🇸
 # 2025-11-03
-hysteria2://44ee8d70-309d-11eb-a8bf-f23c91cfbbc9@9fed4e25-t57ls0-tc0fos-8skf.us.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=9fed4e25-t57ls0-tc0fos-8skf.us.hyhuawei.com#United%20States🇺🇸
-# 2025-11-03
-hysteria2://20050105zhu@204.44.110.129:51541?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
-# 2025-11-03
-hysteria2://c6bccea3-2f03-4f3e-80f4-d6757f1f3f46@192.3.60.176:41951?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
-# 2025-11-03
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#United%20States🇺🇸
+# 2025-11-03
+hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891/?insecure=1&sni=fus01.mistea.top#United%20States🇺🇸
 # 2025-11-03
 hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
