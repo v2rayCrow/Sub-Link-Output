@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-04 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-04 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-04
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#China🇨🇳
+vmess://eyJhZGQiOiIxODMuMjM2LjUxLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTkwMDMiLCJwcyI6IkNoaW5hXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 # 2025-11-04
 vmess://eyJhZGQiOiIzOS4xMDAuODEuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDIiLCJwcyI6IkNoaW5hXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
