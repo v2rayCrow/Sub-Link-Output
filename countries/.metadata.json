@@ -533,6 +533,10 @@
       "date": "2025-11-04"
     },
     {
+      "line": "vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=%2Ffiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#United%20States🇺🇸",
+      "date": "2025-11-04"
+    },
+    {
       "line": "vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&sid=#United%20States🇺🇸",
       "date": "2025-11-04"
     },
@@ -1132,10 +1136,6 @@
     },
     {
       "line": "vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Cloudflare🌐",
-      "date": "2025-11-04"
-    },
-    {
-      "line": "vless://a02fd758-c58b-48a8-bfb3-2b451ab44bb5@colin.ns.cloudflare.com:443?path=%2Ffiedpnws&security=tls&encryption=none&host=638971674693810969.brussels-prmpl-aaaad.com&type=ws&sni=638971674693810969.brussels-prmpl-aaaad.com#Cloudflare🌐",
       "date": "2025-11-04"
     },
     {
