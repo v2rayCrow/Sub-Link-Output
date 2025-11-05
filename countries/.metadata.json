@@ -369,6 +369,10 @@
       "date": "2025-11-05"
     },
     {
+      "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-021.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-021.shenzogmbh.com&path=/api/v1#United%20States🇺🇸",
+      "date": "2025-11-05"
+    },
+    {
       "line": "vless://6a31cf5d-0709-49a6-894b-65e91bb7c1be@151.101.3.8:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=starboy.ir&type=xhttp#United%20States🇺🇸",
       "date": "2025-11-05"
     },
@@ -1020,10 +1024,6 @@
     },
     {
       "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?encryption=none&security=tls&sni=gb-021.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-021.shenzogmbh.com&path=/api/v1#Cloudflare🌐",
-      "date": "2025-11-05"
-    },
-    {
-      "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=gb-021.shenzogmbh.com&type=ws&alpn=h3h2&host=gb-021.shenzogmbh.com&path=/api/v1#Cloudflare🌐",
       "date": "2025-11-05"
     },
     {
