@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-06 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-06 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZklQdVROUm1tc1UxRTJJajhs@77.83.246.74:443#Poland🇵🇱
@@ -6,8 +6,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3c2NBZklQdVROUm1tc1UxRTJJajhs@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDFKQ2c3dm5rblJjOEZHS1dmODBs@77.83.246.74:443#Poland🇵🇱
 # 2025-11-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCY3FBSDk4VFp2QW9jR01Za1F6eWMx@77.83.246.74:443#Poland🇵🇱
-# 2025-11-06
-vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#Poland🇵🇱
 # 2025-11-06
 vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&sid=#Poland🇵🇱
 # 2025-11-06
