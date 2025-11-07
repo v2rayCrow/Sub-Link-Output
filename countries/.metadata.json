@@ -73,50 +73,6 @@
       "date": "2025-11-07"
     },
     {
-      "line": "vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287/?type=tcp&encryption=none&flow=#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encryption=none&flow=&path=%2Fpanika#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://46615c49-e794-470d-9e65-2deaca461378@deu406.unboundaccess.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.screwfix.com&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443/?type=ws&encryption=none&flow=&host=91.99.177.36&path=%2Flinkws%3Fed%3D2560#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://88626b64-9227-4d9e-84de-8da7476c3331@91.107.170.215:80?type=ws&security=none&path=%2Fali#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪",
-      "date": "2025-11-07"
-    },
-    {
       "line": "vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
       "date": "2025-11-07"
     },
@@ -137,65 +93,29 @@
       "date": "2025-11-07"
     }
   ],
-  "Netherlands🇳🇱": [
+  "The Netherlands🇳🇱": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#The%20Netherlands🇳🇱",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#The%20Netherlands🇳🇱",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.189:8080#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.189:8080#The%20Netherlands🇳🇱",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#The%20Netherlands🇳🇱",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#The%20Netherlands🇳🇱",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYWNaSU1Gd21NQ1I2ZFdxTjVBaDBj@194.135.46.13:1419#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaU9jTHZrc2ZGRHZZVWtmMnZyZjFO@147.45.136.214:5775#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ@208.67.105.196:42029#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.18.184.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#Netherlands🇳🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#The%20Netherlands🇳🇱",
       "date": "2025-11-07"
     }
   ],
@@ -229,18 +149,6 @@
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@66.23.207.82:990#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA%3D%3D@23.95.75.146:443#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸",
       "date": "2025-11-07"
     },
@@ -249,119 +157,7 @@
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw%3D%3D@23.95.72.81:443#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUzJRdmJDOW5xTHAyc1hYWm8wQlZ5NHNsY0VyUnVDdA%3D%3D@103.35.189.136:443#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://01bd7910-efd5-4350-8bbf-64093e179ff3@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@72.167.241.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz&fp=chrome#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://534c7ec3-b2db-4363-b85f-ca8f6e15f237@151.101.3.8:80?type=xhttp&encryption=none&path=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&host=movie.ir&mode=auto&security=none#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://4f244cbc-7184-4106-a084-eebe0058fdf8@151.101.3.8:80?mode=auto&path=%2FJoin-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZEDMODEON&security=&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?encryption=none&security=none&type=tcp&headerType=none#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top&fp=chrome#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://834d4207-c3bd-48ae-923f-e5df7fe3a71d@speedtest.net:80?type=xhttp&encryption=none&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=coolpp_lool0909.global.ssl.fastly.net&mode=auto&security=none#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-21@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=googoolimagooli.com&type=xhttp#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-19@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=looabaoijji.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://ad0a27f4-0248-489e-b0c7-d59db58ccdb2@speedtestcustom.com:80/?type=xhttp&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D80&host=hazaradata.bh&mode=auto&security=none#United%20States🇺🇸",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&sid=#United%20States🇺🇸",
       "date": "2025-11-07"
     },
     {
@@ -399,10 +195,6 @@
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#Latvia🇱🇻",
-      "date": "2025-11-07"
-    },
-    {
       "line": "vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkxhdHZpYVx1ZDgzY1x1ZGRmMVx1ZDgzY1x1ZGRmYiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ",
       "date": "2025-11-07"
     }
@@ -410,18 +202,6 @@
   "Singapore🇸🇬": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#Singapore🇸🇬",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#Singapore🇸🇬",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692/?type=tcp&encryption=none&flow=#Singapore🇸🇬",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0NS43Ni4xODEuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUyMjYzOTAxLWIzY2YtNGQ3ZC1iNGZkLWExMmZlMTc4ZWYyYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIzNDUiLCJwcyI6IlNpbmdhcG9yZVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
       "date": "2025-11-07"
     },
     {
@@ -449,43 +229,11 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India🇮🇳",
       "date": "2025-11-07"
-    },
-    {
-      "line": "vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#India🇮🇳",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#India🇮🇳",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#India🇮🇳",
-      "date": "2025-11-07"
     }
   ],
   "Finland🇫🇮": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#Finland🇫🇮",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443/?type=ws&encryption=none&flow=&host=157.180.123.25&path=%2Flinkws%3Fed%3D2560#Finland🇫🇮",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://Parsashonam-Bot-35@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://Parsashonam-Bot-35@104.16.246.132:8080/?type=ws&encryption=none&flow=&host=Fi.Parsashonam.CfD.&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056%2Fmtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn#Finland🇫🇮",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://Parsashonam-Bot-35@172.66.40.99:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056/mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://Parsashonam-Bot-35@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮",
       "date": "2025-11-07"
     }
   ],
@@ -493,35 +241,15 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#Russia🇷🇺",
       "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMejY4V2Y4bm0zMUVjZkIwVjdIQzFU@81.90.31.219:443#Russia🇷🇺",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.148.104.253:2096?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#Russia🇷🇺",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545/?type=tcp&encryption=none&flow=#Russia🇷🇺",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiUnVzc2lhXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIiwiYWRkIjoicnUxLm5vZGVhNmE2LnNreW5vZGUubWUiLCJwb3J0IjoiODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzNmOTViN2UtMGZjNy0zMzExLTlhM2QtZTM0ZTY3NTYzMmQ0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9kb3dubG9hZCIsImhvc3QiOiJub2RlLTU5LTE3NS0yMDYtODYuc3BlZWR0ZXN0LmNuIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0",
-      "date": "2025-11-07"
     }
   ],
-  "Turkey🇹🇷": [
+  "Türkiye🇹🇷": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Turkey🇹🇷",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Türkiye🇹🇷",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@promo16v.bystrivpn.ru:443#Turkey🇹🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#Turkey🇹🇷",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@promo16v.bystrivpn.ru:443#Türkiye🇹🇷",
       "date": "2025-11-07"
     }
   ],
@@ -533,27 +261,11 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCY3FBSDk4VFp2QW9jR01Za1F6eWMx@77.83.246.74:443#Poland🇵🇱",
       "date": "2025-11-07"
-    },
-    {
-      "line": "vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Poland🇵🇱",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&sid=#Poland🇵🇱",
-      "date": "2025-11-07"
     }
   ],
   "Japan🇯🇵": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.106.228.247:990#Japan🇯🇵",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#Japan🇯🇵",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#Japan🇯🇵",
       "date": "2025-11-07"
     },
     {
@@ -575,19 +287,11 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.75.119.38:990#Australia🇦🇺",
       "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.15.185.70:990#Australia🇦🇺",
-      "date": "2025-11-07"
     }
   ],
   "Thailand🇹🇭": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@119.59.127.129:990#Thailand🇹🇭",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.33.47:990#Thailand🇹🇭",
       "date": "2025-11-07"
     }
   ],
@@ -601,19 +305,11 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@109.61.39.28:990#Kazakhstan🇰🇿",
       "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.159.250.190:990#Kazakhstan🇰🇿",
-      "date": "2025-11-07"
     }
   ],
   "United Arab Emirates🇦🇪": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.0.182:990#United%20Arab%20Emirates🇦🇪",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.57.251.240:990#United%20Arab%20Emirates🇦🇪",
       "date": "2025-11-07"
     },
     {
@@ -631,19 +327,11 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#Lithuania🇱🇹",
       "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@86.38.214.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#Lithuania🇱🇹",
-      "date": "2025-11-07"
     }
   ],
   "South Africa🇿🇦": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#South%20Africa🇿🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#South%20Africa🇿🇦",
       "date": "2025-11-07"
     }
   ],
@@ -691,42 +379,6 @@
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.200.162:990#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80/?type=ws&encryption=none&flow=&host=---%40ShadowProxy66---%40ShadowProxy66---&path=%2Fvless%2F#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://d36f457f-17a9-4891-a113-322ec6792917@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Canada🇨🇦",
-      "date": "2025-11-07"
-    },
-    {
       "line": "vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
       "date": "2025-11-07"
     },
@@ -738,34 +390,6 @@
   "Hong Kong🇭🇰": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@203.23.128.92:990#Hong%20Kong🇭🇰",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.82.252.109:990#Hong%20Kong🇭🇰",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top#Hong%20Kong🇭🇰",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoiOC4yMTguNzEuMTQwIiwicG9ydCI6IjU3NzE0IiwiaWQiOiJhMmUzZjQxZS05N2E2LTRkYmItYjkyNi03MDkzZmY1NzRmNzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoiNDcuMjM5LjE0MS43NCIsInBvcnQiOiIxMTg4NiIsImlkIjoiMGQzNmIwMTctNmQ3Yy00OTNkLWJiMTItNTVjMzRmYWY2ZWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0Ny4yNDMuMTY4LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMTdhOWU1YS0wZmU0LTQxZmItOTI1YS1mYzI0MGRhZTgwOWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjUwMDU5IiwicHMiOiJIb25nIEtvbmdcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0Ny4yMzguNzguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0OGUyYzc3LWVmOGMtNDI5Zi1iM2NiLWMyYTE1OWVlMDNiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzcwNTMiLCJwcyI6IkhvbmcgS29uZ1x1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0Ny44My4xNzQuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyYzI0ZmVkLTEwNzktNDFkNi1hYjUxLTRlOGFiM2NjMTI2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMjk0OTMiLCJwcyI6IkhvbmcgS29uZ1x1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
       "date": "2025-11-07"
     },
     {
@@ -837,10 +461,6 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@197.140.29.76:990#Algeria🇩🇿",
       "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@102.207.216.176:990#Algeria🇩🇿",
-      "date": "2025-11-07"
     }
   ],
   "Austria🇦🇹": [
@@ -865,229 +485,207 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.65:990#Cambodia🇰🇭",
       "date": "2025-11-07"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.4.87:990#Cambodia🇰🇭",
-      "date": "2025-11-07"
     }
   ],
-  "Spain🇪🇸": [
+  "UNKNOWN🏳️": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@37.143.130.203:990#Spain🇪🇸",
+      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@86.38.214.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWblNMNVltWXVzRG1Nc1VWMlk5ZGg3@45.12.150.199:39447#Spain🇪🇸",
+      "line": "vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443/?type=ws&encryption=none&flow=&host=91.99.177.36&path=%2Flinkws%3Fed%3D2560#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVdXdkRU40OEJCV1BwWE44dThLUTF6@194.87.45.189:443#Spain🇪🇸",
+      "line": "vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=fast01.0860852.xyz#Spain🇪🇸",
+      "line": "vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vmess://eyJhZGQiOiIyMDguNzYuMjIzLjIxOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhMDU5NmJhNi03MmEzLTQzNjYtODk5Mi03NzA4OGRhNjViZDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI3MDkyIiwicHMiOiJTcGFpblx1ZDgzY1x1ZGRlYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
-      "date": "2025-11-07"
-    }
-  ],
-  "Taiwan🇹🇼": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.107.101:990#Taiwan🇹🇼",
+      "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "hy2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=1&sni=www.bing.com#Taiwan🇹🇼",
-      "date": "2025-11-07"
-    }
-  ],
-  "United Kingdom🇬🇧": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@62.100.205.100:990#United%20Kingdom🇬🇧",
+      "line": "vless://7c8cf438-8d5a-4ce9-bc1c-88345a545f2f@185.68.244.86:42545/?type=tcp&encryption=none&flow=#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@94.156.250.122:990#United%20Kingdom🇬🇧",
+      "line": "vless://834d4207-c3bd-48ae-923f-e5df7fe3a71d@speedtest.net:80?type=xhttp&encryption=none&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=coolpp_lool0909.global.ssl.fastly.net&mode=auto&security=none#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#United%20Kingdom🇬🇧",
+      "line": "vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#United%20Kingdom🇬🇧",
+      "line": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#United%20Kingdom🇬🇧",
+      "line": "vless://88626b64-9227-4d9e-84de-8da7476c3331@91.107.170.215:80?type=ws&security=none&path=%2Fali#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#United%20Kingdom🇬🇧",
+      "line": "vless://TELEGRAM-CONFiGLiNE-21@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=googoolimagooli.com&type=xhttp#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#United%20Kingdom🇬🇧",
-      "date": "2025-11-07"
-    }
-  ],
-  "Egypt🇪🇬": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.107:990#Egypt🇪🇬",
+      "line": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.59.180:990#Egypt🇪🇬",
-      "date": "2025-11-07"
-    }
-  ],
-  "Hungary🇭🇺": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.219.237.163:990#Hungary🇭🇺",
-      "date": "2025-11-07"
-    }
-  ],
-  "Indonesia🇮🇩": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.60.171.254:990#Indonesia🇮🇩",
-      "date": "2025-11-07"
-    }
-  ],
-  "Italy🇮🇹": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#Italy🇮🇹",
+      "line": "vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#Italy🇮🇹",
-      "date": "2025-11-07"
-    }
-  ],
-  "Bolivia🇧🇴": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.93.173.60:990#Bolivia🇧🇴",
-      "date": "2025-11-07"
-    }
-  ],
-  "Bahrain🇧🇭": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.146.153:990#Bahrain🇧🇭",
-      "date": "2025-11-07"
-    }
-  ],
-  "Malaysia🇲🇾": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#Malaysia🇲🇾",
+      "line": "vless://TELEGRAM-CONFiGLiNE-19@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=looabaoijji.global.ssl.fastly.net&type=xhttp#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoiTWFsYXlzaWFcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "line": "vless://Parsashonam-Bot-35@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2RiYWE1YzMtZjQ5My00YWQxLTljNWQtODUyNWY0OTYyYTZjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoiTWFsYXlzaWFcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2025-11-07"
-    }
-  ],
-  "Bulgaria🇧🇬": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.247.151:990#Bulgaria🇧🇬",
-      "date": "2025-11-07"
-    }
-  ],
-  "Brazil🇧🇷": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#Brazil🇧🇷",
-      "date": "2025-11-07"
-    }
-  ],
-  "Greece🇬🇷": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.29.95:990#Greece🇬🇷",
-      "date": "2025-11-07"
-    }
-  ],
-  "Denmark🇩🇰": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw%3D%3D@95.164.10.228:443#Denmark🇩🇰",
-      "date": "2025-11-07"
-    }
-  ],
-  "Sweden🇸🇪": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMEF1U1NFOWtxclpucEsxUmdjdVB0@78.40.116.11:50589#Sweden🇸🇪",
+      "line": "vless://Parsashonam-Bot-35@104.16.246.132:8080/?type=ws&encryption=none&flow=&host=Fi.Parsashonam.CfD.&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056%2Fmtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#Sweden🇸🇪",
+      "line": "vless://Parsashonam-Bot-35@172.66.40.99:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056/mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn-mtmvpn&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiU3dlZGVuXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjUiLCJwb3J0IjoiODAiLCJpZCI6ImVkMWI1NzQzLTM4OWItNDhhMi04ZDYwLTM3OTBlZGVkN2NhNiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnRvcm9iLk1jaS56YXJhc2hvcDAuaXIuIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ",
-      "date": "2025-11-07"
-    }
-  ],
-  "Cyprus🇨🇾": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus🇨🇾",
+      "line": "vless://Parsashonam-Bot-35@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#Cyprus🇨🇾",
-      "date": "2025-11-07"
-    }
-  ],
-  "Ukraine🇺🇦": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#Ukraine🇺🇦",
+      "line": "vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://26d7f2c4-ba48-11f0-b7eb-23203725ad6a@82.118.18.101:10004?path=/vpnjantit&security=none&encryption=none&type=ws#Ukraine🇺🇦",
+      "line": "vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@194.152.44.253:2096?path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#Ukraine🇺🇦",
-      "date": "2025-11-07"
-    }
-  ],
-  "Portugal🇵🇹": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#Portugal🇵🇹",
-      "date": "2025-11-07"
-    }
-  ],
-  "Slovenia🇸🇮": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#Slovenia🇸🇮",
-      "date": "2025-11-07"
-    }
-  ],
-  "Czech🇨🇿": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czech🇨🇿",
+      "line": "vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://579bf6de-6cbd-44b3-8b4e-95eaa891b546@194.182.79.236:24550?mode=gun&security=&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Czech🇨🇿",
+      "line": "vless://ad0a27f4-0248-489e-b0c7-d59db58ccdb2@speedtestcustom.com:80/?type=xhttp&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D80&host=hazaradata.bh&mode=auto&security=none#UNKNOWN🏳️",
       "date": "2025-11-07"
     },
     {
-      "line": "vless://e33c0d1e-667c-4259-b94c-fd0e9a6f6021@194.182.79.240:22721?mode=gun&security=&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Czech🇨🇿",
+      "line": "vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️",
       "date": "2025-11-07"
-    }
-  ],
-  "Estonia🇪🇪": [
+    },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#Estonia🇪🇪",
+      "line": "vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️",
       "date": "2025-11-07"
-    }
-  ],
-  "Paraguay🇵🇾": [
+    },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay🇵🇾",
+      "line": "vless://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692/?type=tcp&encryption=none&flow=#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80/?type=ws&encryption=none&flow=&host=---%40ShadowProxy66---%40ShadowProxy66---&path=%2Fvless%2F#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://d36f457f-17a9-4891-a113-322ec6792917@m15a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629/?type=tcp&encryption=none#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&sid=#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://e33c0d1e-667c-4259-b94c-fd0e9a6f6021@194.182.79.240:22721?mode=gun&security=&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=Join---ShadowProxy66&path=%2Fvless%2F#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&sid=#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#UNKNOWN🏳️",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6InJ1MS5ub2RlYTZhNi5za3lub2RlLm1lIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImMzZjk1YjdlLTBmYzctMzMxMS05YTNkLWUzNGU2NzU2MzJkNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQiLCJob3N0Ijoibm9kZS01OS0xNzUtMjA2LTg2LnNwZWVkdGVzdC5jbiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjguMjE4LjcxLjE0MCIsInBvcnQiOiI1NzcxNCIsImlkIjoiYTJlM2Y0MWUtOTdhNi00ZGJiLWI5MjYtNzA5M2ZmNTc0Zjc0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjE4NS4xNDYuMTczLjI1IiwicG9ydCI6IjgwIiwiaWQiOiJlZDFiNTc0My0zODliLTQ4YTItOGQ2MC0zNzkwZWRlZDdjYTYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS50b3JvYi5NY2kuemFyYXNob3AwLmlyLiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjQ3LjIzOS4xNDEuNzQiLCJwb3J0IjoiMTE4ODYiLCJpZCI6IjBkMzZiMDE3LTZkN2MtNDkzZC1iYjEyLTU1YzM0ZmFmNmVmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2RiYWE1YzMtZjQ5My00YWQxLTljNWQtODUyNWY0OTYyYTZjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0NS43Ni4xODEuMjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUyMjYzOTAxLWIzY2YtNGQ3ZC1iNGZkLWExMmZlMTc4ZWYyYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTIzNDUiLCJwcyI6IlVOS05PV05cdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0Ny4yNDMuMTY4LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMTdhOWU1YS0wZmU0LTQxZmItOTI1YS1mYzI0MGRhZTgwOWMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjUwMDU5IiwicHMiOiJVTktOT1dOXHVkODNjXHVkZmYzXHVmZTBmIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0Ny4yMzguNzguMjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0OGUyYzc3LWVmOGMtNDI5Zi1iM2NiLWMyYTE1OWVlMDNiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzcwNTMiLCJwcyI6IlVOS05PV05cdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0Ny44My4xNzQuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyYzI0ZmVkLTEwNzktNDFkNi1hYjUxLTRlOGFiM2NjMTI2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMjk0OTMiLCJwcyI6IlVOS05PV05cdWQ4M2NcdWRmZjNcdWZlMGYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
       "date": "2025-11-07"
     }
   ],
@@ -1185,47 +783,23 @@
       "date": "2025-11-07"
     }
   ],
+  "China🇨🇳": [
+    {
+      "line": "vmess://eyJhZGQiOiIxODMuMjM2LjUxLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTkwMDMiLCJwcyI6IkNoaW5hXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
+      "date": "2025-11-07"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIzOS4xMDAuODEuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDIiLCJwcyI6IkNoaW5hXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
+      "date": "2025-11-07"
+    }
+  ],
+  "Spain🇪🇸": [
+    {
+      "line": "vmess://eyJhZGQiOiIyMDguNzYuMjIzLjIxOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhMDU5NmJhNi03MmEzLTQzNjYtODk5Mi03NzA4OGRhNjViZDgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI3MDkyIiwicHMiOiJTcGFpblx1ZDgzY1x1ZGRlYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
+      "date": "2025-11-07"
+    }
+  ],
   "France🇫🇷": [
-    {
-      "line": "vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#France🇫🇷",
-      "date": "2025-11-07"
-    },
-    {
-      "line": "vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=Join---ShadowProxy66&path=%2Fvless%2F#France🇫🇷",
-      "date": "2025-11-07"
-    },
     {
       "line": "hysteria2://dongtaiwang.com@163.172.21.105:5355?security=tls&insecure=1&sni=www.bing.com#France🇫🇷",
       "date": "2025-11-07"
@@ -1235,37 +809,19 @@
       "date": "2025-11-07"
     }
   ],
-  "Israel🇮🇱": [
+  "United Kingdom🇬🇧": [
     {
-      "line": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=i2pd.website&fp=chrome&security=reality&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#Israel🇮🇱",
-      "date": "2025-11-07"
-    }
-  ],
-  "Armenia🇦🇲": [
-    {
-      "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%20%40freecodes%20%2F%3Fed%3D2560security%3Dtls&security=tls&sni=vless.muzheng.top&fp=chrome#Armenia🇦🇲",
-      "date": "2025-11-07"
-    }
-  ],
-  "Iran🇮🇷": [
-    {
-      "line": "vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Telewebion.com&headerType=http&type=tcp#Iran🇮🇷",
-      "date": "2025-11-07"
-    }
-  ],
-  "Korea🇰🇷": [
-    {
-      "line": "vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#Korea🇰🇷",
-      "date": "2025-11-07"
-    }
-  ],
-  "China🇨🇳": [
-    {
-      "line": "vmess://eyJhZGQiOiIxODMuMjM2LjUxLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTkwMDMiLCJwcyI6IkNoaW5hXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
+      "line": "hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#United%20Kingdom🇬🇧",
       "date": "2025-11-07"
     },
     {
-      "line": "vmess://eyJhZGQiOiIzOS4xMDAuODEuMjE1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMDIiLCJwcyI6IkNoaW5hXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
+      "line": "hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&insecure=1&sni=hl01.mistea.top#United%20Kingdom🇬🇧",
+      "date": "2025-11-07"
+    }
+  ],
+  "Taiwan🇹🇼": [
+    {
+      "line": "hy2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=1&sni=www.bing.com#Taiwan🇹🇼",
       "date": "2025-11-07"
     }
   ]

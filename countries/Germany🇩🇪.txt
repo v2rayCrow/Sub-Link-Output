@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-07 15:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-07 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-07
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WW5EMHQySkl3TlV5VFVqaW1SNG5G@81.19.141.45:443#Germany🇩🇪
@@ -36,28 +36,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROVVmajlpNkhJcjVHWnVmVHRPTGtl@81.19.141.45:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRWNMQ3JsN3lxODB5RGVRSlB6c1Zl@81.19.141.45:443#Germany🇩🇪
 # 2025-11-07
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODhCdjVUZlUxWWpOREszaGxkbzhH@81.19.141.45:443#Germany🇩🇪
-# 2025-11-07
-vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287/?type=tcp&encryption=none&flow=#Germany🇩🇪
-# 2025-11-07
-vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encryption=none&flow=&path=%2Fpanika#Germany🇩🇪
-# 2025-11-07
-vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#Germany🇩🇪
-# 2025-11-07
-vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪
-# 2025-11-07
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪
-# 2025-11-07
-vless://46615c49-e794-470d-9e65-2deaca461378@deu406.unboundaccess.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.screwfix.com&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#Germany🇩🇪
-# 2025-11-07
-vless://77dacbb9-eb50-487e-adc7-f1f2cb4cb19c@91.99.177.36:443/?type=ws&encryption=none&flow=&host=91.99.177.36&path=%2Flinkws%3Fed%3D2560#Germany🇩🇪
-# 2025-11-07
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
-# 2025-11-07
-vless://88626b64-9227-4d9e-84de-8da7476c3331@91.107.170.215:80?type=ws&security=none&path=%2Fali#Germany🇩🇪
-# 2025-11-07
-vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
-# 2025-11-07
-vless://cdc453bb-34c8-4405-a322-56f6878ccd40@198.186.131.216:47387?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪
 # 2025-11-07
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 # 2025-11-07
