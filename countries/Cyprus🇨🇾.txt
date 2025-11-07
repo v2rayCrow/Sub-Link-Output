@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-06 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-07 04:10
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-06
+# 2025-11-07
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&fp=chrome&type=ws&sni=gb-8981.shenzogmbh.com#Cyprus🇨🇾
-# 2025-11-06
+# 2025-11-07
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@77.37.33.39:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=anjir.soft98-ir-download-ir-cdn-ir-irancell-ir-mci-ir.site&fp=chrome&type=ws&sni=anjir.soft98-ir-download-ir-cdn-ir-irancell-ir-mci-ir.site#Cyprus🇨🇾
