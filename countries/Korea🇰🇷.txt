@@ -1,6 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-07 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-07 15:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-07
 vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#Korea🇰🇷
-# 2025-11-07
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@147.75.225.105:443?path=%2Ffreecodes%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Korea🇰🇷
