@@ -1,102 +1,32 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-08 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-08 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NTJKOVhtc3ZqNGRwdFhOSDVNenkw@185.33.85.37:63032#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6d0JMTTZiQkU1WXh2d3ZuS2d4QXEzRXJYcHFNWXYyMA%3D%3D@185.193.48.157:443#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸
 # 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#United%20States🇺🇸
-# 2025-11-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#United%20States🇺🇸
-# 2025-11-08
-vless://%54ELEGR%41M-CONF%69GL%69NE-24@151.101.195.8:80?mode=auto&path=%2Ft%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%3Fed%3D2048&security=none&encryption=none&host=p%61n%65l%76%69p%61sl%69.%69o&type=xhttp#United%20States🇺🇸
-# 2025-11-08
-vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸
-# 2025-11-08
-vless://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸
-# 2025-11-08
-vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fapi%2Fv1&security=tls&encryption=none&type=ws&sni=gb-42123.shenzogmbh.com#United%20States🇺🇸
-# 2025-11-08
-vless://68d93eb3-e0ba-4c06-ba08-3e7572fa74c7@5.78.129.46:3002?encryption=none&security=none&type=tcp&headerType=none#United%20States🇺🇸
-# 2025-11-08
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=vless.muzheng.top&fp=chrome#United%20States🇺🇸
-# 2025-11-08
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@50.62.194.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&sni=vless.muzheng.top#United%20States🇺🇸
-# 2025-11-08
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸
-# 2025-11-08
-vless://834d4207-c3bd-48ae-923f-e5df7fe3a71d@speedtest.net:80?type=xhttp&encryption=none&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=coolpp_lool0909.global.ssl.fastly.net&mode=auto&security=none#United%20States🇺🇸
-# 2025-11-08
-vless://8dac7d05-ce69-44e1-97c5-919ee4bbc6fb@speedtestcustom.com:80?mode=auto&path=%2FTelegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy-Telegram-free_v2rayyy%3Fed%3D80&security=none&encryption=none&host=hazaradata.bh&type=xhttp#United%20States🇺🇸
-# 2025-11-08
-vless://91701ab0-3346-494e-8908-56efb0d38b4b@151.101.3.8:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#United%20States🇺🇸
 # 2025-11-08
 vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&sid=#United%20States🇺🇸
-# 2025-11-08
-vless://TELEGRAM-CONFiGLiNE-19@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=looabaoijji.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-11-08
-vless://TELEGRAM-CONFiGLiNE-21@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=googoolimagooli.com&type=xhttp#United%20States🇺🇸
-# 2025-11-08
-vless://a8d29db1-b95e-4830-be63-1ae65076c1e8@151.101.3.8:80?mode=auto&path=%2FJoin-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&security=none&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-11-08
-vless://d8a187a7-14fc-401f-80d8-9212ff2b84e6@151.101.3.8:80?type=xhttp&encryption=none&path=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&host=movie.ir&mode=auto&security=none#United%20States🇺🇸
 # 2025-11-08
 vless://da640c05-1831-4c6f-a2c8-ff8ff9c18b0c@54.219.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=O53KcL6eOfBmpyfB5rM9qPDI-ZCe8hhHgYzdsZZ0b2Q&sid=#United%20States🇺🇸
 # 2025-11-08
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#United%20States🇺🇸
 # 2025-11-08
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?path=%2FTelegramsecurity%3Dtls&security=tls&encryption=none&type=ws&sni=gaosir.unfeeling.sbs#United%20States🇺🇸
-# 2025-11-08
-vmess://eyJhZGQiOiIxNTQuMjAxLjc2LjE3MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0OTZjZWM3MS1hMGZkLTRmMjUtYmJhMS1jYmE5ZTlkNWE1MmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIxIiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-# 2025-11-08
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-# 2025-11-08
-vmess://eyJhZGQiOiIxNTQuNjQuMjQzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliYzIzY2NmLTQ3NjktNGU5YS1iMjc4LTJkZmE4ZDllZjQyNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzg1MzMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-# 2025-11-08
-vmess://eyJhZGQiOiIxOTMuMTI0LjI0LjI0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1Y2Y3ZmNiYy1lMmMxLTQyYzQtZDBkNy03OWM0NWE3ZDU4OGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjY1MTMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-# 2025-11-08
-vmess://eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMjA5LjEyNi44NC4xODkiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
-# 2025-11-08
-vmess://eyJhZGQiOiJ5ZS5meGxjbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFlNDI2MDQ2LXQwZmRzMC10MTJjbmotMW9sOTcuaGsucDVwdi5jb20iLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUyNzciLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-# 2025-11-08
-hysteria2://dongtaiwang.com@208.87.243.187:22222?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
-# 2025-11-08
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#United%20States🇺🇸

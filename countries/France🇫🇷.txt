@@ -1,24 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-08 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-08 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-08
-vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#France🇫🇷
-# 2025-11-08
-vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#France🇫🇷
-# 2025-11-08
-vless://66beaaea-3f3c-47f8-a23e-60afb0524b05@167.17.178.90:2020?type=grpc&encryption=none&serviceName=vless2020&authority=&security=none#France🇫🇷
-# 2025-11-08
-vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&headerType=http&type=tcp#France🇫🇷
-# 2025-11-08
-vless://8e4ec018-b237-48ef-a09b-c8c2b2cee74b@m37a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#France🇫🇷
 # 2025-11-08
 vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#France🇫🇷
 # 2025-11-08
 vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#France🇫🇷
 # 2025-11-08
 vless://b47f6da1-e784-493f-9dcb-4d7a90c618d8@151.240.19.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yimg.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#France🇫🇷
-# 2025-11-08
-vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=Join---ShadowProxy66&path=%2Fvless%2F#France🇫🇷
-# 2025-11-08
-hysteria2://dongtaiwang.com@163.172.21.105:5355?security=tls&insecure=1&sni=www.bing.com#France🇫🇷
-# 2025-11-08
-hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#France🇫🇷
