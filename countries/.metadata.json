@@ -217,10 +217,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#United%20States🇺🇸",
-      "date": "2025-11-09"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#United%20States🇺🇸",
       "date": "2025-11-09"
     },
@@ -290,6 +286,10 @@
     },
     {
       "line": "vless://389724c1-49ac-4637-b136-4f629f8473d2@151.101.3.8:80?type=xhttp&encryption=none&path=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&host=movie.ir&mode=auto&security=none#United%20States🇺🇸",
+      "date": "2025-11-09"
+    },
+    {
+      "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fapi%2Fv1&security=tls&encryption=none&type=ws&sni=gb-42123.shenzogmbh.com#United%20States🇺🇸",
       "date": "2025-11-09"
     },
     {
@@ -571,6 +571,10 @@
     {
       "line": "vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Finland🇫🇮",
       "date": "2025-11-09"
+    },
+    {
+      "line": "vless://fdedb768-b4ad-4984-b2a1-3c69c7b9a24a@sub2.dlshop39.shop:4220?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=language-plh.dlshop39.shop.&type=ws#Finland🇫🇮",
+      "date": "2025-11-09"
     }
   ],
   "Cloudflare🌐": [
@@ -612,10 +616,6 @@
     },
     {
       "line": "vless://5f60f4be-c6b1-4b07-ae9f-30cdcefe1759@us6.candyfans.win:443/?type=ws&encryption=none&flow=&host=us6.candyfans.win&path=%2Fnmzuws&security=tls&sni=us6.candyfans.win#Cloudflare🌐",
-      "date": "2025-11-09"
-    },
-    {
-      "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fapi%2Fv1&security=tls&encryption=none&type=ws&sni=gb-42123.shenzogmbh.com#Cloudflare🌐",
       "date": "2025-11-09"
     },
     {
@@ -1454,10 +1454,6 @@
     },
     {
       "line": "vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=Join---ShadowProxy66&path=%2Fvless%2F#France🇫🇷",
-      "date": "2025-11-09"
-    },
-    {
-      "line": "vless://fdedb768-b4ad-4984-b2a1-3c69c7b9a24a@sub2.dlshop39.shop:4220?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=language-plh.dlshop39.shop.&type=ws#France🇫🇷",
       "date": "2025-11-09"
     },
     {

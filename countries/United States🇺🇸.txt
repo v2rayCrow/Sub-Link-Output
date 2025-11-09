@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-09 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-09 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-09
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#United%20States🇺🇸
 # 2025-11-09
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#United%20States🇺🇸
 # 2025-11-09
@@ -38,6 +36,8 @@ vless://2459bb58-3a89-4c04-903e-851f589e4f5e@151.101.3.8:80?mode=auto&path=%2F%4
 vless://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=fast01.0860852.xyz#United%20States🇺🇸
 # 2025-11-09
 vless://389724c1-49ac-4637-b136-4f629f8473d2@151.101.3.8:80?type=xhttp&encryption=none&path=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&host=movie.ir&mode=auto&security=none#United%20States🇺🇸
+# 2025-11-09
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fapi%2Fv1&security=tls&encryption=none&type=ws&sni=gb-42123.shenzogmbh.com#United%20States🇺🇸
 # 2025-11-09
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096/?type=ws&encryption=none&flow=&host=vless.muzheng.top&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&sni=vless.muzheng.top&fp=chrome#United%20States🇺🇸
 # 2025-11-09
