@@ -1,10 +1,6 @@
 {
   "Germany🇩🇪": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6YllzU2hPMW5vSkRDUjMwM200cXhh@81.19.141.45:443#Germany🇩🇪",
-      "date": "2025-11-09"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBRDFQc0RPa2dCQUt3eG15eHFaUDZO@81.19.141.45:443#Germany🇩🇪",
       "date": "2025-11-09"
     },
@@ -182,6 +178,10 @@
     },
     {
       "line": "vless://eb7bab4e-ec09-4459-e4c5-bd051b6e3cfb@test2.amin8263.ir:2095?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#Germany🇩🇪",
+      "date": "2025-11-09"
+    },
+    {
+      "line": "vless://fdedb768-b4ad-4984-b2a1-3c69c7b9a24a@sub2.dlshop39.shop:4220?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=language-plh.dlshop39.shop.&type=ws#Germany🇩🇪",
       "date": "2025-11-09"
     },
     {
@@ -570,10 +570,6 @@
     },
     {
       "line": "vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Finland🇫🇮",
-      "date": "2025-11-09"
-    },
-    {
-      "line": "vless://fdedb768-b4ad-4984-b2a1-3c69c7b9a24a@sub2.dlshop39.shop:4220?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=language-plh.dlshop39.shop.&type=ws#Finland🇫🇮",
       "date": "2025-11-09"
     }
   ],

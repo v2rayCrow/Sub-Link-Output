@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-09 15:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-09 21:30
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-09
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6YllzU2hPMW5vSkRDUjMwM200cXhh@81.19.141.45:443#Germany🇩🇪
 # 2025-11-09
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBRDFQc0RPa2dCQUt3eG15eHFaUDZO@81.19.141.45:443#Germany🇩🇪
 # 2025-11-09
@@ -92,6 +90,8 @@ vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.151.30:443?mode=auto&path=%2F
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪
 # 2025-11-09
 vless://eb7bab4e-ec09-4459-e4c5-bd051b6e3cfb@test2.amin8263.ir:2095?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#Germany🇩🇪
+# 2025-11-09
+vless://fdedb768-b4ad-4984-b2a1-3c69c7b9a24a@sub2.dlshop39.shop:4220?path=%2Fadmin%3Fed%3D1024&security=none&encryption=none&host=language-plh.dlshop39.shop.&type=ws#Germany🇩🇪
 # 2025-11-09
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 # 2025-11-09
