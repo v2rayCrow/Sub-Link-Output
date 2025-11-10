@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-10 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-10 21:42
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#United%20States🇺🇸
@@ -61,9 +61,9 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@92.53.191.253:2096?path=%2FTelegram
 # 2025-11-10
 vless://22bad75d-2b53-4500-89b0-aea82b9161f3@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#United%20States🇺🇸
 # 2025-11-10
-vless://4ac70e8a-a949-4eea-9fa1-ff5fa90c04bc@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638981351826526828.insight-amshd.com&alpn=h2&fp=chrome&type=ws&host=638981351826526828.insight-amshd.com&path=/mwhvvrws#United%20States🇺🇸
-# 2025-11-10
 vless://4e029b68-9832-464e-cac4-b98e28cbb0c9@151.101.3.8:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20States🇺🇸
+# 2025-11-10
+vless://5b44fc89-c5be-48e6-aa2e-0f90ff733390@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=638981351826446112.insight-amshd.com&alpn=h2&fp=chrome&type=ws&host=638981351826446112.insight-amshd.com&path=/dndgjqws#United%20States🇺🇸
 # 2025-11-10
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
 # 2025-11-10
