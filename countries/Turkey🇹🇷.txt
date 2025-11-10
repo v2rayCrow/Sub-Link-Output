@@ -1,10 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-09 21:30
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-10 04:13
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-09
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Turkey🇹🇷
-# 2025-11-09
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@promo16v.bystrivpn.ru:443#Turkey🇹🇷
-# 2025-11-09
+# 2025-11-10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYVhsSEtTUXhPVk5iUGtWV1lNQUNq@62.133.63.21:65262#Turkey🇹🇷
+# 2025-11-10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZ2NLUXBGQ2tYbk9KWGNlVjY4bzEy@62.133.63.230:1580#Turkey🇹🇷
-# 2025-11-09
-vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#Turkey🇹🇷
+# 2025-11-10
+vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#Turkey🇹🇷
