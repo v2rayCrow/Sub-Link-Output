@@ -1,6 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-10 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-11 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-10
-hy2://937f8940-ad8a-409f-93c3-4d6249af628f@tw.oomz.ru:30000/?insecure=1&sni=bing.com#Taiwan🇹🇼
-# 2025-11-10
-hysteria2://937f8940-ad8a-409f-93c3-4d6249af628f@tw.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#Taiwan🇹🇼
+# 2025-11-11
+vmess://eyJhZGQiOiI4My4xNDcuMTMuMjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI2ZDc3ZDdhLWQ0ZWEtNDBjZC04ZGE1LTU0YTljODRlNzM2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9lYy1NY0F1dGgvaW5kZXgiLCJwb3J0IjoiODA4MCIsInBzIjoiVGFpd2FuXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
