@@ -1,76 +1,76 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-11 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 04:11
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WW5EMHQySkl3TlV5VFVqaW1SNG5G@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTU0bzZrWU9nNGg5bFhqZHZkV2Nw@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWFBLT2c1ZW0za1Z3UU9IWlp5bUlB@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cVJYNGZVV1RreWN4UjIyZkEwSk85@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RVdNMTV0Q3JROUJla29BVldRZzB6@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VW9TZjZFalRkS0xaMm1meDV4Rnp4@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VWNkalU2MFNmbGVQOVdmWWlsQmF6@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y1d0bEo2bzFFWjc2emk2Q1dwUTZO@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBRDFQc0RPa2dCQUt3eG15eHFaUDZO@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6YllzU2hPMW5vSkRDUjMwM200cXhh@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYk1TSFVtZDBHR1NVVkgxcGRnS2s1@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEeHVic3JqNHJlQUtFWGVWZ2djSDZV@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDdTVYNGE0Wm4ydFJKZUpXTW55ZUM5@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUmpZb2tXVXZSS2tjM3EyYTlBYm5u@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUkpHbVF1UkxiUEVkb2VZSDZ5bEJu@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTDdNUXlkSXNUYmxuM3hPcTRsVnZN@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVkJZUmtTa0hsVHFlYlNKckdjMkM3@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRzNrbm5zR3Vpb1g4dWhFa1NZWUdq@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSM21LeGUyQzc1dzVLTGlrNWRoWlhu@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROVVmajlpNkhJcjVHWnVmVHRPTGtl@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXb1plQzZMaEJUVGFaQ3FTR091dkNS@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUGJSMjEzVElsQWQ0ZkxlWXJENm1C@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZkJOcmN3Q3lVOXpTemIyTHhuMXhq@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODhCdjVUZlUxWWpOREszaGxkbzhH@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTTBlNHhPTkNHellyNjhHTTgyMXBp@81.19.141.45:443#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361/?encryption=none&flow=&host=zula.ir%2C%20parspack.com%2C%20refersion.com&type=tcp&headerType=http#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://363c2222-05%655-40c0-df49-d8044d285d%655@172.67.146.171:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://363c2222-05%655-40c0-df49-d8044d285d%655@www.speedtest.net:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://3a1db84b-37ef-4061-ac3a-6165d52ca803@91.107.146.223:28460/?type=tcp&encryption=none&flow=#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vless://f5f5c738-c796-4d4e-b5c4-12e49e2bd3f0@fear.anabelrz.xyz:46646/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=gaoozG55HRzdfA0FNB65eKRzmBd7NEu4qdPArZN9Fw0&sid=74e2f6#Germany🇩🇪
-# 2025-11-11
+# 2025-11-12
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
