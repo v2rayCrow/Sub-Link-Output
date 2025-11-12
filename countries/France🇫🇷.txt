@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 15:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-12
 trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F51.38.226.4%3D2053&security=tls&sni=joss.dus.biz.id#France🇫🇷
