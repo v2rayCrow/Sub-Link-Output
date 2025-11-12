@@ -1,6 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 15:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-12
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#United%20Kingdom🇬🇧
-# 2025-11-12
-vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp#United%20Kingdom🇬🇧
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102/?insecure=1#United%20Kingdom🇬🇧
