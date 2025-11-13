@@ -1,4 +1,12 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-13 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-13 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#Finland🇫🇮
+# 2025-11-13
+vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&security=&encryption=none&host=157.180.123.25&type=ws#Finland🇫🇮
+# 2025-11-13
+vless://Parsashonam-Bot-36@104.17.147.22:8080/?type=ws&encryption=none&flow=&host=Fi.Parsashonam.CfD.&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056#Finland🇫🇮
+# 2025-11-13
+vless://Parsashonam-Bot-36@104.17.147.22:8880/?type=ws&encryption=none&flow=&host=Fi.Parsashonam.CfD.&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056#Finland🇫🇮
+# 2025-11-13
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#Finland🇫🇮

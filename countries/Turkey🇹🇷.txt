@@ -1,8 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-13 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-12
+# 2025-11-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Turkey🇹🇷
-# 2025-11-12
-vless://3937359b-f304-44f7-b957-4c6f1a53a7f9@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#Turkey🇹🇷
-# 2025-11-12
+# 2025-11-13
 vless://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=book.frnsoft.com#Turkey🇹🇷
