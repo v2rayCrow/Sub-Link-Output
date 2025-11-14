@@ -1,4 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-14 04:11
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-14 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-14
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#Taiwan🇹🇼
+# 2025-11-14
+vmess://eyJhZGQiOiIxMDMuMTI3LjIxOC45MSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIxY2VmMDNhZC02MzQzLTQwOGMtODEyMS1jYmQxZmRhMmVlOWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMWNlZjAzYWQiLCJwb3J0IjoiNTQ2OTMiLCJwcyI6IlRhaXdhblx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ

@@ -1,9 +1,9 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-14 04:11
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-14 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WW5EMHQySkl3TlV5VFVqaW1SNG5G@81.19.141.45:443#Germany🇩🇪
-# 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#Germany🇩🇪
+# 2025-11-14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WW5EMHQySkl3TlV5VFVqaW1SNG5G@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZEVnOXNLVXR1Uk94bjN6YU5vZ3pV@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
@@ -41,45 +41,55 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUmpZb2tXVXZSS2tjM3EyYTlBYm5u@81.19.141.45:4
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTDdNUXlkSXNUYmxuM3hPcTRsVnZN@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#Germany🇩🇪
-# 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVjhXMmlxYjU2V3JyZUpFMHBzcW01@62.133.60.43:36456#Germany🇩🇪
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRzNrbm5zR3Vpb1g4dWhFa1NZWUdq@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROVVmajlpNkhJcjVHWnVmVHRPTGtl@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#Germany🇩🇪
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSM21LeGUyQzc1dzVLTGlrNWRoWlhu@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRWNMQ3JsN3lxODB5RGVRSlB6c1Zl@81.19.141.45:443#Germany🇩🇪
+# 2025-11-14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROVVmajlpNkhJcjVHWnVmVHRPTGtl@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZkJOcmN3Q3lVOXpTemIyTHhuMXhq@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUGJSMjEzVElsQWQ0ZkxlWXJENm1C@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaTDVSYkxNNGV0VnAzdksxWVFHNkFw@81.19.141.45:443#Germany🇩🇪
+# 2025-11-14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWjdpYkJ5cFdZSHNsWDloemV0ZU12@81.19.141.45:443#Germany🇩🇪
+# 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjODhCdjVUZlUxWWpOREszaGxkbzhH@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjTTBlNHhPTkNHellyNjhHTTgyMXBp@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWjdpYkJ5cFdZSHNsWDloemV0ZU12@81.19.141.45:443#Germany🇩🇪
-# 2025-11-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVEpLQWlPTldhcDk1NVJreHlQaTNG@81.19.141.45:443#Germany🇩🇪
 # 2025-11-14
-vless://0078d912-bca4-4898-a414-2514233c008a@ger.4uvpn1.us:52361/?encryption=none&flow=&host=zula.ir%2C%20parspack.com%2C%20refersion.com&type=tcp&headerType=http#Germany🇩🇪
+vless://%658c%612868-7306-487d-81b2-9c570f08d48%65@www.speedtest.net:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
+# 2025-11-14
+vless://%658c%612868-7306-487d-81b2-9c570f08d48%65@172.67.146.171:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
+# 2025-11-14
+vless://17571679-9586-4625-a6e5-be73e28dd2ff@fuck.s8nt.ir:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=heise.de#Germany🇩🇪
 # 2025-11-14
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪
 # 2025-11-14
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪
 # 2025-11-14
-vless://91%6501%61c%65-4354-4b74-c283-5c011c45428%65@91.99.156.225:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
+vless://505357b2-ee7d-4f0d-838f-b5d7348d9430@91.107.170.215:80?type=ws&security=none&path=%2Fali#Germany🇩🇪
 # 2025-11-14
-vless://91%6501%61c%65-4354-4b74-c283-5c011c45428%65@172.67.146.171:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#Germany🇩🇪
+vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.99.126.166:443?type=xhttp&encryption=none&path=%2Fsdf&host=&mode=auto&security=reality&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#Germany🇩🇪
 # 2025-11-14
-vless://b645a5cc-006f-4f93-8cdc-3e5415262772@46.20.111.170:20006?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪
+vless://718c8dfd-c914-4967-e691-ca6db3935354@104.16.1.106:8080?mode=auto&path=%2F%3Fed%3D2048%3F%2FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#Germany🇩🇪
+# 2025-11-14
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai172.000444.cn:443?encryption=none&security=tls&sni=cho.chonon.sbs&alpn=h3&fp=chrome&type=xhttp&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&mode=packet-up#Germany🇩🇪
+# 2025-11-14
+vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?type=tcp&encryption=none&security=none#Germany🇩🇪
 # 2025-11-14
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪
 # 2025-11-14
-vless://f5f5c738-c796-4d4e-b5c4-12e49e2bd3f0@fear.anabelrz.xyz:46646/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=firefox&security=reality&pbk=gaoozG55HRzdfA0FNB65eKRzmBd7NEu4qdPArZN9Fw0&sid=74e2f6#Germany🇩🇪
+vmess://eyJ2IjoiMiIsInBzIjoiR2VybWFueVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsImFkZCI6IjUuMjU0Ljg1LjE1NyIsInBvcnQiOiI4MCIsImlkIjoiZDk2N2ZmY2EtZGU5MC00ZGFhLWJkMDAtZDUyN2U1YmFlMTFmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0ubGVvc2hvcHBpbmc3Ny5pci4iLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 # 2025-11-14
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 # 2025-11-14
