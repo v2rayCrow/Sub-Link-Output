@@ -283,15 +283,15 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#United%20States🇺🇸",
+      "date": "2025-11-16"
+    },
+    {
       "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@45.40.151.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸",
       "date": "2025-11-16"
     },
     {
       "line": "vless://29196011-bbdf-42e0-80b2-9c30e62b33e2@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988004826679160.corolla-amsht.info&type=ws&host=638988004826679160.corolla-amsht.info&path=/nkbktzws#United%20States🇺🇸",
-      "date": "2025-11-16"
-    },
-    {
-      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#United%20States🇺🇸",
       "date": "2025-11-16"
     },
     {
@@ -981,10 +981,6 @@
   ],
   "Cloudflare🌐": [
     {
-      "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de&path=%2F#Cloudflare🌐",
-      "date": "2025-11-16"
-    },
-    {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#Cloudflare🌐",
       "date": "2025-11-16"
     },
@@ -1014,6 +1010,10 @@
     },
     {
       "line": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@www.speedtest.net:2087?encryption=none&security=tls&sni=DdDFRgGf.FeRIdO.InFo&type=ws&alpn=h2http/1.1&host=DdDFRgGf.FeRIdO.InFo&path=/#Cloudflare🌐",
+      "date": "2025-11-16"
+    },
+    {
+      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#Cloudflare🌐",
       "date": "2025-11-16"
     },
     {

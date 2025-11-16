@@ -1,11 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-16 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-16 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-11-16
+vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#United%20States🇺🇸
 # 2025-11-16
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.40.151.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸
 # 2025-11-16
 vless://29196011-bbdf-42e0-80b2-9c30e62b33e2@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988004826679160.corolla-amsht.info&type=ws&host=638988004826679160.corolla-amsht.info&path=/nkbktzws#United%20States🇺🇸
-# 2025-11-16
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#United%20States🇺🇸
 # 2025-11-16
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987972960682357.prius-amsht.info&path=%2Fcahttingws&security=tls&sni=638987972960682357.prius-amsht.info#United%20States🇺🇸
 # 2025-11-16
