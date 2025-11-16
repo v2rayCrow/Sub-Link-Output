@@ -593,10 +593,6 @@
       "date": "2025-11-16"
     },
     {
-      "line": "trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705/?type=tcp&security=tls#United%20Kingdom🇬🇧",
-      "date": "2025-11-16"
-    },
-    {
       "line": "vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#United%20Kingdom🇬🇧",
       "date": "2025-11-16"
     },
@@ -976,6 +972,12 @@
     },
     {
       "line": "vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-021.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-021.shenzogmbh.com&fp=chrome#Cyprus🇨🇾",
+      "date": "2025-11-16"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705/?type=tcp&security=tls#UNKNOWN🏳️",
       "date": "2025-11-16"
     }
   ],
