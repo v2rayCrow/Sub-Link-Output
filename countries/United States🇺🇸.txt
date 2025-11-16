@@ -1,27 +1,29 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-16 04:14
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-16 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-16
-vless://25534285-7978-4239-9b25-8f3f1d8c2234@fx.ircloudmarket.com:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2012.ir&type=xhttp#United%20States🇺🇸
+vless://2456f90c-5183-476d-b069-16ae74ce120f@45.40.151.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸
 # 2025-11-16
-vless://25534285-7978-4239-9b25-8f3f1d8c2234@mci.dl101movis.ir:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2012.ir&type=xhttp#United%20States🇺🇸
+vless://29196011-bbdf-42e0-80b2-9c30e62b33e2@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988004826679160.corolla-amsht.info&type=ws&host=638988004826679160.corolla-amsht.info&path=/nkbktzws#United%20States🇺🇸
 # 2025-11-16
-vless://25534285-7978-4239-9b25-8f3f1d8c2234@speedtestcustom.com:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2012.ir&type=xhttp#United%20States🇺🇸
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#United%20States🇺🇸
 # 2025-11-16
-vless://28814159-bc0a-40f5-9715-376c8b6df846@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#United%20States🇺🇸
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987972960682357.prius-amsht.info&path=%2Fcahttingws&security=tls&sni=638987972960682357.prius-amsht.info#United%20States🇺🇸
 # 2025-11-16
-vless://61c77e4e-8f54-4c6e-c3a7-809ca9c990df@151.101.3.8:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20States🇺🇸
+vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=jackal.ZulAIr.SiTe.&fp=chrome&type=ws&sni=jackal.ZulAIr.SiTe.#United%20States🇺🇸
+# 2025-11-16
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?&security=tls&sni=gb-42123.shenzogmbh.com&type=ws&headerType=none&host=gb-42123.shenzogmbh.com&path=%2Fapi%2Fv1#United%20States🇺🇸
+# 2025-11-16
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@166.62.114.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
 # 2025-11-16
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
 # 2025-11-16
-vless://7024fc2a-0202-4803-8d0e-0bbd0d14c29a@151.101.3.8:80?mode=auto&path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-11-16
-vless://834d4207-c3bd-48ae-923f-e5df7fe3a71d@speedtest.net:80?type=xhttp&encryption=none&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=coolpp_lool0909.global.ssl.fastly.net&mode=auto&security=none#United%20States🇺🇸
+vless://71bcc2ff-5916-407c-ad3e-4f189088bad4@151.101.3.8:80?mode=auto&path=%2FJoin-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&security=&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-11-16
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&fp=chrome#United%20States🇺🇸
 # 2025-11-16
-vless://8df510c5-5267-4012-9da7-6ae0ea8d8416@test.fast.hosting-ip.com:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=none&encryption=none&host=Ctarboy726.ir&type=xhttp#United%20States🇺🇸
+vless://834d4207-c3bd-48ae-923f-e5df7fe3a71d@speedtest.net:80?type=xhttp&encryption=none&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=coolpp_lool0909.global.ssl.fastly.net&mode=auto&security=none#United%20States🇺🇸
 # 2025-11-16
-vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&sid=#United%20States🇺🇸
+vless://8df510c5-5267-4012-9da7-6ae0ea8d8416@test.fast.hosting-ip.com:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=none&encryption=none&host=Ctarboy726.ir&type=xhttp#United%20States🇺🇸
 # 2025-11-16
 vless://TELEGRAM-CONFiGLiNE-36@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=telegramconfigline.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-11-16
@@ -29,55 +31,53 @@ vless://TELEGRAM-CONFiGLiNE-37@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftel
 # 2025-11-16
 vless://TELEGRAM-CONFiGLiNE-39@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=aoijji.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-11-16
-vless://TELEGRAM-CONFiGLiNE-38@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=panelvipasli.io&type=xhttp#United%20States🇺🇸
+vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@142.171.140.152:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=%2F#United%20States🇺🇸
 # 2025-11-16
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095?security=&type=ws&path=/?ed%3D2560&host=xijinpingnmsl.s4ar.workers.dev&encryption=none#United%20States🇺🇸
+vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#United%20States🇺🇸
 # 2025-11-16
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.68.156.170:443/?type=ws&encryption=none&flow=&host=d342d11e.cialloneko.netlib.re&path=%2F&security=tls&sni=d342d11e.cialloneko.netlib.re&alpn=http%2F1.1&fp=random#United%20States🇺🇸
+vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@saas.sin.fan:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=%2F#United%20States🇺🇸
 # 2025-11-16
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.205.0.55:2087/?type=ws&encryption=none&flow=&host=d342d11e.cialloneko.netlib.re&path=%2F&security=tls&sni=d342d11e.cialloneko.netlib.re&alpn=http%2F1.1&fp=random#United%20States🇺🇸
+vless://b4f3041b-e939-4c1a-8f1d-70e8369b25eb@142.93.76.209:4655?security=none&encryption=none&headerType=none&type=tcp#United%20States🇺🇸
 # 2025-11-16
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.68.156.95:443/?type=ws&encryption=none&flow=&host=d342d11e.cialloneko.netlib.re&path=%2F&security=tls&sni=d342d11e.cialloneko.netlib.re&alpn=http%2F1.1&fp=random#United%20States🇺🇸
 # 2025-11-16
-vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@162.159.38.111:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&fp=chrome&type=ws&sni=2.294294.xyz#United%20States🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095?security=&type=ws&path=/?ed%3D2560&host=xijinpingnmsl.s4ar.workers.dev&encryption=none#United%20States🇺🇸
 # 2025-11-16
-vless://eaf46bf4-2fae-4aad-8bea-1734df897848@151.101.3.8:80?type=xhttp&encryption=none&path=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&host=movie.ir&mode=auto&security=none#United%20States🇺🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.179.48.52:443/?type=ws&encryption=none&flow=&host=4d27bdd3.cialloneko.netlib.re&path=%2F&security=tls&sni=4d27bdd3.cialloneko.netlib.re&alpn=http%2F1.1&fp=random#United%20States🇺🇸
+# 2025-11-16
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.205.0.55:2087/?type=ws&encryption=none&flow=&host=d342d11e.cialloneko.netlib.re&path=%2F&security=tls&sni=d342d11e.cialloneko.netlib.re&alpn=http%2F1.1&fp=random#United%20States🇺🇸
+# 2025-11-16
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.68.156.170:443/?type=ws&encryption=none&flow=&host=d342d11e.cialloneko.netlib.re&path=%2F&security=tls&sni=d342d11e.cialloneko.netlib.re&alpn=http%2F1.1&fp=random#United%20States🇺🇸
+# 2025-11-16
+vless://dea991b4-696f-4e9e-9761-1e1b31bb02de@162.159.38.111:443?path=%2Fsnippets&security=tls&encryption=none&host=2.294294.xyz&fp=chrome&type=ws&sni=2.294294.xyz#United%20States🇺🇸
 # 2025-11-16
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?security=tls&encryption=none&type=ws&sni=gaosir.unfeeling.sbs#United%20States🇺🇸
 # 2025-11-16
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#United%20States🇺🇸
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2F#United%20States🇺🇸
 # 2025-11-16
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#United%20States🇺🇸
 # 2025-11-16
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443/?type=ws&encryption=none&flow=&host=snippets.nneko.netlib.re&path=%2F%3Fed%3D2048J--_T&security=tls&sni=snippets.nneko.netlib.re&fp=random#United%20States🇺🇸
-# 2025-11-16
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@216.24.57.119:443?path=%2F%3Fed%3D2560J---_T&security=tls&encryption=none&host=snippets.mnmnm.netlib.re&fp=random&type=ws&sni=snippets.mnmnm.netlib.re#United%20States🇺🇸
 # 2025-11-16
-vmess://eyJhZGQiOiIxMDMuMTI0LjEwNy4xNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2MzMWRkZmMtZDkyZS00ZGFiLWNkMDYtMDBkZmI4NGFmOGFjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyOTgwMCIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443/?type=ws&encryption=none&flow=&host=snippets.nneko.netlib.re&path=%2F%3Fed%3D2048J--_T&security=tls&sni=snippets.nneko.netlib.re&fp=random#United%20States🇺🇸
 # 2025-11-16
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI0NjA5MDhiOC1kZTE2LTQyZTktYmQwZC0xOTE1MjJhYjkyYTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjE1MDk3IiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=BAt.zuLAir.siTe.&fp=chrome&type=ws&sni=BAt.zuLAir.siTe.#United%20States🇺🇸
 # 2025-11-16
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyYzE4MDdjZS02YTYzLTQ0NTEtOWFkZC1hNzc4ZDI1MDcxNjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjE4MzkzIiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-# 2025-11-16
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1MzgxNDQ1ZC02YWU0LTQ5NDgtYjYxYS1hMTZkOTQ5OGQyMWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjMxNDY5IiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-# 2025-11-16
-vmess://eyJhZGQiOiIzOC4xMi44My4yMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imxvb3NlbHkuZnJlZXRyYWRlLmxpbmsiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzAwMDIiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-# 2025-11-16
-vmess://eyJhZGQiOiJ5ZS5meGxjbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFlNDI2MDQ2LXQwZmRzMC10MTJjbmotMW9sOTcuaGsucDVwdi5jb20iLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDUyNzciLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-# 2025-11-16
-hy2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743/?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#United%20States🇺🇸
-# 2025-11-16
-hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102/?insecure=1#United%20States🇺🇸
-# 2025-11-16
-hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1#United%20States🇺🇸
-# 2025-11-16
-hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743/?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#United%20States🇺🇸
+vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjY2LjI1My43LjE3OCIsInBvcnQiOiIyMDUyMSIsImlkIjoiZDI0YzQ5OWItM2IyNS00NDFlLTljNmUtYjEyNDIxYTkxMDQxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 # 2025-11-16
 hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@048f2a67-t48f40-t48q54-4550.la.shifen.uk:1743/?sni=048f2a67-t48f40-t48q54-4550.la.shifen.uk#United%20States🇺🇸
 # 2025-11-16
-hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743/?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#United%20States🇺🇸
+hy2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743/?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#United%20States🇺🇸
+# 2025-11-16
+hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1#United%20States🇺🇸
+# 2025-11-16
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102/?insecure=1#United%20States🇺🇸
+# 2025-11-16
+hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743/?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#United%20States🇺🇸
 # 2025-11-16
 hy2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743/?sni=98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk#United%20States🇺🇸
+# 2025-11-16
+hy2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743/?sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#United%20States🇺🇸
 # 2025-11-16
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#United%20States🇺🇸
 # 2025-11-16
@@ -85,7 +85,7 @@ hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.
 # 2025-11-16
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#United%20States🇺🇸
 # 2025-11-16
-hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#United%20States🇺🇸
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?security=tls&insecure=1&sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#United%20States🇺🇸
 # 2025-11-16
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&insecure=1#United%20States🇺🇸
 # 2025-11-16
@@ -95,8 +95,8 @@ hysteria2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.
 # 2025-11-16
 hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?security=tls&insecure=0&sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#United%20States🇺🇸
 # 2025-11-16
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?security=tls&insecure=1&sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#United%20States🇺🇸
-# 2025-11-16
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?security=tls&insecure=0&sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#United%20States🇺🇸
+# 2025-11-16
+hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#United%20States🇺🇸
 # 2025-11-16
 hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#United%20States🇺🇸
