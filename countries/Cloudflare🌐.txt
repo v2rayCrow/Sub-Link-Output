@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-17
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐
@@ -20,8 +20,6 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=%2Fassets%3
 vless://4605f8c1-4818-4fd9-9bcd-ec1fc5c47abd@172.67.136.244:8443/?type=ws&encryption=none&flow=&host=hint.app-browser.org&path=%2FB9aKBZK1R8OBYWBZ&ed=9777&eh=Sec-WebSocket-Protocol&security=tls&sni=hint.app-browser.org&allowInsecure=1#Cloudflare🌐
 # 2025-11-17
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@www.speedtest.net:2087?encryption=none&security=tls&sni=DdDFRgGf.FeRIdO.InFo&type=ws&alpn=h2http/1.1&host=DdDFRgGf.FeRIdO.InFo&path=/#Cloudflare🌐
-# 2025-11-17
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#Cloudflare🌐
 # 2025-11-17
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Cloudflare🌐
 # 2025-11-17
@@ -46,6 +44,8 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443/?type=ws&encryption
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2Fv1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&type=ws&sni=gb-8981.shenzogmbh.com#Cloudflare🌐
 # 2025-11-17
 vless://635dfb8e-3d28-40c2-bd27-9b85e7bc6bb6@172.67.185.98:8443/?type=ws&encryption=none&flow=&host=ion.api-music-fa.com&path=%2FJ5aKLOY1R9ONWYCM&ed=2541&eh=Sec-WebSocket-Protocol&security=tls&sni=ion.api-music-fa.com&allowInsecure=1#Cloudflare🌐
+# 2025-11-17
+vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574284907836.prius-amshw.info&type=ws&host=638988574284907836.prius-amshw.info&path=/mihjxdws#Cloudflare🌐
 # 2025-11-17
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?path=%2F&security=tls&encryption=none&type=ws&sni=vless.muzheng.top#Cloudflare🌐
 # 2025-11-17

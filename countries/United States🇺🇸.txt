@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#United%20States🇺🇸
@@ -21,11 +21,11 @@ vless://3a86fa27-38fd-4286-91f0-5f7d78fb0fb7@151.101.3.8:80?mode=auto&path=%2F%4
 # 2025-11-17
 vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=jackal.ZulAIr.SiTe.&fp=chrome&type=ws&sni=jackal.ZulAIr.SiTe.#United%20States🇺🇸
 # 2025-11-17
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#United%20States🇺🇸
+# 2025-11-17
 vless://56376cb7-4bc7-4c27-814f-3fc2c94a2a43@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574329485117.accord-amshw.info&type=ws&host=638988574329485117.accord-amshw.info&path=/pejjttws#United%20States🇺🇸
 # 2025-11-17
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987972960682357.prius-amsht.info&path=%2Fcahttingws&security=tls&sni=638987972960682357.prius-amsht.info#United%20States🇺🇸
-# 2025-11-17
-vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574284907836.prius-amshw.info&type=ws&host=638988574284907836.prius-amshw.info&path=/mihjxdws#United%20States🇺🇸
 # 2025-11-17
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@166.62.114.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
 # 2025-11-17

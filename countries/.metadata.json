@@ -301,10 +301,6 @@
       "date": "2025-11-17"
     },
     {
-      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#Cloudflare🌐",
-      "date": "2025-11-17"
-    },
-    {
       "line": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Cloudflare🌐",
       "date": "2025-11-17"
     },
@@ -350,6 +346,10 @@
     },
     {
       "line": "vless://635dfb8e-3d28-40c2-bd27-9b85e7bc6bb6@172.67.185.98:8443/?type=ws&encryption=none&flow=&host=ion.api-music-fa.com&path=%2FJ5aKLOY1R9ONWYCM&ed=2541&eh=Sec-WebSocket-Protocol&security=tls&sni=ion.api-music-fa.com&allowInsecure=1#Cloudflare🌐",
+      "date": "2025-11-17"
+    },
+    {
+      "line": "vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574284907836.prius-amshw.info&type=ws&host=638988574284907836.prius-amshw.info&path=/mihjxdws#Cloudflare🌐",
       "date": "2025-11-17"
     },
     {
@@ -549,15 +549,15 @@
       "date": "2025-11-17"
     },
     {
+      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#United%20States🇺🇸",
+      "date": "2025-11-17"
+    },
+    {
       "line": "vless://56376cb7-4bc7-4c27-814f-3fc2c94a2a43@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574329485117.accord-amshw.info&type=ws&host=638988574329485117.accord-amshw.info&path=/pejjttws#United%20States🇺🇸",
       "date": "2025-11-17"
     },
     {
       "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987972960682357.prius-amsht.info&path=%2Fcahttingws&security=tls&sni=638987972960682357.prius-amsht.info#United%20States🇺🇸",
-      "date": "2025-11-17"
-    },
-    {
-      "line": "vless://6a5a20c8-ada7-4a58-ad0e-709f80df29ef@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574284907836.prius-amshw.info&type=ws&host=638988574284907836.prius-amshw.info&path=/mihjxdws#United%20States🇺🇸",
       "date": "2025-11-17"
     },
     {
