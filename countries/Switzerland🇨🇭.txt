@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-14 04:11
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQWoyZ0hCRnl0MVRBZVlreDZuOU1r@45.95.232.236:4248#Switzerland🇨🇭
+# 2025-11-17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOEs2c3MwQXZldVdsV3pXODBYNU5M@45.95.232.236:4248#Switzerland🇨🇭
