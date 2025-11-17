@@ -59,6 +59,14 @@
   ],
   "Germany🇩🇪": [
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#Germany🇩🇪",
+      "date": "2025-11-17"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MlRQZDRYcWwzN0xuT0JWd0dBMnln@81.19.141.45:443#Germany🇩🇪",
+      "date": "2025-11-17"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3WW5EMHQySkl3TlV5VFVqaW1SNG5G@81.19.141.45:443#Germany🇩🇪",
       "date": "2025-11-17"
     },
@@ -227,14 +235,6 @@
       "date": "2025-11-17"
     },
     {
-      "line": "vless://Warpi-Free-Vpn-In-GooglePlay@vp4.myphotomoments.ir:443/?type=tcp&encryption=none&flow=#Germany🇩🇪",
-      "date": "2025-11-17"
-    },
-    {
-      "line": "vless://Warpi-Free-Vpn-In-GooglePlay@vp5.myphotomoments.ir:443/?type=tcp&encryption=none&flow=#Germany🇩🇪",
-      "date": "2025-11-17"
-    },
-    {
       "line": "vless://Warpi-Free-Vpn-In-GooglePlay@vp8.myphotomoments.ir:443/?type=tcp&encryption=none&flow=#Germany🇩🇪",
       "date": "2025-11-17"
     },
@@ -260,6 +260,14 @@
     }
   ],
   "Cloudflare🌐": [
+    {
+      "line": "vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐",
+      "date": "2025-11-17"
+    },
+    {
+      "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de&path=%2F#Cloudflare🌐",
+      "date": "2025-11-17"
+    },
     {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#Cloudflare🌐",
       "date": "2025-11-17"
@@ -290,10 +298,6 @@
     },
     {
       "line": "vless://502ce704-dcec-4f92-9489-505c99ce6c89@www.speedtest.net:2087?encryption=none&security=tls&sni=DdDFRgGf.FeRIdO.InFo&type=ws&alpn=h2http/1.1&host=DdDFRgGf.FeRIdO.InFo&path=/#Cloudflare🌐",
-      "date": "2025-11-17"
-    },
-    {
-      "line": "vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=jackal.ZulAIr.SiTe.&fp=chrome&type=ws&sni=jackal.ZulAIr.SiTe.#Cloudflare🌐",
       "date": "2025-11-17"
     },
     {
@@ -453,10 +457,6 @@
       "date": "2025-11-17"
     },
     {
-      "line": "vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=BAt.zuLAir.siTe.&fp=chrome&type=ws&sni=BAt.zuLAir.siTe.#Cloudflare🌐",
-      "date": "2025-11-17"
-    },
-    {
       "line": "vmess://eyJhZGQiOiIxODguMTE0Ljk2LjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwiaWQiOiI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXp1bWFzZS5yZW4iLCJwb3J0IjoiNDQzIiwicHMiOiJDbG91ZGZsYXJlXHVkODNjXHVkZjEwIiwic2N5IjoiYXV0byIsInNuaSI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
       "date": "2025-11-17"
     }
@@ -509,14 +509,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#United%20States🇺🇸",
-      "date": "2025-11-17"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#United%20States🇺🇸",
-      "date": "2025-11-17"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#United%20States🇺🇸",
       "date": "2025-11-17"
     },
@@ -550,6 +542,10 @@
     },
     {
       "line": "vless://3a86fa27-38fd-4286-91f0-5f7d78fb0fb7@151.101.3.8:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20States🇺🇸",
+      "date": "2025-11-17"
+    },
+    {
+      "line": "vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=jackal.ZulAIr.SiTe.&fp=chrome&type=ws&sni=jackal.ZulAIr.SiTe.#United%20States🇺🇸",
       "date": "2025-11-17"
     },
     {
@@ -626,6 +622,10 @@
     },
     {
       "line": "vless://f7a638cb-14db-4836-b587-733197f0d691@test.fast.hosting-ip.com:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=&encryption=none&host=Ctarboy726.ir&type=xhttp#United%20States🇺🇸",
+      "date": "2025-11-17"
+    },
+    {
+      "line": "vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=BAt.zuLAir.siTe.&fp=chrome&type=ws&sni=BAt.zuLAir.siTe.#United%20States🇺🇸",
       "date": "2025-11-17"
     },
     {
@@ -1278,6 +1278,16 @@
     },
     {
       "line": "vless://7556317c-dff6-46e8-ad29-b408f2a6456e@5.10.214.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#Armenia🇦🇲",
+      "date": "2025-11-17"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://Warpi-Free-Vpn-In-GooglePlay@vp4.myphotomoments.ir:443/?type=tcp&encryption=none&flow=#UNKNOWN🏳️",
+      "date": "2025-11-17"
+    },
+    {
+      "line": "vless://Warpi-Free-Vpn-In-GooglePlay@vp5.myphotomoments.ir:443/?type=tcp&encryption=none&flow=#UNKNOWN🏳️",
       "date": "2025-11-17"
     }
   ],

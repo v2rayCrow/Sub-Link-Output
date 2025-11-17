@@ -1,9 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 09:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-17 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#United%20States🇺🇸
-# 2025-11-17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#United%20States🇺🇸
 # 2025-11-17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#United%20States🇺🇸
 # 2025-11-17
@@ -22,6 +18,8 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encry
 vless://29196011-bbdf-42e0-80b2-9c30e62b33e2@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638988004826679160.corolla-amsht.info&path=%2Fnkbktzws&security=tls&sni=638988004826679160.corolla-amsht.info#United%20States🇺🇸
 # 2025-11-17
 vless://3a86fa27-38fd-4286-91f0-5f7d78fb0fb7@151.101.3.8:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20States🇺🇸
+# 2025-11-17
+vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=jackal.ZulAIr.SiTe.&fp=chrome&type=ws&sni=jackal.ZulAIr.SiTe.#United%20States🇺🇸
 # 2025-11-17
 vless://56376cb7-4bc7-4c27-814f-3fc2c94a2a43@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988574329485117.accord-amshw.info&type=ws&host=638988574329485117.accord-amshw.info&path=/pejjttws#United%20States🇺🇸
 # 2025-11-17
@@ -60,6 +58,8 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?security=tls&encryption=none&type=ws&sni=gaosir.unfeeling.sbs#United%20States🇺🇸
 # 2025-11-17
 vless://f7a638cb-14db-4836-b587-733197f0d691@test.fast.hosting-ip.com:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=&encryption=none&host=Ctarboy726.ir&type=xhttp#United%20States🇺🇸
+# 2025-11-17
+vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=BAt.zuLAir.siTe.&fp=chrome&type=ws&sni=BAt.zuLAir.siTe.#United%20States🇺🇸
 # 2025-11-17
 vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjY2LjI1My43LjE3OCIsInBvcnQiOiIyMDUyMSIsImlkIjoiZDI0YzQ5OWItM2IyNS00NDFlLTljNmUtYjEyNDIxYTkxMDQxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 # 2025-11-17
