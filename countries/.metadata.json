@@ -281,6 +281,14 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGZ4aW9LMFZrS3hUZHBWUUo0cnY4SGdsQXUwdnp2Ng%3D%3D@146.19.49.251:443#United%20States🇺🇸",
+      "date": "2025-11-18"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#United%20States🇺🇸",
+      "date": "2025-11-18"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸",
       "date": "2025-11-18"
     },
@@ -373,10 +381,6 @@
       "date": "2025-11-18"
     },
     {
-      "line": "vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#United%20States🇺🇸",
-      "date": "2025-11-18"
-    },
-    {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸",
       "date": "2025-11-18"
     },
@@ -385,15 +389,11 @@
       "date": "2025-11-18"
     },
     {
+      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638989280617257851.civic-amshx.info&type=ws&host=638989280617257851.civic-amshx.info&path=/cahttingws#United%20States🇺🇸",
+      "date": "2025-11-18"
+    },
+    {
       "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988506136311592.corolla-amshw.info&type=ws&host=638988506136311592.corolla-amshw.info&path=/cahttingws#United%20States🇺🇸",
-      "date": "2025-11-18"
-    },
-    {
-      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#United%20States🇺🇸",
-      "date": "2025-11-18"
-    },
-    {
-      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987378208894304.sentra-amshr.info&path=%2Fcahttingws&security=tls&sni=638987378208894304.sentra-amshr.info&fp=chrome#United%20States🇺🇸",
       "date": "2025-11-18"
     },
     {
@@ -1021,6 +1021,10 @@
       "date": "2025-11-18"
     },
     {
+      "line": "vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#Cloudflare🌐",
+      "date": "2025-11-18"
+    },
+    {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#Cloudflare🌐",
       "date": "2025-11-18"
     },
@@ -1057,7 +1061,11 @@
       "date": "2025-11-18"
     },
     {
-      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638989280617257851.civic-amshx.info&type=ws&host=638989280617257851.civic-amshx.info&path=/cahttingws#Cloudflare🌐",
+      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987647974712110.outback-amshs.info&path=%2Fcahttingws&security=tls&sni=638987647974712110.outback-amshs.info#Cloudflare🌐",
+      "date": "2025-11-18"
+    },
+    {
+      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987378208894304.sentra-amshr.info&path=%2Fcahttingws&security=tls&sni=638987378208894304.sentra-amshr.info&fp=chrome#Cloudflare🌐",
       "date": "2025-11-18"
     },
     {
@@ -1157,10 +1165,6 @@
       "date": "2025-11-18"
     },
     {
-      "line": "vless://Free_HTTPCustom@free-httpcustom4free-httpcustom-free-httpcustom-free-httpcustom.httpcustom.ir:443?mode=packet-up&path=%2F%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom%3Fed%3D2560&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMinPostsIntervalMs%22%3A%2030%7D&host=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir&fp=firefox&type=xhttp&sni=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir#Cloudflare🌐",
-      "date": "2025-11-18"
-    },
-    {
       "line": "vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.nAsTaRaN.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG#Cloudflare🌐",
       "date": "2025-11-18"
     },
@@ -1256,6 +1260,12 @@
   "Iran🇮🇷": [
     {
       "line": "vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995/?type=tcp&encryption=none#Iran🇮🇷",
+      "date": "2025-11-18"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://Free_HTTPCustom@free-httpcustom4free-httpcustom-free-httpcustom-free-httpcustom.httpcustom.ir:443?mode=packet-up&path=%2F%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom%3Fed%3D2560&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMinPostsIntervalMs%22%3A%2030%7D&host=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir&fp=firefox&type=xhttp&sni=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir#UNKNOWN🏳️",
       "date": "2025-11-18"
     }
   ],
