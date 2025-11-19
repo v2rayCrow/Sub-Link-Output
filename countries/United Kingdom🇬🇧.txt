@@ -1,17 +1,15 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 04:11
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RXhrU1dlY2lSMmM5cHJGcHdKNGpY@89.185.84.185:443#United%20Kingdom🇬🇧
-# 2025-11-19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6eXp1SjJINFRwNUNyOFQ5bm5QS3Yy@89.185.84.185:443#United%20Kingdom🇬🇧
 # 2025-11-19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWGpNUUllbTB1U2hHdlJ6T3BmeWli@89.185.84.185:443#United%20Kingdom🇬🇧
 # 2025-11-19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR3k1dGxtOGJBUWRNNXpjOVhGRjBZ@89.185.84.185:443#United%20Kingdom🇬🇧
 # 2025-11-19
-vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#United%20Kingdom🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNjdxMnBFeGlRc1NYS2JCTlE2ZFRx@213.173.33.38:8443#United%20Kingdom🇬🇧
 # 2025-11-19
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#United%20Kingdom🇬🇧
+vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#United%20Kingdom🇬🇧
 # 2025-11-19
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#United%20Kingdom🇬🇧
 # 2025-11-19
