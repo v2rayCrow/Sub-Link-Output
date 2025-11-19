@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6U3VjaEVGa01hY3FZOVc0YjdEazc1@89.36.162.181:8443#United%20Arab%20Emirates🇦🇪
