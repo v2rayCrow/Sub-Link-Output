@@ -1,9 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#United%20States🇺🇸
-# 2025-11-19
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#United%20States🇺🇸
 # 2025-11-19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#United%20States🇺🇸
 # 2025-11-19
@@ -24,6 +20,8 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encry
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.40.151.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸
 # 2025-11-19
 vless://287c86b0-600f-4bcd-83b0-04f988de89fd@test.fast.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=&encryption=none&host=Ctarboy726.ir&type=xhttp#United%20States🇺🇸
+# 2025-11-19
+vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#United%20States🇺🇸
 # 2025-11-19
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸
 # 2025-11-19
@@ -64,6 +62,8 @@ vless://TELEGRAM-CONFiGLiNE-49@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiG
 vless://TELEGRAM-CONFiGLiNE-50@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=azaiji2.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-11-19
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#United%20States🇺🇸
+# 2025-11-19
+vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&type=ws&sni=GRouND-sloth.zulair.SIte.#United%20States🇺🇸
 # 2025-11-19
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2F#United%20States🇺🇸
 # 2025-11-19

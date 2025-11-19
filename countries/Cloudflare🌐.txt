@@ -1,9 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-19
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#Cloudflare🌐
-# 2025-11-19
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#Cloudflare🌐
 # 2025-11-19
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐
 # 2025-11-19
@@ -62,8 +60,6 @@ vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=%2F%3Fed%3D2560&s
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=a.azadnet002.ddns-ip.net#Cloudflare🌐
 # 2025-11-19
 vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096/?type=ws&encryption=none&flow=&host=GRouND-sloth.zulair.SIte.&path=%2F&security=tls&sni=GRouND-sloth.zulair.SIte.&fp=chrome#Cloudflare🌐
-# 2025-11-19
-vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&type=ws&sni=GRouND-sloth.zulair.SIte.#Cloudflare🌐
 # 2025-11-19
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Cloudflare🌐
 # 2025-11-19

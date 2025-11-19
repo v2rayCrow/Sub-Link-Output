@@ -269,14 +269,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#United%20States🇺🇸",
-      "date": "2025-11-19"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#United%20States🇺🇸",
-      "date": "2025-11-19"
-    },
-    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#United%20States🇺🇸",
       "date": "2025-11-19"
     },
@@ -314,6 +306,10 @@
     },
     {
       "line": "vless://287c86b0-600f-4bcd-83b0-04f988de89fd@test.fast.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=&encryption=none&host=Ctarboy726.ir&type=xhttp#United%20States🇺🇸",
+      "date": "2025-11-19"
+    },
+    {
+      "line": "vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#United%20States🇺🇸",
       "date": "2025-11-19"
     },
     {
@@ -394,6 +390,10 @@
     },
     {
       "line": "vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#United%20States🇺🇸",
+      "date": "2025-11-19"
+    },
+    {
+      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&type=ws&sni=GRouND-sloth.zulair.SIte.#United%20States🇺🇸",
       "date": "2025-11-19"
     },
     {
@@ -1025,10 +1025,6 @@
       "date": "2025-11-19"
     },
     {
-      "line": "vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#Cloudflare🌐",
-      "date": "2025-11-19"
-    },
-    {
       "line": "vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐",
       "date": "2025-11-19"
     },
@@ -1142,10 +1138,6 @@
     },
     {
       "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096/?type=ws&encryption=none&flow=&host=GRouND-sloth.zulair.SIte.&path=%2F&security=tls&sni=GRouND-sloth.zulair.SIte.&fp=chrome#Cloudflare🌐",
-      "date": "2025-11-19"
-    },
-    {
-      "line": "vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@IP.mirzabox.info:2096?path=%2F&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&type=ws&sni=GRouND-sloth.zulair.SIte.#Cloudflare🌐",
       "date": "2025-11-19"
     },
     {
