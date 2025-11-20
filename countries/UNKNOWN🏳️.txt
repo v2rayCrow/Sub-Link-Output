@@ -1,4 +1,102 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-19 04:11
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-20 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-19
-vless://Free_HTTPCustom@free-httpcustom4free-httpcustom-free-httpcustom-free-httpcustom.httpcustom.ir:443?mode=packet-up&path=%2F%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom-%40Free_HTTPCustom%3Fed%3D2560&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMinPostsIntervalMs%22%3A%2030%7D&host=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir&fp=firefox&type=xhttp&sni=free-httpcustom-free-httpcustom4free-httpcustom-free-httpcustom.httpcustom.ir#UNKNOWN🏳️
+# 2025-11-20
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#UNKNOWN🏳️
+# 2025-11-20
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678#UNKNOWN🏳️
+# 2025-11-20
+vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?security=reality&encryption=none&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com#UNKNOWN🏳️
+# 2025-11-20
+vless://Parsashonam-Bot-37@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#UNKNOWN🏳️
+# 2025-11-20
+vless://TELEGRAM-CONFiGLiNE-52@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=telegrammmconfigline.global.ssl.fastly.net&type=xhttp#UNKNOWN🏳️
+# 2025-11-20
+vless://Parsashonam-Bot-37@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#UNKNOWN🏳️
+# 2025-11-20
+vless://TELEGRAM-CONFiGLiNE-54@151.101.67.8:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=azaiji4.global.ssl.fastly.net&type=xhttp#UNKNOWN🏳️
+# 2025-11-20
+vless://Warpi-Free-Vpn-In-GooglePlay@128.140.61.203:443?security=&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
+# 2025-11-20
+vless://Warpi-Free-Vpn-In-GooglePlay@78.47.80.152:443?security=&type=tcp&encryption=none#UNKNOWN🏳️
+# 2025-11-20
+vless://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443/?type=tcp&encryption=none&flow=#UNKNOWN🏳️
+# 2025-11-20
+vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443/?type=tcp&encryption=none&flow=#UNKNOWN🏳️
+# 2025-11-20
+vless://TELEGRAM-CONFiGLiNE-57@134.209.234.100:31014?security=&encryption=none&host=p30download.ir&headerType=http&type=tcp#UNKNOWN🏳️
+# 2025-11-20
+vless://Warpi-Free-Vpn-In-GooglePlay@144.124.243.180:443?security=&type=ws&path=/&encryption=none#UNKNOWN🏳️
+# 2025-11-20
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?path=%2Fvless%2F&security=&encryption=none&type=ws#UNKNOWN🏳️
+# 2025-11-20
+vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#UNKNOWN🏳️
+# 2025-11-20
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#UNKNOWN🏳️
+# 2025-11-20
+vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.144.129:443?type=xhttp&encryption=none&path=%2Fsdv&host=&mode=auto&security=reality&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#UNKNOWN🏳️
+# 2025-11-20
+vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.151.29:443?type=xhttp&encryption=none&path=%2Fsdv&host=&mode=auto&security=reality&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#UNKNOWN🏳️
+# 2025-11-20
+vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.154.139:443?type=xhttp&encryption=none&path=%2Fsdv&host=&mode=auto&security=reality&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#UNKNOWN🏳️
+# 2025-11-20
+vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.156.37:443?type=xhttp&encryption=none&path=%2Fsdv&host=&mode=auto&security=reality&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#UNKNOWN🏳️
+# 2025-11-20
+vless://ac638e13-c96d-484d-8aa8-55da290db25a@91.98.156.48:443?type=xhttp&encryption=none&path=%2Fsdv&host=&mode=auto&security=reality&pbk=SyXSKLmY8-JBRFJTRIDx1OcBUJ89XBu8ZHCF_dOS3kw&fp=chrome&sni=store.steampowered.com&sid=&spx=%2F#UNKNOWN🏳️
+# 2025-11-20
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&fp=chrome&type=ws&sni=fl-3-direct.djarbnet.ru#UNKNOWN🏳️
+# 2025-11-20
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617/?type=tcp&encryption=none&flow=#UNKNOWN🏳️
+# 2025-11-20
+vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&security=reality&pqv=&type=tcp&sni=mensura.cdn-apple.com&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#UNKNOWN🏳️
+# 2025-11-20
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=&type=ws&path=/http&encryption=none#UNKNOWN🏳️
+# 2025-11-20
+vless://e148ba9b-7f4b-40d8-adc4-e1a2b8d2c0c1@m32a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️
+# 2025-11-20
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2F#UNKNOWN🏳️
+# 2025-11-20
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?security=tls&encryption=none&type=ws&sni=gaosir.unfeeling.sbs#UNKNOWN🏳️
+# 2025-11-20
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@167.179.27.92:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2%2F%3Fed%3D2560#UNKNOWN🏳️
+# 2025-11-20
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=%2Frfvtgws&security=none&encryption=none&type=ws#UNKNOWN🏳️
+# 2025-11-20
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94#UNKNOWN🏳️
+# 2025-11-20
+vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#UNKNOWN🏳️
+# 2025-11-20
+vless://f34f42ab-9a7f-476e-e670-cf6b1032b7a1@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#UNKNOWN🏳️
+# 2025-11-20
+vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=ws#UNKNOWN🏳️
+# 2025-11-20
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#UNKNOWN🏳️
+# 2025-11-20
+vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?encryption=none&security=tls&sni=dl.frnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#UNKNOWN🏳️
+# 2025-11-20
+vmess://eyJ2IjoiMiIsImFkZCI6IjgyLjE5Ny42OS4xMzEiLCJwb3J0IjozOTY3NCwiaWQiOiI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI-PkB2MmxpbmU6OlNHOjpYWCIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiJ9
+# 2025-11-20
+vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjguMjE4LjE0MC4yNyIsInBvcnQiOiIzOTE3NCIsImlkIjoiNTg1NGI4NzctMmIzMC00NTdhLWI3MzAtODM3YWE1OTc2Mjc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
+# 2025-11-20
+vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6InRoMDYwMy0xLnlzZHMxNjguc2hvcCIsInBvcnQiOiIxMDM2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjU4OTNjNmNkLWMxNGYtNGU5OS1hOWFlLTZjMmNhNzQ1NjU4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ0aDA2MDMtMS55c2RzMTY4LnNob3AiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+# 2025-11-20
+vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjguMjEwLjUyLjIxMSIsInBvcnQiOiIyMDUyMiIsImlkIjoiMzc4MjcwMzYtMWZjNS00MWVhLTlmYzUtMTExYWYxZGI0OWRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IiIsInBhdGgiOiIvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
+# 2025-11-20
+vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjguMjE3Ljg1LjYxIiwicG9ydCI6IjQ3MjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiOWM3MmI3MGUtN2RlOS00YjA0LTg2NjctZTNlYTQ4Y2JiYmRiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+# 2025-11-20
+vmess://eyJ2IjoiMiIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsImFkZCI6IjY2LjI1My43LjE3OCIsInBvcnQiOiIyMDUyMSIsImlkIjoiZDI0YzQ5OWItM2IyNS00NDFlLTljNmUtYjEyNDIxYTkxMDQxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMzUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
+# 2025-11-20
+vmess://eyJhZGQiOiI0NS44OS41Mi4yMDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzOTY1MSIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
+# 2025-11-20
+vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2RiYWE1YzMtZjQ5My00YWQxLTljNWQtODUyNWY0OTYyYTZjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoiVU5LTk9XTlx1ZDgzY1x1ZGZmM1x1ZmUwZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+# 2025-11-20
+hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#UNKNOWN🏳️
+# 2025-11-20
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#UNKNOWN🏳️
+# 2025-11-20
+hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#UNKNOWN🏳️
+# 2025-11-20
+hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743?security=tls&insecure=0&sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#UNKNOWN🏳️
+# 2025-11-20
+hy2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979/?insecure=1&sni=www.bing.com#UNKNOWN🏳️
+# 2025-11-20
+hysteria2://9772ecf2-6732-4bfb-a8b1-f48af577c76c@113.192.61.19:63979?security=tls&insecure=1&sni=www.bing.com#UNKNOWN🏳️
