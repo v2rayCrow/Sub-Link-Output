@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-22 04:09
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-22 15:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-22
 vless://56fe9ccf-4de1-4c49-a771-da2fb82f730f@45.146.201.30:2096/?type=ws&encryption=none&flow=&host=zebra.zulair.site.&path=%2F&security=tls&sni=zebra.zulair.site.#Curaçao🇨🇼
