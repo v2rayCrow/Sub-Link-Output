@@ -203,7 +203,11 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "vless://391eb4b0-4b59-4f5c-8ced-c5f685ba255f@brenna.ns.cloudflare.com:443?path=%2Fqixrimws&security=tls&encryption=none&host=638991681638536098.jetta-amsia.info&type=ws&sni=638991681638536098.jetta-amsia.info#United%20States🇺🇸",
+      "line": "vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@fx.ircloudmarket.com:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2014.ir&type=xhttp#United%20States🇺🇸",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@mci.dl101movis.ir:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2014.ir&type=xhttp#United%20States🇺🇸",
       "date": "2025-11-23"
     },
     {
@@ -215,7 +219,7 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638991939314084689.sonata-amsib.info&path=%2Ftssnuows&security=tls&sni=638991939314084689.sonata-amsib.info#United%20States🇺🇸",
+      "line": "vless://634fa772-75d0-41ca-8fa3-8b500a3651c1@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638990235724147123.corolla-amshz.info&path=%2Fbzbtejws&security=tls&sni=638990235724147123.corolla-amshz.info#United%20States🇺🇸",
       "date": "2025-11-23"
     },
     {
@@ -232,6 +236,14 @@
     },
     {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&fp=chrome#United%20States🇺🇸",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112154761.jimny-amsib.info&type=ws&host=638992008112154761.jimny-amsib.info&path=/tgysufws#United%20States🇺🇸",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws&security=tls&encryption=none&host=638991681638525311.jetta-amsia.info&type=ws&sni=638991681638525311.jetta-amsia.info#United%20States🇺🇸",
       "date": "2025-11-23"
     },
     {
@@ -267,19 +279,7 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://a697a2a1-7ccc-4f09-b775-9785a0280570@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742411049514.impreza-amsid.info&type=ws&host=638993742411049514.impreza-amsid.info&path=/mwdumwws#United%20States🇺🇸",
-      "date": "2025-11-23"
-    },
-    {
       "line": "vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=RR-FF.pages.DEV&fp=chrome&type=ws&sni=RR-FF.pages.DEV#United%20States🇺🇸",
-      "date": "2025-11-23"
-    },
-    {
-      "line": "vless://ac08afa6-d0b3-480c-9426-390604239db6@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993962459201183.passat-amsid.info&type=ws&host=638993962459201183.passat-amsid.info&path=/pczeguws#United%20States🇺🇸",
-      "date": "2025-11-23"
-    },
-    {
-      "line": "vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899155750157.sylphy-amsid.info&type=ws&host=638992899155750157.sylphy-amsid.info&path=/uywlzkws#United%20States🇺🇸",
       "date": "2025-11-23"
     },
     {
@@ -291,7 +291,7 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://bf88990d-178b-47f7-98bd-4c28ee9523aa@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243644080.stinger-amsid.info&type=ws&host=638992899243644080.stinger-amsid.info&path=/mqytbxws#United%20States🇺🇸",
+      "line": "vless://c18f6daa-f308-4078-ab4d-7821f6e97023@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995779477976.vitara-amsib.info&type=ws&host=638991995779477976.vitara-amsib.info&path=/ndtytgws#United%20States🇺🇸",
       "date": "2025-11-23"
     },
     {
@@ -299,7 +299,7 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://c3fec147-2189-4447-a590-2edcc0484ee8@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243672646.stinger-amsid.info&type=ws&host=638992899243672646.stinger-amsid.info&path=/qhxqyxws#United%20States🇺🇸",
+      "line": "vless://e1ac4005-4e5b-409e-a466-3032fbdb6e02@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112160801.jimny-amsib.info&type=ws&host=638992008112160801.jimny-amsib.info&path=/hixygmws#United%20States🇺🇸",
       "date": "2025-11-23"
     },
     {
@@ -1289,18 +1289,6 @@
   ],
   "Cloudflare🌐": [
     {
-      "line": "vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
-      "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
-      "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?encryption=none&security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de&path=%2F#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&security=none&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vless.hubp.de&path=t.me%2Fv2Line#Cloudflare🌐",
       "date": "2025-11-23"
     },
@@ -1310,6 +1298,14 @@
     },
     {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://2bd6f1bd-378e-40ad-8981-229800f1340e@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=638990351320529492.prius-amshz.info&type=ws&host=638990351320529492.prius-amshz.info&path=/ljrnxaws#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://391eb4b0-4b59-4f5c-8ced-c5f685ba255f@brenna.ns.cloudflare.com:443?path=%2Fqixrimws&security=tls&encryption=none&host=638991681638536098.jetta-amsia.info&type=ws&sni=638991681638536098.jetta-amsia.info#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
@@ -1325,15 +1321,15 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://634fa772-75d0-41ca-8fa3-8b500a3651c1@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638990235724147123.corolla-amshz.info&path=%2Fbzbtejws&security=tls&sni=638990235724147123.corolla-amshz.info#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
       "line": "vless://636de463-b509-4631-adc6-400b21733278@104.17.109.71:8080?security=&fp=chrome&type=ws&path=/z5eg4ngdcqls&host=index.harmony509.workers.dev&encryption=none#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
       "line": "vless://65a83fe9-195f-4bae-9334-f3b1b792fdb3@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742374437889.legacy-amsid.info&type=ws&host=638993742374437889.legacy-amsid.info&path=/ulccigws#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638991939314084689.sonata-amsib.info&path=%2Ftssnuows&security=tls&sni=638991939314084689.sonata-amsib.info#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
@@ -1377,10 +1373,6 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112154761.jimny-amsib.info&type=ws&host=638992008112154761.jimny-amsib.info&path=/tgysufws#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
       "line": "vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=holo.mrconfigur.site&path=%2F&security=tls&sni=holo.mrconfigur.site#Cloudflare🌐",
       "date": "2025-11-23"
     },
@@ -1390,10 +1382,6 @@
     },
     {
       "line": "vless://97d59a5b-bbb6-4bac-c593-b9fbe5ad0849@www.speedtest.net:2095?path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048&security=&encryption=none&host=test3.amin8263.ir&type=ws#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
-      "line": "vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws&security=tls&encryption=none&host=638991681638525311.jetta-amsia.info&type=ws&sni=638991681638525311.jetta-amsia.info#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
@@ -1425,6 +1413,10 @@
       "date": "2025-11-23"
     },
     {
+      "line": "vless://a697a2a1-7ccc-4f09-b775-9785a0280570@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742411049514.impreza-amsid.info&type=ws&host=638993742411049514.impreza-amsid.info&path=/mwdumwws#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
       "line": "vless://a96d28ab-5018-4604-8fd6-2273f0eccaa4@188.114.96.1:443?mode=auto&path=%2F---%40ZE%44MO%44EON%2F---%40ZE%44MO%44EON%2F---%40ZE%44MO%44EON%2F---%40ZE%44MO%44EON%2F---%40ZE%44MO%44EON%2F---%40ZE%44MO%44EON&security=tls&alpn=h2&encryption=none&host=zedmodeon.snapp-digikala.workers.dev&fp=firefox&type=xhttp&sni=zedmodeon.snapp-digikala.workers.dev#Cloudflare🌐",
       "date": "2025-11-23"
     },
@@ -1437,11 +1429,19 @@
       "date": "2025-11-23"
     },
     {
+      "line": "vless://ac08afa6-d0b3-480c-9426-390604239db6@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993962459201183.passat-amsid.info&type=ws&host=638993962459201183.passat-amsid.info&path=/pczeguws#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
       "line": "vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rAyAn-007.nAsTaRaN.DpDnS.OrG&fp=chrome&type=ws&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
       "line": "vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991166348691947.corolla-amsia.info&type=ws&host=638991166348691947.corolla-amsia.info&path=/uywlzkws#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899155750157.sylphy-amsid.info&type=ws&host=638992899155750157.sylphy-amsid.info&path=/uywlzkws#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
@@ -1453,11 +1453,15 @@
       "date": "2025-11-23"
     },
     {
-      "line": "vless://c18f6daa-f308-4078-ab4d-7821f6e97023@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995779477976.vitara-amsib.info&type=ws&host=638991995779477976.vitara-amsib.info&path=/ndtytgws#Cloudflare🌐",
+      "line": "vless://bf88990d-178b-47f7-98bd-4c28ee9523aa@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243644080.stinger-amsid.info&type=ws&host=638992899243644080.stinger-amsid.info&path=/mqytbxws#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
       "line": "vless://d01a40f5-4e6f-4279-b0a9-0f2a268ab03c@198.41.208.211:8080?type=ws&encryption=none&host=worker-falling-snow-ffd7.test61.workers.dev&path=%2F%3Fed%3D2048#Cloudflare🌐",
+      "date": "2025-11-23"
+    },
+    {
+      "line": "vless://c3fec147-2189-4447-a590-2edcc0484ee8@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899243672646.stinger-amsid.info&type=ws&host=638992899243672646.stinger-amsid.info&path=/qhxqyxws#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {
@@ -1470,10 +1474,6 @@
     },
     {
       "line": "vless://e3153842-fccf-4bc9-8566-5e42fa20fb32@104.21.65.149:2053?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp17.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=vp17.cgicgnhost.site#Cloudflare🌐",
-      "date": "2025-11-23"
-    },
-    {
-      "line": "vless://e1ac4005-4e5b-409e-a466-3032fbdb6e02@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112160801.jimny-amsib.info&type=ws&host=638992008112160801.jimny-amsib.info&path=/hixygmws#Cloudflare🌐",
       "date": "2025-11-23"
     },
     {

@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-23 15:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-23 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-23
 vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#Turkey🇹🇷
