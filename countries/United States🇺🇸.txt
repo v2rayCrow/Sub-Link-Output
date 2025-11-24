@@ -1,17 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-24 09:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-24 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-24
-vless://64f8f5e3-00eb-4a2e-be91-daab6634ae89@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638991939314084689.sonata-amsib.info&path=%2Ftssnuows&security=tls&sni=638991939314084689.sonata-amsib.info#United%20States🇺🇸
+vless://8b10d145-580b-4857-bcde-25f0c7f13bef@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742412132259.impreza-amsid.info&type=ws&host=638993742412132259.impreza-amsid.info&path=/ymyxzpws#United%20States🇺🇸
 # 2025-11-24
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@166.62.114.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
+vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws&security=tls&encryption=none&host=638991681638525311.jetta-amsia.info&type=ws&sni=638991681638525311.jetta-amsia.info#United%20States🇺🇸
 # 2025-11-24
-vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
-# 2025-11-24
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&fp=chrome#United%20States🇺🇸
-# 2025-11-24
-vless://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112154761.jimny-amsib.info&type=ws&host=638992008112154761.jimny-amsib.info&path=/tgysufws#United%20States🇺🇸
-# 2025-11-24
-vless://87077ed3-cbcd-41e0-a2dc-48f41add5e8e@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#United%20States🇺🇸
+vless://9a3580a3-f191-436b-997a-a1214060cd13@betty.ns.cloudflare.com:2053?type=xhttp&encryption=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&host=vp9.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2,http/1.1&sni=vp9.cgicgnhost.site#United%20States🇺🇸
 # 2025-11-24
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678#United%20States🇺🇸
 # 2025-11-24
@@ -41,11 +35,17 @@ vless://b5471668-94dc-4ea5-ae97-3bb9dabcd2a9@216.133.149.139:23581?security=real
 # 2025-11-24
 vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@vpn-srv-10.circlevpn.net:50858?type=tcp&alpn=h2%252Chttp%252F1.1&fp=chrome&security=tls&encryption=none#United%20States🇺🇸
 # 2025-11-24
+vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991166348691947.corolla-amsia.info&type=ws&host=638991166348691947.corolla-amsia.info&path=/uywlzkws#United%20States🇺🇸
+# 2025-11-24
 vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992899155750157.sylphy-amsid.info&type=ws&host=638992899155750157.sylphy-amsid.info&path=/uywlzkws#United%20States🇺🇸
 # 2025-11-24
-vless://c18f6daa-f308-4078-ab4d-7821f6e97023@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995779477976.vitara-amsib.info&type=ws&host=638991995779477976.vitara-amsib.info&path=/ndtytgws#United%20States🇺🇸
-# 2025-11-24
 vless://c9d87264-842b-468c-ed87-0e3d81185af3@151.101.3.8:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20States🇺🇸
+# 2025-11-24
+vless://c648044b-ed62-480d-a707-83c75f75bc0c@betty.ns.cloudflare.com:443?path=%2Fttjsmows&security=tls&encryption=none&host=638993963060199096.cayenne-amsid.info&type=ws&sni=638993963060199096.cayenne-amsid.info#United%20States🇺🇸
+# 2025-11-24
+vless://e1ac4005-4e5b-409e-a466-3032fbdb6e02@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638992008112160801.jimny-amsib.info&type=ws&host=638992008112160801.jimny-amsib.info&path=/hixygmws#United%20States🇺🇸
+# 2025-11-24
+vless://e78ca2da-2ae5-458c-bf29-ef8b1baf3c88@betty.ns.cloudflare.com:2053?type=xhttp&encryption=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&host=vp11.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2,http/1.1&sni=vp11.cgicgnhost.site#United%20States🇺🇸
 # 2025-11-24
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2F#United%20States🇺🇸
 # 2025-11-24
