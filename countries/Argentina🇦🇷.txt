@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-24 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-24 21:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-24
 trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478/?type=tcp&security=tls&sni=temporaltortellini.click#Argentina🇦🇷
