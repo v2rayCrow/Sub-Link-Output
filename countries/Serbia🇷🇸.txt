@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-12 15:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-12
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655/?type=tcp&encryption=none&flow=#Serbia🇷🇸
+# 2025-11-25
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA%3D%3D@45.89.55.173:443#Serbia🇷🇸
