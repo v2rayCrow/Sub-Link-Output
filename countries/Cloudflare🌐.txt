@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 09:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 15:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-11-25
+trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443&security=tls&allowInsecure=1#Cloudflare🌐
 # 2025-11-25
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality&encryption=none&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Cloudflare🌐
 # 2025-11-25

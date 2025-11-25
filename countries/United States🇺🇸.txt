@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 09:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 15:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-25
 vless://224629c2-342b-4e54-bb75-b56cb7dabf30@zorox-net.senu-zer.online:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=zorox-net.senu-zer.online#United%20States🇺🇸

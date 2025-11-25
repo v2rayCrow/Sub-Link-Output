@@ -1171,129 +1171,11 @@
       "date": "2025-11-25"
     }
   ],
-  "UNKNOWN🏳️": [
-    {
-      "line": "trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443&security=tls&allowInsecure=1#UNKNOWN🏳️",
-      "date": "2025-11-25"
-    }
-  ],
-  "Argentina🇦🇷": [
-    {
-      "line": "trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478/?type=tcp&security=tls&sni=temporaltortellini.click#Argentina🇦🇷",
-      "date": "2025-11-25"
-    }
-  ],
-  "France🇫🇷": [
-    {
-      "line": "trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://14f70414-e68e-4d65-b07e-f257418894c2@57.130.29.181:41641?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?encryption=none&security=none&fp=chrome&type=ws&host=t.me%2Fv2Line&path=%2Fvless%2F#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=Join---PLANB-PROXY&type=ws#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiRnJhbmNlXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#France🇫🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#France🇫🇷",
-      "date": "2025-11-25"
-    }
-  ],
-  "Korea🇰🇷": [
-    {
-      "line": "trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click#Korea🇰🇷",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IktvcmVhXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-      "date": "2025-11-25"
-    }
-  ],
-  "Singapore🇸🇬": [
-    {
-      "line": "trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#Singapore🇸🇬",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#Singapore🇸🇬",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?path=%2Ffreecodes%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Singapore🇸🇬",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vless://f61a4285-7264-4d07-9408-7b9ba1922c26@91.192.81.154:2053?path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Singapore🇸🇬",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsImFkZCI6IjgyLjE5Ny42OS4xMzEiLCJwb3J0IjozOTY3NCwiaWQiOiI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI-PkB2MmxpbmU6OlNHOjpYWCIsInBzIjoiU2luZ2Fwb3JlXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0",
-      "date": "2025-11-25"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJTaW5nYXBvcmVcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2025-11-25"
-    }
-  ],
-  "Chile🇨🇱": [
-    {
-      "line": "trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#Chile🇨🇱",
-      "date": "2025-11-25"
-    }
-  ],
-  "Belgium🇧🇪": [
-    {
-      "line": "trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F34.22.190.30%3D443&security=tls&sni=joss.gpj1.web.id#Belgium🇧🇪",
-      "date": "2025-11-25"
-    }
-  ],
-  "Mexico🇲🇽": [
-    {
-      "line": "trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#Mexico🇲🇽",
-      "date": "2025-11-25"
-    }
-  ],
-  "Iceland🇮🇸": [
-    {
-      "line": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#Iceland🇮🇸",
-      "date": "2025-11-25"
-    }
-  ],
   "Cloudflare🌐": [
+    {
+      "line": "trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443&security=tls&allowInsecure=1#Cloudflare🌐",
+      "date": "2025-11-25"
+    },
     {
       "line": "vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality&encryption=none&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Cloudflare🌐",
       "date": "2025-11-25"
@@ -1440,6 +1322,122 @@
     },
     {
       "line": "vmess://eyJhZGQiOiJ0MS42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0MS42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkNsb3VkZmxhcmVcdWQ4M2NcdWRmMTAiLCJzY3kiOiJhdXRvIiwic25pIjoidDEuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+      "date": "2025-11-25"
+    }
+  ],
+  "Argentina🇦🇷": [
+    {
+      "line": "trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478/?type=tcp&security=tls&sni=temporaltortellini.click#Argentina🇦🇷",
+      "date": "2025-11-25"
+    }
+  ],
+  "France🇫🇷": [
+    {
+      "line": "trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://14f70414-e68e-4d65-b07e-f257418894c2@57.130.29.181:41641?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?encryption=none&security=none&fp=chrome&type=ws&host=t.me%2Fv2Line&path=%2Fvless%2F#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://35bf2ca8-69dd-488a-b13d-1ad84d92a1c3@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80?path=%2Fvless%2F&security=&encryption=none&host=Join---PLANB-PROXY&type=ws#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiRnJhbmNlXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#France🇫🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com#France🇫🇷",
+      "date": "2025-11-25"
+    }
+  ],
+  "Korea🇰🇷": [
+    {
+      "line": "trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click#Korea🇰🇷",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IktvcmVhXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+      "date": "2025-11-25"
+    }
+  ],
+  "Singapore🇸🇬": [
+    {
+      "line": "trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#Singapore🇸🇬",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#Singapore🇸🇬",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?path=%2Ffreecodes%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Singapore🇸🇬",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vless://f61a4285-7264-4d07-9408-7b9ba1922c26@91.192.81.154:2053?path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Singapore🇸🇬",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsImFkZCI6IjgyLjE5Ny42OS4xMzEiLCJwb3J0IjozOTY3NCwiaWQiOiI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI-PkB2MmxpbmU6OlNHOjpYWCIsInBzIjoiU2luZ2Fwb3JlXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIn0",
+      "date": "2025-11-25"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJTaW5nYXBvcmVcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2025-11-25"
+    }
+  ],
+  "Chile🇨🇱": [
+    {
+      "line": "trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#Chile🇨🇱",
+      "date": "2025-11-25"
+    }
+  ],
+  "Belgium🇧🇪": [
+    {
+      "line": "trojan://fea8b7a7-cc83-4a78-a3fc-bbce9cc89ddb@34.22.190.30:443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F34.22.190.30%3D443&security=tls&sni=joss.gpj1.web.id#Belgium🇧🇪",
+      "date": "2025-11-25"
+    }
+  ],
+  "Mexico🇲🇽": [
+    {
+      "line": "trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#Mexico🇲🇽",
+      "date": "2025-11-25"
+    }
+  ],
+  "Iceland🇮🇸": [
+    {
+      "line": "vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#Iceland🇮🇸",
       "date": "2025-11-25"
     }
   ],
