@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 21:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-25
 trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443/?type=ws&path=%2FFree-VPN-CF-Geo-Project%2F81.91.214.85%3D443&security=tls&allowInsecure=1#Cloudflare🌐
@@ -6,8 +6,6 @@ trojan://6e6191a3-9a93-4617-859a-8d0ea0fce937@joss.gpj1.web.id:443/?type=ws&path
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality&encryption=none&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Cloudflare🌐
 # 2025-11-25
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐
-# 2025-11-25
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@diana.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=all1azar.darolmajanin.com&fp=chrome&type=ws&sni=all1azar.darolmajanin.com#Cloudflare🌐
 # 2025-11-25
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#Cloudflare🌐
 # 2025-11-25
@@ -61,8 +59,6 @@ vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?path=%2F%3Fed&securi
 # 2025-11-25
 vless://9a5f3ad5-6c1e-4c4c-b48f-bb5ffdfbf570@www.speedtest.net:80?type=xhttp&encryption=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&host=vp7.mydatacloud1.ir&mode=auto&security=none#Cloudflare🌐
 # 2025-11-25
-vless://9d8ea795-4807-4d42-99b5-f6e84b7dabdc@betty.ns.cloudflare.com:2053?type=xhttp&encryption=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&host=vp10.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2,http/1.1&sni=vp10.cgicgnhost.site#Cloudflare🌐
-# 2025-11-25
 vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#Cloudflare🌐
 # 2025-11-25
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp11.mydatacloud1.ir&mode=auto&security=none#Cloudflare🌐
@@ -70,8 +66,6 @@ vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&encryption=
 vless://e3153842-fccf-4bc9-8566-5e42fa20fb32@104.21.65.149:2053?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp17.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=vp17.cgicgnhost.site#Cloudflare🌐
 # 2025-11-25
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Cloudflare🌐
-# 2025-11-25
-vless://e78ca2da-2ae5-458c-bf29-ef8b1baf3c88@betty.ns.cloudflare.com:2053?type=xhttp&encryption=none&path=/@WarpiFree---@WarpiFree---@WarpiFree---@WarpiFree&host=vp11.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2,http/1.1&sni=vp11.cgicgnhost.site#Cloudflare🌐
 # 2025-11-25
 vless://e78ca2da-2ae5-458c-bf29-ef8b1baf3c88@www.speedtest.net:2053?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp11.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=vp11.cgicgnhost.site#Cloudflare🌐
 # 2025-11-25

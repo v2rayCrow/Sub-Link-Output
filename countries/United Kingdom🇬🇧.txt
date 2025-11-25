@@ -1,16 +1,10 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-25 21:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RXhrU1dlY2lSMmM5cHJGcHdKNGpY@89.185.84.185:443#United%20Kingdom🇬🇧
 # 2025-11-25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR3k1dGxtOGJBUWRNNXpjOVhGRjBZ@89.185.84.185:443#United%20Kingdom🇬🇧
 # 2025-11-25
-trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F109.169.76.23%3D443&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#United%20Kingdom🇬🇧
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai16.000444.cn:443?mode=packet-up&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#United%20Kingdom🇬🇧
 # 2025-11-25
-vless://2456f90c-5183-476d-b069-16ae74ce120f@154.197.121.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#United%20Kingdom🇬🇧
-# 2025-11-25
-vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#United%20Kingdom🇬🇧
-# 2025-11-25
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#United%20Kingdom🇬🇧
-# 2025-11-25
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiVW5pdGVkIEtpbmdkb21cdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai210.000444.cn:443?mode=packet-up&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#United%20Kingdom🇬🇧
