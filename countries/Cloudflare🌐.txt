@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-26 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-26 21:41
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-26
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality&encryption=none&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Cloudflare🌐
@@ -6,8 +6,6 @@ vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality
 vless://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996735062000656.highlander-amsih.info&type=ws&host=638996735062000656.highlander-amsih.info&path=/brxigzws#Cloudflare🌐
 # 2025-11-26
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐
-# 2025-11-26
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@laylah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=asli25qor1.garden-3265.ir&path=%2Fassets&ed=512&eh=Sec-WebSocket-Protocol&security=tls&sni=asli25qor1.garden-3265.ir&alpn=http%2F1.1&allowInsecure=1#Cloudflare🌐
 # 2025-11-26
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@172.67.161.104:443?path=%2F&security=tls&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#Cloudflare🌐
 # 2025-11-26
@@ -22,8 +20,6 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&s
 vless://2ffa7d23-8e02-4741-b8c2-7b7ae85892d5@am255.amin5646.ir:2082?mode=auto&path=%2Ftelegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY-telegram%2C%40BINE%58TIFY%3Fed%3D2560&security=&encryption=none&host=am290.amin5646.ir&type=xhttp#Cloudflare🌐
 # 2025-11-26
 vless://2ff%617d23-8%6502-4741-b8c2-7b7%61%6585892d5@172.67.168.34:2082?mode=auto&path=%2Ft%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY%3Fed%3D2560&security=none&encryption=none&host=%61m290.%61m%69n5646.%69%72&type=xhttp#Cloudflare🌐
-# 2025-11-26
-vless://338af09c-9624-441a-add4-20d251f3c0b8@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996506433169811.stinger-amsih.info&type=ws&host=638996506433169811.stinger-amsih.info&path=/upynuews#Cloudflare🌐
 # 2025-11-26
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#Cloudflare🌐
 # 2025-11-26
@@ -40,8 +36,6 @@ vless://636de463-b509-4631-adc6-400b21733278@104.17.109.71:8080?security=&fp=chr
 vless://692ece70-c136-4f77-8921-1e99091b9987@104.18.17.77:8443?path=%2F&security=tls&encryption=none&host=ssssssss.zabc.net&fp=chrome&type=ws&sni=ssssssss.zabc.net#Cloudflare🌐
 # 2025-11-26
 vless://692ece70-c136-4f77-8921-1e99091b9987@ssssssss.zabc.net:8443?path=%2F&security=tls&encryption=none&host=ssssssss.zabc.net&fp=chrome&type=ws&sni=ssssssss.zabc.net#Cloudflare🌐
-# 2025-11-26
-vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996620466180706.passat-amsih.info&type=ws&host=638996620466180706.passat-amsih.info&path=/dweubbws#Cloudflare🌐
 # 2025-11-26
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@104.129.164.253:2096?path=%2F&security=tls&encryption=none&type=ws&sni=vless.muzheng.top#Cloudflare🌐
 # 2025-11-26
