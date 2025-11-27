@@ -1,7 +1,13 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#Japan🇯🇵
+# 2025-11-27
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.63.16:2890?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#Japan🇯🇵
+# 2025-11-27
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.236.32:2760/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Japan🇯🇵
+# 2025-11-27
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?allowInsecure=0&sni=kuame.missionsec.us#Japan🇯🇵
 # 2025-11-27
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@46.3.46.40:8080?security=reality&encryption=none&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Japan🇯🇵
 # 2025-11-27
@@ -13,11 +19,13 @@ vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none
 # 2025-11-27
 vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@150.230.4.210:40721/?type=tcp&encryption=none&flow=&sni=www.icloud.com&fp=chrome&security=reality&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=c588#Japan🇯🇵
 # 2025-11-27
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@160.16.203.210:443?path=%2F%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Japan🇯🇵
-# 2025-11-27
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553?path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Japan🇯🇵
 # 2025-11-27
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@160.16.203.210:443?path=%2F%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Japan🇯🇵
+# 2025-11-27
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.84.53.85:19999?path=x%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Japan🇯🇵
+# 2025-11-27
+vmess://eyJ2IjpudWxsLCJhZGQiOiJuMTc0NDQ1NDUwMS40dTltYS5pY3UiLCJwb3J0Ijo0NDMsImlkIjoiYmVkN2I3NDMtNmJmOC00NmEyLWIzNDYtYzYwZTYwOTE5MjIwIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NDQ0NTQ1MDEuNHU5bWEuaWN1IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc0NDQ1NDUwMS40dTltYS5pY3UiLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKUCAxNiIsInBzIjoiSmFwYW5cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUifQ
 # 2025-11-27
 vmess://eyJhZGQiOiIxMzEuMTg2LjYzLjg5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJoay5uYmVlLnBwLnVhIiwiaWQiOiI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWEiLCJwb3J0IjoiMTE2NTUiLCJwcyI6IkphcGFuXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2N5IjoiYXV0byIsInNuaSI6ImhrLm5iZWUucHAudWEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ
 # 2025-11-27
