@@ -341,15 +341,15 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸",
+      "date": "2025-11-27"
+    },
+    {
       "line": "vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.252.75.203:443/?type=tcp&encryption=none&flow=&sni=www.primevideo.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#United%20States🇺🇸",
       "date": "2025-11-27"
     },
     {
       "line": "vless://4be2d287-4212-44f2-9388-8f31de5b6437@18.205.1.138:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=vlxndmblAaqCBdvyRHDVcTlti2kC6IsG-UlT3KJXvBY&sid=#United%20States🇺🇸",
-      "date": "2025-11-27"
-    },
-    {
-      "line": "vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996620466180706.passat-amsih.info&type=ws&host=638996620466180706.passat-amsih.info&path=/dweubbws#United%20States🇺🇸",
       "date": "2025-11-27"
     },
     {
@@ -1434,6 +1434,10 @@
     },
     {
       "line": "vless://5f9a4072-603e-4255-a45b-b0970e571de9@bitpay.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2025-11-27"
+    },
+    {
+      "line": "vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996620466180706.passat-amsih.info&type=ws&host=638996620466180706.passat-amsih.info&path=/dweubbws#Cloudflare🌐",
       "date": "2025-11-27"
     },
     {

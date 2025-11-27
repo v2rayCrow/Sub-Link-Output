@@ -1,11 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-11-27
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸
 # 2025-11-27
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.252.75.203:443/?type=tcp&encryption=none&flow=&sni=www.primevideo.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#United%20States🇺🇸
 # 2025-11-27
 vless://4be2d287-4212-44f2-9388-8f31de5b6437@18.205.1.138:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=vlxndmblAaqCBdvyRHDVcTlti2kC6IsG-UlT3KJXvBY&sid=#United%20States🇺🇸
-# 2025-11-27
-vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996620466180706.passat-amsih.info&type=ws&host=638996620466180706.passat-amsih.info&path=/dweubbws#United%20States🇺🇸
 # 2025-11-27
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@166.62.104.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#United%20States🇺🇸
 # 2025-11-27

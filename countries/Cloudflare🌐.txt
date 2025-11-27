@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-27
 vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality&encryption=none&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#Cloudflare🌐
@@ -28,6 +28,8 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@www.speedtest.net:443?path=%2Fapi%2
 vless://5f41b131-2f87-46bd-8cf3-5380f6e011bb@104.21.65.149:2053?type=xhttp&encryption=none&path=/&host=vp8.cgicgnhost.site&mode=auto&security=tls&fp=chrome&alpn=h2,http/1.1&sni=vp8.cgicgnhost.site#Cloudflare🌐
 # 2025-11-27
 vless://5f9a4072-603e-4255-a45b-b0970e571de9@bitpay.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-uk-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐
+# 2025-11-27
+vless://65a9530f-4a4e-4db1-9689-9213385e9dfb@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638996620466180706.passat-amsih.info&type=ws&host=638996620466180706.passat-amsih.info&path=/dweubbws#Cloudflare🌐
 # 2025-11-27
 vless://692ece70-c136-4f77-8921-1e99091b9987@104.18.17.77:8443?path=%2F&security=tls&encryption=none&host=ssssssss.zabc.net&fp=chrome&type=ws&sni=ssssssss.zabc.net#Cloudflare🌐
 # 2025-11-27
