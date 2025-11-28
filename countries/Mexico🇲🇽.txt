@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-28 04:09
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-27
+# 2025-11-28
 trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#Mexico🇲🇽
-# 2025-11-27
+# 2025-11-28
 vmess://eyJhZGQiOiIyMTYuMjM4Ljg5LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFhNWFhZmMwLTY0ODItNDUxZC1mZTc2LTY4NzViNzgxODU3OSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTcyODMiLCJwcyI6Ik1leGljb1x1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ

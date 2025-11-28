@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-27 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-28 04:09
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-27
+# 2025-11-28
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@45.83.21.4:443?path=/Telegram:@AZARBAYJAB1?ed=2560&security=tls&encryption=none&host=rayan-007.parvin.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.pArViN.DpDnS.OrG#Iceland🇮🇸
