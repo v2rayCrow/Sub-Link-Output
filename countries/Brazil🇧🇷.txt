@@ -1,8 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-28 04:09
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-28 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-28
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#Brazil🇧🇷
-# 2025-11-28
-vmess://eyJ2IjoiMiIsInBzIjoiQnJhemlsXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuMjMxLjEzMi40NiIsInBvcnQiOiI0NTk3OSIsImlkIjoiMjNiZGY2ZGYtYzQ4Mi00NmQwLWMwZjQtNWE5OGQ1MzRlYTExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6Ii90ZXN0IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 # 2025-11-28
 vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYzNjkyMWI1LTYxZjQtNGZiNC1lNTk4LTJkMGQ1MjllYTY2YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDEyOTUiLCJwcyI6IkJyYXppbFx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
