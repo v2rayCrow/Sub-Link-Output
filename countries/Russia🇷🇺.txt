@@ -1,22 +1,22 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-28 21:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-29 04:09
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-28
+# 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@ru-cdn-cloud-2.ultima.foundation:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@185.148.104.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 vless://953bcea6-dd81-4c9a-a20a-053805f48195@ru.ufavpn.ru:9443/?type=ws&encryption=none&flow=&path=%2Fupdate&security=tls&sni=ger.ufavpn.ru&allowInsecure=1#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?security=tls&encryption=none&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Russia🇷🇺
-# 2025-11-28
+# 2025-11-29
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#Russia🇷🇺
