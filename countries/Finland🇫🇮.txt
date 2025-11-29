@@ -1,7 +1,17 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-29 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-29 15:08
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#Finland🇫🇮
+# 2025-11-29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#Finland🇫🇮
+# 2025-11-29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Finland🇫🇮
+# 2025-11-29
+trojan://f8eb228a-58a8-430f-ae39-f2a0ebbf8460@94.142.138.97:8443/?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F94.142.138.97%3D8443&security=tls&sni=joss.gpj.web.id&allowInsecure=1#Finland🇫🇮
+# 2025-11-29
+vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Finland🇫🇮
+# 2025-11-29
+vless://4c8659ab-e49f-4db6-9a87-d0247e98f5ec@m61a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Finland🇫🇮
 # 2025-11-29
 vless://8a49b57a-d02e-4965-a24f-b7f189cbb98d@65.109.188.4:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Finland🇫🇮
 # 2025-11-29

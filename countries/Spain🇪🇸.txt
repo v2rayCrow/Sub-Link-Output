@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-29 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-29 15:08
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmg1YVBUWU5OcHptNHRQTjhQc3ZG@194.87.45.189:443#Spain🇪🇸
@@ -6,3 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmg1YVBUWU5OcHptNHRQTjhQc3ZG@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ckRQNUxDa29GNlRsSlRBa1FPdVVp@194.87.45.189:443#Spain🇪🇸
 # 2025-11-29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaUZjclB3VGxCbkEzOUVMcnVMazB6@194.87.45.189:443#Spain🇪🇸
+# 2025-11-29
+vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Spain🇪🇸
+# 2025-11-29
+vmess://eyJhZGQiOiIyMDguNzYuMjIzLjIxOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOGZkODk1NS03OGRiLTQ5YmEtZDg2Zi0zZTQ3MjlmNmFjNGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwNDMzIiwicHMiOiJTcGFpblx1ZDgzY1x1ZGRlYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
