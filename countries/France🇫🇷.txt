@@ -1,9 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-30 04:17
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-30 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-11-30
-trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=sweetdream.sweetthunder.click#France🇫🇷
-# 2025-11-30
-trojan://a25e963f-8f68-4b28-8c11-5d721f616434@62.60.246.168:443/?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F62.60.246.168%3D443&security=tls&sni=joss.gpj.web.id&allowInsecure=1#France🇫🇷
 # 2025-11-30
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#France🇫🇷
 # 2025-11-30
@@ -14,6 +10,8 @@ vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encrypt
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?encryption=none&security=none&type=tcp&headerType=none&host=t.me%2Fv2Line#France🇫🇷
 # 2025-11-30
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=#France🇫🇷
+# 2025-11-30
+vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#France🇫🇷
 # 2025-11-30
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@51.38.232.101:80/?type=ws&encryption=none&flow=&host=m.vk.com&path=%2Fvless%2F#France🇫🇷
 # 2025-11-30
