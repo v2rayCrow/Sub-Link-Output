@@ -367,10 +367,6 @@
       "date": "2025-11-30"
     },
     {
-      "line": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#Netherlands🇳🇱",
-      "date": "2025-11-30"
-    },
-    {
       "line": "vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@45.136.125.213:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#Netherlands🇳🇱",
       "date": "2025-11-30"
     },
@@ -392,10 +388,6 @@
     }
   ],
   "Germany🇩🇪": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUmpZb2tXVXZSS2tjM3EyYTlBYm5u@81.19.141.45:443#Germany🇩🇪",
-      "date": "2025-11-30"
-    },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdW9pZjM2VGo1TXZuamRwSUp0dWNH@81.19.141.45:443#Germany🇩🇪",
       "date": "2025-11-30"
@@ -514,6 +506,10 @@
     },
     {
       "line": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@de2.ultima.foundation:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#Germany🇩🇪",
+      "date": "2025-11-30"
+    },
+    {
+      "line": "vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#Germany🇩🇪",
       "date": "2025-11-30"
     },
     {
@@ -1164,10 +1160,6 @@
   "Cloudflare🌐": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Cloudflare🌐",
-      "date": "2025-11-30"
-    },
-    {
-      "line": "vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=synxygq0ozctiW0jNF1mmvAI9PainW0rBfqe11LkeAM&allowInsecure=1&type=tcp&headerType=none#Cloudflare🌐",
       "date": "2025-11-30"
     },
     {
