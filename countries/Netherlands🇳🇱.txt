@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-30 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-11-30 15:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-11-30
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#Netherlands🇳🇱
@@ -44,6 +44,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#Netherlands🇳🇱
 # 2025-11-30
 vless://12345678-1234-1234-1234-123456789123@185.176.24.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&type=ws&sni=vless.hubp.de#Netherlands🇳🇱
+# 2025-11-30
+vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#Netherlands🇳🇱
 # 2025-11-30
 vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@45.136.125.213:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#Netherlands🇳🇱
 # 2025-11-30
