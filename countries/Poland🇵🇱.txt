@@ -1,7 +1,9 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-01 04:22
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-01 09:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA%3D%3D@45.15.126.19:443#Poland🇵🇱
+# 2025-12-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTotVlpmbjFMZ1pSbzI5MkZScHNDOE5RdjBSTjB2ZVl0NQ@pol01-ss01.tcp-reset-club.net:8444#Poland🇵🇱
 # 2025-12-01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUjlFV2ZQa2pnQndpOEtNaFhrNlha@77.83.246.74:443#Poland🇵🇱
 # 2025-12-01
