@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-01 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-01 21:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-12-01
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQnEzVVlTS0ZBdXpDMExQVHhnN3dq@81.19.141.45:443#Germany🇩🇪
 # 2025-12-01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDdTVYNGE0Wm4ydFJKZUpXTW55ZUM5@81.19.141.45:443#Germany🇩🇪
 # 2025-12-01
@@ -66,8 +68,6 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@45.80.111.253:2096?path=%2FTelegram
 vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Germany🇩🇪
 # 2025-12-01
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@de2.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#Germany🇩🇪
-# 2025-12-01
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@nl5.ultima.foundation:22231/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.ultima.foundation&fp=qq&security=reality&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=#Germany🇩🇪
 # 2025-12-01
 vless://36b3da92-5318-452a-80f4-9025e8c9b87a@m72a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪
 # 2025-12-01
