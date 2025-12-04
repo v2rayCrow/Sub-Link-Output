@@ -39,6 +39,10 @@
   ],
   "Germany🇩🇪": [
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRUloM1laWjVRWlJ2Sk02QzA0WVNN@81.19.141.45:443#Germany🇩🇪",
+      "date": "2025-12-04"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYk1TSFVtZDBHR1NVVkgxcGRnS2s1@81.19.141.45:443#Germany🇩🇪",
       "date": "2025-12-04"
     },
@@ -196,10 +200,6 @@
     },
     {
       "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@45.80.111.253:2096?path=%2FTelegram%20%40sinavm%20%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#Germany🇩🇪",
-      "date": "2025-12-04"
-    },
-    {
-      "line": "vless://4df10efe-824a-4579-ab85-50f088f456d4@lovetea.dastur-amuzesh.ir:3002/?type=tcp&encryption=none&flow=#Germany🇩🇪",
       "date": "2025-12-04"
     },
     {
@@ -1207,10 +1207,6 @@
   ],
   "Cloudflare🌐": [
     {
-      "line": "vless://1c3019a8-7bf1-498a-b7d4-f15677f06e88@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003276456417573.touareg-amsis.info&type=ws&host=639003276456417573.touareg-amsis.info&path=/ldumfkws#Cloudflare🌐",
-      "date": "2025-12-04"
-    },
-    {
       "line": "vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#Cloudflare🌐",
       "date": "2025-12-04"
     },
@@ -1232,6 +1228,10 @@
     },
     {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@icook.hk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#Cloudflare🌐",
+      "date": "2025-12-04"
+    },
+    {
+      "line": "vless://2b066334-ca87-4c56-9a79-2f3636ee53d1@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456251297706.renegade-amsis.info&type=ws&host=639003456251297706.renegade-amsis.info&path=/dahdwsws#Cloudflare🌐",
       "date": "2025-12-04"
     },
     {
