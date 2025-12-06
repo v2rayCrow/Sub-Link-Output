@@ -1,11 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-06 09:42
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-06 15:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#United%20States🇺🇸
-# 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#United%20States🇺🇸
-# 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#United%20States🇺🇸
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#United%20States🇺🇸
 # 2025-12-06
@@ -49,6 +43,8 @@ vless://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&
 # 2025-12-06
 vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸
 # 2025-12-06
+vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456253079909.defender-amsis.info&type=ws&host=639003456253079909.defender-amsis.info&path=/dupbatws#United%20States🇺🇸
+# 2025-12-06
 vless://145c6488-b1d0-4df3-b140-72cc1cec711c@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=e1.ir&type=xhttp#United%20States🇺🇸
 # 2025-12-06
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&fp=chrome#United%20States🇺🇸
@@ -60,6 +56,10 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?security=tls&e
 vless://270b7522-bda3-4381-bffb-6156076e271e@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094803957.legacy-amsit.info&type=ws&host=639004042094803957.legacy-amsit.info&path=/amglzgws#United%20States🇺🇸
 # 2025-12-06
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸
+# 2025-12-06
+vless://2b066334-ca87-4c56-9a79-2f3636ee53d1@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456251297706.renegade-amsis.info&type=ws&host=639003456251297706.renegade-amsis.info&path=/dahdwsws#United%20States🇺🇸
+# 2025-12-06
+vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows&security=tls&encryption=none&insecure=0&host=639002592262919469.sentra-amsir.info&fp=chrome&type=ws&allowInsecure=0&sni=639002592262919469.sentra-amsir.info#United%20States🇺🇸
 # 2025-12-06
 vless://5ea08836-6be8-4181-ab82-0e26282aa0aa@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094863199.legacy-amsit.info&type=ws&host=639004042094863199.legacy-amsit.info&path=/haofzzws#United%20States🇺🇸
 # 2025-12-06
@@ -73,6 +73,8 @@ vless://723c46be-ac60-4675-8f3f-a1529d41c338@162.159.38.39:443?encryption=none&s
 # 2025-12-06
 vless://89c03558-a2fb-48a8-90da-be4a03faeee1@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#United%20States🇺🇸
 # 2025-12-06
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=%2Ftixvuws&security=tls&encryption=none&insecure=1&host=vangoghh.info&type=ws&allowInsecure=1&sni=vangoghh.info#United%20States🇺🇸
+# 2025-12-06
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#United%20States🇺🇸
 # 2025-12-06
 vless://TELEGRAM-CONFiGLiNE-79@151.101.0.0:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=azaiji3.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
@@ -80,6 +82,10 @@ vless://TELEGRAM-CONFiGLiNE-79@151.101.0.0:80?mode=auto&path=%2Ftelegram-CONFiGL
 vless://ac51ad36-5052-460a-842a-e13455d30cb8@141.101.114.197:2083?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&fp=chrome&type=ws&sni=RR-FF.pages.DEV#United%20States🇺🇸
 # 2025-12-06
 vless://a916fc27-e7f0-46f2-d007-61e2ad2f7914@151.101.3.8:80?mode=auto&path=%2F%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG%3Fed%3D2056&security=&encryption=none&host=f%65fw%65fwf%65%69fn%65kl.com&type=xhttp#United%20States🇺🇸
+# 2025-12-06
+vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&security=tls&encryption=none&host=hazmkardan.info&fp=chrome&type=ws&sni=hazmkardan.info#United%20States🇺🇸
+# 2025-12-06
+vless://d350b8d9-e7cb-4e81-a189-73b15ee487a3@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456253078972.defender-amsis.info&type=ws&host=639003456253078972.defender-amsis.info&path=/oypliwws#United%20States🇺🇸
 # 2025-12-06
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&fp=chrome#United%20States🇺🇸
 # 2025-12-06
