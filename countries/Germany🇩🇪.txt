@@ -1,27 +1,31 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-06 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-06 09:42
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2UzREZFdlZUtNZ2RVSlk3TEJZM2d5@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMG02RXlJV0xvNFl5QkZlcWVaa050@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSmFWZXF5c3N3V29qTkZtSjBQeE0z@81.19.141.45:443#Germany🇩🇪
+# 2025-12-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2UzREZFdlZUtNZ2RVSlk3TEJZM2d5@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SDl1dkVUeDVrVzZmRTFienlEZGFk@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxVXBvZVF5OTlqa2tGOHR4U3k0NHFi@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMG02RXlJV0xvNFl5QkZlcWVaa050@81.19.141.45:443#Germany🇩🇪
-# 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4VW9TZjZFalRkS0xaMm1meDV4Rnp4@81.19.141.45:443#Germany🇩🇪
+# 2025-12-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQUUwU1E2OElqQmhUcXRkdGFRSHJS@81.19.141.45:443#Germany🇩🇪
+# 2025-12-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDdTVYNGE0Wm4ydFJKZUpXTW55ZUM5@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLWWlpeTk2WGVWRFNocUFvUDd2aVhs@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQalVUS2lZWU1DakZkM3pubWJ6b2FQ@81.19.141.45:443#Germany🇩🇪
-# 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUmpZb2tXVXZSS2tjM3EyYTlBYm5u@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg%3D%3D@37.221.125.38:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQalVUS2lZWU1DakZkM3pubWJ6b2FQ@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRWNMQ3JsN3lxODB5RGVRSlB6c1Zl@81.19.141.45:443#Germany🇩🇪
+# 2025-12-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg%3D%3D@37.221.125.38:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXb1plQzZMaEJUVGFaQ3FTR091dkNS@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
@@ -29,21 +33,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphc0J1OVFMZHV1S09JVlVXWXdQMFlO@81.19.141.45:4
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR1p5d1lxUGRWRTU0UFQxM1dOVVZ6@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplT2g2OUs5RTg3NFFyTDBtRU9HSTBj@81.19.141.45:443#Germany🇩🇪
-# 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbGJPbFV1azR5QVpqQ0Y5bHFGaU5i@81.19.141.45:443#Germany🇩🇪
+# 2025-12-06
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplT2g2OUs5RTg3NFFyTDBtRU9HSTBj@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpneUEzNkxmNnVidEcxd0dOaXNBWjBj@81.19.141.45:443#Germany🇩🇪
 # 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxYzZHYkVNMkgwY3FKZEhsNGhPckMx@81.19.141.45:443#Germany🇩🇪
-# 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcU5TZUtQMTFkeHRyeG5WRzQ1NmNp@81.19.141.45:443#Germany🇩🇪
-# 2025-12-06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbGpzOHQxMlZreHk2M0tnSU9raFp3@81.19.141.45:443#Germany🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpta2lGY0hTeVBtelR6cGJzOFVLdVJL@62.133.60.43:36456#Germany🇩🇪
 # 2025-12-06
 vless://00cf509a-82df-4028-931d-9570e3c04132@m46a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
-# 2025-12-06
-vless://021bb229-6306-40aa-e5f5-f752b73ed148@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#Germany🇩🇪
 # 2025-12-06
 vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
 # 2025-12-06
@@ -51,12 +49,14 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80/?type=ws&encrypti
 # 2025-12-06
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#Germany🇩🇪
 # 2025-12-06
-vless://78658cea-4771-4c2d-bbb8-d224bfb9ebbe@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪
+vless://6a753f74-b279-44d7-a442-b5cbc425569f@de.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&type=tcp&headerType=none#Germany🇩🇪
+# 2025-12-06
+vless://78658cea-4771-4c2d-bbb8-d224bfb9ebbe@m40a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪
 # 2025-12-06
 vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Germany🇩🇪
 # 2025-12-06
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪
 # 2025-12-06
-vless://f0075296-2b03-42ef-a4cd-491804eb9da1@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪
+vless://f0075296-2b03-42ef-a4cd-491804eb9da1@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Germany🇩🇪
 # 2025-12-06
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ

@@ -1,16 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-06 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-06 09:42
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-06
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Japan🇯🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUzhCcmlCTDlnY1BFSFRYaU42NmFU@45.83.22.118:5223#Japan🇯🇵
 # 2025-12-06
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.150.76:1596?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#Japan🇯🇵
+vless://6931c31c-4dca-b047-9fd3-196f0e6c7c2b@64.176.42.125:10001?encryption=none&security=tls&sni=act13.sni565.netlib.re&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=act13.sni565.netlib.re&path=%2Fproxyip%3Dtw.sni2025.netlib.re#Japan🇯🇵
 # 2025-12-06
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@138.2.16.61:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#Japan🇯🇵
-# 2025-12-06
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@113.37.149.36:12553?path=X%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#Japan🇯🇵
-# 2025-12-06
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@160.16.203.210:443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&path=%2F%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#Japan🇯🇵
-# 2025-12-06
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@202.84.53.85:19999?path=x%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#Japan🇯🇵
-# 2025-12-06
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?security=tls&insecure=1&sni=iij.mggl.wang#Japan🇯🇵
