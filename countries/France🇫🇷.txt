@@ -1,17 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-08 09:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-08 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTXFEUXVqSHc5aUc0UmdKYkt3aVJ5@62.210.88.22:443#France🇫🇷
-# 2025-12-08
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#France🇫🇷
-# 2025-12-08
-vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&fp=chrome&security=reality&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&sid=#France🇫🇷
-# 2025-12-08
-vless://a6fd4548-23da-4bb8-a91f-6013c5cd8e2f@par1.vpntype.dev:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=ExvhqXfyAWkqInK6hAY_ePlR-WggXgpSy0phURcuwU8&sid=#France🇫🇷
-# 2025-12-08
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none=ELiV2RaY--ELiV2RaY--ELiV2RaY--ELiV2RaY&encryption=none&headerType=none&type=tcp#France🇫🇷
-# 2025-12-08
-vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#France🇫🇷
 # 2025-12-08
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiRnJhbmNlXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 # 2025-12-08
