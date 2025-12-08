@@ -1,5 +1,15 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-08 15:46
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-08 21:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-12-08
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@167.68.4.253:2096?security=tls&encryption=none&fp=chrome&type=ws&sni=vless.muzheng.top#UNKNOWN🏳️
+# 2025-12-08
+vless://78658cea-4771-4c2d-bbb8-d224bfb9ebbe@m40a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#UNKNOWN🏳️
+# 2025-12-08
+vless://77fb812d-2eb5-430e-afea-ccacc9795a86@speedtest.net:80?path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none&encryption=none&host=downloadha.global.ssl.fastly.net&type=ws#UNKNOWN🏳️
+# 2025-12-08
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@193.124.18.108:2053/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#UNKNOWN🏳️
+# 2025-12-08
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@84.8.145.58:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#UNKNOWN🏳️
 # 2025-12-08
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@138.2.16.61:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#UNKNOWN🏳️
 # 2025-12-08
@@ -15,6 +25,8 @@ vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443/?type=ws&encrypt
 # 2025-12-08
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&fp=chrome#UNKNOWN🏳️
 # 2025-12-08
+vless://7f9842fd-56d0-48fd-95f8-ad80c2a4a098@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639006703199270507.elantra-amsiv.info&type=ws&host=639006703199270507.elantra-amsiv.info&path=/oodgmwws#UNKNOWN🏳️
+# 2025-12-08
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
 # 2025-12-08
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
@@ -26,8 +38,6 @@ vless://892930fd-0235-4352-817d-01a3ac3c70c5@speedtestcustom.com:80?mode=auto&pa
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@fx.ircloudmarket.com:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2017.ir&type=xhttp#UNKNOWN🏳️
 # 2025-12-08
 vless://892930fd-0235-4352-817d-01a3ac3c70c5@mci.dl101movis.ir:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2017.ir&type=xhttp#UNKNOWN🏳️
-# 2025-12-08
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443?path=%2Ftixvuws&security=tls&encryption=none&host=vangoghh.info&type=ws&sni=vangoghh.info#UNKNOWN🏳️
 # 2025-12-08
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#UNKNOWN🏳️
 # 2025-12-08
@@ -71,10 +81,6 @@ vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=
 # 2025-12-08
 vless://d350b8d9-e7cb-4e81-a189-73b15ee487a3@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456253078972.defender-amsis.info&type=ws&host=639003456253078972.defender-amsis.info&path=/oypliwws#UNKNOWN🏳️
 # 2025-12-08
-vless://d543fcf5-56ab-43a3-9e01-6cb71a36f950@betty.ns.cloudflare.com:443?path=%2Fdxgtdzws&security=tls&encryption=none&host=639006317625115663.forester-amsiu.info&type=ws&sni=639006317625115663.forester-amsiu.info#UNKNOWN🏳️
-# 2025-12-08
-vless://d64fbcef-f032-48ae-8f52-d73976cb0c57@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639006691599818826.sentra-amsiv.info&type=ws&host=639006691599818826.sentra-amsiv.info&path=/unjgcrws#UNKNOWN🏳️
-# 2025-12-08
 vless://da284625-10d0-4d38-8276-3f1b7a195e99@m10a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#UNKNOWN🏳️
 # 2025-12-08
 vless://dfac7622-66ca-4efe-9976-76f04f4e5d8b@m65a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#UNKNOWN🏳️
@@ -85,18 +91,12 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%
 # 2025-12-08
 vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456258253450.mustang-amsit.info&type=ws&host=639003456258253450.mustang-amsit.info&path=/lzummpws#UNKNOWN🏳️
 # 2025-12-08
+vless://ed159d76-80be-4e34-aa56-a5f14c28bbfc@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639003543855624492.prius-amsit.info&path=%2Fmphirfws&security=tls&sni=639003543855624492.prius-amsit.info&allowInsecure=1#UNKNOWN🏳️
+# 2025-12-08
 vless://f0075296-2b03-42ef-a4cd-491804eb9da1@m3a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#UNKNOWN🏳️
-# 2025-12-08
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=freudd.info&path=%2Fxxvclws#UNKNOWN🏳️
-# 2025-12-08
-vless://f2a34c81-0dc8-43ba-8de6-919ef11dde4c@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639006192670808113.sylphy-amsiu.info&type=ws&host=639006192670808113.sylphy-amsiu.info&path=/aoqjxmws#UNKNOWN🏳️
 # 2025-12-08
 vless://e40c1b0d-1fae-41d5-99fb-67b98678b7dd@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#UNKNOWN🏳️
 # 2025-12-08
 vless://e64c5bbb-a4b8-498e-b374-4462d961c8a2@38.60.196.27:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=j_b7jaRqL2-82XSGRL0IYkNJ2Y3hrhhgq5kIBIK76lk&fp=chrome#UNKNOWN🏳️
 # 2025-12-08
-vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#UNKNOWN🏳️
-# 2025-12-08
-vless://f61d9aee-63b8-439e-bebf-afaa53c015fd@64.227.93.102:28899/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=s0.awsstatic.com&security=reality&pbk=UcJ-s55xl9msAtzJcBghDUTSnyilzB6d7NpUfkHoQmY&sid=#UNKNOWN🏳️
-# 2025-12-08
-vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#UNKNOWN🏳️
+vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338940169118.highlander-amsis.info&type=ws&host=639003338940169118.highlander-amsis.info&path=/prheflws#UNKNOWN🏳️
