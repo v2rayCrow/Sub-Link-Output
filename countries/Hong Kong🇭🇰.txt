@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-11 15:48
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-11 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-11
 trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.110.82:443/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Hong%20Kong🇭🇰
