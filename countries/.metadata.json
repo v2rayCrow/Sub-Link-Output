@@ -89,10 +89,6 @@
       "date": "2025-12-12"
     },
     {
-      "line": "vless://1a452b02-7302-432c-a20c-1bd9ef18c416@fs.ir-sub.fun:80?path=%2FZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZEDMODEON&security=&encryption=none&host=zedd4.global.ssl.fastly.net&type=ws#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
       "line": "vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#United%20States🇺🇸",
       "date": "2025-12-12"
     },
@@ -102,14 +98,6 @@
     },
     {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
-      "line": "vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80/?type=ws&encryption=none&flow=&host=zedd.global.ssl.fastly.net&path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
-      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639008791593418731.jimny-amsix.info&path=%2Fcahttingws&security=tls&sni=639008791593418731.jimny-amsix.info&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2025-12-12"
     },
     {
@@ -133,10 +121,6 @@
       "date": "2025-12-12"
     },
     {
-      "line": "vless://863ef1d6-1b13-4cb3-9052-6137fadfe1c5@delilah.ns.cloudflare.com:443?path=%2Fxlqwgows&security=tls&encryption=none&host=639009907244596240.tucson-amsiz.info&type=ws&sni=639009907244596240.tucson-amsiz.info#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
       "line": "vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&security=tls&alpn=h3&encryption=none&host=adsmiatm1764454498.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=hls-amt.itunes.apple.com#United%20States🇺🇸",
       "date": "2025-12-12"
     },
@@ -153,23 +137,11 @@
       "date": "2025-12-12"
     },
     {
-      "line": "vless://d19cf37c-6b64-4b4e-8592-6b785b1c4297@test.fast.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=none&encryption=none&host=mops.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
-      "line": "vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
-      "line": "vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-007.foton.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#United%20States🇺🇸",
-      "date": "2025-12-12"
-    },
-    {
       "line": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2025-12-12"
     },
     {
-      "line": "vless://f1b3ac3c-3000-4a19-89bb-3d613055df68@fs.ir-sub.fun:80?path=%2FZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&security=&encryption=none&host=zedd3.global.ssl.fastly.net&type=ws#United%20States🇺🇸",
+      "line": "vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=freudd.info&path=%2Fxxvclws#United%20States🇺🇸",
       "date": "2025-12-12"
     },
     {
@@ -853,6 +825,10 @@
       "date": "2025-12-12"
     },
     {
+      "line": "vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639008791593418731.jimny-amsix.info&path=%2Fcahttingws&security=tls&sni=639008791593418731.jimny-amsix.info&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2025-12-12"
+    },
+    {
       "line": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=random&type=ws&sni=ovhwuxian.pai50288.uk#Cloudflare🌐",
       "date": "2025-12-12"
     },
@@ -862,6 +838,10 @@
     },
     {
       "line": "vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#Cloudflare🌐",
+      "date": "2025-12-12"
+    },
+    {
+      "line": "vless://863ef1d6-1b13-4cb3-9052-6137fadfe1c5@delilah.ns.cloudflare.com:443?path=%2Fxlqwgows&security=tls&encryption=none&host=639009907244596240.tucson-amsiz.info&type=ws&sni=639009907244596240.tucson-amsiz.info#Cloudflare🌐",
       "date": "2025-12-12"
     },
     {
@@ -897,6 +877,14 @@
       "date": "2025-12-12"
     },
     {
+      "line": "vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#Cloudflare🌐",
+      "date": "2025-12-12"
+    },
+    {
+      "line": "vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-007.foton.dpdns.org&fp=chrome&type=ws&sni=rAyAn-007.fOtOn.dPdNs.oRg#Cloudflare🌐",
+      "date": "2025-12-12"
+    },
+    {
       "line": "vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443/?type=ws&encryption=none&flow=&host=us1.candyfans.win&path=%2Fcgunws&security=tls&sni=us1.candyfans.win&allowInsecure=1#Cloudflare🌐",
       "date": "2025-12-12"
     },
@@ -910,10 +898,6 @@
     },
     {
       "line": "vless://efe47594-d246-4823-9bb8-d828160720ab@us2.candyfans.win:443/?type=ws&encryption=none&flow=&host=us2.candyfans.win&path=%2Fndhfws&security=tls&sni=us2.candyfans.win&fp=chrome#Cloudflare🌐",
-      "date": "2025-12-12"
-    },
-    {
-      "line": "vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=freudd.info&path=%2Fxxvclws#Cloudflare🌐",
       "date": "2025-12-12"
     },
     {
@@ -984,6 +968,22 @@
   "Sweden🇸🇪": [
     {
       "line": "trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#Sweden🇸🇪",
+      "date": "2025-12-12"
+    },
+    {
+      "line": "vless://1a452b02-7302-432c-a20c-1bd9ef18c416@fs.ir-sub.fun:80?path=%2FZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZEDMODEON&security=&encryption=none&host=zedd4.global.ssl.fastly.net&type=ws#Sweden🇸🇪",
+      "date": "2025-12-12"
+    },
+    {
+      "line": "vless://2e9177ce-d1cc-45cd-b27f-f16f8fbc117a@fs.ir-sub.fun:80/?type=ws&encryption=none&flow=&host=zedd.global.ssl.fastly.net&path=%2FZEDMODEON-ZEDMODEON-bia-ZEDMODEON#Sweden🇸🇪",
+      "date": "2025-12-12"
+    },
+    {
+      "line": "vless://d19cf37c-6b64-4b4e-8592-6b785b1c4297@test.fast.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=none&encryption=none&host=mops.global.ssl.fastly.net&type=xhttp#Sweden🇸🇪",
+      "date": "2025-12-12"
+    },
+    {
+      "line": "vless://f1b3ac3c-3000-4a19-89bb-3d613055df68@fs.ir-sub.fun:80?path=%2FZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&security=&encryption=none&host=zedd3.global.ssl.fastly.net&type=ws#Sweden🇸🇪",
       "date": "2025-12-12"
     }
   ],
