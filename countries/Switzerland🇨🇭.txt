@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-12 21:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-13 04:10
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-12
+# 2025-12-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTExYc0F3TWtkZEthNU9HcVJiTTFE@h110vpnch.outlinekeys.net:4248#Switzerland🇨🇭
