@@ -1,7 +1,9 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-14 04:17
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-14 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ%3D%3D@45.15.127.49:443#Finland🇫🇮
+# 2025-12-14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Finland🇫🇮
 # 2025-12-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮
 # 2025-12-14
@@ -11,8 +13,10 @@ vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encrypt
 # 2025-12-14
 vless://9980305e-536a-4db4-92e9-3ec43fb05318@m88a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Finland🇫🇮
 # 2025-12-14
+vless://Parsashonam-Bot-41@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮
+# 2025-12-14
+vless://Parsashonam-Bot-41@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮
+# 2025-12-14
 vless://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Finland🇫🇮
 # 2025-12-14
 vless://f8a88a3f-1cca-4f93-ad79-4ccc1714c1c2@m59a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#Finland🇫🇮
-# 2025-12-14
-vmess://eyJ2IjoiMiIsInBzIjoiRmlubGFuZFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsImFkZCI6ImEuY29uZmlnbm9yLnNpdGUiLCJwb3J0IjoiNzQ0MyIsImlkIjoiNDJiZGExYjQtNWIzYy00MTlmLWI2OWEtYmE2NjI0M2RiY2UyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0
