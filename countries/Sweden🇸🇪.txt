@@ -1,8 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-16 04:13
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-16 09:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcnlYUnlaOU1ZcjQ5eTJPdkVZVlJx@78.40.116.165:30604#Sweden🇸🇪
-# 2025-12-16
 trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#Sweden🇸🇪
-# 2025-12-16
-vless://d8732149-4810-43be-b095-f1754debfd98@vcfgdsf.fastnew199.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Sweden🇸🇪
