@@ -1,14 +1,22 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-15 21:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-16 04:13
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-15
+# 2025-12-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#Italy🇮🇹
-# 2025-12-15
+# 2025-12-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#Italy🇮🇹
-# 2025-12-15
+# 2025-12-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#Italy🇮🇹
-# 2025-12-15
+# 2025-12-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹
-# 2025-12-15
-vless://TELEGRAM-CONFiGLiNE-88@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
-# 2025-12-15
-vless://TELEGRAM-CONFiGLiNE-89@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
+# 2025-12-16
+vless://32cdf663-be0b-42b3-a35f-2d2bb618e8bf@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
+# 2025-12-16
+vless://587245bd-4c11-41c2-84d5-a0dfd04f5661@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NETed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
+# 2025-12-16
+vless://9f9d4806-87bf-4e2c-bb79-acaf4776602a@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
+# 2025-12-16
+vless://d02efe87-40d6-40a6-a449-3cfd02ed5e54@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
+# 2025-12-16
+vless://d8732149-4810-43be-b095-f1754debfd98@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
+# 2025-12-16
+vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#Italy🇮🇹
