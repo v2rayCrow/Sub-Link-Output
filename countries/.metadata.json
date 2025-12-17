@@ -97,10 +97,6 @@
       "date": "2025-12-17"
     },
     {
-      "line": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#United%20States🇺🇸",
-      "date": "2025-12-17"
-    },
-    {
       "line": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2025-12-17"
     },
@@ -142,6 +138,10 @@
     },
     {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
+      "date": "2025-12-17"
+    },
+    {
+      "line": "vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=vangoghh.info&path=%2Ftixvuws&security=tls&sni=vangoghh.info&allowInsecure=1#United%20States🇺🇸",
       "date": "2025-12-17"
     },
     {
@@ -853,6 +853,10 @@
       "date": "2025-12-17"
     },
     {
+      "line": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#Cloudflare🌐",
+      "date": "2025-12-17"
+    },
+    {
       "line": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#Cloudflare🌐",
       "date": "2025-12-17"
     },
@@ -930,10 +934,6 @@
     },
     {
       "line": "vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#Cloudflare🌐",
-      "date": "2025-12-17"
-    },
-    {
-      "line": "vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=vangoghh.info&path=%2Ftixvuws&security=tls&sni=vangoghh.info&allowInsecure=1#Cloudflare🌐",
       "date": "2025-12-17"
     },
     {
