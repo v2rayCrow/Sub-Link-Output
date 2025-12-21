@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-21 15:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-21 21:30
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-12-21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Netherlands🇳🇱
 # 2025-12-21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#Netherlands🇳🇱
 # 2025-12-21
@@ -92,8 +94,6 @@ vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@45.131.4.11:80?security=none&type=w
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#Netherlands🇳🇱
 # 2025-12-21
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?path=%2Fvless&security=none&encryption=none&host=noda3.mcqueenconnection.ru&type=ws#Netherlands🇳🇱
-# 2025-12-21
-vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com&alpn=h2&allowInsecure=1&fp=chrome#Netherlands🇳🇱
 # 2025-12-21
 vless://bd%61%65%65bd1-4%65b6-4b63-8cfd-51%61%6539120f0%65@143.244.197.90:40189?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#Netherlands🇳🇱
 # 2025-12-21
