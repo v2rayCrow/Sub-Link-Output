@@ -1,12 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-20 21:41
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-21 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQZ0pWNHlSUHBHcG9WLTQwUFM4TjBHNmdTNEJwQlJrRg==@31.13.208.3:1234#Finland🇫🇮
-# 2025-12-20
+# 2025-12-21
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#Finland🇫🇮
-# 2025-12-20
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@31.13.208.3:5443?path=%2Fvless&security=none&encryption=none&host=fin.mcqueenconnection.ru&type=ws#Finland🇫🇮
-# 2025-12-20
-vless://Parsashonam-Bot-41@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮
-# 2025-12-20
-vless://Parsashonam-Bot-41@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#Finland🇫🇮
+# 2025-12-21
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮
+# 2025-12-21
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#Finland🇫🇮
