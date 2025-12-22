@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-09 04:12
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-22 04:15
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-09
-vless://9d3e7537-b583-493a-8548-851b2bf1a47e@v7.vipfast1.shop:8080?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#Iran🇮🇷
+# 2025-12-22
+vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@45.131.4.11:80?security=none&type=ws&path=%2FHLW3JoJi6BADhOry16&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&encryption=none#Iran🇮🇷
