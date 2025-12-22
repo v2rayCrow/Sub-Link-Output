@@ -1,6 +1,38 @@
 {
   "United States🇺🇸": [
     {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.249.92:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
       "line": "vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
       "date": "2025-12-22"
     },
@@ -117,43 +149,7 @@
       "date": "2025-12-22"
     },
     {
-      "line": "vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-100@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-101@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal4.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-93@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
       "date": "2025-12-22"
     },
     {
@@ -161,7 +157,11 @@
       "date": "2025-12-22"
     },
     {
-      "line": "vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "line": "vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#United%20States🇺🇸",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://d64620c6-2ec3-4da7-a151-febd14d7824e@betty.ns.cloudflare.com:443?path=%2Frdwnyews&security=tls&encryption=none&host=639014902535774186.supra-amsjh.info&type=ws&sni=639014902535774186.supra-amsjh.info#United%20States🇺🇸",
       "date": "2025-12-22"
     },
     {
@@ -681,6 +681,54 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹",
       "date": "2025-12-22"
+    },
+    {
+      "line": "vless://2469cb2f-11d3-4423-a56b-70c3ddcb4da9@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=none&encryption=none&host=mops.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=blazeft123your-name.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://765fed78-3a22-4507-a4a1-a6e403265dd2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr156.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-100@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-101@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal4.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-93@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
+    },
+    {
+      "line": "vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2025-12-22"
     }
   ],
   "Bahrain🇧🇭": [
@@ -1078,14 +1126,6 @@
     },
     {
       "line": "vless://c4987024-5261-4008-8b8f-ec7ef5750b9c@Www.Speedtest.net:2052?flow=&type=xhttp&host=joinbedebe1.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg/?ed%3D8080&mode=auto&security=none#Cloudflare🌐",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#Cloudflare🌐",
-      "date": "2025-12-22"
-    },
-    {
-      "line": "vless://d64620c6-2ec3-4da7-a151-febd14d7824e@betty.ns.cloudflare.com:443?path=%2Frdwnyews&security=tls&encryption=none&host=639014902535774186.supra-amsjh.info&type=ws&sni=639014902535774186.supra-amsjh.info#Cloudflare🌐",
       "date": "2025-12-22"
     },
     {

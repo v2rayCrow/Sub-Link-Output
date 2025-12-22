@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-22 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-22 15:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Cloudflare🌐
@@ -68,10 +68,6 @@ vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&
 vless://a3a075d9-a450-47a3-826d-834f20be22f4@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Cloudflare🌐
 # 2025-12-22
 vless://c4987024-5261-4008-8b8f-ec7ef5750b9c@Www.Speedtest.net:2052?flow=&type=xhttp&host=joinbedebe1.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg/?ed%3D8080&mode=auto&security=none#Cloudflare🌐
-# 2025-12-22
-vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=%2Ffwgisws&security=tls&encryption=none&host=hazmkardan.info&type=ws&sni=hazmkardan.info#Cloudflare🌐
-# 2025-12-22
-vless://d64620c6-2ec3-4da7-a151-febd14d7824e@betty.ns.cloudflare.com:443?path=%2Frdwnyews&security=tls&encryption=none&host=639014902535774186.supra-amsjh.info&type=ws&sni=639014902535774186.supra-amsjh.info#Cloudflare🌐
 # 2025-12-22
 vless://e8d06b09-acd9-448c-9874-3c36151d36ee@104.26.3.125:2052?security=none&type=ws&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&host=icy-wildflower-2590.lihuifeng595.workers.dev&encryption=none#Cloudflare🌐
 # 2025-12-22
