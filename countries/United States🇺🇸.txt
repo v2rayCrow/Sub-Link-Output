@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-23 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-23 15:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-23
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸
@@ -69,13 +69,13 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&enc
 # 2025-12-23
 vless://9323f2c6-fb40-4ee3-890f-9c63b948cb29@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxus112.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-12-23
+vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
+# 2025-12-23
 vless://c24a614c-a28b-4beb-b984-41e77f4d552f@151.101.3.8:80?mode=auto&path=%2F%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG--%40H%71%562R%61yNG%3Fed%3D2056&security=&encryption=none&host=f%65fw%65fwf%65%69fn%65kl.com&type=xhttp#United%20States🇺🇸
 # 2025-12-23
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-12-23
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2025-12-23
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1#United%20States🇺🇸
 # 2025-12-23
 vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=3.143.235.221&alpn=h2%2Chttp%2F1.1#United%20States🇺🇸
 # 2025-12-23
