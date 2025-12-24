@@ -1,14 +1,6 @@
 {
   "United States🇺🇸": [
     {
-      "line": "vless://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸",
-      "date": "2025-12-24"
-    },
-    {
-      "line": "vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸",
-      "date": "2025-12-24"
-    },
-    {
       "line": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#United%20States🇺🇸",
       "date": "2025-12-24"
     },
@@ -157,6 +149,10 @@
       "date": "2025-12-24"
     },
     {
+      "line": "vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "date": "2025-12-24"
+    },
+    {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
       "date": "2025-12-24"
     },
@@ -178,6 +174,10 @@
     },
     {
       "line": "vless://e7ebeb09-e8d0-4848-aa50-8ecb219724d1@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=&encryption=none&host=mops.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "date": "2025-12-24"
+    },
+    {
+      "line": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1#United%20States🇺🇸",
       "date": "2025-12-24"
     },
     {
@@ -647,10 +647,6 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#Italy🇮🇹",
       "date": "2025-12-24"
-    },
-    {
-      "line": "vless://67456b60-2a9e-4287-8808-c1ea5706403e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=&encryption=none&host=blazeus150your-name.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
-      "date": "2025-12-24"
     }
   ],
   "United Arab Emirates🇦🇪": [
@@ -877,10 +873,6 @@
       "date": "2025-12-24"
     },
     {
-      "line": "vless://32aec9ba-3966-487e-9b67-29ae27d1e37d@Free.fast199.hosting-ip.com:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20Kingdom🇬🇧",
-      "date": "2025-12-24"
-    },
-    {
       "line": "vless://d4997725-1fb8-4bbf-%61735-3bcf%616996d25@198.244.141.25:25371?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#United%20Kingdom🇬🇧",
       "date": "2025-12-24"
     },
@@ -910,6 +902,10 @@
     },
     {
       "line": "vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?encryption=none&packetEncoding=xudp#Denmark🇩🇰",
+      "date": "2025-12-24"
+    },
+    {
+      "line": "vless://32aec9ba-3966-487e-9b67-29ae27d1e37d@Free.fast199.hosting-ip.com:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#Denmark🇩🇰",
       "date": "2025-12-24"
     }
   ],
@@ -1134,10 +1130,6 @@
     },
     {
       "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.160.139:443?security=tls&type=ws&path=%2Fo9igw94d2qjy&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
-      "date": "2025-12-24"
-    },
-    {
-      "line": "vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1#Cloudflare🌐",
       "date": "2025-12-24"
     },
     {
