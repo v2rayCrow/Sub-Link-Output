@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-24 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-24 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2RWaHREMTVmd3BRcXc3MEFOOEtydzZBeUg4T2FDUT09@51.195.203.247:8443#United%20Kingdom🇬🇧
@@ -6,6 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPTU9wVjJYQ29NT0JZc0tHQWpMRG1zS2t3NmJEcE1Pa2R
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkczZFVjlwZXhrVUdmVDVUZlVESDIw@78.129.140.11:443#United%20Kingdom🇬🇧
 # 2025-12-24
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&packetEncoding=xudp#United%20Kingdom🇬🇧
+# 2025-12-24
+vless://32aec9ba-3966-487e-9b67-29ae27d1e37d@Free.fast199.hosting-ip.com:80?mode=auto&path=%2F%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam----%40%58pnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#United%20Kingdom🇬🇧
 # 2025-12-24
 vless://d4997725-1fb8-4bbf-%61735-3bcf%616996d25@198.244.141.25:25371?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#United%20Kingdom🇬🇧
 # 2025-12-24
