@@ -1,51 +1,25 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-24 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-24 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-24
-vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#United%20States🇺🇸
 # 2025-12-24
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#United%20States🇺🇸
 # 2025-12-24
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#United%20States🇺🇸
 # 2025-12-24
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#United%20States🇺🇸
 # 2025-12-24
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#United%20States🇺🇸
 # 2025-12-24
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#United%20States🇺🇸
 # 2025-12-24
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United%20States🇺🇸
 # 2025-12-24
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.249.92:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@167.160.90.178:990#United%20States🇺🇸
 # 2025-12-24
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@194.113.73.136:4655?security=none&encryption=none&headerType=none&type=tcp#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸
 # 2025-12-24
-vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-24
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#United%20States🇺🇸
-# 2025-12-24
-vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639018301854287215.camry-amsjk.info&path=%2Frbjisuws&security=tls&sni=639018301854287215.camry-amsjk.info&allowInsecure=1#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.164:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.165:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.148:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.155:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.149:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.159:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.160:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.177:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#United%20States🇺🇸
 # 2025-12-24
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
 # 2025-12-24
@@ -72,31 +46,3 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encry
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
 # 2025-12-24
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.226:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸
-# 2025-12-24
-vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type=ws&path=%2F&host=asuka.boringdad.netlib.re&sni=asuka.boringdad.netlib.re&fp=chrome&encryption=none#United%20States🇺🇸
-# 2025-12-24
-vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&host=ziyong.boringdad.netlib.re&type=ws&sni=ziyong.boringdad.netlib.re#United%20States🇺🇸
-# 2025-12-24
-vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?path=%2F&security=tls&encryption=none&host=asuka.boringdad.netlib.re&type=ws&sni=asuka.boringdad.netlib.re#United%20States🇺🇸
-# 2025-12-24
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸
-# 2025-12-24
-vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-24
-vless://TELEGRAM-CONFiGLiNE-103@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal3.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-24
-vless://TELEGRAM-CONFiGLiNE-101@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal4.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-24
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.61.102:2087/?type=ws&encryption=none&flow=&host=jp-99k.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=jp-99k.pages.dev&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2025-12-24
-vless://e7ebeb09-e8d0-4848-aa50-8ecb219724d1@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420--------%40EXPRESSVPN_420&security=&encryption=none&host=mops.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-24
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2025-12-24
-vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=3.143.235.221&alpn=h2%2Chttp%2F1.1#United%20States🇺🇸
-# 2025-12-24
-vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
-# 2025-12-24
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-# 2025-12-24
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#United%20States🇺🇸
