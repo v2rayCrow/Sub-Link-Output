@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-25 04:13
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-25 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-25
 vless://c42e4667-ca09-4769-b544-89a8da730daf@ru2.tunnely.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=51TT1F2DugIjuNuGgaeEoW_BWhEKg3mNyNkjNGd_2RM&sid=#Korea🇰🇷
