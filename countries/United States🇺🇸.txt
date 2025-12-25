@@ -1,5 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-25 09:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-25 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2025-12-25
+vless://12345678-1234-1234-1234-123456789123@159.246.55.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸
+# 2025-12-25
+vless://12345678-1234-1234-1234-123456789123@160.153.0.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸
+# 2025-12-25
+vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#United%20States🇺🇸
 # 2025-12-25
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#United%20States🇺🇸
 # 2025-12-25
@@ -80,12 +86,6 @@ vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type
 vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?path=%2F&security=tls&encryption=none&host=asuka.boringdad.netlib.re&type=ws&sni=asuka.boringdad.netlib.re#United%20States🇺🇸
 # 2025-12-25
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸
-# 2025-12-25
-vless://TELEGRAM-CONFiGLiNE-93@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-25
-vless://TELEGRAM-CONFiGLiNE-103@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
-# 2025-12-25
-vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
 # 2025-12-25
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1&fp=chrome#United%20States🇺🇸
 # 2025-12-25
