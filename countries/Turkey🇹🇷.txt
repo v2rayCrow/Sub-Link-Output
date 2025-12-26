@@ -1,10 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-26 04:13
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-26 09:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#Turkey🇹🇷
 # 2025-12-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#Turkey🇹🇷
 # 2025-12-26
 vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0
-# 2025-12-26
-vmess://eyJhZGQiOiI5NC4xMzEuMTA4LjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJUdXJrZXlcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
