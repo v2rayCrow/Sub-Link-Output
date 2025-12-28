@@ -169,15 +169,15 @@
       "date": "2025-12-28"
     },
     {
+      "line": "vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "date": "2025-12-28"
+    },
+    {
       "line": "vless://TELEGRAM-CONFiGLiNE-104@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal4.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
       "date": "2025-12-28"
     },
     {
       "line": "vless://TELEGRAM-CONFiGLiNE-93@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2025-12-28"
-    },
-    {
-      "line": "vless://f2119e6c-685b-45bb-97de-229696cb30c7@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639020094881472575.defender-amsjk.info&path=%2Fbytyguws&security=tls&sni=639020094881472575.defender-amsjk.info#United%20States🇺🇸",
       "date": "2025-12-28"
     },
     {
@@ -701,10 +701,6 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹",
       "date": "2025-12-28"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-105@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
-      "date": "2025-12-28"
     }
   ],
   "Cyprus🇨🇾": [
@@ -977,10 +973,6 @@
   ],
   "Cloudflare🌐": [
     {
-      "line": "trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443/?type=ws&host=ivory.qzz.io&path=%2F46.232.122.240%3A8000&security=tls&sni=ivory.qzz.io&allowInsecure=1#Cloudflare🌐",
-      "date": "2025-12-28"
-    },
-    {
       "line": "trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#Cloudflare🌐",
       "date": "2025-12-28"
     },
@@ -1170,6 +1162,10 @@
     },
     {
       "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
+      "date": "2025-12-28"
+    },
+    {
+      "line": "vless://f2119e6c-685b-45bb-97de-229696cb30c7@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639020094881472575.defender-amsjk.info&path=%2Fbytyguws&security=tls&sni=639020094881472575.defender-amsjk.info#Cloudflare🌐",
       "date": "2025-12-28"
     },
     {
