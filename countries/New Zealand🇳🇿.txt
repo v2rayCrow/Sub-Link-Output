@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-31 04:14
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-31 09:30
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2025-12-31
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106/?type=tcp&security=tls&sni=binaryboots.algorithmblanket.click#New%20Zealand🇳🇿
