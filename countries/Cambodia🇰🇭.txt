@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 18:55
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 19:23
 vless://abcd1234@2.2.2.2:2222?path=none#Provider ❤️ @V2Source
-# 2026-01-01 | Cambodia🇰🇭 01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.4.65:990#Cambodia%F0%9F%87%B0%F0%9F%87%AD%2001
+# 2026-01-01 | Cambodia🇰🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.4.65:990#Cambodia%F0%9F%87%B0%F0%9F%87%AD

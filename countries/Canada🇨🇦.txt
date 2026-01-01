@@ -1,24 +1,24 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 18:55
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 19:23
 vless://abcd1234@2.2.2.2:2222?path=none#Provider ❤️ @V2Source
-# 2026-01-01 | Canada🇨🇦 01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.154.204.7:990#Canada%F0%9F%87%A8%F0%9F%87%A6%2001
-# 2026-01-01 | Canada🇨🇦 02
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#Canada%F0%9F%87%A8%F0%9F%87%A6%2002
-# 2026-01-01 | Canada🇨🇦 03
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@23.95.76.147:990#Canada%F0%9F%87%A8%F0%9F%87%A6%2003
-# 2026-01-01 | Canada🇨🇦 04
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#Canada%F0%9F%87%A8%F0%9F%87%A6%2004
-# 2026-01-01 | Canada🇨🇦 05
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada%F0%9F%87%A8%F0%9F%87%A6%2005
-# 2026-01-01 | Canada🇨🇦 06
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada%F0%9F%87%A8%F0%9F%87%A6%2006
-# 2026-01-01 | Canada🇨🇦 07
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#Canada%F0%9F%87%A8%F0%9F%87%A6%2007
-# 2026-01-01 | Canada🇨🇦 08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.200.162:990#Canada%F0%9F%87%A8%F0%9F%87%A6%2008
-# 2026-01-01 | Canada🇨🇦 09
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#Canada%F0%9F%87%A8%F0%9F%87%A6%2009
-# 2026-01-01 | Canada🇨🇦 10
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?encryption=none&type=ws&host=telewebion.com&path=/39427/Nextlife&packetEncoding=xudp#Canada%F0%9F%87%A8%F0%9F%87%A6%2010
-# 2026-01-01 | Canada🇨🇦 11
-vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@45.154.204.7:990#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@23.95.76.147:990#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@79.127.200.169:990#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.200.162:990#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080?encryption=none&type=ws&host=telewebion.com&path=/39427/Nextlife&packetEncoding=xudp#Canada%F0%9F%87%A8%F0%9F%87%A6
+# 2026-01-01 | Canada🇨🇦
+vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
