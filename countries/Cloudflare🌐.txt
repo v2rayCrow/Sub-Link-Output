@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 20:53
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-01
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#Cloudflare🌐
 # 2026-01-01
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#Cloudflare🌐
 # 2026-01-01
@@ -74,8 +76,6 @@ vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.26.6.89:80?encryption=none&type
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?path=%2FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET%3D%3Fed%3D2560&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet003.ddns-ip.net#Cloudflare🌐
 # 2026-01-01
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#Cloudflare🌐
-# 2026-01-01
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐
 # 2026-01-01
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#Cloudflare🌐
 # 2026-01-01

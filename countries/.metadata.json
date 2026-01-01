@@ -203,22 +203,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net#United%20States🇺🇸",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@pages.cloudflare.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#United%20States🇺🇸",
-      "date": "2026-01-01"
-    },
-    {
       "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@docker.1panel.live:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#United%20States🇺🇸",
       "date": "2026-01-01"
     },
@@ -368,6 +352,22 @@
     },
     {
       "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-01"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-112@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "date": "2026-01-01"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-113@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "date": "2026-01-01"
+    },
+    {
+      "line": "vless://TELEGRAM-CONFiGLiNE-114@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall2.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
+      "date": "2026-01-01"
+    },
+    {
+      "line": "vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2026-01-01"
     },
     {
@@ -774,18 +774,6 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-112@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-113@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://TELEGRAM-CONFiGLiNE-114@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall2.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
       "date": "2026-01-01"
     }
   ],
@@ -1231,6 +1219,10 @@
   ],
   "Cloudflare🌐": [
     {
+      "line": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#Cloudflare🌐",
+      "date": "2026-01-01"
+    },
+    {
       "line": "vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#Cloudflare🌐",
       "date": "2026-01-01"
     },
@@ -1376,10 +1368,6 @@
     },
     {
       "line": "vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#Cloudflare🌐",
-      "date": "2026-01-01"
-    },
-    {
-      "line": "vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-01"
     },
     {

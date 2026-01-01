@@ -1,13 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 20:53
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-01
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net#United%20States🇺🇸
-# 2026-01-01
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@pages.cloudflare.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2026-01-01
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#United%20States🇺🇸
-# 2026-01-01
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#United%20States🇺🇸
 # 2026-01-01
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@docker.1panel.live:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#United%20States🇺🇸
 # 2026-01-01
@@ -84,6 +76,14 @@ vless://60ce56ac-bdba-11f0-94db-525400ca5ed1@45.159.79.174:443/?type=tcp&encrypt
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸
 # 2026-01-01
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+# 2026-01-01
+vless://TELEGRAM-CONFiGLiNE-112@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
+# 2026-01-01
+vless://TELEGRAM-CONFiGLiNE-113@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
+# 2026-01-01
+vless://TELEGRAM-CONFiGLiNE-114@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall2.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸
+# 2026-01-01
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#United%20States🇺🇸
 # 2026-01-01
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.62.23:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=tw.xmm9527.xyz&type=ws&sni=tw.xmm9527.xyz#United%20States🇺🇸
 # 2026-01-01
