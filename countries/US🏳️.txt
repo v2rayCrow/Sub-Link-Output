@@ -1,102 +1,102 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 19:11
-vless://abcd1234@2.2.2.2:2222?path=none#Provider ❤️ @V2Source
-# 2026-01-01 | US🏳️
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 19:58
+vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-01
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@wangcai253.cloudflare.182682.xyz:8880?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=kazuhikosvpn.kazuhikolzk.workers.dev&encryption=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@104.17.70.206:2096?encryption=none&security=tls&sni=free-server.techsonic.cloud&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=free-server.techsonic.cloud&path=/free-server.techsonic.cloud&packetEncoding=xudp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://94671f42-fdd3-4503-a3e6-bda4a2527560@019.electrocellco-cf-019.workers.dev:80?encryption=none&security=none&sni=019.electrocellco-cf-019.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=019.electrocellco-cf-019.workers.dev&path=%2FeyJqdW5rIjoibUVFb0RQcHJZZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjM0LjI1My4yMzQuNjIiXX0%3D%3Fed%3D2560#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&sni=Parsa-0ShPE1.pARsa-E06.wOrkERs.Dev&fp=chrome&encryption=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://96287144-7c5f-4f0b-99da-6c159f06038c@midnightblue.qzz.io:443/?type=ws&encryption=none&flow=&host=midnightblue.qzz.io&path=%2F54.153.59.106%3A80&security=tls&sni=midnightblue.qzz.io&allowInsecure=1#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@www.perplexity.ai:443?path=%2F57.128.183.35%3A443&security=tls&encryption=none&type=ws&sni=purplelily.qzz.io#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443/?type=ws&encryption=none&flow=&path=%2F57.128.183.35%3A443&security=tls&sni=purplelily.qzz.io#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://Parsashonam-Bot-38@104.17.147.22:8080?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://Parsashonam-Bot-38@104.17.147.22:8880?path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://TELEGRAM-CONFiGLiNE-112@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal.global.ssl.fastly.net&type=xhttp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://TELEGRAM-CONFiGLiNE-113@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall.global.ssl.fastly.net&type=xhttp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://TELEGRAM-CONFiGLiNE-114@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanall2.global.ssl.fastly.net&type=xhttp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://SERVERNETT-SERVERNETT1@polm.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@www.perplexity.ai:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://9be5679d-cd82-4ace-9fcf-bed31e21fadf@tronblue.qzz.io:443/?type=ws&encryption=none&flow=&host=tronblue.qzz.io&path=%2F43.218.77.16%3D1443&security=tls&sni=tronblue.qzz.io&allowInsecure=1#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?encryption=none&type=xhttp&path=/&mode=auto&packetEncoding=xudp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.16.53.11:8443?path=%2F&security=tls&encryption=none&insecure=1&host=hetzner-9.cfuk.name.ng&fp=chrome&type=ws&allowInsecure=1&sni=hetzner-9.cfuk.name.ng#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.148.22:8443?path=%2F&security=tls&encryption=none&insecure=1&host=hetzner-6.derberg.name.ng&fp=chrome&type=ws&allowInsecure=1&sni=hetzner-6.derberg.name.ng#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hetzner-9.cfuk.name.ng&type=ws&allowInsecure=0&sni=hetzner-9.cfuk.name.ng#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://bd037718-ef02-496c-8ad5-d6106837a474@Www.Speedtest.net:2052?flow=&type=xhttp&host=joinbedebe1.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg/?ed%3D8080&mode=auto&security=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://c5b129d7-f133-4b34-a9c6-68c9a8f70248@104.26.6.89:80?encryption=none&type=ws&host=EMotioNaL-peRMIsSiONf1bs65u5f4.EcOTOuRISs.Co.uK&path=/&packetEncoding=xudp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?path=%2FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET%3D%3Fed%3D2560&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=randomized&type=ws&sni=a.azadnet003.ddns-ip.net#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.wto.org:2095?encryption=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560&packetEncoding=xudp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://dd0f3ac0-98db-4ad0-9ac4-a3db5b6aa18e@104.26.6.89:80?encryption=none&type=ws&host=elegaNt-PrOJECt4lB40WUCws.wiNDLEr.Co.uK&path=/&packetEncoding=xudp#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&encryption=none&flow=&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.62.23:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=tw.xmm9527.xyz&type=ws&sni=tw.xmm9527.xyz#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@yellow-disk-0edf.diyenec996.workers.dev:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=yellow-disk-0edf.diyenec996.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yellow-disk-0edf.diyenec996.workers.dev#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&fp=chrome#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.214.25:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRmZjNcdWZlMGYiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRmZjNcdWZlMGYiLCJhZGQiOiIxNzIuMjM0LjEzMi4yMzIiLCJwb3J0IjoiMTAwMDEiLCJpZCI6ImE2Yjk5YzA1LThlMGEtNGY3ZS1iZjdiLWU0YjlmZWJiOTU4OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vmess://eyJ2IjoiMiIsInBzIjoiVVNcdWQ4M2NcdWRmZjNcdWZlMGYiLCJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsInBvcnQiOiI0NDMiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDkuMTI2Ljg0LjE4OSIsInBhdGgiOiIvdm1lc3N3cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vmess://eyJhZGQiOiIxMDQuMjYuMTUuMTQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbjJ3MW53ZWIuc2lnbWFjaGVtaWNhbHMuaXIiLCJpZCI6IjIzOWVkNDFjLTRhZjYtNDliYS04MTU2LWZmMjMxMGVhNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xNDM1MS9OZXh0bGlmZSIsInBvcnQiOiI4MDgwIiwicHMiOiJVU1x1ZDgzY1x1ZGZmM1x1ZmUwZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-# 2026-01-01 | US🏳️
+# 2026-01-01
 vmess://eyJhZGQiOiIxOTguMjMuMTc0LjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYjM2MzA0Yi00Zjg4LTRmZjUtOTAzMy1mNGQ1N2RiYjU0OTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJVU1x1ZDgzY1x1ZGZmM1x1ZmUwZiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-# 2026-01-01 | US🏳️
+# 2026-01-01
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#US%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | US🏳️
+# 2026-01-01
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#US%F0%9F%8F%B3%EF%B8%8F

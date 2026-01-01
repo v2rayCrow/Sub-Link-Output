@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 19:11
-vless://abcd1234@2.2.2.2:2222?path=none#Provider ❤️ @V2Source
-# 2026-01-01 | IR🏳️
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 19:58
+vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-01
 vless://9829abd1-ee53-46df-8496-16f3d4bdcda1@94.183.149.102:10005/?encryption=none&flow=&type=tcp&headerType=http#IR%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | IR🏳️
+# 2026-01-01
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@fi.sepshoping.de:8016?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#IR%F0%9F%8F%B3%EF%B8%8F

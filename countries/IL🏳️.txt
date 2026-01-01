@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین آپدیت⏳ 2026-01-01 19:11
-vless://abcd1234@2.2.2.2:2222?path=none#Provider ❤️ @V2Source
-# 2026-01-01 | IL🏳️
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 19:58
+vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg%3D%3D@89.221.225.15:443#IL%F0%9F%8F%B3%EF%B8%8F
-# 2026-01-01 | IL🏳️
+# 2026-01-01
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#IL%F0%9F%8F%B3%EF%B8%8F
