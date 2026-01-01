@@ -1,5 +1,9 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-01 15:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-01
+vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@029.electrocellco-cf-029.workers.dev:8443?encryption=none&security=tls&sni=029.eLeCtROcELLCO-cf-029.wOrkERs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiVkszbkhyU1UxMWtoNzE5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#Cloudflare🌐
+# 2026-01-01
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&insecure=1&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=1&sni=ovhwuxian.pai50288.uk#Cloudflare🌐
 # 2026-01-01
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#Cloudflare🌐
 # 2026-01-01
@@ -75,8 +79,6 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?path=%2FJoin---P
 # 2026-01-01
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#Cloudflare🌐
 # 2026-01-01
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐
-# 2026-01-01
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#Cloudflare🌐
 # 2026-01-01
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.wto.org:2095?encryption=none&type=ws&host=xijinpingnmsl.s4ar.workers.dev&path=/?ed%3D2560&packetEncoding=xudp#Cloudflare🌐
@@ -96,7 +98,5 @@ vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.214.25:2053?security=tls&typ
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
 # 2026-01-01
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
-# 2026-01-01
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info#Cloudflare🌐
 # 2026-01-01
 vmess://eyJhZGQiOiIxMDQuMjYuMTUuMTQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwbjJ3MW53ZWIuc2lnbWFjaGVtaWNhbHMuaXIiLCJpZCI6IjIzOWVkNDFjLTRhZjYtNDliYS04MTU2LWZmMjMxMGVhNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8xNDM1MS9OZXh0bGlmZSIsInBvcnQiOiI4MDgwIiwicHMiOiJDbG91ZGZsYXJlXHVkODNjXHVkZjEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
