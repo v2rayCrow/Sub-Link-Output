@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-02 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-02 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-02
 vless://b5dc6bef-11af-44d6-af98-900acaac62e0@185.253.118.198:15468/?type=tcp&encryption=none&flow=#Saudi%20Arabia🇸🇦
