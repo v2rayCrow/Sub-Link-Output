@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-03 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-03 15:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-03
-vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&security=none&sni=173.245.59.244&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ%3D%3D%3Fed%3D2560#Cloudflare🌐
 # 2026-01-03
 vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@198.41.193.151:80?encryption=none&security=none&sni=198.41.193.151&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoibWNPczJHelJTUmpXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#Cloudflare🌐
 # 2026-01-03
@@ -84,6 +82,8 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.wto.org:2095?encryption=none&ty
 vless://cdec8542-a21f-4377-9da3-ea60bb6d3a30@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v2.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#Cloudflare🌐
 # 2026-01-03
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#Cloudflare🌐
+# 2026-01-03
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐
 # 2026-01-03
 vless://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&encryption=none&flow=&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io#Cloudflare🌐
 # 2026-01-03
