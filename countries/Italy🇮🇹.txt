@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-04 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-04 15:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-04
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#Italy🇮🇹
@@ -10,3 +10,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#Italy🇮🇹
 # 2026-01-04
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹
+# 2026-01-04
+vless://b608c486-56e6-45c7-d66c-50a46d34b2d3@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Fvpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66%3Fed%3D2650&security=&encryption=none&host=shadow66.global.ssl.fastly.net&type=xhttp#Italy🇮🇹

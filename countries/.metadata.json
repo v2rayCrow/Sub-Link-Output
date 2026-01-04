@@ -107,6 +107,10 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net#United%20States🇺🇸",
+      "date": "2026-01-04"
+    },
+    {
       "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@notion.site:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.dynv6.net#United%20States🇺🇸",
       "date": "2026-01-04"
     },
@@ -264,10 +268,6 @@
     },
     {
       "line": "vless://Parsashonam-332@SpeedTest.Net:80?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2048&security=&encryption=none&host=Parsashonam-v2ray-channel.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
-      "date": "2026-01-04"
-    },
-    {
-      "line": "vless://b608c486-56e6-45c7-d66c-50a46d34b2d3@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Fvpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66%3Fed%3D2650&security=&encryption=none&host=shadow66.global.ssl.fastly.net&type=xhttp#United%20States🇺🇸",
       "date": "2026-01-04"
     },
     {
@@ -723,6 +723,10 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹",
       "date": "2026-01-04"
+    },
+    {
+      "line": "vless://b608c486-56e6-45c7-d66c-50a46d34b2d3@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Fvpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66-vpn_proxy66%3Fed%3D2650&security=&encryption=none&host=shadow66.global.ssl.fastly.net&type=xhttp#Italy🇮🇹",
+      "date": "2026-01-04"
     }
   ],
   "Croatia🇭🇷": [
@@ -802,6 +806,10 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@95.173.218.203:990#Singapore🇸🇬",
+      "date": "2026-01-04"
+    },
+    {
+      "line": "vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#Singapore🇸🇬",
       "date": "2026-01-04"
     },
     {
@@ -936,10 +944,6 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮",
-      "date": "2026-01-04"
-    },
-    {
-      "line": "vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#Finland🇫🇮",
       "date": "2026-01-04"
     },
     {
