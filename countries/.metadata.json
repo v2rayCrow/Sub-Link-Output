@@ -199,10 +199,6 @@
       "date": "2026-01-05"
     },
     {
-      "line": "vless://34b2c490-f7c3-4c01-8bb6-03d2939760b4@masterserver1.gatesriver.ir:6423?mode=gun&security=&encryption=none&type=grpc&serviceName=@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1#Germany🇩🇪",
-      "date": "2026-01-05"
-    },
-    {
       "line": "vless://34b2c490-f7c3-4c01-8bb6-03d2939760b4@v2ngfast.gatesriver.ir:2718?security=none&type=grpc&mode=gun&serviceName=%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast-%40V2ngFast&encryption=none#Germany🇩🇪",
       "date": "2026-01-05"
     },
@@ -247,10 +243,6 @@
       "date": "2026-01-05"
     },
     {
-      "line": "vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#Germany🇩🇪",
-      "date": "2026-01-05"
-    },
-    {
       "line": "vless://a028620e-f800-4416-b30a-3f46a2dd1bd5@rez1.generator-filmmaker.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=L0T9ktp1wL9UBQJZATIoia23FvNFQtkKNOBinisAwA8&sid=e05e#Germany🇩🇪",
       "date": "2026-01-05"
     },
@@ -276,14 +268,6 @@
     }
   ],
   "United States🇺🇸": [
-    {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@205.233.181.158:2096/?type=ws&encryption=none&flow=&host=sni.111000.de5.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.de5.net#United%20States🇺🇸",
-      "date": "2026-01-05"
-    },
-    {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed&security=tls&sni=sni.111000.dynv6.net&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-05"
-    },
     {
       "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.40.150.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.dns.army&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.dns.army#United%20States🇺🇸",
       "date": "2026-01-05"
@@ -437,6 +421,10 @@
       "date": "2026-01-05"
     },
     {
+      "line": "vless://7c3c4b64-dcc0-4cdb-b52b-c2f321cd7311@betty.ns.cloudflare.com:443?path=%2Ftyipizws&security=tls&encryption=none&host=639028216785109112.fit-amsjl.info&type=ws&sni=639028216785109112.fit-amsjl.info#United%20States🇺🇸",
+      "date": "2026-01-05"
+    },
+    {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
       "date": "2026-01-05"
     },
@@ -446,6 +434,10 @@
     },
     {
       "line": "vless://TELEGRAM-CONFiGLiNE-122@151.101.169.242:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D1024&security=none&encryption=none&host=nesfeseehab.global.ssl.fastly.net&type=ws#United%20States🇺🇸",
+      "date": "2026-01-05"
+    },
+    {
+      "line": "vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2026-01-05"
     },
     {
@@ -975,6 +967,14 @@
   ],
   "Cloudflare🌐": [
     {
+      "line": "vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.perplexity.ai:2096?encryption=none&security=tls&sni=DiGIkALaA.dpdns.ORG&alpn=http%2F1.1&fp=chrome&type=ws&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eXlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#Cloudflare🌐",
+      "date": "2026-01-05"
+    },
+    {
+      "line": "vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#Cloudflare🌐",
+      "date": "2026-01-05"
+    },
+    {
       "line": "vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@188.114.97.222:8080?encryption=none&security=none&sni=188.114.97.222&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiTzZZQ2dpUW1WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#Cloudflare🌐",
       "date": "2026-01-05"
     },
@@ -1071,10 +1071,6 @@
       "date": "2026-01-05"
     },
     {
-      "line": "vless://7c3c4b64-dcc0-4cdb-b52b-c2f321cd7311@betty.ns.cloudflare.com:443?path=%2Ftyipizws&security=tls&encryption=none&host=639028216785109112.fit-amsjl.info&type=ws&sni=639028216785109112.fit-amsjl.info#Cloudflare🌐",
-      "date": "2026-01-05"
-    },
-    {
       "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@wangcai253.cloudflare.182682.xyz:8880?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=kazuhikosvpn.kazuhikolzk.workers.dev&encryption=none#Cloudflare🌐",
       "date": "2026-01-05"
     },
@@ -1132,10 +1128,6 @@
     },
     {
       "line": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.udemy.com:2095/?type=ws&encryption=none&flow=&host=freenodes.pusytroller.cf&path=%2F%3Fed%3D2560#Cloudflare🌐",
-      "date": "2026-01-05"
-    },
-    {
-      "line": "vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443/?type=ws&encryption=none&flow=&host=rayan-007.foton.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-05"
     },
     {
@@ -1378,6 +1370,20 @@
     },
     {
       "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.148:2096/?type=ws&encryption=none&flow=&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.rocks#Curaçao🇨🇼",
+      "date": "2026-01-05"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://2053d74c-2a3b-453b-b665-8e25142a7569@zula.ir:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=h3&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#UNKNOWN🏳️",
+      "date": "2026-01-05"
+    },
+    {
+      "line": "vless://34b2c490-f7c3-4c01-8bb6-03d2939760b4@masterserver1.gatesriver.ir:6423?mode=gun&security=&encryption=none&type=grpc&serviceName=@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1#UNKNOWN🏳️",
+      "date": "2026-01-05"
+    },
+    {
+      "line": "vless://8b31b301-5770-4b71-b1a9-8a9546e4fd12@pysrvip.glovesstore1.ir:3101?security=none&type=tcp#UNKNOWN🏳️",
       "date": "2026-01-05"
     }
   ],
