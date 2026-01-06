@@ -137,10 +137,6 @@
       "date": "2026-01-06"
     },
     {
-      "line": "vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#Germany🇩🇪",
-      "date": "2026-01-06"
-    },
-    {
       "line": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪",
       "date": "2026-01-06"
     },
@@ -162,6 +158,10 @@
     }
   ],
   "United States🇺🇸": [
+    {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@190.93.247.168:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.army&type=ws&sni=sni.111000.v6.army#United%20States🇺🇸",
+      "date": "2026-01-06"
+    },
     {
       "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net#United%20States🇺🇸",
       "date": "2026-01-06"
@@ -320,10 +320,6 @@
     },
     {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
-      "date": "2026-01-06"
-    },
-    {
-      "line": "vless://7c3c4b64-dcc0-4cdb-b52b-c2f321cd7311@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639028216785109112.fit-amsjl.info&path=%2Ftyipizws&security=tls&sni=639028216785109112.fit-amsjl.info#United%20States🇺🇸",
       "date": "2026-01-06"
     },
     {
@@ -498,6 +494,10 @@
     },
     {
       "line": "vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#Netherlands🇳🇱",
+      "date": "2026-01-06"
+    },
+    {
+      "line": "vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#Netherlands🇳🇱",
       "date": "2026-01-06"
     },
     {
@@ -1093,10 +1093,6 @@
   ],
   "Cloudflare🌐": [
     {
-      "line": "vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com#Cloudflare🌐",
-      "date": "2026-01-06"
-    },
-    {
       "line": "vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#Cloudflare🌐",
       "date": "2026-01-06"
     },
@@ -1202,6 +1198,10 @@
     },
     {
       "line": "vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#Cloudflare🌐",
+      "date": "2026-01-06"
+    },
+    {
+      "line": "vless://7c3c4b64-dcc0-4cdb-b52b-c2f321cd7311@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639028216785109112.fit-amsjl.info&path=%2Ftyipizws&security=tls&sni=639028216785109112.fit-amsjl.info#Cloudflare🌐",
       "date": "2026-01-06"
     },
     {
