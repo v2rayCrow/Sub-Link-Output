@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-06 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-06 21:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-06
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YTg1YjI0OTI4NmE3NGE5@196.240.57.74:57456#Germany🇩🇪
@@ -48,6 +48,8 @@ vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.186.241:80/?type=ws&encrypti
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80?encryption=none&type=ws&host=cdn.ir&path=/news&packetEncoding=xudp#Germany🇩🇪
 # 2026-01-06
 vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany🇩🇪
+# 2026-01-06
+vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#Germany🇩🇪
 # 2026-01-06
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪
 # 2026-01-06
