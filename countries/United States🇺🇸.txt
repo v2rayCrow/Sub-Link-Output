@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-07 15:48
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-07 21:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-07
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@saas.sin.fan:443?security=tls&type=ws&path=%2F%3Fed&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&encryption=none#United%20States🇺🇸
