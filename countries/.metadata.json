@@ -1169,10 +1169,6 @@
       "date": "2026-01-07"
     },
     {
-      "line": "vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#Iran🇮🇷",
-      "date": "2026-01-07"
-    },
-    {
       "line": "vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@fi.sepshoping.de:8016?security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=http&type=tcp#Iran🇮🇷",
       "date": "2026-01-07"
     },
@@ -1212,6 +1208,12 @@
   "Azerbaijan🇦🇿": [
     {
       "line": "vless://1602a406-a38e-4211-bbdc-3f75c890303d@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#Azerbaijan🇦🇿",
+      "date": "2026-01-07"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#UNKNOWN🏳️",
       "date": "2026-01-07"
     }
   ],

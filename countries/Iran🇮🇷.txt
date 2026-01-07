@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-07 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-07 15:48
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-07
 vless://08c7f096-d057-4d53-82fd-c739d372887b@109.95.65.246:2013?path=%2F&security=none&encryption=none&host=guilanet.com&type=ws#Iran🇮🇷
@@ -6,8 +6,6 @@ vless://08c7f096-d057-4d53-82fd-c739d372887b@109.95.65.246:2013?path=%2F&securit
 vless://0b7cc164-bde5-4587-9fa6-c5a9dcdfcae3@tun.thuglife.ir:1993?security=&encryption=none&host=cafebazar.com&headerType=http&type=tcp#Iran🇮🇷
 # 2026-01-07
 vless://a9171965-cda0-461f-a6f2-a57069c875a3@nethgtun.bestjadid.ir:8989?encryption=none&type=ws&path=/&security=none#Iran🇮🇷
-# 2026-01-07
-vless://a9171965-cda0-461f-a6f2-a57069c875a3@93k.shirim.top:4881?encryption=none&type=tcp&headerType=none&security=none#Iran🇮🇷
 # 2026-01-07
 vless://f90b7a19-0b71-44b6-b95b-baab85af4d51@fi.sepshoping.de:8016?security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=http&type=tcp#Iran🇮🇷
 # 2026-01-07
