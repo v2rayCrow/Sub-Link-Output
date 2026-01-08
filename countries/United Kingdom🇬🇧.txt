@@ -1,8 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-08 04:14
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-08 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#United%20Kingdom🇬🇧
 # 2026-01-08
-vless://725f7cc0-af7e-40b8-e2c1-72e29bc00529@Cr7.zx-shop.ir:2096?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=Nvm.website-game.ir&type=ws&allowInsecure=0&sni=Nvm.website-game.ir#United%20Kingdom🇬🇧
+trojan://vwhoUdVRNtFBKstJd1gpuA@209.97.191.29:7392?security=none&headerType=none&type=tcp#United%20Kingdom🇬🇧
 # 2026-01-08
-vless://725f7cc0-af7e-40b8-e2c1-72e29bc00529@cr7.zx-shop.ir:2096?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=Nvm.website-game.ir&path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config&security=tls&sni=Nvm.website-game.ir&type=ws#United%20Kingdom🇬🇧
+vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@25.25.25.0:8880?security=none&type=ws&path=%2F%3Fed%3D8880&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&encryption=none#United%20Kingdom🇬🇧

@@ -1,8 +1,16 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-08 04:14
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-08 09:31
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#Armenia🇦🇲
 # 2026-01-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18792#Armenia🇦🇲
 # 2026-01-08
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#Armenia🇦🇲
+# 2026-01-08
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#Armenia🇦🇲
+# 2026-01-08
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?path=%2F&security=tls&encryption=none&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&type=ws&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo#Armenia🇦🇲
+# 2026-01-08
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=GfV5t2331T.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&allowInsecure=0&sni=GfV5t2331T.sMaRtTeChZaAl.InFo#Armenia🇦🇲
+# 2026-01-08
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?encryption=none&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&alpn=h3h2&fp=chrome&type=ws&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=/&packetEncoding=xudp#Armenia🇦🇲
