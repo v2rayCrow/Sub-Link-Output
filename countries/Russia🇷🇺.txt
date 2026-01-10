@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-10 15:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-10 21:42
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia🇷🇺
@@ -16,3 +16,5 @@ vless://84b24517-2989-4f23-b6df-a12effc3c432@51.250.28.39:4248/?type=tcp&encrypt
 vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@bridge2.pool.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi.reality.tv123.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺
 # 2026-01-10
 vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@ru-msk-yan-1gbit-02.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺
+# 2026-01-10
+vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@ru-msk-yan-1gbit-01.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺

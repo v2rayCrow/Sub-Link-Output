@@ -901,6 +901,10 @@
     {
       "line": "vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@ru-msk-yan-1gbit-02.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺",
       "date": "2026-01-10"
+    },
+    {
+      "line": "vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@ru-msk-yan-1gbit-01.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺",
+      "date": "2026-01-10"
     }
   ],
   "Japan🇯🇵": [
@@ -1334,12 +1338,6 @@
     },
     {
       "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#Curaçao🇨🇼",
-      "date": "2026-01-10"
-    }
-  ],
-  "UNKNOWN🏳️": [
-    {
-      "line": "vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@ru-msk-yan-1gbit-01.sssrvpn.pro:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnv-img.perekrestok.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#UNKNOWN🏳️",
       "date": "2026-01-10"
     }
   ]
