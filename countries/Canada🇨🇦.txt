@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-11 09:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-11 15:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#Canada🇨🇦
@@ -13,8 +13,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.
 # 2026-01-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada🇨🇦
 # 2026-01-11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#Canada🇨🇦
+vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?encryption=none&security=tls&sni=ziyong.boringdad.netlib.re&allowInsecure=1&type=ws&path=%2F#Canada🇨🇦
 # 2026-01-11
-vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#Canada🇨🇦
+vless://495c0dad-3268-4470-ac57-887c5089db0d@visa.com:443?path=%2F&security=tls&encryption=none&host=asuka.boringdad.netlib.re&type=ws&sni=asuka.boringdad.netlib.re#Canada🇨🇦
 # 2026-01-11
-vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443/?type=ws&encryption=none&flow=&host=ziyong.boringdad.netlib.re&path=%2F&security=tls&sni=ziyong.boringdad.netlib.re&allowInsecure=1&fp=chrome#Canada🇨🇦
+# 2026-01-11
+vless://6e69871c-4506-4cb9-b375-ac97cb972742@saas.sin.fan:443/?type=ws&encryption=none&flow=&host=sni.520cf.dns.army&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=sni.520cf.dns.army&allowInsecure=1&fp=random#Canada🇨🇦
+# 2026-01-11
+vless://8f654717-4009-4417-af5a-8b9bf7853e79@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639034354143079886.defender-amsjs.info&path=%2Fyirpvnws&security=tls&sni=639034354143079886.defender-amsjs.info&allowInsecure=1#Canada🇨🇦
+# 2026-01-11
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095/?type=ws&encryption=none&flow=&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D#Canada🇨🇦
+# 2026-01-11
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#Canada🇨🇦
+# 2026-01-11
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.19.174:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#Canada🇨🇦
