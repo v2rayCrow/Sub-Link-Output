@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2025-12-30 15:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-12 09:48
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2025-12-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#South%20Korea🇰🇷
+# 2026-01-12
+vmess://eyJhZGQiOiJkdjQuNzg5OTAwLnh5eiIsImFpZCI6MCwiaG9zdCI6ImR2NC43ODk5MDAueHl6IiwiaWQiOiIwYzhmM2UyOS00ZWM5LTRiYTYtYTZlZi00NDg3ODczZjVkMDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMGM4ZjNlMjktNGVjOS00YmE2LWE2ZWYtNDQ4Nzg3M2Y1ZDA1LXZtIiwicG9ydCI6MjA5NiwicHMiOiJTb3V0aCBLb3JlYVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiZHY0Ljc4OTkwMC54eXoifQ
