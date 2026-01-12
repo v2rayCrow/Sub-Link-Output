@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-12 15:49
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-12 21:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-12
+vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=1403.stopt7307.workers.dev&sni=1403.stopt7307.workers.dev&fp=chrome&encryption=none#Cloudflare🌐
 # 2026-01-12
 vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%2Fvgn80ag4q5o0oxj5#Cloudflare🌐
 # 2026-01-12
@@ -40,8 +42,6 @@ vless://94671f42-fdd3-4503-a3e6-bda4a2527560@019.electrocellco-cf-019.workers.de
 vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#Cloudflare🌐
 # 2026-01-12
 vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443/?type=ws&encryption=none&flow=&host=hetzner.rahedarro.com&path=%2Fdar&security=tls&sni=hetzner.rahedarro.com#Cloudflare🌐
-# 2026-01-12
-vless://9575377c-6574-4145-a4f0-505f9d5af787@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639034354142781815.defender-amsjs.info&path=%2Fhabfarws&security=tls&sni=639034354142781815.defender-amsjs.info&allowInsecure=1&fp=chrome#Cloudflare🌐
 # 2026-01-12
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@104.18.26.90:8880/?type=ws&encryption=none&flow=&host=servepross.ajorpare.ir&path=%2F#Cloudflare🌐
 # 2026-01-12

@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-12 15:49
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-12 21:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-12
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#United%20States🇺🇸
 # 2026-01-12
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#United%20States🇺🇸
 # 2026-01-12
@@ -74,6 +72,8 @@ vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws
 vless://8f654717-4009-4417-af5a-8b9bf7853e79@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639034354143079886.defender-amsjs.info&path=%2Fyirpvnws&security=tls&sni=639034354143079886.defender-amsjs.info&allowInsecure=1#United%20States🇺🇸
 # 2026-01-12
 vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2015.ir&type=xhttp#United%20States🇺🇸
+# 2026-01-12
+vless://9575377c-6574-4145-a4f0-505f9d5af787@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639034354142781815.defender-amsjs.info&path=%2Fhabfarws&security=tls&sni=639034354142781815.defender-amsjs.info&allowInsecure=1&fp=chrome#United%20States🇺🇸
 # 2026-01-12
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:2095/?type=ws&encryption=none&flow=&host=xijinpingnmsl.s4ar.workers.dev&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D#United%20States🇺🇸
 # 2026-01-12

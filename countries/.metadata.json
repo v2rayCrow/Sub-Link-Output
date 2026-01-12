@@ -139,10 +139,6 @@
       "date": "2026-01-12"
     },
     {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Germany🇩🇪",
-      "date": "2026-01-12"
-    },
-    {
       "line": "vless://7d12bf9a-63d6-4989-a27b-c9ddb2d6c0b6@de23.ariyanln.com:7945?security=none&encryption=none&host=mmg.whatsapp.net&headerType=http&type=tcp#Germany🇩🇪",
       "date": "2026-01-12"
     },
@@ -228,10 +224,6 @@
     }
   ],
   "United States🇺🇸": [
-    {
-      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-12"
-    },
     {
       "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2026-01-12"
@@ -374,6 +366,10 @@
     },
     {
       "line": "vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2015.ir&type=xhttp#United%20States🇺🇸",
+      "date": "2026-01-12"
+    },
+    {
+      "line": "vless://9575377c-6574-4145-a4f0-505f9d5af787@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639034354142781815.defender-amsjs.info&path=%2Fhabfarws&security=tls&sni=639034354142781815.defender-amsjs.info&allowInsecure=1&fp=chrome#United%20States🇺🇸",
       "date": "2026-01-12"
     },
     {
@@ -671,6 +667,10 @@
   ],
   "Cloudflare🌐": [
     {
+      "line": "vless://62a49d41-e231-4a6b-af26-cec86ef64001@172.67.205.138:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=1403.stopt7307.workers.dev&sni=1403.stopt7307.workers.dev&fp=chrome&encryption=none#Cloudflare🌐",
+      "date": "2026-01-12"
+    },
+    {
       "line": "vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%2Fvgn80ag4q5o0oxj5#Cloudflare🌐",
       "date": "2026-01-12"
     },
@@ -748,10 +748,6 @@
     },
     {
       "line": "vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443/?type=ws&encryption=none&flow=&host=hetzner.rahedarro.com&path=%2Fdar&security=tls&sni=hetzner.rahedarro.com#Cloudflare🌐",
-      "date": "2026-01-12"
-    },
-    {
-      "line": "vless://9575377c-6574-4145-a4f0-505f9d5af787@cosmin.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639034354142781815.defender-amsjs.info&path=%2Fhabfarws&security=tls&sni=639034354142781815.defender-amsjs.info&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-12"
     },
     {
@@ -953,6 +949,10 @@
       "date": "2026-01-12"
     },
     {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-12"
+    },
+    {
       "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
       "date": "2026-01-12"
     }
@@ -989,9 +989,9 @@
       "date": "2026-01-12"
     }
   ],
-  "Sweden🇸🇪": [
+  "Portugal🇵🇹": [
     {
-      "line": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nexovh09.sepiol.name.NG&fp=firefox&type=ws&allowInsecure=0&sni=nexovh09.sepiol.name.NG#Sweden🇸🇪",
+      "line": "vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nexovh09.sepiol.name.NG&fp=firefox&type=ws&allowInsecure=0&sni=nexovh09.sepiol.name.NG#Portugal🇵🇹",
       "date": "2026-01-12"
     }
   ],
