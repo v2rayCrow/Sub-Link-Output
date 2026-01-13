@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-13 04:10
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-13 09:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-13
 trojan://zL7CpPYxhvFtYqm2yAbHrw@209.97.191.29:7392?security=none&headerType=none&type=tcp#United%20Kingdom🇬🇧
