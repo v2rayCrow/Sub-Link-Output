@@ -1,79 +1,35 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-17 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-17 15:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.183:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.185:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA%3D%3D@23.95.75.146:443#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.26:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.19:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.28:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.42:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTUzJRdmJDOW5xTHAyc1hYWm8wQlZ5NHNsY0VyUnVDdA==@103.35.189.136:443#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.51:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw%3D%3D@23.95.72.81:443#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.54:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.71:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2Y4ZDg3MGMwY2EwNGJj@147.135.78.88:11201#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.8:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.97:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#United%20States🇺🇸
 # 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.114:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.129:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.164:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.213:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.145:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.221:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.22:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.238:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.47:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.52:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.94:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.62:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸
-# 2026-01-17
-vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2015.ir&type=xhttp#United%20States🇺🇸
-# 2026-01-17
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#United%20States🇺🇸
-# 2026-01-17
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.19.174:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2026-01-17
-vless://e258977b-e413-4718-a3af-02d75492c349@108.162.192.179:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#United%20States🇺🇸
-# 2026-01-17
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.60.204:443/?type=ws&encryption=none&flow=&host=sg.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸
-# 2026-01-17
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.17.203:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#United%20States🇺🇸
 # 2026-01-17
 vless://e258977b-e413-4718-a3af-02d75492c349@192.241.201.168:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸
 # 2026-01-17
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.11:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸
-# 2026-01-17
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.7.223:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸
 # 2026-01-17
 vless://e258977b-e413-4718-a3af-02d75492c349@38.180.243.168:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸
 # 2026-01-17
@@ -89,14 +45,4 @@ vless://e258977b-e413-4718-a3af-02d75492c349@74.48.200.172:443/?type=ws&encrypti
 # 2026-01-17
 vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.26:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸
 # 2026-01-17
-vless://e258977b-e413-4718-a3af-02d75492c349@download.yunzhongzhuan.com:2087/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2026-01-17
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome#United%20States🇺🇸
-# 2026-01-17
 vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-# 2026-01-17
-vmess://eyJhZGQiOiIxNzIuMjM0LjEzMi4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTZiOTljMDUtOGUwYS00ZjdlLWJmN2ItZTRiOWZlYmI5NTg5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAwMSIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-# 2026-01-17
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#United%20States🇺🇸
-# 2026-01-17
-hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk#United%20States🇺🇸

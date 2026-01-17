@@ -1,8 +1,22 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-17 09:43
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-17 15:44
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#Canada🇨🇦
 # 2026-01-17
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@151.101.3.8:80?encryption=none&security=none&type=ws&host=mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN#Canada🇨🇦
+# 2026-01-17
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.19.174:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#Canada🇨🇦
+# 2026-01-17
+vless://e258977b-e413-4718-a3af-02d75492c349@108.162.192.179:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#Canada🇨🇦
+# 2026-01-17
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.60.204:443/?type=ws&encryption=none&flow=&host=sg.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniuge.qzz.io&allowInsecure=1#Canada🇨🇦
+# 2026-01-17
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.17.203:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Canada🇨🇦
+# 2026-01-17
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.7.223:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Canada🇨🇦
+# 2026-01-17
+vless://e258977b-e413-4718-a3af-02d75492c349@download.yunzhongzhuan.com:2087/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Canada🇨🇦
+# 2026-01-17
 vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#Canada🇨🇦
 # 2026-01-17
-vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome#Canada🇨🇦
