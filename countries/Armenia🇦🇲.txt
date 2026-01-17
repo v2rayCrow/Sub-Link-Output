@@ -1,24 +1,26 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-17 04:13
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-17 09:43
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲
+# 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲
+# 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲
+# 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲
 # 2026-01-17
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲
 # 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
+# 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
+# 2026-01-17
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
+# 2026-01-17
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
 # 2026-01-17
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲
 # 2026-01-17
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲
 # 2026-01-17
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲
-# 2026-01-17
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
-# 2026-01-17
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲
-# 2026-01-17
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
-# 2026-01-17
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
-# 2026-01-17
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲
-# 2026-01-17
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲
