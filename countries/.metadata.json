@@ -173,6 +173,10 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Germany🇩🇪",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://3132610b-d68d-421e-b9a7-8dbe0bad1961@spain.novaads.shop:42525?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Germany🇩🇪",
       "date": "2026-01-19"
     },
@@ -202,6 +206,10 @@
     },
     {
       "line": "vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443/?encryption=none&flow=&host=alibaba.com&type=tcp&headerType=http#Germany🇩🇪",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
@@ -280,10 +288,6 @@
     }
   ],
   "United States🇺🇸": [
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.26:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
     {
       "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.212:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
       "date": "2026-01-19"
@@ -390,6 +394,10 @@
     },
     {
       "line": "vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2015.ir&type=xhttp#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639031180460930556.altima-amsjq.info&path=%2Foqxdqtws&security=tls&sni=639031180460930556.altima-amsjq.info&allowInsecure=1#United%20States🇺🇸",
       "date": "2026-01-19"
     },
     {
@@ -637,10 +645,6 @@
     {
       "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
       "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
     }
   ],
   "Ecuador🇪🇨": [
@@ -879,6 +883,10 @@
   ],
   "Cloudflare🌐": [
     {
+      "line": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@172.67.193.88:443?path=%2Fvless.hubp.de&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hemmat.iranmap.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=hemmat.iranmap.workers.dev#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#Cloudflare🌐",
       "date": "2026-01-19"
     },
@@ -968,10 +976,6 @@
     },
     {
       "line": "vless://d577ad65-4e97-4b4f-8adf-29340520318c@heavenlyblue.qzz.io:443/?type=ws&encryption=none&flow=&host=heavenlyblue.qzz.io&path=%2F64.110.70.205%3A23022&security=tls&sni=heavenlyblue.qzz.io&allowInsecure=1#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639031180460930556.altima-amsjq.info&path=%2Foqxdqtws&security=tls&sni=639031180460930556.altima-amsjq.info&allowInsecure=1#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -1126,10 +1130,6 @@
   "Iran🇮🇷": [
     {
       "line": "vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Iran🇮🇷",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Iran🇮🇷",
       "date": "2026-01-19"
     }
   ],
