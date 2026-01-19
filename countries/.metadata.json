@@ -1,229 +1,21 @@
 {
-  "Italy🇮🇹": [
+  "Greece🇬🇷": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#Italy🇮🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#Italy🇮🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹",
-      "date": "2026-01-19"
-    }
-  ],
-  "Romania🇷🇴": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#Romania🇷🇴",
-      "date": "2026-01-19"
-    }
-  ],
-  "United States🇺🇸": [
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.241:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.26:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.28:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.42:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.0:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.106:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.51:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.8:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.71:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.97:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.54:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.1:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.129:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.145:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.114:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.164:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.213:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.221:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.22:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.238:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.52:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.94:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.62:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.47:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.19.174:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.7.223:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.60.204:443/?type=ws&encryption=none&flow=&host=sg.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@108.162.192.179:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.17.203:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@45.77.121.176:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.38:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@192.241.201.168:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.31:443/?type=ws&encryption=none&flow=&host=ww2.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww2.allxniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.11:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@74.48.200.172:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.26:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@45.158.127.48:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@38.180.243.168:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@download.yunzhongzhuan.com:2087/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIxNzIuMjM0LjEzMi4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTZiOTljMDUtOGUwYS00ZjdlLWJmN2ItZTRiOWZlYmI5NTg5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAwMSIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#United%20States🇺🇸",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk#United%20States🇺🇸",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#Greece🇬🇷",
       "date": "2026-01-19"
     }
   ],
   "Netherlands🇳🇱": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
@@ -239,6 +31,10 @@
       "date": "2026-01-19"
     },
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.199:8080#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
@@ -251,7 +47,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
@@ -267,11 +67,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
@@ -279,19 +79,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-01-19"
-    },
-    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.81:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
@@ -303,11 +95,15 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
@@ -323,15 +119,19 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@188.253.27.190:443/?type=ws&encryption=none&flow=&host=ww3.xaniujp1.qzz.io&path=%2F&security=tls&sni=ww3.xaniujp1.qzz.io&allowInsecure=1#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@188.253.24.71:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#Netherlands🇳🇱",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://e258977b-e413-4718-a3af-02d75492c349@171.22.124.215:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
       "line": "vless://e258977b-e413-4718-a3af-02d75492c349@45.12.145.80:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#Netherlands🇳🇱",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@188.253.24.71:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#Netherlands🇳🇱",
       "date": "2026-01-19"
     },
     {
@@ -347,113 +147,13 @@
       "date": "2026-01-19"
     }
   ],
-  "Canada🇨🇦": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#Canada🇨🇦",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#Canada🇨🇦",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2026-01-19"
-    }
-  ],
-  "Denmark🇩🇰": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#Denmark🇩🇰",
-      "date": "2026-01-19"
-    }
-  ],
-  "Russia🇷🇺": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia🇷🇺",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://08c7f096-d057-4d53-82fd-c739d372887b@203.189.233.201:1140/?type=tcp&encryption=none&flow=#Russia🇷🇺",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://a2afaf73-dc35-45a0-95e1-ba754d710c8d@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=qq&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#Russia🇷🇺",
-      "date": "2026-01-19"
-    }
-  ],
-  "Australia🇦🇺": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#Australia🇦🇺",
-      "date": "2026-01-19"
-    }
-  ],
-  "Poland🇵🇱": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#Poland🇵🇱",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#Poland🇵🇱",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.64:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.1.127:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.193.28.168:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.army&type=ws&sni=sni.111000.v6.army#Poland🇵🇱",
-      "date": "2026-01-19"
-    }
-  ],
-  "Japan🇯🇵": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&sid&packetEncoding=xudp#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@150.230.4.210:40721/?type=tcp&encryption=none&flow=&sni=www.icloud.com&fp=chrome&security=reality&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=c588#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@141.147.144.109:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@198.13.62.34:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@64.176.52.230:443/?type=ws&encryption=none&flow=&host=tw23.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw23.aniusnippets.qzz.io&allowInsecure=1#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@8.209.231.19:8443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Japan🇯🇵",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#Japan🇯🇵",
-      "date": "2026-01-19"
-    }
-  ],
   "Germany🇩🇪": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBiZDI1YjIxOTk1ZTU2@135.125.219.2:40266#Germany🇩🇪",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#Germany🇩🇪",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBiZDI1YjIxOTk1ZTU2@135.125.219.2:40266#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
@@ -469,15 +169,15 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://00a85603-d8c6-437d-a8bd-ea521107bd87@159.69.246.134:443?&security=tls&fp=chrome&sni=danfeng.ye.gs&type=ws&headerType=none&host=danfeng.ye.gs&path=%2F%3Fed%3D2560#Germany🇩🇪",
+      "line": "vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://3132610b-d68d-421e-b9a7-8dbe0bad1961@spain.novaads.shop:42525?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
       "line": "vless://35dda669-cc6d-4553-ba8f-3979b06ab69c@ab.fxgoldensignals.com:8443?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#Germany🇩🇪",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
@@ -486,6 +186,10 @@
     },
     {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
@@ -501,11 +205,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Germany🇩🇪",
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Germany🇩🇪",
+      "line": "vless://67b4afda-335f-4d40-b509-ba0816088690@de.broadcasp.info:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#Germany🇩🇪",
       "date": "2026-01-19"
     },
     {
@@ -537,6 +241,10 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://e4027120-8fa4-4cb2-8ca3-a5a6cbe38c2b@check-host.net:8080/?type=ws&encryption=none&flow=&host=rayOtanOtrmNnOtenOtl.terminal-kaneop-none.SARBAZIT.COM&path=%2Ftelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%2Ctelegram-V2_GO%3Fed%3D80#Germany🇩🇪",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://f1ea701d-e33b-4606-955b-3d788b8b8860@188.245.195.42:12559/?encryption=none&flow=&host=skyroom.online&type=tcp&headerType=http#Germany🇩🇪",
       "date": "2026-01-19"
     },
@@ -551,6 +259,568 @@
     {
       "line": "vmess://eyJhZGQiOiIxNjIuMTkuMjQ4LjIzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZGUyN2E3OS1iMDM5LTQ5MGItOTMyYy00OTVkZTRiNjg4ODAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiR2VybWFueVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0",
       "date": "2026-01-19"
+    },
+    {
+      "line": "hy2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:50079/?insecure=1&sni=imafake.locker#Germany🇩🇪",
+      "date": "2026-01-19"
+    }
+  ],
+  "Norway🇳🇴": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#Norway🇳🇴",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#Norway🇳🇴",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#Norway🇳🇴",
+      "date": "2026-01-19"
+    }
+  ],
+  "United States🇺🇸": [
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.26:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.212:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.237:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.28:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.71:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.164:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.42:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.54:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.145:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.97:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.8:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.114:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.51:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.129:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.222:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.193:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.213:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.27:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.221:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.238:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.22:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.62:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.52:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.47:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@wangcai.tencentapp.cn:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.94:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@fast.panelha.sbs:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2015.ir&type=xhttp#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.19.174:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.7.223:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.60.204:443/?type=ws&encryption=none&flow=&host=sg.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=sg.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@192.241.201.168:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@108.162.192.179:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@162.159.17.203:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.26:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.11:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@45.77.121.176:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@45.158.127.48:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.31:443/?type=ws&encryption=none&flow=&host=ww2.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww2.allxniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@50.62.172.38:443/?type=ws&encryption=none&flow=&host=ww20.allxniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.allxniu.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@38.180.243.168:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@74.48.200.172:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@download.yunzhongzhuan.com:2087/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwIiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIxNzIuMjM0LjEzMi4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTZiOTljMDUtOGUwYS00ZjdlLWJmN2ItZTRiOWZlYmI5NTg5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAwMSIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#United%20States🇺🇸",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "hy2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk#United%20States🇺🇸",
+      "date": "2026-01-19"
+    }
+  ],
+  "South Africa🇿🇦": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@156.38.168.58:990#South%20Africa🇿🇦",
+      "date": "2026-01-19"
+    }
+  ],
+  "Bulgaria🇧🇬": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#Bulgaria🇧🇬",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://nasnet@nasnet-146198073-direct.iranpress.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-146198073-direct.iranpress.co&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#Bulgaria🇧🇬",
+      "date": "2026-01-19"
+    }
+  ],
+  "Mexico🇲🇽": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.1.230:990#Mexico🇲🇽",
+      "date": "2026-01-19"
+    }
+  ],
+  "Australia🇦🇺": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#Australia🇦🇺",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ@95.111.222.113:443#Australia🇦🇺",
+      "date": "2026-01-19"
+    }
+  ],
+  "Canada🇨🇦": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#Canada🇨🇦",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#Canada🇨🇦",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ%3D%3D@193.203.203.66:443#Canada🇨🇦",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#Canada🇨🇦",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2026-01-19"
+    }
+  ],
+  "Peru🇵🇪": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.143.32:990#Peru🇵🇪",
+      "date": "2026-01-19"
+    }
+  ],
+  "Kazakhstan🇰🇿": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#Kazakhstan🇰🇿",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@31.43.179.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#Kazakhstan🇰🇿",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkthemFraHN0YW5cdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZmYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
+      "date": "2026-01-19"
+    }
+  ],
+  "Malta🇲🇹": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#Malta🇲🇹",
+      "date": "2026-01-19"
+    }
+  ],
+  "Pakistan🇵🇰": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990#Pakistan🇵🇰",
+      "date": "2026-01-19"
+    }
+  ],
+  "Italy🇮🇹": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#Italy🇮🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#Italy🇮🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#Italy🇮🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#Italy🇮🇹",
+      "date": "2026-01-19"
+    }
+  ],
+  "Portugal🇵🇹": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990#Portugal🇵🇹",
+      "date": "2026-01-19"
+    }
+  ],
+  "Lithuania🇱🇹": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.237.185.89:990#Lithuania🇱🇹",
+      "date": "2026-01-19"
+    }
+  ],
+  "Austria🇦🇹": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@5.181.21.95:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "date": "2026-01-19"
+    }
+  ],
+  "Ecuador🇪🇨": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#Ecuador🇪🇨",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador🇪🇨",
+      "date": "2026-01-19"
+    }
+  ],
+  "Brazil🇧🇷": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#Brazil🇧🇷",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkJyYXppbFx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ",
+      "date": "2026-01-19"
+    }
+  ],
+  "Nigeria🇳🇬": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#Nigeria🇳🇬",
+      "date": "2026-01-19"
+    }
+  ],
+  "Morocco🇲🇦": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#Morocco🇲🇦",
+      "date": "2026-01-19"
+    }
+  ],
+  "Malaysia🇲🇾": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#Malaysia🇲🇾",
+      "date": "2026-01-19"
+    }
+  ],
+  "Hong Kong🇭🇰": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.82.252.109:990#Hong%20Kong🇭🇰",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#Hong%20Kong🇭🇰",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.5:443/?type=ws&encryption=none&flow=&host=x-hk24.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk24.xaniusnippets.qzz.io&allowInsecure=1#Hong%20Kong🇭🇰",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.249:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Hong%20Kong🇭🇰",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.12:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Hong%20Kong🇭🇰",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoibjE3NjEyMTQ5MTAuNzRxeHYudG9wIiwicG9ydCI6IjQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAxMWM0NjcwLWNkZGUtNDRmYi1iOWJlLThhMWUyN2FmMjZjOSIsInNuaSI6Im4xNzYxMjE0OTEwLjc0cXh2LnRvcCIsImhvc3QiOiJuMTc2MTIxNDkxMC43NHF4di50b3AiLCJwYXRoIjoiLyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoidjMwLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzMCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidjMwLmhkYWNkLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJIb25nIEtvbmdcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
+      "date": "2026-01-19"
+    }
+  ],
+  "Finland🇫🇮": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#Finland🇫🇮",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@65.109.211.233:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#Finland🇫🇮",
+      "date": "2026-01-19"
+    }
+  ],
+  "Romania🇷🇴": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#Romania🇷🇴",
+      "date": "2026-01-19"
+    }
+  ],
+  "Denmark🇩🇰": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#Denmark🇩🇰",
+      "date": "2026-01-19"
+    }
+  ],
+  "Poland🇵🇱": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?security=none&headerType=none&type=tcp#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.228:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn5.suio.me&allowInsecure=1#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.64:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.1.127:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn13.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn14.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn14.suio.me&allowInsecure=1&fp=chrome#Poland🇵🇱",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.193.28.168:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.army&type=ws&sni=sni.111000.v6.army#Poland🇵🇱",
+      "date": "2026-01-19"
+    }
+  ],
+  "Russia🇷🇺": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia🇷🇺",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://08c7f096-d057-4d53-82fd-c739d372887b@203.189.233.201:1140/?type=tcp&encryption=none&flow=#Russia🇷🇺",
+      "date": "2026-01-19"
+    }
+  ],
+  "Japan🇯🇵": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?allowInsecure=0&sni=www.nintendogames.net#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e0aafde7-37e2-486b-eb30-efa71166bf7e@150.230.4.210:40721/?type=tcp&encryption=none&flow=&sni=www.icloud.com&fp=chrome&security=reality&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&sid=c588#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@198.13.62.34:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@141.147.144.109:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@64.176.52.230:443/?type=ws&encryption=none&flow=&host=tw23.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw23.aniusnippets.qzz.io&allowInsecure=1#Japan🇯🇵",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?security=reality&encryption=none&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.co.jp#Japan🇯🇵",
+      "date": "2026-01-19"
     }
   ],
   "United Arab Emirates🇦🇪": [
@@ -560,12 +830,6 @@
     },
     {
       "line": "vless://95f75825-bbcc-4e53-a91d-9364db9d4b42@146.75.64.0:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%20%2216-32%22%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%20%2264-128%22%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22800-900%22%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=sudo2018.ir&type=xhttp#United%20Arab%20Emirates🇦🇪",
-      "date": "2026-01-19"
-    }
-  ],
-  "Vietnam🇻🇳": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#Vietnam🇻🇳",
       "date": "2026-01-19"
     }
   ],
@@ -579,23 +843,9 @@
       "date": "2026-01-19"
     }
   ],
-  "Finland🇫🇮": [
+  "Vietnam🇻🇳": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.90.215:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1#Finland🇫🇮",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@65.109.211.233:443/?type=ws&encryption=none&flow=&host=all.aniuge.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=all.aniuge.qzz.io&allowInsecure=1#Finland🇫🇮",
-      "date": "2026-01-19"
-    }
-  ],
-  "Cyprus🇨🇾": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus🇨🇾",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#Vietnam🇻🇳",
       "date": "2026-01-19"
     }
   ],
@@ -609,9 +859,9 @@
       "date": "2026-01-19"
     }
   ],
-  "Ecuador🇪🇨": [
+  "Cyprus🇨🇾": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador🇪🇨",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus🇨🇾",
       "date": "2026-01-19"
     }
   ],
@@ -621,7 +871,17 @@
       "date": "2026-01-19"
     }
   ],
+  "Argentina🇦🇷": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#Argentina🇦🇷",
+      "date": "2026-01-19"
+    }
+  ],
   "Cloudflare🌐": [
+    {
+      "line": "vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
     {
       "line": "vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@africa.visa.com:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz#Cloudflare🌐",
       "date": "2026-01-19"
@@ -635,11 +895,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?flow=&type=ws&host=&path=/&security=tls&sni=8j3f7HD37h.PaGES.dEV&alpn=http/1.1&fp=chrome&allowInsecure=0#Cloudflare🌐",
+      "line": "vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@go.inmobi.com:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@go.inmobi.com:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#Cloudflare🌐",
+      "line": "vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?flow=&type=ws&host=&path=/&security=tls&sni=8j3f7HD37h.PaGES.dEV&alpn=http/1.1&fp=chrome&allowInsecure=0#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -647,7 +907,7 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://82de262c-cd5e-402f-a709-f6979fc7c93e@npmjs.com:80/?type=ws&encryption=none&flow=&host=fragrant-star-ebf2.daheg47484.workers.dev&path=%2F#Cloudflare🌐",
+      "line": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Frahh&security=tls&sni=vds.rahedarro.com&allowInsecure=1#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -655,7 +915,7 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Frahh&security=tls&sni=vds.rahedarro.com&allowInsecure=1#Cloudflare🌐",
+      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -663,19 +923,11 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.135.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.152.241:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -683,7 +935,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#Cloudflare🌐",
+      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.152.241:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.135.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -695,23 +951,19 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443/?type=ws&encryption=none&flow=&host=hetzner.rahedarro.com&path=%2Fdar&security=tls&sni=hetzner.rahedarro.com#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
       "line": "vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=exclavevirtualvless.alirexaxulst.workers.dev#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://a0af2643-a236-463c-8056-3f71d05eed53@104.18.6.36:2086/?type=ws&encryption=none&flow=&host=shomal-g74f3znf-v2.shomal-321.workers.dev&path=%2F%3Fed%3D2560#Cloudflare🌐",
+      "line": "vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443/?type=ws&encryption=none&flow=&host=hetzner.rahedarro.com&path=%2Fdar&security=tls&sni=hetzner.rahedarro.com#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?path=%2Ftelegram-%40v2ray_alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&fp=chrome&type=ws&sni=a.azadnet003.ddns-ip.net#Cloudflare🌐",
+      "line": "vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@104.18.104.68:443?encryption=none&security=tls&sni=001.eLeCtROcElLCO-cf-001.WOrKERS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiUmdrRUNsU0lwYThBTlp2bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4NS4yMTMuMjExLjI5IiwiMzEuNDQuMi41NyIsIjc3LjI0Ni4xMDguMTMwIl19%3Fed%3D2560#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639031180460930556.altima-amsjq.info&path=%2Foqxdqtws&security=tls&sni=639031180460930556.altima-amsjq.info&allowInsecure=1#Cloudflare🌐",
+      "line": "vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@198.41.222.50:8080?encryption=none&security=none&sni=198.41.222.50&fp=chrome&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiRzBvTDBuZEFVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0%3D%3Fed%3D2560#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -719,15 +971,11 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://d851e68a-af64-4dfc-a85a-7ffad2483230@betty.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639031180460930556.altima-amsjq.info&path=%2Foqxdqtws&security=tls&sni=639031180460930556.altima-amsjq.info&allowInsecure=1#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://db2c8a95-f751-46e3-b05e-d2def66850fb@104.18.42.163:443?path=%2FTelegram%40V2rayAlpha%2Fed%3D2560&security=tls&encryption=none&host=ayanamirei.11160321.xyz&fp=chrome&type=ws&sni=ayanamirei.11160321.xyz#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.17.15.242:443/?type=ws&encryption=none&flow=&host=tw20.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw20.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.18.30.231:443/?type=ws&encryption=none&flow=&host=x-hk.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk.xaniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -739,11 +987,23 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.19.205.122:443/?type=ws&encryption=none&flow=&host=x-hk1.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk1.xaniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.18.30.231:443/?type=ws&encryption=none&flow=&host=x-hk.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk.xaniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
       "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.18.45.47:443/?type=ws&encryption=none&flow=&host=x-hk20.xaniusnippets.qzz.io&path=%2F&security=tls&sni=x-hk20.xaniusnippets.qzz.io&allowInsecure=1#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.19.205.122:443/?type=ws&encryption=none&flow=&host=x-hk1.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk1.xaniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@104.17.15.242:443/?type=ws&encryption=none&flow=&host=tw20.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw20.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@172.64.79.60:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -755,23 +1015,11 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@172.64.35.193:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
       "line": "vless://e258977b-e413-4718-a3af-02d75492c349@172.64.145.118:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@172.64.79.60:443/?type=ws&encryption=none&flow=&host=ww20.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww20.sgxaniu.qzz.io&allowInsecure=1#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@www.wto.org:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@hj.xmm1993.top:2087/?type=ws&encryption=none&flow=&host=x-hk1.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk1.xaniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@172.64.35.193:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -779,11 +1027,15 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@www.wto.org:443/?type=ws&encryption=none&flow=&host=tw1.aniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=tw1.aniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@yellow-disk-0edf.diyenec996.workers.dev:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=yellow-disk-0edf.diyenec996.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yellow-disk-0edf.diyenec996.workers.dev#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@hj.xmm1993.top:2087/?type=ws&encryption=none&flow=&host=x-hk1.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk1.xaniusnippets.qzz.io&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -791,7 +1043,7 @@
       "date": "2026-01-19"
     },
     {
-      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
+      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -803,15 +1055,19 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#Cloudflare🌐",
+      "line": "vless://ffa11e82-fa9b-4be1-81a9-c1d48a363df8@104.24.206.21:80/?type=ws&encryption=none&flow=&host=fancy-sky-db95.mehradrivaldo.workers.dev&path=%2F#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
-      "line": "vless://ffa11e82-fa9b-4be1-81a9-c1d48a363df8@104.24.206.21:80/?type=ws&encryption=none&flow=&host=fancy-sky-db95.mehradrivaldo.workers.dev&path=%2F#Cloudflare🌐",
+      "line": "vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#Cloudflare🌐",
       "date": "2026-01-19"
     },
     {
@@ -820,12 +1076,6 @@
     },
     {
       "line": "vmess://eyJhZGQiOiJoZ3Ryb2phbi56YWJjLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGd0cm9qYW4uemFiYy5uZXQiLCJpZCI6ImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNjM5NWMyMCIsInBvcnQiOiIyMDgzIiwicHMiOiJDbG91ZGZsYXJlXHVkODNjXHVkZjEwIiwic2N5IjoiYXV0byIsInNuaSI6ImhndHJvamFuLnphYmMubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2026-01-19"
-    }
-  ],
-  "Norway🇳🇴": [
-    {
-      "line": "trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#Norway🇳🇴",
       "date": "2026-01-19"
     }
   ],
@@ -847,6 +1097,10 @@
       "date": "2026-01-19"
     },
     {
+      "line": "vless://f56f35a9-1123-4fe9-b1db-be57fb9f95d4@fr.broadcasp.info:42542/?encryption=none&flow=&host=excoino.com&type=tcp&headerType=http#France🇫🇷",
+      "date": "2026-01-19"
+    },
+    {
       "line": "vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiRnJhbmNlXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
       "date": "2026-01-19"
     },
@@ -859,16 +1113,6 @@
       "date": "2026-01-19"
     }
   ],
-  "Iran🇮🇷": [
-    {
-      "line": "vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Iran🇮🇷",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Iran🇮🇷",
-      "date": "2026-01-19"
-    }
-  ],
   "Turkey🇹🇷": [
     {
       "line": "vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053/?type=tcp&encryption=none&flow=#Turkey🇹🇷",
@@ -876,6 +1120,16 @@
     },
     {
       "line": "vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0",
+      "date": "2026-01-19"
+    }
+  ],
+  "Iran🇮🇷": [
+    {
+      "line": "vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Iran🇮🇷",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#Iran🇮🇷",
       "date": "2026-01-19"
     }
   ],
@@ -901,123 +1155,7 @@
       "date": "2026-01-19"
     }
   ],
-  "Kazakhstan🇰🇿": [
-    {
-      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@31.43.179.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#Kazakhstan🇰🇿",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkthemFraHN0YW5cdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZmYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
-      "date": "2026-01-19"
-    }
-  ],
-  "Austria🇦🇹": [
-    {
-      "line": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@5.181.21.95:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-19"
-    }
-  ],
-  "India🇮🇳": [
-    {
-      "line": "vless://42961e67-c3e0-4b84-8d71-1ff20bdcedae@india.novaads.shop:42537?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#India🇮🇳",
-      "date": "2026-01-19"
-    }
-  ],
-  "Hong Kong🇭🇰": [
-    {
-      "line": "vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#Hong%20Kong🇭🇰",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.5:443/?type=ws&encryption=none&flow=&host=x-hk24.xaniusnippets.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=x-hk24.xaniusnippets.qzz.io&allowInsecure=1#Hong%20Kong🇭🇰",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.249:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1#Hong%20Kong🇭🇰",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://e258977b-e413-4718-a3af-02d75492c349@103.160.204.12:443/?type=ws&encryption=none&flow=&host=ww23.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww23.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#Hong%20Kong🇭🇰",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoidjMwLmhkYWNkLmNvbSIsInBvcnQiOiIzMDgzMCIsInR5cGUiOiJub25lIiwiaWQiOiJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidjMwLmhkYWNkLmNvbSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiSG9uZyBLb25nXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwiYWRkIjoibjE3NjEyMTQ5MTAuNzRxeHYudG9wIiwicG9ydCI6IjQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjAxMWM0NjcwLWNkZGUtNDRmYi1iOWJlLThhMWUyN2FmMjZjOSIsInNuaSI6Im4xNzYxMjE0OTEwLjc0cXh2LnRvcCIsImhvc3QiOiJuMTc2MTIxNDkxMC43NHF4di50b3AiLCJwYXRoIjoiLyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6IjQ0ODY3IiwicHMiOiJIb25nIEtvbmdcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
-      "date": "2026-01-19"
-    }
-  ],
   "Armenia🇦🇲": [
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.5:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087/?type=ws&encryption=none&flow=&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&path=%2F&security=tls&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&allowInsecure=1#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:443/?type=ws&encryption=none&flow=&host=GfV5t2331T.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=GfV5t2331T.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
-    {
-      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲",
-      "date": "2026-01-19"
-    },
     {
       "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲",
       "date": "2026-01-19"
@@ -1029,19 +1167,23 @@
     {
       "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096/?type=ws&encryption=none&flow=&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲",
       "date": "2026-01-19"
+    },
+    {
+      "line": "vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443/?type=ws&encryption=none&flow=&host=TjLwH7cTdH.sMaRtTeChZaAl.InFo&path=%2F&security=tls&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&allowInsecure=1&fp=chrome#Armenia🇦🇲",
+      "date": "2026-01-19"
     }
   ],
   "United Kingdom🇬🇧": [
-    {
-      "line": "vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@25.25.25.0:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F#United%20Kingdom🇬🇧",
-      "date": "2026-01-19"
-    },
     {
       "line": "vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@clean.photoggenic.ir:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F%3Fed%3D8880#United%20Kingdom🇬🇧",
       "date": "2026-01-19"
     },
     {
       "line": "vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&sni=joss.gvpn2.web.id&allowInsecure=1&fp=randomized#United%20Kingdom🇬🇧",
+      "date": "2026-01-19"
+    },
+    {
+      "line": "vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@25.25.25.0:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F#United%20Kingdom🇬🇧",
       "date": "2026-01-19"
     },
     {
@@ -1055,12 +1197,6 @@
       "date": "2026-01-19"
     }
   ],
-  "Bulgaria🇧🇬": [
-    {
-      "line": "vless://nasnet@nasnet-146198073-direct.iranpress.co:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-146198073-direct.iranpress.co&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#Bulgaria🇧🇬",
-      "date": "2026-01-19"
-    }
-  ],
   "Korea🇰🇷": [
     {
       "line": "vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IktvcmVhXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ",
@@ -1068,12 +1204,6 @@
     },
     {
       "line": "vmess://eyJhZGQiOiJkdjQuNzg5OTAwLnh5eiIsImFpZCI6MCwiaG9zdCI6ImR2NC43ODk5MDAueHl6IiwiaWQiOiIwYzhmM2UyOS00ZWM5LTRiYTYtYTZlZi00NDg3ODczZjVkMDUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMGM4ZjNlMjktNGVjOS00YmE2LWE2ZWYtNDQ4Nzg3M2Y1ZDA1LXZtIiwicG9ydCI6MjA5NiwicHMiOiJLb3JlYVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiZHY0Ljc4OTkwMC54eXoifQ",
-      "date": "2026-01-19"
-    }
-  ],
-  "Brazil🇧🇷": [
-    {
-      "line": "vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkJyYXppbFx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ",
       "date": "2026-01-19"
     }
   ]
