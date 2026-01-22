@@ -1,13 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-22 04:15
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-22 09:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#Germany🇩🇪
-# 2026-01-22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYWFjNjYwMDcwNzI4ZDZj@54.37.78.252:11201#Germany🇩🇪
-# 2026-01-22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMTBiZDI1YjIxOTk1ZTU2@135.125.219.2:40266#Germany🇩🇪
-# 2026-01-22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#Germany🇩🇪
 # 2026-01-22
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=tcp&security=tls&sni=free-de-3.undef.network&allowInsecure=1#Germany🇩🇪
 # 2026-01-22
@@ -15,13 +9,11 @@ vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&e
 # 2026-01-22
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?security=none&encryption=none&headerType=none&type=tcp#Germany🇩🇪
 # 2026-01-22
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪
 # 2026-01-22
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪
 # 2026-01-22
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪
-# 2026-01-22
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#Germany🇩🇪
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Germany🇩🇪
 # 2026-01-22
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.42.131:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Germany🇩🇪
 # 2026-01-22
@@ -35,10 +27,6 @@ vless://7d12bf9a-63d6-4989-a27b-c9ddb2d6c0b6@de23.ariyanln.com:7945/?encryption=
 # 2026-01-22
 vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=live.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Germany🇩🇪
 # 2026-01-22
-vless://b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b@85.195.101.122:48129/?type=tcp&encryption=none&flow=#Germany🇩🇪
-# 2026-01-22
-vless://b64ff004-ec17-4cbb-9f32-c4eb7f4660e8@64.188.91.193:2053/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=eh.vk.com&fp=chrome&security=reality&pbk=isw9UCSqdj1pzN3KpqY634QY4eLCYmDrMgvI1XsQimA&sid=#Germany🇩🇪
-# 2026-01-22
 vless://d4795cd9-cd7b-4cea-edfb-20cdcca5837b@91.107.254.161:50904/?type=tcp&encryption=none&flow=#Germany🇩🇪
 # 2026-01-22
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=Telegram%2Bid%3A%2B@V2raySeven&path=%2Fhttp#Germany🇩🇪
@@ -49,8 +37,4 @@ vless://f1ea701d-e33b-4606-955b-3d788b8b8860@188.245.195.42:12559/?encryption=no
 # 2026-01-22
 vmess://eyJ2IjoiMiIsInBzIjoiR2VybWFueVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsImFkZCI6ImZyYW5rZnVydDAxLnpnam9rLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjcxNTc5YjEtNjU5My00MjZkLTkwYWMtZjAwMmZhOTZhZGUxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiZnJhbmtmdXJ0MDEuemdqb2suY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 # 2026-01-22
-vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJHZXJtYW55XHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-# 2026-01-22
 vmess://eyJhZGQiOiIxNjIuMTkuMjQ4LjIzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZGUyN2E3OS1iMDM5LTQ5MGItOTMyYy00OTVkZTRiNjg4ODAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiR2VybWFueVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-# 2026-01-22
-hy2://7424db1f-ba68-496d-9426-4018b6a3a23c@de3.xiaoliyu.cyou:4433/?insecure=1&sni=de3.xiaoliyu.cyou#Germany🇩🇪
