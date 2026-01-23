@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-23 09:45
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-23 15:48
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-23
-vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#Cloudflare🌐
 # 2026-01-23
 vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@www.perplexity.ai:80/?type=ws&encryption=none&flow=&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&path=%2FHLW3JoJi6BADhOry16#Cloudflare🌐
 # 2026-01-23
@@ -54,6 +52,8 @@ vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@www.speedtest.net:8880/?type=ws&enc
 vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443/?type=ws&encryption=none&flow=&host=hetzner.rahedarro.com&path=%2Fdar&security=tls&sni=hetzner.rahedarro.com#Cloudflare🌐
 # 2026-01-23
 vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=exclavevirtualvless.alirexaxulst.workers.dev#Cloudflare🌐
+# 2026-01-23
+vless://99351e9e-ea57-4b85-9985-072ab7512cfb@cfcdn.zopli.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-no.fxcdn.ir#Cloudflare🌐
 # 2026-01-23
 vless://a4b96207-61fd-4ab3-aa1d-1e26fb02dc3b@104.18.32.47:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de.mrtech.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=de.mrtech.com.tr#Cloudflare🌐
 # 2026-01-23
