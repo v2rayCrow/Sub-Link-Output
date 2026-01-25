@@ -37,6 +37,10 @@
       "date": "2026-01-25"
     },
     {
+      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Germany🇩🇪",
+      "date": "2026-01-25"
+    },
+    {
       "line": "vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=live.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Germany🇩🇪",
       "date": "2026-01-25"
     },
@@ -179,11 +183,35 @@
       "date": "2026-01-25"
     },
     {
+      "line": "vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@iran.zone-server-irani.ir:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#Russia🇷🇺",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@CF.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sepah.systemgamingirani.ir#Russia🇷🇺",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@site.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=host.my-iranparspack.ir#Russia🇷🇺",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@iran.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wizwiz.vidboxco.ir#Russia🇷🇺",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#Russia🇷🇺",
+      "date": "2026-01-25"
+    },
+    {
       "line": "vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.147.114.151:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sid=#Russia🇷🇺",
       "date": "2026-01-25"
     },
     {
       "line": "vless://95abaefc-7861-417a-81b7-166cb788ce1a@217.16.16.160:47014/?type=tcp&encryption=none&flow=#Russia🇷🇺",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://bbbddf3f-a747-47a9-b37f-30a2dd2dcf2f@iran.zone-server-irani.ir:443?path=%2Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=poronyhf.sadafspace.com&fp=chrome&type=ws&allowInsecure=0&sni=poronyhf.sadafspace.com#Russia🇷🇺",
       "date": "2026-01-25"
     },
     {
@@ -206,6 +234,10 @@
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands🇳🇱",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Netherlands🇳🇱",
       "date": "2026-01-25"
     },
     {
@@ -387,6 +419,26 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#United%20States🇺🇸",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#United%20States🇺🇸",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@198.62.62.241:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=l.ayovo.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=l.ayovo.netlib.re#United%20States🇺🇸",
+      "date": "2026-01-25"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-01-25"
+    },
+    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.148:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
       "date": "2026-01-25"
     },
@@ -491,27 +543,11 @@
       "date": "2026-01-25"
     },
     {
-      "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@CF.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sepah.systemgamingirani.ir#United%20States🇺🇸",
-      "date": "2026-01-25"
-    },
-    {
-      "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@site.systemgamingirani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=host.my-iranparspack.ir#United%20States🇺🇸",
-      "date": "2026-01-25"
-    },
-    {
-      "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@iran.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wizwiz.vidboxco.ir#United%20States🇺🇸",
-      "date": "2026-01-25"
-    },
-    {
       "line": "vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@69.84.182.120:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=sepah.systemgamingirani.ir#United%20States🇺🇸",
       "date": "2026-01-25"
     },
     {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
-      "date": "2026-01-25"
-    },
-    {
-      "line": "vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#United%20States🇺🇸",
       "date": "2026-01-25"
     },
     {
@@ -536,10 +572,6 @@
     },
     {
       "line": "vless://a9618ce6-72de-42dc-bc44-e98f0c14b264@Vim3.SvHamrah.shop:20582?security=none&encryption=none&host=Excoino.com&headerType=http&type=tcp#United%20States🇺🇸",
-      "date": "2026-01-25"
-    },
-    {
-      "line": "vless://bbbddf3f-a747-47a9-b37f-30a2dd2dcf2f@iran.zone-server-irani.ir:443?path=%2Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=poronyhf.sadafspace.com&fp=chrome&type=ws&allowInsecure=0&sni=poronyhf.sadafspace.com#United%20States🇺🇸",
       "date": "2026-01-25"
     },
     {
@@ -634,10 +666,6 @@
     },
     {
       "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-01-25"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Austria🇦🇹",
       "date": "2026-01-25"
     }
   ],
