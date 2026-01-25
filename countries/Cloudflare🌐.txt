@@ -1,73 +1,73 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-25 04:21
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-25 09:30
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-25
-vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#Cloudflare🌐
+vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@198.41.193.151:80?encryption=none&security=none&sni=198.41.193.151&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoibWNPczJHelJTUmpXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#Cloudflare🌐
 # 2026-01-25
-vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@www.perplexity.ai:80/?type=ws&encryption=none&flow=&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&path=%2FHLW3JoJi6BADhOry16#Cloudflare🌐
+vless://495c0dad-3268-4470-ac57-887c5089db0d@104.18.32.47:443?path=%2F&security=tls&encryption=none&insecure=0&host=asuka.boringdad.netlib.re&type=ws&allowInsecure=0&sni=asuka.boringdad.netlib.re#Cloudflare🌐
+# 2026-01-25
+vless://5148a842-2a62-4aa7-8b8f-ff79ccbc82c0@chatgpt.com:443?path=%2F164.52.2.100%3D443&security=tls&encryption=none&insecure=1&host=apexbhao1.qzz.io&type=ws&allowInsecure=1&sni=apexbhao1.qzz.io#Cloudflare🌐
 # 2026-01-25
 vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#Cloudflare🌐
 # 2026-01-25
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#Cloudflare🌐
-# 2026-01-25
-vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@africa.visa.com:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz#Cloudflare🌐
-# 2026-01-25
-vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%2Fvgn80ag4q5o0oxj5#Cloudflare🌐
+vless://50c2354a-442a-4dd4-b8b5-9b47ae4c5165@www.perplexity.ai:80/?type=ws&encryption=none&flow=&host=icy-block-acf1.exhume-skirt-smirk.workers.dev&path=%2FHLW3JoJi6BADhOry16#Cloudflare🌐
 # 2026-01-25
 vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#Cloudflare🌐
 # 2026-01-25
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#Cloudflare🌐
+# 2026-01-25
+vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%2Fvgn80ag4q5o0oxj5#Cloudflare🌐
+# 2026-01-25
+vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#Cloudflare🌐
+# 2026-01-25
 vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086?path=%2F1qrxwiek8tujvr6h&security=none&encryption=none&host=index.harmony510.workers.dev&type=ws#Cloudflare🌐
 # 2026-01-25
-vless://6b1348aa-43de-4c14-af6a-bcbe02b0c7d5@www.speedtest.net:80/?type=ws&encryption=none&flow=&host=Www.speedtest.net.sIgmasigmaboy.site.&path=%2F-ViV2ry%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN%3Fed%3D2048#Cloudflare🌐
+vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@africa.visa.com:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz#Cloudflare🌐
+# 2026-01-25
+vless://674debc8-1a9e-4e31-a1e1-ac44a471286a@chatgpt.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=wilD-juStiCE71rEQld358.sPoRTlaND.COmPaNy.&path=/?ed%3D2048#Cloudflare🌐
 # 2026-01-25
 vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@go.inmobi.com:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#Cloudflare🌐
 # 2026-01-25
-vless://72f175f6-e2e4-4bb7-9165-8de10dd6c463@104.18.32.47:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=starping.starpingshop.org&fp=chrome&type=ws&allowInsecure=0&sni=starping.starpingshop.org#Cloudflare🌐
-# 2026-01-25
-vless://7abc75eb-b58b-4e28-af59-20f41bdf7a2a@dns.ownlink.pro:443?path=%2Frestart&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=last.ownlink.pro&fp=chrome&type=ws&sni=last.ownlink.pro#Cloudflare🌐
-# 2026-01-25
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.41.190:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf#Cloudflare🌐
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#Cloudflare🌐
 # 2026-01-25
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#Cloudflare🌐
 # 2026-01-25
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐
-# 2026-01-25
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.135.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐
 # 2026-01-25
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.7:2095/?type=ws&encryption=none&flow=&host=freedom.pusytroller.cf&path=%2F#Cloudflare🌐
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.41.190:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf#Cloudflare🌐
 # 2026-01-25
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.134.117:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐
 # 2026-01-25
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.42.163:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf#Cloudflare🌐
-# 2026-01-25
-vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#Cloudflare🌐
 # 2026-01-25
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.152.241:2095/?type=ws&encryption=none&flow=&host=fuckingfangbinxing.pusytroller.cf&path=%2F#Cloudflare🌐
 # 2026-01-25
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.154.211:2095?path=%2F&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#Cloudflare🌐
 # 2026-01-25
+vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#Cloudflare🌐
+# 2026-01-25
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095/?type=ws&encryption=none&flow=&host=snippets.pusytroller.cf&path=%2F#Cloudflare🌐
+# 2026-01-25
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf#Cloudflare🌐
 # 2026-01-25
-vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@www.speedtest.net:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F%3Fed%3D8880#Cloudflare🌐
-# 2026-01-25
-vless://8f7885e2-2851-481e-8864-38ed7f9680c2@104.18.32.47:443?path=%2Fbestvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sakurai.bestcurt.ir&fp=chrome&type=ws&allowInsecure=0&sni=sakurai.bestcurt.ir#Cloudflare🌐
-# 2026-01-25
 vless://94671f42-fdd3-4503-a3e6-bda4a2527560@019.electrocellco-cf-019.workers.dev:80?encryption=none&security=none&sni=019.electrocellco-cf-019.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=019.electrocellco-cf-019.workers.dev&path=%2FeyJqdW5rIjoibUVFb0RQcHJZZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjM0LjI1My4yMzQuNjIiXX0%3D%3Fed%3D2560#Cloudflare🌐
+# 2026-01-25
+vless://8e997404-cb62-4fa1-a8c9-c77a32f10153@www.speedtest.net:8880/?type=ws&encryption=none&flow=&host=rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir&path=%2F%3Fed%3D8880#Cloudflare🌐
 # 2026-01-25
 vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=exclavevirtualvless.alirexaxulst.workers.dev#Cloudflare🌐
 # 2026-01-25
 vless://95fd8ed6-0c48-41be-ae26-dfea82fa67ad@188.114.98.224:443/?type=ws&encryption=none&flow=&host=hetzner.rahedarro.com&path=%2Fdar&security=tls&sni=hetzner.rahedarro.com#Cloudflare🌐
 # 2026-01-25
-vless://a46a3035-8c34-43f8-b7d3-d4877a50c92e@104.18.32.47:443?path=%2Ftest&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kk1.gaming-center.ir&fp=chrome&type=ws&allowInsecure=0&sni=kk1.gaming-center.ir#Cloudflare🌐
-# 2026-01-25
 vless://a4b96207-61fd-4ab3-aa1d-1e26fb02dc3b@104.18.32.47:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de.mrtech.com.tr&fp=chrome&type=ws&allowInsecure=0&sni=de.mrtech.com.tr#Cloudflare🌐
+# 2026-01-25
+vless://a46a3035-8c34-43f8-b7d3-d4877a50c92e@104.18.32.47:443?path=%2Ftest&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kk1.gaming-center.ir&fp=chrome&type=ws&allowInsecure=0&sni=kk1.gaming-center.ir#Cloudflare🌐
 # 2026-01-25
 vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@104.18.32.47:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=private.digikala.lat&fp=chrome&type=ws&allowInsecure=0&sni=Ggjd.digikala.lat#Cloudflare🌐
 # 2026-01-25
 vless://c249ca6f-1bde-479b-af96-da0e948a3800@zzula.ir:443?path=%2Fadmin&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&fp=chrome&type=ws&allowInsecure=0&sni=zitel.digikala-aparat-zula.com#Cloudflare🌐
 # 2026-01-25
-vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@104.18.104.68:443?encryption=none&security=tls&sni=001.eLeCtROcElLCO-cf-001.WOrKERS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiUmdrRUNsU0lwYThBTlp2bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4NS4yMTMuMjExLjI5IiwiMzEuNDQuMi41NyIsIjc3LjI0Ni4xMDguMTMwIl19%3Fed%3D2560#Cloudflare🌐
-# 2026-01-25
 vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@198.41.222.50:8080?encryption=none&security=none&sni=198.41.222.50&fp=chrome&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiRzBvTDBuZEFVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0%3D%3Fed%3D2560#Cloudflare🌐
+# 2026-01-25
+vless://c9b45f2f-6cbe-4a86-b4d2-a327f4055a59@104.18.104.68:443?encryption=none&security=tls&sni=001.eLeCtROcElLCO-cf-001.WOrKERS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=001.electrocellco-cf-001.workers.dev&path=%2FeyJqdW5rIjoiUmdrRUNsU0lwYThBTlp2bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE4NS4yMTMuMjExLjI5IiwiMzEuNDQuMi41NyIsIjc3LjI0Ni4xMDguMTMwIl19%3Fed%3D2560#Cloudflare🌐
 # 2026-01-25
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.web3.name.ng:8443/?type=ws&encryption=none&flow=&host=hzr46.sepiol.name.ng&path=%2F&security=tls&sni=hzr46.sepiol.name.ng&allowInsecure=1#Cloudflare🌐
 # 2026-01-25
@@ -77,15 +77,15 @@ vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@yellow-disk-0edf.diyenec996.workers
 # 2026-01-25
 vless://e3d97326-0914-4269-b11c-65840992b600@104.18.32.47:2053?path=%2F&security=tls&encryption=none&host=new.hupcloud.com&fp=chrome&type=ws&sni=new.hupcloud.com#Cloudflare🌐
 # 2026-01-25
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
-# 2026-01-25
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#Cloudflare🌐
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.214.25:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
 # 2026-01-25
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=%2Fyyru4ludskje&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
 # 2026-01-25
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.214.25:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
-# 2026-01-25
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
+# 2026-01-25
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?security=tls&type=ws&path=%2Fassets%3Fed%3D2048&host=index.arcane509.workers.dev&alpn=http%2F1.1&sni=INDEX.Arcane509.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐
+# 2026-01-25
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#Cloudflare🌐
 # 2026-01-25
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#Cloudflare🌐
 # 2026-01-25
