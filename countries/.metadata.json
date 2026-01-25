@@ -171,10 +171,6 @@
       "date": "2026-01-25"
     },
     {
-      "line": "vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=siria2.mrpixanos.ir#Russia🇷🇺",
-      "date": "2026-01-25"
-    },
-    {
       "line": "vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.86:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺",
       "date": "2026-01-25"
     },
