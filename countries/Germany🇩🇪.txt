@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 09:49
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 15:49
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzFlODhiMDM4NDIyODY3@141.95.102.29:11201#Germany🇩🇪
@@ -28,6 +28,8 @@ vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443?securit
 vless://664647b0-cf64-4560-b899-b92404b1798e@5.175.249.126:450?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Germany🇩🇪
 # 2026-01-26
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.42.131:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Germany🇩🇪
+# 2026-01-26
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#Germany🇩🇪
 # 2026-01-26
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@s2.gmax12.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=excoino.com#Germany🇩🇪
 # 2026-01-26
