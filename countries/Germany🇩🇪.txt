@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 15:49
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 21:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MzFlODhiMDM4NDIyODY3@141.95.102.29:11201#Germany🇩🇪
@@ -34,8 +34,6 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?security=re
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@s2.gmax12.ir:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=excoino.com#Germany🇩🇪
 # 2026-01-26
 vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=live.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Germany🇩🇪
-# 2026-01-26
-vless://ae139e24-bde3-4438-9a42-1be5e4a0effb@grs.zdshop.ir:80?mode=packet-up&path=%2Fcategory%2Fmusic%3Fed%3D8880&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=autolife.ir&type=xhttp#Germany🇩🇪
 # 2026-01-26
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#Germany🇩🇪
 # 2026-01-26

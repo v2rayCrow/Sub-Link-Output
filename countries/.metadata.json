@@ -69,10 +69,6 @@
       "date": "2026-01-26"
     },
     {
-      "line": "vless://ae139e24-bde3-4438-9a42-1be5e4a0effb@grs.zdshop.ir:80?mode=packet-up&path=%2Fcategory%2Fmusic%3Fed%3D8880&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=autolife.ir&type=xhttp#Germany🇩🇪",
-      "date": "2026-01-26"
-    },
-    {
       "line": "vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?path=%2F&security=none&encryption=none&type=ws#Germany🇩🇪",
       "date": "2026-01-26"
     },
@@ -265,22 +261,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-26"
-    },
-    {
-      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-26"
-    },
-    {
-      "line": "vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@198.62.62.241:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-26"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-01-26"
-    },
-    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.148:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
       "date": "2026-01-26"
     },
@@ -385,11 +365,23 @@
       "date": "2026-01-26"
     },
     {
+      "line": "vless://74c8f7ec-9c3c-49eb-a4f3-667032b2d7dd@mpc.mobayandeh.top:443?path=%2F%3Fed%3D2082&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=filamcl.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=filamcl.wordperessweb.ir#United%20States🇺🇸",
+      "date": "2026-01-26"
+    },
+    {
       "line": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.paypal.com&fp=chrome&security=reality&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&sid=#United%20States🇺🇸",
       "date": "2026-01-26"
     },
     {
+      "line": "vless://77c492e6-7bff-4ce9-b76d-6e55686a577b@free1.aattaash.com:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=finland2.aattaash.com#United%20States🇺🇸",
+      "date": "2026-01-26"
+    },
+    {
       "line": "vless://8287e81d-2560-4aaf-ebc8-f6873c521f83@45.77.87.33:37795/?type=tcp&encryption=none&flow=&sni=www.lovelive-anime.jp&fp=chrome&security=reality&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&sid=#United%20States🇺🇸",
+      "date": "2026-01-26"
+    },
+    {
+      "line": "vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#United%20States🇺🇸",
       "date": "2026-01-26"
     },
     {
@@ -402,6 +394,10 @@
     },
     {
       "line": "vless://98f7f641-b3b1-42d5-81ec-3e14047f7c04@support.zoom.us:8080/?type=ws&encryption=none&flow=&host=lithusha.riyon.cfd&path=%2Flithusha#United%20States🇺🇸",
+      "date": "2026-01-26"
+    },
+    {
+      "line": "vless://ae139e24-bde3-4438-9a42-1be5e4a0effb@grs.zdshop.ir:80?mode=packet-up&path=%2Fcategory%2Fmusic%3Fed%3D8880&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=autolife.ir&type=xhttp#United%20States🇺🇸",
       "date": "2026-01-26"
     },
     {
@@ -595,10 +591,6 @@
       "date": "2026-01-26"
     },
     {
-      "line": "trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Netherlands🇳🇱",
-      "date": "2026-01-26"
-    },
-    {
       "line": "vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@100niggavs100.mrpixanos.ir:42542?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#Netherlands🇳🇱",
       "date": "2026-01-26"
     },
@@ -691,7 +683,7 @@
       "date": "2026-01-26"
     },
     {
-      "line": "vless://77c492e6-7bff-4ce9-b76d-6e55686a577b@free1.aattaash.com:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=finland2.aattaash.com#Netherlands🇳🇱",
+      "line": "vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#Netherlands🇳🇱",
       "date": "2026-01-26"
     },
     {
@@ -745,6 +737,18 @@
   ],
   "Cloudflare🌐": [
     {
+      "line": "vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#Cloudflare🌐",
+      "date": "2026-01-26"
+    },
+    {
+      "line": "vless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@africa.visa.com:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz#Cloudflare🌐",
+      "date": "2026-01-26"
+    },
+    {
+      "line": "vless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%2Fvgn80ag4q5o0oxj5#Cloudflare🌐",
+      "date": "2026-01-26"
+    },
+    {
       "line": "vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086?path=%2F1qrxwiek8tujvr6h&security=none&encryption=none&host=index.harmony510.workers.dev&type=ws#Cloudflare🌐",
       "date": "2026-01-26"
     },
@@ -761,23 +765,11 @@
       "date": "2026-01-26"
     },
     {
-      "line": "vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=delta090.qzz.io&type=ws&allowInsecure=0&sni=delta090.qzz.io#Cloudflare🌐",
-      "date": "2026-01-26"
-    },
-    {
       "line": "vless://674debc8-1a9e-4e31-a1e1-ac44a471286a@chatgpt.com:80?security=none&allowInsecure=0&encryption=none&type=ws&host=wilD-juStiCE71rEQld358.sPoRTlaND.COmPaNy.&path=/?ed%3D2048#Cloudflare🌐",
       "date": "2026-01-26"
     },
     {
       "line": "vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@go.inmobi.com:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#Cloudflare🌐",
-      "date": "2026-01-26"
-    },
-    {
-      "line": "vless://74c8f7ec-9c3c-49eb-a4f3-667032b2d7dd@mpc.mobayandeh.top:443?path=%2F%3Fed%3D2082&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=filamcl.wordperessweb.ir&fp=chrome&type=ws&allowInsecure=0&sni=filamcl.wordperessweb.ir#Cloudflare🌐",
-      "date": "2026-01-26"
-    },
-    {
-      "line": "vless://818ffdea-872c-43fe-adee-09d4e99a9ce6@api.steamsale.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fast.spacenetpro.xyz&fp=chrome&type=xhttp&allowInsecure=0&sni=fast.spacenetpro.xyz#Cloudflare🌐",
       "date": "2026-01-26"
     },
     {
