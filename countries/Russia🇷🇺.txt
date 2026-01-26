@@ -1,26 +1,16 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 04:20
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 09:49
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#Russia🇷🇺
 # 2026-01-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#Russia🇷🇺
 # 2026-01-26
-vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.109.47:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺
-# 2026-01-26
 vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.86:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺
 # 2026-01-26
-vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.99.190:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺
-# 2026-01-26
-vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@iran.zone-server-irani.ir:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=apexbhao1.qzz.io&type=ws&allowInsecure=0&sni=apexbhao1.qzz.io#Russia🇷🇺
-# 2026-01-26
-vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@CF.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sepah.systemgamingirani.ir#Russia🇷🇺
-# 2026-01-26
-vless://6df3cc5d-a9e5-4117-8ddc-bedbe44a6f14@iran.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wizwiz.vidboxco.ir#Russia🇷🇺
+vless://0f1b6d8d-3f8c-4713-b32d-c94947083485@iran.zone-server-irani.ir:443/?type=ws&encryption=none&flow=&host=apexbhao1.qzz.io&path=%2F43.218.77.16%3D1443&security=tls&sni=apexbhao1.qzz.io&allowInsecure=1#Russia🇷🇺
 # 2026-01-26
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.147.114.151:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sid=#Russia🇷🇺
 # 2026-01-26
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@217.16.16.160:47014/?type=tcp&encryption=none&flow=#Russia🇷🇺
-# 2026-01-26
 vless://bbbddf3f-a747-47a9-b37f-30a2dd2dcf2f@iran.zone-server-irani.ir:443?path=%2Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=poronyhf.sadafspace.com&fp=chrome&type=ws&allowInsecure=0&sni=poronyhf.sadafspace.com#Russia🇷🇺
 # 2026-01-26
-vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#Russia🇷🇺
+vless://c19fb567-74a9-454f-9757-e612fc4be371@ss.02020.sbs:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dropbox.com&fp=safari&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺

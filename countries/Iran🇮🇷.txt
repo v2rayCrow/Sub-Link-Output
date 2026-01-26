@@ -1,8 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 04:20
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 09:49
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-26
 vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@niimb.aparat-movies-download.ir:42555?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#Iran🇮🇷
 # 2026-01-26
 vless://b5ea9b62-642e-434d-8605-b7219d141813@91.216.71.69:405?security=&encryption=none&host=playstation.com&headerType=http&type=tcp#Iran🇮🇷
 # 2026-01-26
-vless://c20d3ad4-e8b8-4429-a9e2-9875eb053997@85.133.204.146:8080?path=%2Fabc%3Fed%3D2048&security=none&encryption=none&host=film-doni.com&type=ws#Iran🇮🇷
+vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.237:80?path=%2Fpreply&security=&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#Iran🇮🇷
