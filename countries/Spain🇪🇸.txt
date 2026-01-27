@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-26 21:47
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-27 04:18
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-26
+# 2026-01-27
 vless://2221280a-7fdb-48e8-8ce3-8d55ac2d1b52@sv20.farsdataco.top:7426?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#Spain🇪🇸
-# 2026-01-26
+# 2026-01-27
 vless://8658dc4f-2b4e-46d7-831d-17a3def93c00@5.22.219.57:30704?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#Spain🇪🇸
