@@ -1,10 +1,14 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-27 04:18
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-27 09:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#Japan🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Japan🇯🇵
+# 2026-01-27
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Japan🇯🇵
+# 2026-01-27
+trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.51.29:4006?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Japan🇯🇵
+# 2026-01-27
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Japan🇯🇵
+# 2026-01-27
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:544/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#Japan🇯🇵
 # 2026-01-27
 vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=#Japan🇯🇵
-# 2026-01-27
-vless://e258977b-e413-4718-a3af-02d75492c349@13.112.81.223:443/?type=ws&encryption=none&flow=&host=tw-f0n.pages.dev&path=%2F%3Fed%3D2095&security=tls&sni=tw-f0n.pages.dev&allowInsecure=1&fp=chrome#Japan🇯🇵
-# 2026-01-27
-vless://e258977b-e413-4718-a3af-02d75492c349@144.48.4.248:443/?type=ws&encryption=none&flow=&host=tw-f0n.pages.dev&path=%2F%3Fed%3D2095&security=tls&sni=tw-f0n.pages.dev&allowInsecure=1&fp=chrome#Japan🇯🇵
