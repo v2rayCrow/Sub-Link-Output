@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-28 04:15
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-28 09:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-28
-vless://turboo-server@dns.turboo-server.space:443?path=%2Fturboo-server&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=serverpro.turbooo-server.com&fp=chrome&type=ws&allowInsecure=0&sni=serverpro.turbooo-server.com#Finland🇫🇮
+vless://1ca9ceff-e060-4cdf-a5c8-60662d326a87@65.109.219.60:443?path=%2F&security=none&encryption=none&type=ws#Finland🇫🇮

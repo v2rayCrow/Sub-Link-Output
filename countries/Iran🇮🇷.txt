@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-28 04:15
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-28 09:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-28
-vless://9b378369-6383-48d1-97ff-102f33c88de4@mad.adaspolo.lat:2724?security=reality&encryption=none&pbk=ciPKFr9TEbF41ECucqPFlAaHkG54CoZ0CFfHcX3i3iI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wordpress.org#Iran🇮🇷
+vless://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.237:80?path=%2Fclassgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#Iran🇮🇷
 # 2026-01-28
-vless://e28e7f77-262a-44f4-b8ea-addf20a0b874@185.228.236.237:80?path=%2Fpreply&security=&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#Iran🇮🇷
+vless://4660d0c6-4367-40c9-b730-864194e7efa7@91.216.71.109:8880?security=none&encryption=none&headerType=none&type=tcp#Iran🇮🇷
