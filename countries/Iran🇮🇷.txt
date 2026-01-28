@@ -1,6 +1,10 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-28 15:50
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-28 21:50
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-28
 vless://40d28513-d1c3-4346-a480-27601b0650f4@185.228.236.237:80?path=%2Fclassgap&security=none&encryption=none&host=nginx-08c0f955fd-rule.apps.ir-central1.arvancaas.ir&type=ws#Iran🇮🇷
 # 2026-01-28
 vless://4660d0c6-4367-40c9-b730-864194e7efa7@91.216.71.109:8880?security=none&encryption=none&headerType=none&type=tcp#Iran🇮🇷
+# 2026-01-28
+vless://fbe0d38f-5d9c-4d4e-9dbd-8f96584989e0@fair.iranis.art:8088/?type=ws&encryption=none&flow=&path=%2F#Iran🇮🇷
+# 2026-01-28
+vless://vpn_connects@vpconnect1.pishipishi.pro:80?path=/vpn_connects&security=none&encryption=none&host=vpconnect.pishipishi1.pro&type=ws#Iran🇮🇷
