@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-29 15:55
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-29 21:56
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-29
 vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#Indonesia🇮🇩
