@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-30 10:01
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-30 15:54
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-01-30
 vless://6618b577-b801-4f0c-811a-ac83c70639dc@niimb.aparat-movies-download.ir:42555?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Iran🇮🇷

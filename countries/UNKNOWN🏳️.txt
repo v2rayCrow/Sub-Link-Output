@@ -1,10 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-22 04:15
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-30 15:54
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-22
-vless://35dda669-cc6d-4553-ba8f-3979b06ab69c@ab.fxgoldensignals.com:8443?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#UNKNOWN🏳️
-# 2026-01-22
-vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443/?encryption=none&flow=&host=alibaba.com&type=tcp&headerType=http#UNKNOWN🏳️
-# 2026-01-22
-vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@ab.fxgoldensignals.com:36454/?type=tcp&encryption=none&flow=#UNKNOWN🏳️
-# 2026-01-22
-vless://d4795cd9-cd7b-4cea-edfb-20cdcca5837b@doprax.fxgoldensignals.com:50904?security=none&encryption=none&headerType=none&type=tcp#UNKNOWN🏳️
+# 2026-01-30
+vless://28f54417-f7ba-40dc-a258-5ef6e93e57f5@beside.aftanone.com:443?path=%2FeyJqdW5rIjoiMVhZVDUzdFZBNjQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=hoLY-MeaDoW-A74d.MamADiBArAm.woRKerS.DeV#UNKNOWN🏳️

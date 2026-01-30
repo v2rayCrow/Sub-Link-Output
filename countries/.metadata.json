@@ -169,10 +169,6 @@
   ],
   "United States🇺🇸": [
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-01-30"
-    },
-    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
       "date": "2026-01-30"
     },
@@ -302,6 +298,10 @@
     },
     {
       "line": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#United%20States🇺🇸",
+      "date": "2026-01-30"
+    },
+    {
+      "line": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@cf.narton.ir:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#United%20States🇺🇸",
       "date": "2026-01-30"
     },
     {
@@ -807,15 +807,17 @@
     {
       "line": "vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=%2F%40AlaedinVPN%3Fed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#Austria🇦🇹",
       "date": "2026-01-30"
-    },
-    {
-      "line": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@cf.narton.ir:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#Austria🇦🇹",
-      "date": "2026-01-30"
     }
   ],
   "Israel🇮🇱": [
     {
       "line": "vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#Israel🇮🇱",
+      "date": "2026-01-30"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://28f54417-f7ba-40dc-a258-5ef6e93e57f5@beside.aftanone.com:443?path=%2FeyJqdW5rIjoiMVhZVDUzdFZBNjQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=hoLY-MeaDoW-A74d.MamADiBArAm.woRKerS.DeV#UNKNOWN🏳️",
       "date": "2026-01-30"
     }
   ],
