@@ -169,6 +169,14 @@
   ],
   "United States🇺🇸": [
     {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.148:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-01-30"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-01-30"
+    },
+    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
       "date": "2026-01-30"
     },
@@ -273,15 +281,11 @@
       "date": "2026-01-30"
     },
     {
+      "line": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@ipo.mastermarly.ir:8443?encryption=none&security=tls&sni=sweeden-fr.mastermarly.ir&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=sweeden-fr.mastermarly.ir&path=%2Fpath#United%20States🇺🇸",
+      "date": "2026-01-30"
+    },
+    {
       "line": "vless://96863176-edbb-47dd-9b56-1d4582a6f9c0@vip3.kaixincloud.top:8443/?type=ws&encryption=none&flow=&host=ir.irannet.shop&path=%2FhshsHhdsgj54645sgsSdc&security=tls&sni=ir.irannet.shop&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-01-30"
-    },
-    {
-      "line": "vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@cf.xuiprospeed.ir:2053?security=tls&type=ws&headerType=&path=%2Flove&host=heritage.xuiprospeed.ir&sni=heritage.xuiprospeed.ir&fp=#United%20States🇺🇸",
-      "date": "2026-01-30"
-    },
-    {
-      "line": "vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@cf2.xuiprospeed.ir:8880?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=narej.xuiprospeed.ir#United%20States🇺🇸",
       "date": "2026-01-30"
     },
     {
@@ -294,10 +298,6 @@
     },
     {
       "line": "vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&sid=#United%20States🇺🇸",
-      "date": "2026-01-30"
-    },
-    {
-      "line": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#United%20States🇺🇸",
       "date": "2026-01-30"
     },
     {
@@ -535,6 +535,10 @@
       "date": "2026-01-30"
     },
     {
+      "line": "vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@cf.xuiprospeed.ir:2053?security=tls&type=ws&headerType=&path=%2Flove&host=heritage.xuiprospeed.ir&sni=heritage.xuiprospeed.ir&fp=#Netherlands🇳🇱",
+      "date": "2026-01-30"
+    },
+    {
       "line": "vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@195.133.195.6:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#Netherlands🇳🇱",
       "date": "2026-01-30"
     },
@@ -554,6 +558,14 @@
     }
   ],
   "Cloudflare🌐": [
+    {
+      "line": "trojan://humanity@www.multiplydose.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-01-30"
+    },
+    {
+      "line": "trojan://humanity@www.gossipglove.com:443/?type=ws&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-01-30"
+    },
     {
       "line": "vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@vip2.kaixincloud.top:8880/?type=ws&encryption=none&flow=&host=r-one.lat&path=%2FeyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3Fed%3D2560%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#Cloudflare🌐",
       "date": "2026-01-30"
@@ -611,10 +623,6 @@
       "date": "2026-01-30"
     },
     {
-      "line": "vless://4154ddec-dc96-43cc-95bb-43dc03bdcd65@clyde.ns.cloudflare.com:443?&security=tls&sni=639052472056060764.altima-rvltnb.info&type=ws&headerType=none&host=639052472056060764.altima-rvltnb.info&path=%2Fafjbtmws#Cloudflare🌐",
-      "date": "2026-01-30"
-    },
-    {
       "line": "vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@188.114.97.222:8080?encryption=none&security=none&sni=188.114.97.222&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiTzZZQ2dpUW1WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#Cloudflare🌐",
       "date": "2026-01-30"
     },
@@ -632,10 +640,6 @@
     },
     {
       "line": "vless://48129906-0fdc-482e-8c79-c78bfc6480b7@104.18.32.47:443?path=%2FeyJqdW5rIjoiNTRZOXhhMTJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=041.electrocellco-cf-041.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=041.electrOCElLcO-CF-041.woRKerS.DEV#Cloudflare🌐",
-      "date": "2026-01-30"
-    },
-    {
-      "line": "vless://44685034-88bb-4a40-a5c8-97559d2179e9@clyde.ns.cloudflare.com:443?&security=tls&sni=639052472056058285.altima-rvltnb.info&type=ws&headerType=none&host=639052472056058285.altima-rvltnb.info&path=%2Ffelaouws#Cloudflare🌐",
       "date": "2026-01-30"
     },
     {
@@ -675,10 +679,6 @@
       "date": "2026-01-30"
     },
     {
-      "line": "vless://73130c36-8b0a-4f5a-865c-bf92c182c1a7@ipo.mastermarly.ir:8443?encryption=none&security=tls&sni=sweeden-fr.mastermarly.ir&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=sweeden-fr.mastermarly.ir&path=%2Fpath#Cloudflare🌐",
-      "date": "2026-01-30"
-    },
-    {
       "line": "vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#Cloudflare🌐",
       "date": "2026-01-30"
     },
@@ -692,6 +692,10 @@
     },
     {
       "line": "vless://c249ca6f-1bde-479b-af96-da0e948a3800@zzula.ir:443?path=%2Fadmin&security=tls&encryption=none&insecure=0&host=zitel.digikala-aparat-zula.com&type=ws&allowInsecure=0&sni=zitel.digikala-aparat-zula.com#Cloudflare🌐",
+      "date": "2026-01-30"
+    },
+    {
+      "line": "vless://c0bea6ce-a530-4398-a38b-590d45e9d3a7@cf2.xuiprospeed.ir:8880?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=narej.xuiprospeed.ir#Cloudflare🌐",
       "date": "2026-01-30"
     },
     {
@@ -821,6 +825,12 @@
       "date": "2026-01-30"
     }
   ],
+  "South Africa🇿🇦": [
+    {
+      "line": "vless://2e46ba5a-db56-4940-9500-a61c7b0bcc0c@cdn.bio4cdn.com:2053?path=%2Fweborder&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bio.bio4cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=bio.bio4cdn.com#South%20Africa🇿🇦",
+      "date": "2026-01-30"
+    }
+  ],
   "Indonesia🇮🇩": [
     {
       "line": "vless://32663838-6132-4561-b532-653431613036@ok.1eta.site:80?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#Indonesia🇮🇩",
@@ -842,6 +852,10 @@
     },
     {
       "line": "vless://d6bf6e21-f19c-4aaf-b4a5-c3a9a18a08f2@t.aparat-movies-download.ir:42535?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#Iran🇮🇷",
+      "date": "2026-01-30"
+    },
+    {
+      "line": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@ip.elcump.top:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#Iran🇮🇷",
       "date": "2026-01-30"
     }
   ],
