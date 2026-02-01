@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-01 10:03
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-01 21:46
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-01
 vless://295ca87a-d815-420d-9e4b-99cb1df05023@webfont.huntexfont.com:443?security=none&allowInsecure=0&encryption=none&type=tcp&host=fonts.googleapis.com&path=/&headerType=http#Iran🇮🇷
