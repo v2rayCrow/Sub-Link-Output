@@ -1,10 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-31 21:44
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-01 10:03
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-31
-vless://3a348ab7-9f71-4572-a0bd-aabd8b38c3af@t2ec.venomspeeds.com:3070?type=tcp&path=/&host=2ec.venomspeeds.com&headerType=http&security=tls&fp=&alpn=&sni=2ec.venomspeeds.com#Iran🇮🇷
-# 2026-01-31
-vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@arya.zaravds.cfd:1050?security=none&encryption=none&headerType=none&type=tcp#Iran🇮🇷
-# 2026-01-31
-vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?encryption=none&security=none&type=tcp&headerType=none#Iran🇮🇷
-# 2026-01-31
-vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.gologiah-shop.ir:3488?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir#Iran🇮🇷
+# 2026-02-01
+vless://295ca87a-d815-420d-9e4b-99cb1df05023@webfont.huntexfont.com:443?security=none&allowInsecure=0&encryption=none&type=tcp&host=fonts.googleapis.com&path=/&headerType=http#Iran🇮🇷
+# 2026-02-01
+vless://5fc41f2c-8e78-4c7d-a572-cae85cb9b063@freeus.pishipishi.pro:1313?security=none&encryption=none&headerType=none&type=tcp#Iran🇮🇷
