@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-31 04:21
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-02 10:15
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-31
-vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.86:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺
+# 2026-02-02
+vless://0bdf406a-84a5-46a0-baf8-c1d85ad30d6b@217.16.25.173:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.ru&fp=chrome&security=reality&pbk=mhS5tgy6bzzFw_sOpdAGuKVS5MF1e0FjzimA92KnPUE&sid=#Russia🇷🇺
