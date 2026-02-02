@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-02 15:57
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-02 21:54
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-02
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.17:3076?allowInsecure=1&sni=www.nintendogames.net#Japan🇯🇵
