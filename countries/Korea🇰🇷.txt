@@ -1,5 +1,7 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-04 04:23
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-04 10:03
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-02-04
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?security=reality&encryption=none&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&headerType=none&fp=chrome&type=tcp&sni=api.company-target.com#Korea🇰🇷
 # 2026-02-04
 vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IktvcmVhXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ
 # 2026-02-04

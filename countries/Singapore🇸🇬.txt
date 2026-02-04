@@ -1,4 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-04 04:23
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-04 10:03
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
+# 2026-02-04
+vless://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@cname3.sonamii.com:2083?allowInsecure=1&alpn=http%2F1.1&ed=2440&eh=Sec-WebSocket-Protocol&encryption=none&host=sina.sonami.site&path=%2F&security=tls&sni=sina.sonami.site&type=ws#Singapore🇸🇬
 # 2026-02-04
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#Singapore🇸🇬
