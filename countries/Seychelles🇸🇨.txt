@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-06 21:59
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-07 04:23
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-06
+# 2026-02-07
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#Seychelles🇸🇨
-# 2026-02-06
+# 2026-02-07
 vless://c53041a9-fe39-474c-a61a-0a50513bc29a@carlos1.benjem.ir:443?mode=auto&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nrootame.benjem.ir#Seychelles🇸🇨
