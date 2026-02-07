@@ -1109,10 +1109,6 @@
     {
       "line": "vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@ger1.wizshop2.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Iran🇮🇷",
       "date": "2026-02-07"
-    },
-    {
-      "line": "vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Iran🇮🇷",
-      "date": "2026-02-07"
     }
   ],
   "Sweden🇸🇪": [
@@ -1152,6 +1148,12 @@
   "Curaçao🇨🇼": [
     {
       "line": "vless://fac7209e-6da0-4489-9566-0bd13aeb0c3d@turkey2.bio4cdn.com:443?path=%2Fwebcdn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=tr1.bio4cdn.com&fp=chrome&type=ws&sni=tr1.bio4cdn.com#Curaçao🇨🇼",
+      "date": "2026-02-07"
+    }
+  ],
+  "UNKNOWN🏳️": [
+    {
+      "line": "vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#UNKNOWN🏳️",
       "date": "2026-02-07"
     }
   ],
