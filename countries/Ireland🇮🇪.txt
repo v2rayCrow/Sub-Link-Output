@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-07 04:23
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-07 09:55
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-07
-vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=34.254.224.37&allowInsecure=1&fp=chrome#Ireland🇮🇪
+vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@dublin.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#Ireland🇮🇪

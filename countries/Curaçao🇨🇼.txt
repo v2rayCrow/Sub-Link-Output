@@ -1,6 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-01-12 04:18
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-07 09:55
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-01-12
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@45.146.201.251:443/?type=ws&encryption=none&flow=&host=sni.111000.cc.Cd&path=%2FTelegram-VPNman---Telegram-VPNMAAN---Telegram-VPNman---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN---Telegram-VPNMAAN&security=tls&sni=sni.111000.cc.Cd&allowInsecure=1&fp=firefox#Curaçao🇨🇼
-# 2026-01-12
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#Curaçao🇨🇼
+# 2026-02-07
+vless://fac7209e-6da0-4489-9566-0bd13aeb0c3d@turkey2.bio4cdn.com:443?path=%2Fwebcdn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=tr1.bio4cdn.com&fp=chrome&type=ws&sni=tr1.bio4cdn.com#Curaçao🇨🇼
