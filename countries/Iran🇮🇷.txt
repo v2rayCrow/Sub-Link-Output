@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-08 15:49
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-08 21:47
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-08
 vless://50505713-e997-4c5b-a7b7-ae6b62cf1f91@pedram.tsabad.com:8880?security=none&encryption=none&headerType=http&type=tcp#Iran🇮🇷
