@@ -1,11 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-08 04:42
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-08 10:03
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-08
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#Turkey🇹🇷
-# 2026-02-08
-vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#Turkey🇹🇷
-# 2026-02-08
-vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuMTQxLjE0OC4xNDMiLCJwb3J0IjoiNTA1OSIsImlkIjoiZTcyMGQyYjYtODBkZC00NjY0LWI2NGUtNmNjNzg0YmNlMzI5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJtaS5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0
 # 2026-02-08
 vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0
 # 2026-02-08

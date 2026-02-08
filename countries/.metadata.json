@@ -1,6 +1,10 @@
 {
   "Germany🇩🇪": [
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGZhNDU2OGYwZmNlNDUw@54.37.77.201:11201#Germany🇩🇪",
       "date": "2026-02-08"
     },
@@ -9,7 +13,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#Germany🇩🇪",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
@@ -17,7 +21,11 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#Germany🇩🇪",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
@@ -33,7 +41,15 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZGQzNTlmNTk0ZGVhODQy@141.95.105.163:11201#Germany🇩🇪",
+      "line": "vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
@@ -45,11 +61,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#Germany🇩🇪",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#Germany🇩🇪",
+      "line": "vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
@@ -77,11 +89,15 @@
       "date": "2026-02-08"
     },
     {
+      "line": "vless://4e1124aa-4228-48d3-b6e2-fb16f829fa67@95.85.234.63:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
       "line": "vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@37.120.184.180:80/?type=ws&encryption=none&flow=&host=cdn.ir&path=%2Fnews#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#Germany🇩🇪",
+      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.248.186.10:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
@@ -89,11 +105,19 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪",
+      "line": "vless://a77aa668-8201-452a-82fa-72126fe05594@82.22.174.61:1574?path=%2F&security=&encryption=none&type=ws#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://c583e7f8-9807-43b6-dac7-ca7ae5623546@kh2.mahdi383ir.website:9090?security=reality&encryption=none&pbk=tQwZ96ULPZim00dZUVBxCl1wRkVjULRVbho7_Z2FQFw&headerType=none&fp=firefox&spx=%2F2is4xjLZzENeuOA&type=tcp&sni=tgju.org&sid=57d56055#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
       "line": "vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@77.239.125.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Germany🇩🇪",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#Germany🇩🇪",
       "date": "2026-02-08"
     },
     {
@@ -117,13 +141,203 @@
       "date": "2026-02-08"
     }
   ],
+  "United States🇺🇸": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjljYjlhZWYzMTdmMDk2@147.135.77.6:11201#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjA@173.225.106.117:12484#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&security=reality&sni=www.amazon.com&type=tcp#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.160:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=%2F&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.148:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.149:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.155:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.159:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.164:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.165:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.169:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.177:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.226:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.171.134.116:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=%2F%3Fed%3D2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=%2Fcategory%2Fmusic&security=&encryption=none&host=iran.boltboost.gg&type=xhttp#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083/?type=ws&encryption=none&flow=&host=panel.captainsparo.ir&path=%2Fpath&security=tls&sni=panel.captainsparo.ir&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443/?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=DiprOX.pages.DEV&fp=chrome&type=ws&sni=DiprOX.pages.DEV#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=3.143.235.221&allowInsecure=1#United%20States🇺🇸",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI2OS42My4yMTAuMzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiYTg5ZmVkYTktZWMzMC00OGMxLWFlNmItMWE2ZjViNTczZjZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2E4OWZlZGE5LWVjMzAtNDhjMS1hZTZiLTFhNmY1YjU3M2Y2Yi12bSIsInBvcnQiOiIyNDk0MyIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIxNjIuMTU5LjE1Mi40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkuY29kZWZ5aW5jLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIxNzIuMjMzLjIyOS45MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0MTAyIiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiIxOTIuMjI3LjI0OS4yMjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2IxMzQyNTItZTdjMi00M2RmLTk4YjctZGEyMDQxMDRhYTc5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNzY0MSIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#United%20States🇺🇸",
+      "date": "2026-02-08"
+    }
+  ],
   "France🇫🇷": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#France🇫🇷",
+      "date": "2026-02-08"
+    },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France🇫🇷",
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#France🇫🇷",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTBjZTFhZjBhNmQ4ZGQ1@57.130.29.29:11201#France🇫🇷",
       "date": "2026-02-08"
     },
     {
@@ -143,11 +357,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://a571b94c-a9f3-407a-a8ef-da608dab5472@46.226.167.138:46248/?type=tcp&encryption=none&flow=#France🇫🇷",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://a571b94c-a9f3-407a-a8ef-da608dab5472@kurd-fr.tawana.online:46248?security=none&encryption=none&headerType=none&type=tcp#France🇫🇷",
+      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.135.5:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40YamYamProxy&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#France🇫🇷",
       "date": "2026-02-08"
     },
     {
@@ -156,10 +366,6 @@
     },
     {
       "line": "vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#France🇫🇷",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://f1870ac5-ab5f-4255-965d-4a0476cb0b1a@srv16.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv16.outlinekeys.com&type=tcp#France🇫🇷",
       "date": "2026-02-08"
     },
     {
@@ -185,65 +391,15 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#Canada🇨🇦",
-      "date": "2026-02-08"
-    },
-    {
       "line": "vless://e2be0db4-4110-42eb-bca1-ba8df0897319@198.50.119.86:8080/?type=ws&encryption=none&flow=&host=telewebion.com&path=%2F39427%2FNextlife#Canada🇨🇦",
       "date": "2026-02-08"
     },
     {
       "line": "vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
       "date": "2026-02-08"
-    }
-  ],
-  "Finland🇫🇮": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#Finland🇫🇮",
-      "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno@107.181.147.235:40521#Finland🇫🇮",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990#Finland🇫🇮",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA@staging.lastilhame.monster:49917#Finland🇫🇮",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@media.mothyleela.cfd:40521#Finland🇫🇮",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@vkru.outlinekeys.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkru.outlinekeys.net&fp=chrome&security=reality&pbk=aCIjONksX6QbTfFBxN1eFqf5caspiR7QyttJ3kDH9yY&sid=#Finland🇫🇮",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261/?type=tcp&encryption=none&flow=#Finland🇫🇮",
-      "date": "2026-02-08"
-    }
-  ],
-  "Bulgaria🇧🇬": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#Bulgaria🇧🇬",
-      "date": "2026-02-08"
-    }
-  ],
-  "Malaysia🇲🇾": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#Malaysia🇲🇾",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#Malaysia🇲🇾",
+      "line": "vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
       "date": "2026-02-08"
     }
   ],
@@ -253,7 +409,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -261,7 +417,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -269,27 +425,15 @@
       "date": "2026-02-08"
     },
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#Netherlands🇳🇱",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -301,7 +445,27 @@
       "date": "2026-02-08"
     },
     {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://YWVzLTEyOC1nY206OVlhNVE2eFhha281MUVGWnRPV0RYbWJFczRHanc5SVU@45.82.67.38:16485#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -309,11 +473,15 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://3b12e953-96f0-40da-ac32-3038dadf20f7@185.113.10.198:10468/?encryption=none&flow=&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=tcp&headerType=http#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -321,7 +489,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -333,7 +501,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -341,15 +509,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -357,11 +517,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -369,15 +525,15 @@
       "date": "2026-02-08"
     },
     {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
       "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://580fb199-f2a1-40f2-b48b-da5d83521b60@85.17.145.174:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -385,19 +541,19 @@
       "date": "2026-02-08"
     },
     {
+      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.39.239:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
       "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.111.44:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@mskhost.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&security=reality&sni=mskhost.outlinekeys.net&type=tcp#Netherlands🇳🇱",
+      "line": "vless://620f8560-8e40-4229-a988-970528c0b620@usa50.openbypass.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://5bb062fe-4bd8-4783-814b-d9a15435e2df@86.54.30.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Netherlands🇳🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.166.39.239:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Netherlands🇳🇱",
+      "line": "vless://6fd9f786-d974-49d0-b5c4-397678de69a2@nld14.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#Netherlands🇳🇱",
       "date": "2026-02-08"
     },
     {
@@ -405,7 +561,21 @@
       "date": "2026-02-08"
     },
     {
+      "line": "vless://8a25e98e-4337-4cb3-80db-20d4d1b271f8@deu328.unlockmatrix.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083/?type=ws&encryption=none&flow=&host=native.loveplus.de5.net&path=%2Fehueueuejs&security=tls&sni=native.loveplus.de5.net&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    },
+    {
       "line": "vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@94.103.1.230:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#Netherlands🇳🇱",
+      "date": "2026-02-08"
+    }
+  ],
+  "Bulgaria🇧🇬": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#Bulgaria🇧🇬",
       "date": "2026-02-08"
     }
   ],
@@ -427,19 +597,11 @@
       "date": "2026-02-08"
     },
     {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United%20Kingdom🇬🇧",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#United%20Kingdom🇬🇧",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#United%20Kingdom🇬🇧",
-      "date": "2026-02-08"
-    },
-    {
       "line": "vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?allowInsecure=1&encryption=none&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&type=ws#United%20Kingdom🇬🇧",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#United%20Kingdom🇬🇧",
       "date": "2026-02-08"
     },
     {
@@ -461,6 +623,24 @@
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#Kazakhstan🇰🇿",
       "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43661#Kazakhstan🇰🇿",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpndmFVQzBJS0FDbm84cDA1RllaTG9N@kazakhstan25.clearorbitllc.com:52323#Kazakhstan🇰🇿",
+      "date": "2026-02-08"
+    }
+  ],
+  "Malaysia🇲🇾": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYmIwODIwNWNiNmM4YWYw@38.54.97.247:28026#Malaysia🇲🇾",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.192.176:990#Malaysia🇲🇾",
+      "date": "2026-02-08"
     }
   ],
   "Lithuania🇱🇹": [
@@ -473,15 +653,41 @@
       "date": "2026-02-08"
     }
   ],
-  "Morocco🇲🇦": [
+  "Finland🇫🇮": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#Morocco🇲🇦",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno@107.181.147.235:40521#Finland🇫🇮",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990#Finland🇫🇮",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA@staging.lastilhame.monster:49917#Finland🇫🇮",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWVcydzlmd2Ryd2oycUM5TnlUQnVCTktRSlV2a0tuQ3A5VXhWbkZXNkxxZVNwaUNjbnpWMWNNb2hCVW5DQ1dCa2prcDgzclY5d1dlWVFRcVVad011WXUxWXlDdDE3dFc=@media.mothyleela.cfd:40521#Finland🇫🇮",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Finland🇫🇮",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://ee603510-52e4-29f9-00b0-9a051ad424fb@65.109.179.221:26261/?type=tcp&encryption=none&flow=#Finland🇫🇮",
       "date": "2026-02-08"
     }
   ],
   "Ecuador🇪🇨": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#Ecuador🇪🇨",
+      "date": "2026-02-08"
+    }
+  ],
+  "Morocco🇲🇦": [
+    {
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@188.214.157.30:990#Morocco🇲🇦",
       "date": "2026-02-08"
     }
   ],
@@ -499,259 +705,39 @@
       "date": "2026-02-08"
     }
   ],
-  "Poland🇵🇱": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#Poland🇵🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#Poland🇵🇱",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://71f8368d-e50e-4595-acf2-59843639804d@poland.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#Poland🇵🇱",
-      "date": "2026-02-08"
-    }
-  ],
   "Brazil🇧🇷": [
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201/?#Brazil🇧🇷",
       "date": "2026-02-08"
     }
   ],
-  "Turkey🇹🇷": [
+  "United Arab Emirates🇦🇪": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbDByR3lBQWVkNUhSRHB2RnFyMkMw@62.133.63.169:37096#Turkey🇹🇷",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#United%20Arab%20Emirates🇦🇪",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@77.83.245.220:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mailru.ookcdn.ru&fp=chrome&security=reality&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#Turkey🇹🇷",
+      "line": "vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#United%20Arab%20Emirates🇦🇪",
       "date": "2026-02-08"
     },
     {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuMTQxLjE0OC4xNDMiLCJwb3J0IjoiNTA1OSIsImlkIjoiZTcyMGQyYjYtODBkZC00NjY0LWI2NGUtNmNjNzg0YmNlMzI5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJtaS5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0",
+      "line": "vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgQXJhYiBFbWlyYXRlc1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
       "date": "2026-02-08"
-    },
+    }
+  ],
+  "Poland🇵🇱": [
     {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#Poland🇵🇱",
       "date": "2026-02-08"
     }
   ],
   "Japan🇯🇵": [
     {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#Japan🇯🇵",
+      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8319#Japan🇯🇵",
       "date": "2026-02-08"
     },
     {
       "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316#Japan🇯🇵",
-      "date": "2026-02-08"
-    }
-  ],
-  "Singapore🇸🇬": [
-    {
-      "line": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#Singapore🇸🇬",
-      "date": "2026-02-08"
-    }
-  ],
-  "United States🇺🇸": [
-    {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=%2Fdownload&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&security=reality&sni=www.amazon.com&type=tcp#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.146:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.148:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.149:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48792731-6fc9-4415-8b51-6007825daf82@8.6.112.0:2053/?type=ws&encryption=none&flow=&host=ir7.hnbyme.online&path=%2F&security=tls&sni=ir7.hnbyme.online&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.155:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.159:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.164:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.160:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.165:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.177:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.169:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.226:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.171.134.116:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://96d9bcb0-9ad2-48be-85a2-a9ab3a005261@8.6.112.0:2083/?type=ws&encryption=none&flow=&host=ds1-mx-fn154-protection.iranlease.com&path=%2F%3Fed%3D2560&security=tls&sni=ds1-mx-fn154-protection.iranlease.com&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083/?type=ws&encryption=none&flow=&host=panel.captainsparo.ir&path=%2Fpath&security=tls&sni=panel.captainsparo.ir&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@convera.com:2053?path=%2Fdanfeng&security=tls&encryption=none&host=snippet.danfeng.de5.net&fp=chrome&type=ws&sni=snippet.danfeng.de5.net#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443/?path=%2Ffp%3Dchrome&security=tls&encryption=none&host=DiprOX.pages.DEV&fp=chrome&type=ws&sni=DiprOX.pages.DEV#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://da406588-095f-4683-acc2-a3aa3aab68d6@162.159.152.4:2096?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443/?type=ws&encryption=none&flow=&host=rAyAn-007.mAxImA.DpDnS.OrG&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252/?type=grpc&encryption=none&flow=&serviceName=www.bing.com&security=tls&sni=3.143.235.221&allowInsecure=1#United%20States🇺🇸",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI0Ny4yNTEuOTEuMjQxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5MjViMzU1LTJiY2QtNGVhZS05NzIwLWQyNzA5ZTRmN2UzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI4OTkiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI2OS42My4yMTAuMzUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsImlkIjoiYTg5ZmVkYTktZWMzMC00OGMxLWFlNmItMWE2ZjViNTczZjZiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2E4OWZlZGE5LWVjMzAtNDhjMS1hZTZiLTFhNmY1YjU3M2Y2Yi12bSIsInBvcnQiOiIyNDk0MyIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIxNjIuMTU5LjE1Mi40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkuY29kZWZ5aW5jLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIxOTIuMjI3LjI0OS4yMjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2IxMzQyNTItZTdjMi00M2RmLTk4YjctZGEyMDQxMDRhYTc5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNzY0MSIsInBzIjoiVW5pdGVkIFN0YXRlc1x1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6IlVuaXRlZCBTdGF0ZXNcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiIxNzIuMjMzLjIyOS45MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0MTAyIiwicHMiOiJVbml0ZWQgU3RhdGVzXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#United%20States🇺🇸",
       "date": "2026-02-08"
     }
   ],
@@ -763,27 +749,7 @@
   ],
   "Cloudflare🌐": [
     {
-      "line": "vless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?encryption=none&security=none&type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=%2F%3Fed#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=%2F%3Fed%3D512&security=&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
       "line": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?allowInsecure=1&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&type=ws#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -795,11 +761,11 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#Cloudflare🌐",
+      "line": "vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cf.mahdi383ir.website:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&allowInsecure=0&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086?path=%2F1qrxwiek8tujvr6h&security=none&encryption=none&host=index.harmony510.workers.dev&type=ws#Cloudflare🌐",
+      "line": "vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -807,11 +773,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=/&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#Cloudflare🌐",
+      "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&insecure=1&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=1&sni=ca.adobe-connect.top#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -820,6 +782,22 @@
     },
     {
       "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&allowInsecure=1#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=%2F&security=tls&sni=ca.adobe-connect.top&allowInsecure=1&fp=chrome#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086?path=%2F1qrxwiek8tujvr6h&security=none&encryption=none&host=index.harmony510.workers.dev&type=ws#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -839,11 +817,19 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://9501547f-9128-4711-90be-989dec25d3f9@172.64.152.23:80?mode=auto&path=%2F&security=none&encryption=none&host=menpack.serviceprom.us.ci&type=xhttp#Cloudflare🌐",
+      "line": "vless://c3ffa4ee-fbbe-45e3-f737-db2f381f557e@cf.mahdi383ir.website:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&allowInsecure=0&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443/?path=%2Fassets&security=tls&encryption=none&host=diprox.pages.dev&fp=chrome&type=ws&sni=DiprOX.pages.DEV#Cloudflare🌐",
+      "line": "vless://c659ce22-0a02-4d75-8c89-58d99916b846@104.17.74.206:2053?security=tls&encryption=none&host=ir6.hnbyme.online&fp=chrome&type=ws&sni=ir6.hnbyme.online#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=%2F%3Fed&security=&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://c659ce22-0a02-4d75-8c89-58d99916b846@188.114.96.3:2053?path=%2F&security=tls&encryption=none&host=ir6.hnbyme.online&fp=chrome&type=ws&sni=ir6.hnbyme.online#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -851,11 +837,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@nazar.ac.ir:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&insecure=0&host=we.ir-sub.fun&fp=chrome&type=ws&allowInsecure=0&sni=we.ir-sub.fun#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://da406588-095f-4683-acc2-a3aa3aab68d6@ipbaz.ping-box.com:2096?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=fr1.itscdn.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fr1.itscdn.ir#Cloudflare🌐",
+      "line": "vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443/?path=%2Fassets&security=tls&encryption=none&host=diprox.pages.dev&fp=chrome&type=ws&sni=DiprOX.pages.DEV#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -867,23 +849,15 @@
       "date": "2026-02-08"
     },
     {
+      "line": "vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
       "line": "vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip2.kaixincloud.top:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
       "line": "vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?encryption=none&type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&path=/?ed&security=none#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -895,7 +869,7 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
+      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -903,15 +877,11 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=%2F%3Fed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#Cloudflare🌐",
+      "line": "vless://e9052516-1e37-4665-a0b4-a5c65dd0ab70@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=TastY-LeaRNInG94aZG31SfF.ECOTouRiss.CO.UK.&type=ws#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#Cloudflare🌐",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#Cloudflare🌐",
+      "line": "vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:172.67.163.213]:2096?security=tls&type=ws&path=%2F88ailh3l64gh&host=ems.arc-time.workers.dev&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome&encryption=none#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -919,7 +889,15 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#Cloudflare🌐",
+      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -927,11 +905,19 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://ffa11e82-fa9b-4be1-81a9-c1d48a363df8@104.24.206.21:80/?type=ws&encryption=none&flow=&host=fancy-sky-db95.mehradrivaldo.workers.dev&path=%2F#Cloudflare🌐",
+      "line": "vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.254.236:80/?type=ws&encryption=none&flow=&host=netherlands.padoamu.workers.dev&path=%2F%40WireXnet%3Fed%3D2048#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#Cloudflare🌐",
+      "line": "vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=%2F%3Fed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://fe595ea9-e641-46db-cf94-38afef601315@cf.mahdi383ir.website:443?path=%2Fmahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kh2d2db3vlp4ldh885do6w0pp5286wqow0p0kdg.mahdi383ir.website&fp=firefox&type=ws&allowInsecure=0&sni=kh2dmg6jzcc3tk5qjk88uua1mqmllu3ab8ftomg.mahdi383ir.website#Cloudflare🌐",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://ffa11e82-fa9b-4be1-81a9-c1d48a363df8@104.24.206.21:80/?type=ws&encryption=none&flow=&host=fancy-sky-db95.mehradrivaldo.workers.dev&path=%2F#Cloudflare🌐",
       "date": "2026-02-08"
     },
     {
@@ -951,25 +937,15 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAvP1RFTEVHUkFNLS1LQU5BTC0tSktWUE4tLUpLVlBOLS1KS1ZQTi0tSktWUE4tLUpLVlBOLS1KS1ZQTiIsInBvcnQiOiI4MDgwIiwicHMiOiJDbG91ZGZsYXJlXHVkODNjXHVkZjEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "date": "2026-02-08"
-    },
-    {
       "line": "vmess://eyJhZGQiOiJ0Z2p1Lm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTE2MjE5MTA5OS5zaGFyZ2hkYWlseS5jbyIsImlkIjoibmFzbmV0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4_ZWQ9MjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiJDbG91ZGZsYXJlXHVkODNjXHVkZjEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "date": "2026-02-08"
     },
     {
-      "line": "vmess://eyJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2Nkbj9lZD0yNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IkNsb3VkZmxhcmVcdWQ4M2NcdWRmMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
-      "date": "2026-02-08"
-    }
-  ],
-  "India🇮🇳": [
-    {
-      "line": "vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#India🇮🇳",
+      "line": "vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAvP1RFTEVHUkFNLS1LQU5BTC0tSktWUE4tLUpLVlBOLS1KS1ZQTi0tSktWUE4tLUpLVlBOLS1KS1ZQTiIsInBvcnQiOiI4MDgwIiwicHMiOiJDbG91ZGZsYXJlXHVkODNjXHVkZjEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
       "date": "2026-02-08"
     },
     {
-      "line": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6IkluZGlhXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
+      "line": "vmess://eyJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2Nkbj9lZD0yNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IkNsb3VkZmxhcmVcdWQ4M2NcdWRmMTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0",
       "date": "2026-02-08"
     }
   ],
@@ -979,61 +955,25 @@
       "date": "2026-02-08"
     },
     {
-      "line": "vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@austria.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#Austria🇦🇹",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
+      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.jpmj.dev&allowInsecure=1#Austria🇦🇹",
       "date": "2026-02-08"
     },
     {
       "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.130:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
       "date": "2026-02-08"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.29:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#Austria🇦🇹",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.49.144:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#Austria🇦🇹",
-      "date": "2026-02-08"
     }
   ],
-  "Russia🇷🇺": [
+  "India🇮🇳": [
     {
-      "line": "vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#Russia🇷🇺",
+      "line": "vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-india1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#India🇮🇳",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@moscow.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ozon.ru&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#Russia🇷🇺",
+      "line": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#India🇮🇳",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Russia🇷🇺",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://b25ae9bd-a6ad-4cf1-854d-bcd77134659d@212.22.76.8:443?mode=packet-up&path=%2Fmuhasv&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=www.muhasv.online&fp=chrome&type=xhttp&allowInsecure=0&sni=www.muhasv.online#Russia🇷🇺",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#Russia🇷🇺",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#Russia🇷🇺",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://ef17644a-cfba-4a64-a8db-8535b2d113ac@m.galangedan.com:1005?encryption=none&headerType=http&host=fast.com&security=none&type=tcp#Russia🇷🇺",
+      "line": "vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6IkluZGlhXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ",
       "date": "2026-02-08"
     }
   ],
@@ -1043,37 +983,15 @@
       "date": "2026-02-08"
     }
   ],
-  "United Arab Emirates🇦🇪": [
+  "UNKNOWN🏳️": [
     {
-      "line": "vless://10d915a7-4835-4337-979b-7bf220001b22@b.Mehfa.site:80?mode=auto&path=%2F&security=none&encryption=none&host=Mehfa.site&type=xhttp#United%20Arab%20Emirates🇦🇪",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJVbml0ZWQgQXJhYiBFbWlyYXRlc1x1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ",
-      "date": "2026-02-08"
-    }
-  ],
-  "Switzerland🇨🇭": [
-    {
-      "line": "vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#Switzerland🇨🇭",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://31608862-5632-4985-a600-c41362380b8c@185.18.250.179:443?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&host=cdn.graphapp.ir&type=ws&sni=cdn.graphapp.ir#Switzerland🇨🇭",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&encryption=none&headerType=none&type=tcp#Switzerland🇨🇭",
+      "line": "vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#UNKNOWN🏳️",
       "date": "2026-02-08"
     }
   ],
   "Italy🇮🇹": [
     {
       "line": "vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#Italy🇮🇹",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://3ff03067-b0dd-4361-a21f-27bb9474b9b8@srv10.outlinekeys.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&security=reality&sni=srv10.outlinekeys.com&type=tcp#Italy🇮🇹",
       "date": "2026-02-08"
     },
     {
@@ -1085,29 +1003,17 @@
       "date": "2026-02-08"
     }
   ],
-  "Iran🇮🇷": [
+  "Switzerland🇨🇭": [
     {
-      "line": "vless://335789dd-7b29-4983-9896-d83c7648f261@85.133.200.32:4444?security=none&encryption=none&headerType=none&fp=random&type=tcp#Iran🇮🇷",
+      "line": "vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#Switzerland🇨🇭",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://703bdfdf-6480-4317-a643-8a4093296eb5@tg4.basevip4.best:2088?security=none&encryption=none&headerType=http&type=tcp#Iran🇮🇷",
+      "line": "vless://66bf09dc-d86e-4c2b-9fc8-b98ca7126318@n3.byp.cx:1235?security=none&encryption=none&headerType=none&type=tcp#Switzerland🇨🇭",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://72d3ec61-cb2a-49cd-8c3a-d6b3c22ea923@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#Iran🇮🇷",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://e26a76bc-12ea-4be9-b0c1-5171438b4ca4@german5.activevps55.com:55015?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Iran🇮🇷",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.barcodefilm.ir:3487?security=none&encryption=none&host=www.downloadha.com&headerType=http&type=tcp#Iran🇮🇷",
-      "date": "2026-02-08"
-    },
-    {
-      "line": "vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@ger1.wizshop2.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Iran🇮🇷",
+      "line": "vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?path=%2F&security=tls&encryption=none&insecure=1&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=1&sni=dev.twistsparrow.xyz#Switzerland🇨🇭",
       "date": "2026-02-08"
     }
   ],
@@ -1117,9 +1023,69 @@
       "date": "2026-02-08"
     }
   ],
-  "Ireland🇮🇪": [
+  "Iran🇮🇷": [
     {
-      "line": "vless://57df620f-96b1-4f2b-a6ff-043ce11b6995@dublin.pryanik.net.ru:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=chrome&security=reality&pbk=DLqBw8458S7vERpm_w4NMGz1kNp7b7uIjwCgStZERyo&sid=#Ireland🇮🇪",
+      "line": "vless://50505713-e997-4c5b-a7b7-ae6b62cf1f91@pedram.tsabad.com:8880?security=none&encryption=none&headerType=http&type=tcp#Iran🇮🇷",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://7647e29a-63dc-4d59-83bf-56bc61c00b7d@tel.mythictunnel.1.hogea.space:2086?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#Iran🇮🇷",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://abe303b3-2c60-4b8a-b179-97aab81d912c@185.128.139.68:1612?security=none&encryption=none&host=mci.ir&headerType=http&type=tcp#Iran🇮🇷",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://ec79b81e-74c1-bd68-7d2c-011ecb6f3d35@f.barcodefilm.ir:3487?security=none&encryption=none&host=www.downloadha.com&headerType=http&type=tcp#Iran🇮🇷",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiJzZXJ2ZXJzLnh2b24uaW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiNDNhN2M2ZmQtYzUyZC00ZTFhLWJhMmItYjdhNWQzOTNiZWEwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4NyIsInBzIjoiSXJhblx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJ2ZXJzLnh2b24uaW4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiJzb3BoaWEuc3ViLWluZm8uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc2YTgzN2ZhLWE5MGYtNGFlZS05MDI1LWJjOGQ5ZDI5NDNjNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzMwMTQiLCJwcyI6IklyYW5cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vmess://eyJhZGQiOiJhMS5wZXJzcG9saXNnYW1lYm9vc3Rlci5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZWNoQ29uZmlnTGlzdCI6IiIsImVjaEZvcmNlUXVlcnkiOiIiLCJlY2hTZXJ2ZXJLZXlzIjoiIiwiZmFrZWhvc3RfZG9tYWluIjoiIiwiZnAiOiIiLCJob3N0IjoienVsYS5pciIsImlkIjoiOTAxMjIxMWMtOWJiYi00NWNjLTk5MmMtZmQ4N2I3MDBkOTA5IiwiaW50ZXJ2YWwiOiIiLCJsZW5ndGgiOiIiLCJtdXgiOiIiLCJtdXhDb25jdXJyZW5jeSI6IiIsIm5ldCI6InRjcCIsInBhY2tldHMiOiIiLCJwYXRoIjoiLyIsInBvcnQiOiI1ODIyMyIsInBzIjoiSXJhblx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0",
+      "date": "2026-02-08"
+    }
+  ],
+  "Belgium🇧🇪": [
+    {
+      "line": "vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#Belgium🇧🇪",
+      "date": "2026-02-08"
+    }
+  ],
+  "Russia🇷🇺": [
+    {
+      "line": "vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Russia🇷🇺",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://b25ae9bd-a6ad-4cf1-854d-bcd77134659d@212.22.76.8:443?mode=packet-up&path=%2Fmuhasv&security=tls&alpn=h3&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=www.muhasv.online&fp=chrome&type=xhttp&allowInsecure=0&sni=www.muhasv.online#Russia🇷🇺",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#Russia🇷🇺",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.86:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#Russia🇷🇺",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#Russia🇷🇺",
+      "date": "2026-02-08"
+    },
+    {
+      "line": "vless://ef17644a-cfba-4a64-a8db-8535b2d113ac@m.galangedan.com:1005?encryption=none&headerType=http&host=fast.com&security=none&type=tcp#Russia🇷🇺",
       "date": "2026-02-08"
     }
   ],
@@ -1131,11 +1097,11 @@
   ],
   "Albania🇦🇱": [
     {
-      "line": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Albania🇦🇱",
+      "line": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#Albania🇦🇱",
       "date": "2026-02-08"
     },
     {
-      "line": "vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#Albania🇦🇱",
+      "line": "vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#Albania🇦🇱",
       "date": "2026-02-08"
     }
   ],
@@ -1145,15 +1111,13 @@
       "date": "2026-02-08"
     }
   ],
-  "Curaçao🇨🇼": [
+  "Turkey🇹🇷": [
     {
-      "line": "vless://fac7209e-6da0-4489-9566-0bd13aeb0c3d@turkey2.bio4cdn.com:443?path=%2Fwebcdn&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=tr1.bio4cdn.com&fp=chrome&type=ws&sni=tr1.bio4cdn.com#Curaçao🇨🇼",
+      "line": "vmess://eyJ2IjoiMiIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0",
       "date": "2026-02-08"
-    }
-  ],
-  "UNKNOWN🏳️": [
+    },
     {
-      "line": "vless://ff8ed07c-f05e-4343-9307-6dbb644d2ce5@neti1.wizard2shop.com:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#UNKNOWN🏳️",
+      "line": "vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoiVHVya2V5XHVkODNjXHVkZGY5XHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
       "date": "2026-02-08"
     }
   ],
