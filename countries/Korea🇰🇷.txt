@@ -1,4 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-09 10:20
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-09 16:06
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-09
 vless://69872d60-7cc2-c421-47ea-e2733c39bab0@3.34.45.78:12345?encryption=none&security=tls&sni=afa61101.soos.bbroot.com&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=afa61101.soos.bbroot.com&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#Korea🇰🇷
+# 2026-02-09
+vmess://eyJhZGQiOiIxNTIuNzAuOTIuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYmI5YzM5OTMtYTRiOS00ZGFkLWFlYjktYWM4NjM3MWFlNjhiIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IktvcmVhXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ
