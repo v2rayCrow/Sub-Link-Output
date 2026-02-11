@@ -1,14 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-10 22:16
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-11 10:15
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-10
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺
-# 2026-02-10
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.115:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺
-# 2026-02-10
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Russia🇷🇺
-# 2026-02-10
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#Russia🇷🇺
-# 2026-02-10
-vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#Russia🇷🇺
-# 2026-02-10
+# 2026-02-11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eTVjd3JDUjhJdW41bmxNU0ZTOHVK@95.142.47.40:62238?note=--Telegram--NetifyVPN--#Russia🇷🇺
+# 2026-02-11
 vless://ef17644a-cfba-4a64-a8db-8535b2d113ac@m.galangedan.com:1005?encryption=none&headerType=http&host=fast.com&security=none&type=tcp#Russia🇷🇺
