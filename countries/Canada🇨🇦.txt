@@ -1,9 +1,11 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-11 10:15
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-11 16:05
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-11
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#Canada🇨🇦
 # 2026-02-11
 vless://193c75c1-1af1-484a-84ec-14de4828d209@ca.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=apple.com&type=tcp#Canada🇨🇦
+# 2026-02-11
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#Canada🇨🇦
 # 2026-02-11
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip3.kaixincloud.top:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#Canada🇨🇦
 # 2026-02-11
