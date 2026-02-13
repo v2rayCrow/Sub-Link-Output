@@ -1,10 +1,10 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-13 04:31
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-13 10:12
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France🇫🇷
-# 2026-02-13
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#France🇫🇷
 # 2026-02-13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#France🇫🇷
 # 2026-02-13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0V5Wg@185.120.59.59:8388?note=--Telegram--@NetifyVPN--#France🇫🇷
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#France🇫🇷
+# 2026-02-13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France🇫🇷
+# 2026-02-13
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389#France🇫🇷
