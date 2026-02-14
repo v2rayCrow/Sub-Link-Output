@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-14 15:48
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-14 21:45
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-14
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#France🇫🇷
@@ -8,11 +8,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France🇫🇷
 # 2026-02-14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389#France🇫🇷
-# 2026-02-14
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@vip1.kaixincloud.top:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#France🇫🇷
-# 2026-02-14
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&allowInsecure=1#France🇫🇷
-# 2026-02-14
-vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#France🇫🇷
-# 2026-02-14
-vmess://eyJhZGQiOiI5NC4yMzIuMjQ3LjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1NjUzIiwicHMiOiJGcmFuY2VcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
