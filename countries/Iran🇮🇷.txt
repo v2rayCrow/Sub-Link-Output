@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-12 22:11
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-14 04:25
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-12
-vless://377a5ae1-5768-4212-8cde-85fb123685a3@185.231.113.237:2098?type=tcp#Iran🇮🇷
+# 2026-02-14
+vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128/?encryption=none&flow=&host=myket.ir&type=tcp&headerType=http#Iran🇮🇷
