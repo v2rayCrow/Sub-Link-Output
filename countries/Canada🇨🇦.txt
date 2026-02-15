@@ -1,12 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-15 10:04
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-15 15:49
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-15
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Canada🇨🇦
 # 2026-02-15
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#Canada🇨🇦
-# 2026-02-15
-vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
-# 2026-02-15
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiJDYW5hZGFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-# 2026-02-15
-vmess://eyJhZGQiOiIxNjIuMTU5LjE1Mi40IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNhbmFkYVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#Canada🇨🇦
