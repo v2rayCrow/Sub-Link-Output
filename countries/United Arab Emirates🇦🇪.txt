@@ -1,4 +1,4 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 04:28
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 10:17
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphaVhPMEZuallIZzZaS0pBUG9oQlZX@185.253.116.95:16673#United%20Arab%20Emirates🇦🇪
+vless://59edf6dc-b1f7-4017-8107-aae4f61a173c@38.180.27.102:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&sid=#United%20Arab%20Emirates🇦🇪

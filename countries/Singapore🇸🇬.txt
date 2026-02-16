@@ -1,6 +1,6 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 04:28
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 10:17
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#Singapore🇸🇬
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg@194.233.94.119:80#Singapore🇸🇬
 # 2026-02-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#Singapore🇸🇬
+ss://YWVzLTI1Ni1nY206ak1vZ05YWGswOGwySkswTg@46.250.234.115:80#Singapore🇸🇬

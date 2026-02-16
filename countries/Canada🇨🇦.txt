@@ -1,4 +1,8 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 04:28
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 10:17
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
 # 2026-02-16
-vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?path=%2Fdownload&security=&encryption=none&host=diarasup2.global.ssl.fastly.net&type=ws#Canada🇨🇦
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#Canada🇨🇦
+# 2026-02-16
+vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80/?type=ws&encryption=none&flow=&host=diarasup2.global.ssl.fastly.net&path=%2Fdownload#Canada🇨🇦
+# 2026-02-16
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#Canada🇨🇦
