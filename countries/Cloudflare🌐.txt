@@ -1,7 +1,5 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 10:17
+vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 16:00
 vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-16
-vless://65fe56c2-78ec-417a-a666-9f393eac8b61@172.66.128.70:80?encryption=none&security=none&type=ws&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&path=%2F%3Fed#Cloudflare🌐
 # 2026-02-16
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#Cloudflare🌐
 # 2026-02-16
@@ -30,6 +28,8 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=%2F156.244.1.2
 vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?path=%2F198.98.61.220%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#Cloudflare🌐
 # 2026-02-16
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#Cloudflare🌐
+# 2026-02-16
+vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?encryption=none&security=tls&sni=ServerDL-ParsM2.NetSnap.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#Cloudflare🌐
 # 2026-02-16
 vless://d00a29d1-6e6c-4281-9e46-263caa77bb44@chatgpt.com:443?security=tls&type=ws&host=pedaratvpn.ar-ahmadiyan86.workers.dev&path=/eyJqdW5rIjoiYk9WYlJsYlFGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsibmltYS5uc2NsLmlyIl19&sni=pEdaRAtVPn.ar-AhmadiYan86.WoRKers.dev&fp=chrome#Cloudflare🌐
 # 2026-02-16
