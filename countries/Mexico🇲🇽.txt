@@ -1,4 +1,0 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 16:00
-vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-16
-ss://YWVzLTI1Ni1nY206SmhCNWFkbzhlbkJoa2FPZQ@216.238.75.111:443?note=--Telegram--@NetifyVPN--#Mexico🇲🇽

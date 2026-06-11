@@ -1,8 +1,0 @@
-vless://abcd1234@1.1.1.1:1111?path=none#آخرین%20آپدیت⏳:2026-02-16 04:28
-vless://abcd1234@2.2.2.2:2222?path=none#Provider❤️@V2Source
-# 2026-02-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#Brazil🇧🇷
-# 2026-02-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#Brazil🇧🇷
-# 2026-02-16
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#Brazil🇧🇷
