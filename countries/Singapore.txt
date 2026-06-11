@@ -1,1 +1,1 @@
-trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@199.232.47.9:80?mode=auto&path=%2FTignal%3Fed%3D2560&security=&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#Singapore%20%F0%9F%87%B8%F0%9F%87%AC

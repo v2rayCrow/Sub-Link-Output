@@ -1,0 +1,12 @@
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?encryption=none&path=%2Fws&security=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.30:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.35:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@196.196.35.37:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.171:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.172:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7

@@ -79,6 +79,7 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&f
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#Cloudflare%20%F0%9F%8C%90
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?encryption=none&fp=chrome&host=crimson-king-301d.nexoxnet.workers.dev&path=%2F&security=tls&sni=crimson-king-301d.nexoxnet.workers.dev&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.175:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.152.241:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=zyzzzoao.xn--fiqv8j.eu.org&path=%2F&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
