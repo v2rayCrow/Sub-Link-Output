@@ -10,7 +10,5 @@ vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.171:443?alpn=h2&encryption
 vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.172:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.67:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-25.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.166:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkZyYW5jZSBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#France%20%F0%9F%87%AB%F0%9F%87%B7
