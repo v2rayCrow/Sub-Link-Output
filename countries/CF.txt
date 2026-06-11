@@ -12,6 +12,7 @@ vless://da48859d-edf9-4a8c-a026-80910591f284@151.101.193.164:80?mode=auto&path=%
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#CF%20%F0%9F%8C%90
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#CF%20%F0%9F%8C%90
 vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=%2Fpourya&security=&encryption=none&type=ws#CF%20%F0%9F%8C%90
+vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@main.boobie.eu.cc:80?encryption=none&host=main.boobie.eu.cc&path=%2F&security=none&type=ws#CF%20%F0%9F%8C%90
 vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?path=%2F&security=&encryption=none&host=45.148.31.0&type=ws#CF%20%F0%9F%8C%90
 vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#CF%20%F0%9F%8C%90
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.119:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#CF%20%F0%9F%8C%90
@@ -26,6 +27,7 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?allowInsecure=1&e
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.68:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#CF%20%F0%9F%8C%90
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.41:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#CF%20%F0%9F%8C%90
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.8:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#CF%20%F0%9F%8C%90
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#CF%20%F0%9F%8C%90
 vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#CF%20%F0%9F%8C%90
 vmess://eyJ2IjoiMiIsInBzIjoiQ0YgXHVkODNjXHVkZjEwIiwiYWRkIjoiODIuMTk4LjI0Ni4yNTAiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ0Lm1lJTJGcmlwYW9qaWVkaWFuIiwidGxzIjoiIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ0YgXHVkODNjXHVkZjEwIiwiYWRkIjoiODIuMTk4LjI0Ni4yMTQiLCJwb3J0IjoiMTgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJub2RlMzMub3VyZmFzdC5hc2lhIiwidGxzIjoiIn0
