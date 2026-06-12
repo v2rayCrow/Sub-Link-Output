@@ -1,1 +1,2 @@
 trojan://humanity@185.231.112.217:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Iran%20%F0%9F%87%AE%F0%9F%87%B7
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?encryption=none&type=xhttp&mode=auto&host=Itsrezu2.dr-ping.com&path=/&security=tls&fp=chrome&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1#Iran%20%F0%9F%87%AE%F0%9F%87%B7
