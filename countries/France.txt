@@ -10,5 +10,3 @@ vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.171:443?alpn=h2&encryption
 vless://7b241232-208d-4d36-857e-913f91b044f4@fr.noooo.win:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.172:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://7b241232-208d-4d36-857e-913f91b044f4@5.157.51.173:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=api-6a20f558.noooo.win&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.74:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7

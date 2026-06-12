@@ -1,1 +1,2 @@
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?encryption=none&fp=chrome&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
