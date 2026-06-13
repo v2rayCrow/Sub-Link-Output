@@ -94,3 +94,4 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.67.70.149:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@betty.ns.cloudflare.com:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Cloudflare%20%F0%9F%8C%90
