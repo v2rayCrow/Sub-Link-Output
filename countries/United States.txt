@@ -20,6 +20,7 @@ trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=%2Fassignment&host
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
@@ -38,6 +39,7 @@ vless://Telegram-Parsashonam-12@165.215.250.12:443?mode=auto&path=%2Fp4r34m&secu
 vless://Telegram-Parsashonam-12@192.200.160.253:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://Telegram-Parsashonam-12@208.103.161.101:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=p4r34m.hendevaneh.sbs&fp=chrome&type=xhttp&allowInsecure=1&sni=p4r34m.hendevaneh.sbs#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
@@ -48,7 +50,6 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?encryption=none&
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.30:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.21:443?encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@208.103.161.170:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.155:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJhZGQiOiI2Ny4yMjAuNzIuMjM3IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmFtZSI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyA0MyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MjIzMjQsInBzIjoiVW5pdGVkIFN0YXRlcyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjpudWxsLCJ0bHMiOiIiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ
