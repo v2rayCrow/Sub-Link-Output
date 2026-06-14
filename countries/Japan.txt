@@ -1,2 +1,1 @@
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#Japan%20%F0%9F%87%AF%F0%9F%87%B5
