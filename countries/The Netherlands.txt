@@ -11,8 +11,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.245.5:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.194:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.72:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.66:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@185.184.121.101:8443?path=%2Fudfyfws&security=tls&encryption=none&insecure=1&host=octopusss5.info&type=ws&allowInsecure=1&sni=octopusss5.info#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?encryption=none&host=pimxpass.alex96336997.workers.dev&path=%2F&security=none&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
