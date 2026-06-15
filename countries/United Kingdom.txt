@@ -3,8 +3,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#Uni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTVhZjUwMGNiMjk1OTM1@149.102.144.110:18337#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?host=uk1.bw8848.org&path=%2Fuk1-uk1-gcjtze&sni=uk1.bw8848.org&type=ws#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://0599ca07-cc1c-4e42-b637-6e286f43beb2@193.149.185.17:41510?encryption=none&path=%2F&security=none&type=ws#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
+vless://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=%2Fpath&security=tls&encryption=none&insecure=0&host=ws23.iranservicepro.com&fp=firefox&type=ws&allowInsecure=0&sni=ws23.iranservicepro.com#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?encryption=none&security=none&type=tcp#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime61.workers.dev&path=%2F&security=none&type=ws#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
