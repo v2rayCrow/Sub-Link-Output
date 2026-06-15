@@ -1,4 +1,7 @@
 vless://317c8bd5-2e89-4bfb-9513-a37b8e29427f@mail.mmadcoffee.info:443?path=%2F19426%2Fmmad&security=tls&encryption=none&insecure=0&host=mail.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#CF%20%F0%9F%8C%90
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#CF%20%F0%9F%8C%90
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#CF%20%F0%9F%8C%90
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#CF%20%F0%9F%8C%90
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com#CF%20%F0%9F%8C%90
 vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@45.85.119.122:2096?path=%2Fws%3Fed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=9b94d317f693703f.hozheen.ir#CF%20%F0%9F%8C%90
 vless://ac25a33c-a88d-514f-b37b-7e57d4f268c0@195.54.161.222:2052?encryption=none&path=%2Fvless&security=none&type=ws#CF%20%F0%9F%8C%90

@@ -3,3 +3,7 @@ vless://3e5da4f6-93c4-4701-911b-1a5091d2430f@213.199.39.156:30001?encryption=non
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&host=akamaized.net&path=%2Fvless%2F&security=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?allowInsecure=1&alpn=h2&encryption=none&fp=chrome&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.204:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
