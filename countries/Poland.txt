@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=&encryption=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@150.241.103.208:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 vless://7a5cd520-f42a-5190-802f-d2cf86772c95@193.200.16.127:2052?path=%2Fvless&security=&encryption=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
