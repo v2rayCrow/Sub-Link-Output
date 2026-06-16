@@ -7,9 +7,9 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@speedtest.net:80?path=%2F&security=
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.156.47.96:8443?encryption=none&security=tls&sni=yyz-ca-01.fromblancwithlove.com&type=tcp#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&host=picassooo.info&path=%2Faymdlws&security=tls&sni=picassooo.info&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&fp=chrome&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
