@@ -1,1 +1,2 @@
-trojan://humanity@185.231.112.217:40443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#Iran%20%F0%9F%87%AE%F0%9F%87%B7
+vless://0519589c-306e-4678-aa6b-b60f58f5352f@cdn.trakin.ir:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=cdn.trakin.ir&path=%2F&security=tls&sni=cdn.trakin.ir&type=ws#Iran%20%F0%9F%87%AE%F0%9F%87%B7
+vless://6f4478b4-a854-4b08-bfc8-fb750010bfa8@ps.topmarket1.ir:8880?encryption=none&security=none&type=ws&host=ps.topmarket1.ir&path=%2FDL%3Fed%3D2053#Iran%20%F0%9F%87%AE%F0%9F%87%B7

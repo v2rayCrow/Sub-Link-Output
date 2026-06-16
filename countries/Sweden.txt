@@ -1,1 +1,2 @@
-vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@89.22.238.213:46209?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=g1ixej-urdn-dlqnu1ol.gespz5p7nm04ej96ia7qc9tvsktgtx.workers.dev#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
+vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=&encryption=none&type=ws#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
