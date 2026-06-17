@@ -5,3 +5,4 @@ trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@45.130.125.229:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
