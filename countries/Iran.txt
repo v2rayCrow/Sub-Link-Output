@@ -1,0 +1,2 @@
+trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#Iran%20%F0%9F%87%AE%F0%9F%87%B7
+vless://21784e1c-392e-4c5f-b50a-9f8a49f87e9a@2.144.5.90:8443?encryption=none&type=ws&host=bama.ir&path=%2FStream&security=none#Iran%20%F0%9F%87%AE%F0%9F%87%B7
