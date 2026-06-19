@@ -10,4 +10,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.9:8443?allowInsecure=0&sn
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.219:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.212:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
