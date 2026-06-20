@@ -28,3 +28,4 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?encryption=none&
 vless://5a802fbb-00ed-4447-bece-3e0faf45e213@newus.mmrknight.app:80?path=%2FTelegram-Raiv2mmr.php&security=&encryption=none&host=play.google.com&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@python-graysongon.wasmer.app:443?encryption=none&host=python-graysongon.wasmer.app&path=%2F7bd180e8&security=tls&sni=python-graysongon.wasmer.app&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://7f9ef902-2164-4c4e-b4bd-140d13cdba6e@ryanserver.ir:47347?security=none&encryption=none&headerType=none&type=tcp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+vless://e7d3fb75-034f-4f3f-83d6-33845dafa81c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
