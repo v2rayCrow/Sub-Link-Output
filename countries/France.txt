@@ -39,3 +39,5 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.170:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.176:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.174:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.181:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7

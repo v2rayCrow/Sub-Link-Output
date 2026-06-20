@@ -1,4 +1,5 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.149:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.14:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.11:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.169:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
