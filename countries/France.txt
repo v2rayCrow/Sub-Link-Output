@@ -33,7 +33,10 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.83:8443?encryption=none
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.95:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.96:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.171:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.164:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn3-87.vk-cdnvideo.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7

@@ -59,6 +59,7 @@ vless://656bb400-3b7a-47e3-94b0-0362f3865072@172.64.153.235:8443?path=%2Fsocks5%
 vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#Cloudflare%20%F0%9F%8C%90
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?allowInsecure=1&encryption=none&host=josni.hoyes.cloudns.ch&path=%2F&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://8cf1e524-ce8c-4c63-8440-3ecd687f5e8d@173.245.59.14:2053?encryption=none&fp=chrome&host=still-lake-3cf7.dls2026.workers.dev&path=%2F&security=tls&sni=still-lake-3cf7.dls2026.workers.dev&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://a35cbb36-a069-46ec-aaaa-834f9f55f187@free1.ziroxcompany.ir:8080?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#Cloudflare%20%F0%9F%8C%90
 vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=%2F&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#Cloudflare%20%F0%9F%8C%90
@@ -97,6 +98,7 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?path=%2F%3Fed%3D3
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@172.64.149.54:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.18.38.202:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@104.19.229.21:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Cloudflare%20%F0%9F%8C%90
+vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=%2F%3Fed%3D3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=firefox&type=ws&sni=pon.antalmani.mm.am#Cloudflare%20%F0%9F%8C%90
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@auth.vercel.com:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:80?path=%2F%3Fed%3D3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Cloudflare%20%F0%9F%8C%90
