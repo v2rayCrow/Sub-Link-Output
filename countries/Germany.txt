@@ -4,6 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Germ
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?sni=www.lateralio.click#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
