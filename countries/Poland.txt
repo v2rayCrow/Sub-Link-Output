@@ -1,3 +1,4 @@
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-vless://6270a1e6-44ab-4f9d-8d0f-b313a7f97c51@poland.mymarzban.com:5000?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&sid=#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-vless://6b60a5db-9802-450c-9fad-336c831924ca@51.75.38.203:44233?security=none&encryption=none&headerType=none&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&security=reality&sid=7d6203949764f921&sni=yourcloud.ldtp.com&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
