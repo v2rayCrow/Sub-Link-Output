@@ -1,1 +1,2 @@
 trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#China%20%F0%9F%87%A8%F0%9F%87%B3
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@176.124.223.21:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=cdn3.goofymoofy.com&type=xhttp#China%20%F0%9F%87%A8%F0%9F%87%B3

@@ -1,1 +1,1 @@
-vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#Russia%20%F0%9F%87%B7%F0%9F%87%BA
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@213.241.198.21:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=cdn3.goofymoofy.com&type=xhttp#Russia%20%F0%9F%87%B7%F0%9F%87%BA

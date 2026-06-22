@@ -1,6 +1,2 @@
-vless://042ac5fe-e1e9-4857-8cc6-c3c0113a7be3@65.21.109.91:80?path=%2Fnotbin&security=none&encryption=none&host=speedtest.com&type=ws#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://3805c64a-ac60-49ad-883c-43e6309b68d0@65.21.109.91:80?path=%2Fnotbin&security=none&encryption=none&host=speedtest.com&type=ws#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
