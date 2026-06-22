@@ -1,2 +1,1 @@
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
