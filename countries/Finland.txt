@@ -1,2 +1,4 @@
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://f07a3816-f527-4ce8-8d21-ada012618695@fiN-Jd.jDvpn.ShakHle.iR:22000?security=reality&encryption=none&pbk=xLCgdUiKeBpYK3YsT96d81yuhFuVgUeANbVeiQACRWw&headerType=none&fp=firefox&type=tcp&sni=fontawesome.com&sid=6ba85179e30d4fc2#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE

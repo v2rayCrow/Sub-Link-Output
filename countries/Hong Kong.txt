@@ -1,2 +1,1 @@
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?encryption=none&fp=chrome&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
-vless://665c11ef-4723-4396-a8a1-45d013e68e6b@103.112.71.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bootnl1.strangerwhale.fun&type=tcp#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
