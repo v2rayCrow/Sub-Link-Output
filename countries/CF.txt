@@ -1,0 +1,1 @@
+hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443/?sni=wuhantravel.duckdns.org#CF%20%F0%9F%8C%90
