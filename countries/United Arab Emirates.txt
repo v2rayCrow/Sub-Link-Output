@@ -1,1 +1,2 @@
 trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@erosan.appleseraj.ir:443?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=freednz.Mastermarly.IR.&fp=chrome&type=ws&allowInsecure=0&sni=freednz.Mastermarly.IR.#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
