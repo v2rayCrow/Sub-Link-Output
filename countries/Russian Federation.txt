@@ -1,5 +1,6 @@
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.246.77:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@noderu1.plan-vpn.ru:443?security=&encryption=none&headerType=none&type=tcp#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.245.227:80?encryption=none&host=rutube.globaledgenet.com&path=%2Frutube&security=none&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
