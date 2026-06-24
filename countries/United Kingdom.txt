@@ -1,1 +1,1 @@
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@englanf.yellowsky.ir:8080?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@gb2.oneokapp.com:443?encryption=none&security=tls&serviceName=grpc-api&type=grpc#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7

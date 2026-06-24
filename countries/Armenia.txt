@@ -1,1 +1,1 @@
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#Armenia%20%F0%9F%87%A6%F0%9F%87%B2
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#Armenia%20%F0%9F%87%A6%F0%9F%87%B2

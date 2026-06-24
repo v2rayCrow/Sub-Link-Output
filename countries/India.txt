@@ -1,1 +1,2 @@
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#India%20%F0%9F%87%AE%F0%9F%87%B3
 hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#India%20%F0%9F%87%AE%F0%9F%87%B3

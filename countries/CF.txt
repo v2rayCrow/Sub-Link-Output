@@ -1,0 +1,2 @@
+trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#CF%20%F0%9F%8C%90
+vless://7c7c2a41-bf8c-4dcc-8cca-5e6776da616c@104.16.174.36:443?path=%2Fws%3Fed%3D2580&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=speed.thctech.ir&fp=chrome&type=ws&allowInsecure=0&sni=speed.thctech.ir#CF%20%F0%9F%8C%90

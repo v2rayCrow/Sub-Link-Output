@@ -1,5 +1,0 @@
-vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.246.77:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@noderu1.plan-vpn.ru:443?security=&encryption=none&headerType=none&type=tcp#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@185.147.27.105:80?path=%2F&security=&encryption=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
