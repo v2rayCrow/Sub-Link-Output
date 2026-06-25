@@ -1,5 +1,5 @@
-vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?mode=auto&path=%2Fxhttp&security=&encryption=none&host=aziz.carderrr.com.&type=xhttp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@5.183.253.171:9999?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hy2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
