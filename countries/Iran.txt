@@ -1,2 +1,1 @@
 trojan://f18d6149-e214-8554-e737-f7523c8b2eea@45.131.4.118:443?security=tls&sni=0403.infinityconfig4.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=0403.infinityconfig4.workers.dev&path=%2Fsync#Iran%20%F0%9F%87%AE%F0%9F%87%B7
-vless://a1667f69-6ef0-4f4c-a4e6-3fe555d6da71@37.152.190.242:49194?path=%2F&security=&encryption=none&type=ws#Iran%20%F0%9F%87%AE%F0%9F%87%B7
