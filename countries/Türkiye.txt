@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
+vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443/?type=ws&encryption=none&flow=&host=c.downloadphysics.ir&path=%2F&security=tls&sni=c.downloadphysics.ir&fp=chrome#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
