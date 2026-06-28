@@ -1,0 +1,2 @@
+vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=%2Fapi%2Fconnect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#Russia%20%F0%9F%87%B7%F0%9F%87%BA
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#Russia%20%F0%9F%87%B7%F0%9F%87%BA
