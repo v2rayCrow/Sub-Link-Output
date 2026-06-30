@@ -32,6 +32,7 @@ vless://79863d42-9f1c-4e8e-a65b-1003090871c1@45.147.248.115:443?alpn=http%2F1.1&
 vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=&encryption=none&headerType=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://9b6438bf-ad00-49b6-9752-0bc82899165f@n8.ramito.ir:2052?path=%2F&security=&encryption=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?encryption=none&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.208:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&security=reality&sid=a13edee689fca1da&sni=cdn2.swaginozip.fun&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@148.253.210.248:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
