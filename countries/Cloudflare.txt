@@ -103,7 +103,6 @@ vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encrypt
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.64.32.75:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#Cloudflare%20%F0%9F%8C%90
