@@ -1,2 +1,1 @@
 vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#Luxembourg%20%F0%9F%87%B1%F0%9F%87%BA
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#Luxembourg%20%F0%9F%87%B1%F0%9F%87%BA

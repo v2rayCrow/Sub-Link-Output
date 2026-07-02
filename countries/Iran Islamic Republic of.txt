@@ -1,1 +1,0 @@
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Iran%2C%20Islamic%20Republic%20of%20%F0%9F%87%AE%F0%9F%87%B7

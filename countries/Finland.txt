@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDFuVnBxSlZwNW9xMlc0RDBMank0@109.107.182.229:51544#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&security=reality&sni=dipvpn.ru&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?mode=auto&path=%2F%3Fed%3D2082&security=none&encryption=none&host=J.cafearen.ir&type=xhttp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
