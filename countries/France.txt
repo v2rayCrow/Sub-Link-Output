@@ -1,5 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#France%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://PI36027154@pumped-eft.rooster465.autos:443#France%20%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.60.63.44:2053?encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
