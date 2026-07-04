@@ -79,7 +79,6 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?encryption=none&security=tls&sni=vangoghhh.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#Cloudflare%20%F0%9F%8C%90
 vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@104.24.152.211:8880?encryption=none&host=quiet-frost-ac61.333-07d.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@cd3.postshup.ir:2086?mode=auto&path=%2F%3Fed%3D8192&security=none&encryption=none&host=BB.cafearen.ir&type=xhttp#Cloudflare%20%F0%9F%8C%90
-vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@html.iranpood.com:2086?flow=&type=xhttp&host=hh.cafearen.ir&path=/?ed%3D2082&mode=auto&security=none#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.174.3:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=JoinProxyVPN11.amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
@@ -99,6 +98,7 @@ vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.174.3:443?encryption=none&ho
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@172.64.32.75:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#Cloudflare%20%F0%9F%8C%90
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
@@ -111,7 +111,6 @@ vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.64.32.75:443?encryption=none&ho
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://82a3c394-55b7-4780-93a0-5f45c0e89625@104.16.106.213:8880?&security=none&type=ws&headerType=&host=square-brook-e650.353-3ac.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#Cloudflare%20%F0%9F%8C%90
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?encryption=none&fp=chrome&host=deicl.redstone-vex.sbs&path=%2Fsea&security=tls&sni=deicl.redstone-vex.sbs&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-a.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-a.workers.dev&path=/fp=randomized#Cloudflare%20%F0%9F%8C%90
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf10.466688.xyz:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian&security=tls&sni=cfoo-146.pages.dev&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#Cloudflare%20%F0%9F%8C%90
@@ -123,6 +122,7 @@ vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&h
 vless://c6c5ad2f-b4d5-450f-862f-341cebb7f9b5@log.bpminecraft.com:8880?encryption=none&host=empty-rain-1df4.332-633.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://b8e091f9-af85-4b43-8a63-81feb640d7ac@zeus-panel-hrffzx.zeus-63ob04.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0#Cloudflare%20%F0%9F%8C%90
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Cloudflare%20%F0%9F%8C%90
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Cloudflare%20%F0%9F%8C%90
 vless://ca6a7a70-4d44-433f-b727-1ed22ae7bf23@198.41.223.1:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=firefox&host=proxy.nyarvex.kdns.fr&path=%2Fproxy&security=tls&sni=proxy.nyarvex.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://d25ba473-5b05-48bb-b048-e82844e2ae39@104.16.100.66:8880?encryption=none&host=misty-recipe-be74.271.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://da806925-524d-46e2-a48d-154c19e73288@104.17.23.109:8443?encryption=none&fp=chrome&host=ez-cdcc99.hamidreza908327.workers.dev&path=%2F%3Fu%3Df10d2ec2b8&security=tls&sni=ez-cdcc99.hamidreza908327.workers.dev&type=ws#Cloudflare%20%F0%9F%8C%90
@@ -130,7 +130,6 @@ vless://e1b81abf-2c98-487a-9b4d-e678f718f4b9@162.159.38.119:8443?path=%2FeyJqdW5
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.25.173:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&headerType=http&type=tcp#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90

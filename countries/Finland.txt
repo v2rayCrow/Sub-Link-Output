@@ -2,6 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@157.180.71.202:10048?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&security=reality&sni=dipvpn.ru&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.236:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.241:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Finland%20%F0%9F%87%AB%F0%9F%87%AE
