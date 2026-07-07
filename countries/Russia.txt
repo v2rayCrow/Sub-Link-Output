@@ -1,4 +1,0 @@
-vless://5887cc43-9f86-4d93-9903-02437398ac6c@193.233.91.118:7443?encryption=none&fp=&pbk=L82J-1ku9yAEYvUmr7xVGnROijbyeEI1LSryHx464i4&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@ru-213.monkeyisland.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?sni=fast2.screw.page&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://9b026b23-81c5-420b-99c4-21a410c74c33@176.109.88.216:42005?encryption=none&fp=&pbk=8jSm3l2rscoT02YpYSbnsPdkMeipd4eow2MmpfQOen8&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#Russia%20%F0%9F%87%B7%F0%9F%87%BA
