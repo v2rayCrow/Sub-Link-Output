@@ -1,1 +1,1 @@
-trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://PI36027154@large-baboon.rooster465.autos:443#Japan%20%F0%9F%87%AF%F0%9F%87%B5
