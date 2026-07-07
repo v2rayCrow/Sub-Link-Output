@@ -65,7 +65,6 @@ vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2Frdfgtws&
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&fp=chrome&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?encryption=none&fp=chrome&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?encryption=none&fp=chrome&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@betty.ns.cloudflare.com:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.174.3:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=JoinProxyVPN11.amoosamiii.net&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?encryption=none&allowInsecure=0&path=%2Fproxyip&fp=chrome&sni=nbhhh.mrcool.kdns.fr&insecure=0&security=tls&host=nbhhh.mrcool.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
@@ -121,7 +120,6 @@ vless://b8e091f9-af85-4b43-8a63-81feb640d7ac@zeus-panel-hrffzx.zeus-63ob04.worke
 vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=%2Ftelegram-xv2ry2&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Cloudflare%20%F0%9F%8C%90
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Cloudflare%20%F0%9F%8C%90
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Cloudflare%20%F0%9F%8C%90
 vless://c6c5ad2f-b4d5-450f-862f-341cebb7f9b5@log.bpminecraft.com:8880?encryption=none&host=empty-rain-1df4.332-633.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.21.36.120:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Cloudflare%20%F0%9F%8C%90
 vless://d25ba473-5b05-48bb-b048-e82844e2ae39@104.16.100.66:8880?encryption=none&host=misty-recipe-be74.271.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
@@ -176,6 +174,7 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?encryption=none&fp
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.18:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Cloudflare%20%F0%9F%8C%90
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.34:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.70.92:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Cloudflare%20%F0%9F%8C%90
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Cloudflare%20%F0%9F%8C%90
