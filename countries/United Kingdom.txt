@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@51.24.100.249:1010#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
 vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
