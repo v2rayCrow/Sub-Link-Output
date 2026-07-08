@@ -1,5 +1,1 @@
-vless://86134fee-4c27-42e8-8660-e64b9c8150ad@176.109.88.217:33443?security=reality&encryption=none&pbk=Jd_VsyCzLh-UHJoeazmppnwqBkVuzS-VaQNPu6_EpWM&type=grpc&serviceName=grpc&sni=5post-gate.x5.ru#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@ru-213.monkeyisland.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://8e62a80b-83ee-4eb8-9852-e8f8c7a6c4fa@fast2.screw.page:443?sni=fast2.screw.page&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://b22d87f9-3098-429f-a9fe-56463e0dc741@217.144.184.246:443?sni=fast_s24.slopllex.app&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://b22d87f9-3098-429f-a9fe-56463e0dc741@fast3.slopllex.app:443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=fast3.slopllex.app#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA

@@ -1,5 +1,2 @@
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://3f298aca-2412-49ac-9f20-235f0e448d31@talianaccentclouding.iranlast.com:7009?security=reality&encryption=none&pbk=f8TgqVBYK3tmhip3lJ-r8D0i6fqEF1Zy-zAfEhS-Cl8&headerType=none&fp=qq&type=tcp&sni=yahoo.com#Italy%20%F0%9F%87%AE%F0%9F%87%B9
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Italy%20%F0%9F%87%AE%F0%9F%87%B9
 vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#Italy%20%F0%9F%87%AE%F0%9F%87%B9

@@ -1,1 +1,2 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFeUd5MTFCTWZlUC02VUhqc2dhald3@193.233.161.92:8390#Austria%20%F0%9F%87%A6%F0%9F%87%B9
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Austria%20%F0%9F%87%A6%F0%9F%87%B9
