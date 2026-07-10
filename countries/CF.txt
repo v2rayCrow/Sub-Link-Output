@@ -4,4 +4,3 @@ trojan://XG59623478@classic-duckling.rooster465.autos:443?allowInsecure=1#CF%20%
 trojan://XG59623478@improved-anteater.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90
 trojan://XG59623478@new-antelope.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90
 trojan://XG59623478@open-octopus.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90
-trojan://XG59623478@real-ewe.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90

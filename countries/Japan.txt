@@ -8,3 +8,4 @@ trojan://XG59623478@harmless-pegasus.rooster465.autos:443?allowInsecure=1#Japan%
 trojan://XG59623478@obliging-oyster.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://XG59623478@ruling-toucan.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://XG59623478@wise-rhino.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://XG59623478@real-ewe.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
