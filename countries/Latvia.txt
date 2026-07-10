@@ -1,3 +1,2 @@
 vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&headerType=http&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
