@@ -1,3 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@185.5.38.89:57327#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@185.5.38.89:57327#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE

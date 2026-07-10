@@ -1,3 +1,1 @@
-vless://01aacd3b-fdda-4e3f-894b-bc380f184fe1@tr2-unlimited.pavilof.ir:2095?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@fbi.gov:443/?type=ws&encryption=none&flow=&host=c.downloadphysics.ir&path=%2F&security=tls&sni=c.downloadphysics.ir&fp=chrome#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
-vless://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=%2F&security=tls&encryption=none&insecure=0&host=c.downloadphysics.ir&fp=chrome&type=ws&allowInsecure=0&sni=c.downloadphysics.ir#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@turk1.codesystem.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
