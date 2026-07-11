@@ -1,1 +1,2 @@
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@pol2.neobo-tooth.ru:2083?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#Cyprus%20%F0%9F%87%A8%F0%9F%87%BE
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@195.85.59.187:2095?encryption=none&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=%2F&security=none&type=ws#Cyprus%20%F0%9F%87%A8%F0%9F%87%BE
