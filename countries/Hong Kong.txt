@@ -1,4 +1,2 @@
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
-vless://e258977b-e413-4718-a3af-02d75492c349@82.21.84.72:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
-vless://e258977b-e413-4718-a3af-02d75492c349@82.21.84.99:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
-vless://e258977b-e413-4718-a3af-02d75492c349@82.21.84.97:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443/?sni=argg2.auragg.org#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0

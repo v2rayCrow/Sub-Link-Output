@@ -1,8 +1,1 @@
-trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#CF%20%F0%9F%8C%90
-vless://48e350ab-1507-40cb-bac1-349bc2640bca@speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir:8443?encryption=none&security=tls&sni=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&path=%2Fmehdi#CF%20%F0%9F%8C%90
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&headerType=http&security=none&type=tcp#CF%20%F0%9F%8C%90
-vless://ed1f4216-380f-470d-8014-c66257825e97@speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir:443?encryption=none&security=tls&sni=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&path=%2Fmehdi#CF%20%F0%9F%8C%90
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=&encryption=none&headerType=http&type=tcp#CF%20%F0%9F%8C%90
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp#CF%20%F0%9F%8C%90
-vless://ffcceeec-28e2-4117-aa24-7da55f88711f@speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir:2083?encryption=none&security=tls&sni=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&insecure=0&allowInsecure=0&type=ws&host=speedtestgoogleyahoobingyandexgmailappleaol.abczy.ir&path=%2Fmehdi#CF%20%F0%9F%8C%90
+trojan://PI36027154@tight-possum.rooster465.autos:443#CF%20%F0%9F%8C%90

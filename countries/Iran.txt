@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWnJIZ1FYMk1CVmlCLzZjN2xCem1ZQ21Ua2VyTEtjeUZEWXkzcXB5SXdVPQ@e2.cover20.ir:30874?type=tcp#Iran%20%F0%9F%87%AE%F0%9F%87%B7
 trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Iran%20%F0%9F%87%AE%F0%9F%87%B7
