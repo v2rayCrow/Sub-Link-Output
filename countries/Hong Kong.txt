@@ -1,2 +1,1 @@
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg2.auragg.org:443/?sni=argg2.auragg.org#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
