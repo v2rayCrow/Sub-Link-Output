@@ -1,10 +1,4 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S1RSL3A3N2s4Z3JhU0Q3VlZKR1FTZDhLN0ZQWG95SUZHOVFTRno5akRZOD06TGRiZ3Q0SVVZdjBTKzVjRnJHNHZjV0VidmRmOFJnUEdtb0lYaG5uT0VoND0@65.109.215.50:31910#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA@185.5.38.89:57327#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S1RSL3A3N2s4Z3JhU0Q3VlZKR1FTZDhLN0ZQWG95SUZHOVFTRno5akRZOD06d3FubFlYd05kZzB6YkZGYkpSSDdWWGkwN1kwNzY0YjREdnB2WC8rM0wrYz0@65.109.215.50:31910#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://7d156e29-0505-483b-b9df-8a2c0a5b392f@65.109.215.50:35491?security=&encryption=none&headerType=&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@64.188.80.250:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://f2c39c53-ffb2-491a-8d4e-346891b377e3@157.180.72.116:55849?encryption=none&headerType=http&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://f6d2f9d1-7032-470e-9c43-a5f259700db0@65.109.215.50:35491?security=none&encryption=none&headerType=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
