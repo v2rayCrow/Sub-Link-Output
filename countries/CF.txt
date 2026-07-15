@@ -1,1 +1,3 @@
 trojan://PI36027154@busy-lab.rooster465.autos:443?allowInsecure=0&sni=busy-lab.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://PI36027154@faithful-clam.rooster465.autos:443?allowInsecure=0&sni=faithful-clam.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://PI36027154@stirred-buck.rooster465.autos:443?allowInsecure=0&sni=stirred-buck.rooster465.autos#CF%20%F0%9F%8C%90
