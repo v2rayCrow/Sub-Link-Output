@@ -1,0 +1,1 @@
+vless://799843c2-ebb5-4376-b402-a8f479c029b9@juso5.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90

@@ -1,3 +1,4 @@
+trojan://KV63147582@game-firefly.rooster465.autos:443?allowInsecure=0&sni=game-firefly.rooster465.autos#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&path=%2F&security=none&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
@@ -16,7 +17,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://799843c2-ebb5-4376-b402-a8f479c029b9@juso5.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&security=reality&sni=tehno.store&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@94.249.225.48:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=X6zcH8pCUXrauNQvbNkm8e_oTdB0wOr8eCMCzs3b1Tc&security=reality&sni=ssl.cougarboardsstore.store&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
