@@ -1,6 +1,7 @@
 trojan://CF68213490@logical-koala.rooster465.autos:443?allowInsecure=0&sni=logical-koala.rooster465.autos#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://CF68213490@saved-tuna.rooster465.autos:443?allowInsecure=0&sni=saved-tuna.rooster465.autos#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://CF68213490@sharp-scorpion.rooster465.autos:443?allowInsecure=0&sni=sharp-scorpion.rooster465.autos#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 vless://e258977b-e413-4718-a3af-02d75492c349@45.127.35.143:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 vless://e258977b-e413-4718-a3af-02d75492c349@5.223.77.219:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
