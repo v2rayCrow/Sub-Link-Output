@@ -16,4 +16,4 @@ trojan://CF68213490@growing-ram.rooster465.autos:443?allowInsecure=0&sni=growing
 trojan://CF68213490@pure-ram.rooster465.autos:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@star-bluejay.rooster465.autos:443?allowInsecure=0&sni=star-bluejay.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@smooth-lark.rooster465.autos:443?allowInsecure=0&sni=smooth-lark.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&sni=together-impala.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
+trojan://CF68213490@tolerant-stag.rooster465.autos:443?allowInsecure=0&sni=tolerant-stag.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
