@@ -1,3 +1,0 @@
-vless://799843c2-ebb5-4376-b402-a8f479c029b9@juso5.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90
-vless://8423d3e9-1481-406f-ae27-550fe076aa98@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#CF%20%F0%9F%8C%90
-vless://b8bdf08d-aa89-4fd5-8083-22f38e2cef17@bot.sobhanpor.ir:443?encryption=none&security=tls&type=tcp&headerType=none&sni=bot.sobhanpor.ir#CF%20%F0%9F%8C%90
