@@ -17,7 +17,6 @@ trojan://CF68213490@equipped-moth.rooster465.autos:443?allowInsecure=0&sni=equip
 trojan://CF68213490@evolving-mollusk.rooster465.autos:443?sni=evolving-mollusk.rooster465.autos&type=tcp&fp=chrome#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@eternal-woodcock.rooster465.autos:443?sni=eternal-woodcock.rooster465.autos&type=tcp&fp=chrome#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@fair-werewolf.rooster465.autos:443?sni=fair-werewolf.rooster465.autos&type=tcp&fp=chrome#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp&fp=chrome#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@funny-hawk.rooster465.autos:443?sni=funny-hawk.rooster465.autos&type=tcp&fp=chrome#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&type=tcp&fp=chrome#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@immune-mullet.rooster465.autos:443?allowInsecure=0&sni=immune-mullet.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5

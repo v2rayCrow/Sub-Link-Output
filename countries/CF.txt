@@ -1,0 +1,5 @@
+trojan://CF68213490@excited-squirrel.rooster465.autos:443?sni=excited-squirrel.rooster465.autos&type=tcp&fp=chrome#CF%20%F0%9F%8C%90
+trojan://CF68213490@free-hare.rooster465.autos:443?sni=free-hare.rooster465.autos&type=tcp&fp=chrome#CF%20%F0%9F%8C%90
+trojan://KV63147582@together-insect.rooster465.autos:443?sni=together-insect.rooster465.autos&type=tcp&fp=chrome#CF%20%F0%9F%8C%90
+trojan://OD90375861@together-insect.rooster465.autos:443#CF%20%F0%9F%8C%90
+vless://14b62416-547e-49c1-818a-510218ab101e@w9kbq.pastilbastani.ir:443?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90
