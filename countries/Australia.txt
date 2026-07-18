@@ -3,3 +3,4 @@ trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=0&sni=sele
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#Australia%20%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#Australia%20%F0%9F%87%A6%F0%9F%87%BA
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#Australia%20%F0%9F%87%A6%F0%9F%87%BA
+vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#Australia%20%F0%9F%87%A6%F0%9F%87%BA
