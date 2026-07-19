@@ -17,7 +17,6 @@ trojan://XG59623478@enabling-asp.rooster465.autos:443#Germany%20%F0%9F%87%A9%F0%
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://0977bddb-a758-4033-96dd-57468e02ea81@103.228.168.182:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&path=%2Fphotos%2Fregister&security=tls&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://0e917787-bed7-4eda-bb6b-d9dc31944c4a@panel.podcastico.ir:8529?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
