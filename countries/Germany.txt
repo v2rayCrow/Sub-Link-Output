@@ -21,7 +21,6 @@ trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443#Germany%20%F0%9F
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?encryption=none&path=%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=%2F%3Fed&security=&encryption=none&host=play.google.com&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
@@ -31,8 +30,6 @@ vless://367ff772-a8f4-4895-8e99-3702a868f0c6@osnl4.ghast.sbs:443?encryption=none
 vless://432289de-8dec-46ef-9a3f-001a3af178a7@45.76.87.125:14750?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=h2&encryption=none&security=tls&serviceName=Ts7kIzm7a8mYEa7OOaBF&sni=ger.wafer.fun&type=grpc#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://6d38e975-e4a1-4211-90b8-416e498f3813@92.118.190.151:5000?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://71cada65-d23e-418c-88e4-a06188d14689@193.41.4.20:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://71cada65-d23e-418c-88e4-a06188d14689@de-one.quiet-rogue.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&security=reality&sni=de-one.quiet-rogue.site&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://890e0f5e-e78a-4f92-e249-eab974fa4b6a@sigb01.jumpernode.online:19001?security=reality&encryption=none&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.org#Germany%20%F0%9F%87%A9%F0%9F%87%AA
