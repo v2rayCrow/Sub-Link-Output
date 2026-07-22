@@ -1,0 +1,1 @@
+vless://74184983-dacb-4954-b9ce-80e225618da3@play.vcmta.ir:37437?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90

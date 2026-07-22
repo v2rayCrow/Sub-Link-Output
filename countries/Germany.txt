@@ -16,6 +16,7 @@ trojan://PD07395842@optimum-bull.rooster465.autos:443?fp=chrome#Germany%20%F0%9F
 trojan://PD07395842@golden-fox.rooster465.autos:443?fp=chrome#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://XG59623478@enabling-asp.rooster465.autos:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=%2F%3Fed&security=&encryption=none&host=play.google.com&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
