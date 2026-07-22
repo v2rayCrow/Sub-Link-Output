@@ -1,1 +1,1 @@
-vless://74184983-dacb-4954-b9ce-80e225618da3@play.vcmta.ir:37437?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90
+vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=%2F%3Fed&security=&encryption=none&host=play.google.com&type=ws#CF%20%F0%9F%8C%90
