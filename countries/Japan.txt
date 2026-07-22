@@ -1,6 +1,5 @@
 trojan://IQ68037294@amazed-burro.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://IQ68037294@flexible-pony.rooster465.autos:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://IQ68037294@guided-warthog.rooster465.autos:443?allowInsecure=1&sni=guided-warthog.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://IQ68037294@intense-basilisk.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#Japan%20%F0%9F%87%AF%F0%9F%87%B5
