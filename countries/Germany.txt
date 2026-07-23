@@ -23,10 +23,12 @@ trojan://XG59623478@enabling-asp.rooster465.autos:443#Germany%20%F0%9F%87%A9%F0%
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?fp=chrome&path=%2Ftrojan-ws&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://13ce37df-0738-4130-9b02-a87658921feb@tun.temas-bor.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://2820c3fd-dccc-4a51-bb74-f7d6c453ee71@moji1.best-cloud.ir:8880?path=%2F%3Fed&security=&encryption=none&host=play.google.com&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://2a376e86-d906-4440-a9ec-77dc205ada18@tun.temas-bor.ir:2087?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://432289de-8dec-46ef-9a3f-001a3af178a7@45.76.87.125:14750?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://491265c8-8057-489c-9e49-b30d2df5486c@192.248.180.96:443?security=reality&encryption=none&pbk=xZmWaz6lRWkAX4JI1ITHh86SOBzIlkZ7H41DKw3iXjY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@217.60.99.18:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&security=reality&sni=google.com&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
