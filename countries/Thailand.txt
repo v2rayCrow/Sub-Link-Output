@@ -1,0 +1,1 @@
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#Thailand%20%F0%9F%87%B9%F0%9F%87%AD
