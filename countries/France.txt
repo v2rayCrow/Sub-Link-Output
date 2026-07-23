@@ -13,6 +13,7 @@ trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome#France%20%F0%9F
 trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://7dc3461c-630f-4547-82a9-08042b0daba5@31.58.76.95:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HN1XHrqmB_-gDnVeXgmyPZFWAZEo4aTqlU-cIWh6hm0&security=reality&sni=tradingview.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://838382a4-8346-4ce2-96c5-5ba132747d74@162.159.38.119:443?path=%2F-----MxGriD-----&security=tls&encryption=none&insecure=0&host=telegram.mxgrid.xyz&fp=chrome&type=ws&allowInsecure=0&sni=telegram.mxgrid.xyz#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&security=reality&sni=tradingview.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22224?encryption=none&security=none&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&security=none&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
