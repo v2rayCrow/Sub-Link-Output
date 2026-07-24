@@ -22,7 +22,6 @@ trojan://XG59623478@18.195.11.206:443?fp=chrome&sni=enabling-asp.rooster465.auto
 trojan://XG59623478@enabling-asp.rooster465.autos:443#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?fp=chrome&path=%2Ftrojan-ws&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://13ce37df-0738-4130-9b02-a87658921feb@TuN.temas-bor.iR:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://13ce37df-0738-4130-9b02-a87658921feb@tun.temas-bor.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
