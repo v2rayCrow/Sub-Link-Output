@@ -15,6 +15,7 @@ trojan://ZZ2lZq0e0tYZBxYL0cAjqEcHYbu45dnUlX3RKXTgD5M%3D@91.107.135.249:11059?sec
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://zfneB18KGBkbi9IXDaRd4q0Wx1HIZ4pDR8eneJALYkU%3D@91.107.159.216:20691?security=none&headerType=&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://1b73f053-2709-4698-bbec-cb20e8a5f288@panel3.nanaweb.ir:3031?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.226.143.tyr-agentstvo.tech:443?sni=95.85.226.143.tyr-agentstvo.tech&alpn=http/1.1&type=ws&host=95.85.226.143.tyr-agentstvo.tech&path=/websocket?ed=2560fp=firefox&security=tls#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?encryption=none&security=none&type=tcp&headerType=http&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?encryption=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://25ee6754-05d0-4537-803a-2782843af12f@91.107.135.249:55219?encryption=none&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
