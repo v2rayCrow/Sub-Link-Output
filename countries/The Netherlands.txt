@@ -52,14 +52,9 @@ trojan://IQ68037294@cheerful-swan.rooster465.autos:443?fp=chrome#The%20Netherlan
 trojan://IQ68037294@distinct-ibex.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://IQ68037294@eager-louse.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://KV63147582@game-firefly.rooster465.autos:443#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://NQ26071394@79.133.126.190:443?fp=chrome&sni=renewed-phoenix.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://NQ26071394@89.39.70.85:443?fp=chrome&sni=grateful-bedbug.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://ON38567014@workable-crawdad.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@193.169.239.76:443?fp=chrome&sni=renewed-chigger.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@89.39.70.159:443?fp=chrome&sni=upward-hedgehog.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
