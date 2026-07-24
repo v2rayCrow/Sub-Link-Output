@@ -1,1 +1,1 @@
-vless://f10b331d-f583-4990-beb9-9199c501150c@co.poorifast.ir:443?security=&encryption=none&headerType=none&type=tcp#Iran%2C%20Islamic%20Republic%20of%20%F0%9F%87%AE%F0%9F%87%B7
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Iran%2C%20Islamic%20Republic%20of%20%F0%9F%87%AE%F0%9F%87%B7
