@@ -1,9 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://NQ26071394@89.39.70.143:443?fp=chrome&sni=thorough-falcon.rooster465.autos#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://NQ26071394@89.39.70.85:443?fp=chrome&sni=grateful-bedbug.rooster465.autos#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?allowInsecure=1#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://NQ26071394@thorough-falcon.rooster465.autos:443?allowInsecure=1#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://NQ26071394@powerful-squid.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://ON38567014@actual-aardvark.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://ON38567014@literate-coyote.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://ON38567014@unique-gobbler.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://ON38567014@workable-crawdad.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://PD07395842@enough-basilisk.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1

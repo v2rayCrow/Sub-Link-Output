@@ -26,3 +26,4 @@ trojan://WG39087154@caring-ghoul.rooster465.autos:443?allowInsecure=1&sni=caring
 trojan://WG39087154@grateful-unicorn.rooster465.autos:443#CF%20%F0%9F%8C%90
 trojan://WG39087154@lenient-dory.rooster465.autos:443?fp=chrome#CF%20%F0%9F%8C%90
 trojan://XG59623478@singular-lark.rooster465.autos:443#CF%20%F0%9F%8C%90
+vless://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=h2&encryption=none&security=tls&serviceName=Ts7kIzm7a8mYEa7OOaBF&sni=ger.wafer.fun&type=grpc#CF%20%F0%9F%8C%90
