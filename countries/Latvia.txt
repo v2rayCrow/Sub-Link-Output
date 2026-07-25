@@ -1,4 +1,4 @@
-vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fr.fifapes.monster:61224?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@fn.fifapes.monster:2090?security=&encryption=none&host=play.google.com&headerType=none&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
 vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@gr1.fifapes.monster:8882?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
 vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@uk.fifapes.monster:21972?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
 vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?encryption=none&security=none&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
