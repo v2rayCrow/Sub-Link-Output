@@ -1,4 +1,9 @@
 trojan://CF68213490@well-marmot.rooster465.autos:443?allowInsecure=0&sni=well-marmot.rooster465.autos#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://IQ68037294@185.244.208.64:443?sni=desired-tahr.rooster465.autos#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://JA96378052@91.199.84.185:443?allowInsecure=1&sni=WangCai.rooster465.autos#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://KV63147582@electric-sturgeon.rooster465.autos:443?allowInsecure=0&sni=electric-sturgeon.rooster465.autos#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://NQ26071394@wealthy-loon.rooster465.autos:443#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://ON38567014@genuine-grackle.rooster465.autos:443?allowInsecure=1#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://WG39087154@normal-elk.rooster465.autos:443?fp=chrome#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://XG59623478@194.99.79.214:443?sni=growing-oyster.rooster465.autos#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://XG59623478@growing-oyster.rooster465.autos:443?allowInsecure=1#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
