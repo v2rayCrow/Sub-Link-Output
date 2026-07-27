@@ -48,7 +48,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://79f92090-4395-4d15-a093-5a524324b9eb@hn---gn---gk.belamona.ir:2044?#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@betty.ns.cloudflare.com:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=firefox&type=ws&allowInsecure=0&sni=shegeftihaaa.net#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?encryption=none&fp=chrome&host=bitter-shadow-4fc5.alvlirm852.workers.dev&path=%2F&security=tls&sni=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@108.162.194.119:443?path=%2Fsea&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xqexv.greenwolf-ili.sbs&fp=chrome&type=ws&allowInsecure=0&sni=xqexv.greenwolf-ili.sbs#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?#United%20States%20%F0%9F%87%BA%F0%9F%87%B8

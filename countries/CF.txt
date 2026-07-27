@@ -1,0 +1,11 @@
+trojan://AQ71834695@better-silkworm.rooster465.autos:443?allowInsecure=1&sni=better-silkworm.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://AQ71834695@fit-heron.rooster465.autos:443?allowInsecure=1&sni=fit-heron.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://AQ71834695@tops-marlin.rooster465.autos:443?allowInsecure=1&sni=tops-marlin.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://AQ71834695@integral-elf.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90
+trojan://AQ71834695@harmless-akita.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90
+trojan://IQ68037294@flexible-pony.rooster465.autos:443?allowInsecure=0&sni=flexible-pony.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://IQ68037294@major-duckling.rooster465.autos:443?allowInsecure=0#CF%20%F0%9F%8C%90
+trojan://IQ68037294@novel-bat.rooster465.autos:443?allowInsecure=0#CF%20%F0%9F%8C%90
+trojan://IQ68037294@sweeping-parakeet.rooster465.autos:443?allowInsecure=0#CF%20%F0%9F%8C%90
+trojan://IQ68037294@square-anchovy.rooster465.autos:443?allowInsecure=0&sni=square-anchovy.rooster465.autos#CF%20%F0%9F%8C%90
+trojan://JT80563429@inspired-hound.rooster465.autos:443?allowInsecure=0&sni=inspired-hound.rooster465.autos#CF%20%F0%9F%8C%90
