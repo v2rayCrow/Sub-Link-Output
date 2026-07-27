@@ -48,11 +48,7 @@ trojan://NQ26071394@thorough-falcon.rooster465.autos:443?allowInsecure=1#The%20N
 trojan://ON38567014@actual-aardvark.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://ON38567014@literate-coyote.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://ON38567014@workable-crawdad.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://ON38567014@unique-gobbler.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://PD07395842@enough-basilisk.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://PD07395842@present-warthog.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://XG59623478@193.169.239.76:443?fp=chrome&sni=renewed-chigger.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@89.39.70.159:443?fp=chrome&sni=upward-hedgehog.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1

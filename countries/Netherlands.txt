@@ -1,4 +1,8 @@
+trojan://ON38567014@unique-gobbler.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://PD07395842@pro-crane.rooster465.autos:443?fp=chrome#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://XG59623478@89.39.70.159:443?fp=chrome&sni=upward-hedgehog.rooster465.autos#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr&sni=space.byu.id.yxls.eu.cc&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@188.164.248.81:2087?encryption=none&fp=chrome&host=whitecreeper.pages.dev&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.Net&security=tls&sni=whitecreeper.pages.dev&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@188.164.248.96:8443?encryption=none&fp=chrome&host=whitecreeper.pages.dev&path=%2Fproxyip%3DProxyIP.SG.CMLiussss.Net&security=tls&sni=whitecreeper.pages.dev&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
