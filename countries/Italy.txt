@@ -1,2 +1,1 @@
-vless://8dd3f783-aa97-420b-8aaa-d8a6c9679dad@116.204.164.30:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev#Italy%20%F0%9F%87%AE%F0%9F%87%B9
 vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Italy%20%F0%9F%87%AE%F0%9F%87%B9
