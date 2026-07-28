@@ -1,1 +1,3 @@
+trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
+trojan://JT80563429@mutual-puma.rooster465.autos:443?allowInsecure=1#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
