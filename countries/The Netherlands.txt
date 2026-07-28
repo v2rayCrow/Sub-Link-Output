@@ -51,3 +51,5 @@ trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#The%20Nethe
 trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?fp=ios#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://IQ68037294@eager-louse.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://KV63147582@89.39.70.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=game-firefly.rooster465.autos#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://ON38567014@workable-crawdad.rooster465.autos:443?fp=chrome#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
