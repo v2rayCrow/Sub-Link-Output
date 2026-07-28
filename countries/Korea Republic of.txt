@@ -1,13 +1,1 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://FC60532879@powerful-opossum.rooster465.autos:443?allowInsecure=1#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://FC60532879@quick-tiger.rooster465.autos:443?allowInsecure=0&sni=quick-tiger.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@accurate-drake.rooster465.autos:443?allowInsecure=1&sni=accurate-drake.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@adjusted-labrador.rooster465.autos:443?allowInsecure=1&sni=adjusted-labrador.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@adapted-quetzal.rooster465.autos:443?allowInsecure=1#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@immortal-woodcock.rooster465.autos:443#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@growing-tuna.rooster465.autos:443?allowInsecure=1&sni=growing-tuna.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@steady-lemming.rooster465.autos:443?allowInsecure=1&sni=steady-lemming.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
-trojan://JT80563429@mutual-puma.rooster465.autos:443?allowInsecure=1#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
 trojan://JT80563429@touching-pigeon.rooster465.autos:443?allowInsecure=1#Korea%2C%20Republic%20of%20%F0%9F%87%B0%F0%9F%87%B7
