@@ -3,6 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.232.22.28:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.247.68.94:1080#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@37.120.139.234:1080#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@38.132.118.30:1080#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@us1.levikogjgfdd.ir:1080#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://Aimer@167.68.4.199:2053?ed=2560&eh=Sec-WebSocket-Protocol&host=epge.muarua.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epge.muarua.filegear-sg.me&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?sni=163.245.196.68.sslip.io#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
@@ -28,8 +29,7 @@ vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@8.47.69.9:443?encryption=none&host=
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?encryption=none&headerType=http&host=snapp.ir&path=%2F&security=none&type=tcp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.58:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=&encryption=none&headerType=none&type=tcp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@mci.pictureiran.ir:2087?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ireland.alfather.ir#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@ip.kickfarsi.com:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://412d7fbe-7474-4f1d-86c6-7eebdc628f72@8.6.112.7:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ger3.kickfarsi.com#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
