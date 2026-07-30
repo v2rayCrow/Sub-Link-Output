@@ -1,3 +1,4 @@
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gov-eu.viranix.ir:3031?security=&encryption=none&headerType=http&type=tcp#CF%20%F0%9F%8C%90
 vless://b5de4c73-c3b6-4b46-8cab-d25b12c9d6bc@euo1r.pastilbastani.ir:443?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:443?security=&encryption=none&host=google.com&headerType=http&type=tcp#CF%20%F0%9F%8C%90
 vless://f5f77177-4937-4f40-b6fc-7c4278151f01@koviraaa.kovira2.ir:13424?path=%2F&security=&encryption=none&host=chatgpt.com&type=ws#CF%20%F0%9F%8C%90
