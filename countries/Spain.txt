@@ -1,3 +1,2 @@
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Spain%20%F0%9F%87%AA%F0%9F%87%B8
 trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Spain%20%F0%9F%87%AA%F0%9F%87%B8
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc#Spain%20%F0%9F%87%AA%F0%9F%87%B8
