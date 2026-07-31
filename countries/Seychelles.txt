@@ -1,4 +1,3 @@
-trojan://MiTiVPN@45.130.125.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw&security=tls&alpn=http%2F1.1&insecure=1&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@45.130.125.126:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
@@ -7,8 +6,8 @@ trojan://humanity@45.130.125.162:443?path=%2Fassignment&security=tls&alpn=h3%2Ch
 trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&sni=Www.cReaTIOnLONG.OrG&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@45.130.125.239:2087?encryption=none&fp=chrome&host=tot1.erooo12345.xyz&path=%2F&security=tls&sni=tot1.erooo12345.xyz&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 vless://7968c546-02dc-4f8c-b791-934591a94cb2@45.130.125.207:443?encryption=none&host=hhvl.hhapp.kdns.fr&path=%2Fcbasur&security=tls&sni=hhvl.hhapp.kdns.fr&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
+vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@45.130.125.114:80?path=%2F&security=none&encryption=none&host=new-scale46-cdn.sabzi.name.ng.&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&host=po.fastbrokencompony.com&path=%2F&security=tls&sni=po.fastbrokencompony.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8

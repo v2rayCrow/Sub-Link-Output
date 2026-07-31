@@ -1,5 +1,0 @@
-vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:14368?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#CF%20%F0%9F%8C%90
-vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:52225?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#CF%20%F0%9F%8C%90
-vless://28926c34-865c-447e-8d42-a17240af743b@91panel-axiora-vpn.korvexe.ir:57820?path=%2F&security=tls&encryption=none&insecure=0&host=cdn-xui911.korvexe.ir&fp=chrome&type=ws&allowInsecure=0&sni=91panel-axiora-vpn.korvexe.ir#CF%20%F0%9F%8C%90
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443/?sni=usp.noesissite.ru#CF%20%F0%9F%8C%90
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#CF%20%F0%9F%8C%90
