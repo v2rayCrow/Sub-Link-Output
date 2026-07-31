@@ -2,5 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@217.138.213.38
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@68.168.116.6:1080#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@72.10.173.91:1080#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@ca1.levikogjgfdd.ir:1080#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#Canada%20%F0%9F%87%A8%F0%9F%87%A6

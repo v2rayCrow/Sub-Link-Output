@@ -1,5 +1,9 @@
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@103.106.229.69:9090#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+vless://d8b42cd5-a149-4356-9e61-000000000000@78.154.108.200:2551?security=&encryption=none&headerType=none&type=tcp#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.26:1447?#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+vless://d8b42cd5-a149-4356-9e61-111111111111@78.154.108.51:1446?#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
