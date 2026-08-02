@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ==@141.144.195.131:45819#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@185.14.184.90:2087?path=%2F&security=tls&encryption=none&insecure=0&host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://f9a32cc6-7dab-4d36-a839-ea276777dc30@188.166.17.69:2087?encryption=none&fp=chrome&host=dsvh58bp.v6d30b.workers.dev&path=%2F&security=tls&sni=dsvh58bp.v6d30b.workers.dev&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443/?sni=nederland.gamestocke.ru#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
