@@ -24,7 +24,6 @@ vless://4d10c997-4781-4cd9-82c3-15453523e12c@170.114.45.6:443?encryption=none&ho
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.5:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=%2F&security=tls&sni=go.iranfree.de5.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.87:2096?encryption=none&fp=firefox&host=go.iranfree.de5.net&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=go.iranfree.de5.net&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&host=vms.lifetime18.workers.dev&path=%2F&security=none&type=ws#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
