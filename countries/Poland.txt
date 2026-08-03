@@ -1,1 +1,2 @@
 vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
+vless://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.183:2550?security=&encryption=none&headerType=none&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1

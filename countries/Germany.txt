@@ -18,7 +18,6 @@ vless://957797d5-1710-4e4a-bf41-9f5b641503e3@167.233.47.127:1234?security=&encry
 vless://957797d5-1710-4e4a-bf41-9f5b641503e3@46.225.220.111:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://9a274b1d-788c-4a15-b3fa-7ea525198362@94.130.179.44:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://9e1b3859-634f-4dc9-8f59-848a1216f47c@94.143.231.53:39200?encryption=none&headerType=http&security=none&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://b8ae8186-22ed-413b-b0de-dc590bbbc3bc@de.hunerux.oorluma.ir:6500?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&type=ws&host=de.vpnbase.net&path=/http&security=none#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
