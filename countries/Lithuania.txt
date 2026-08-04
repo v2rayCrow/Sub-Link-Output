@@ -1,1 +1,0 @@
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@93.115.25.139:443?alpn=h2&encryption=none&fp=firefox&security=tls&sni=ddc-chr2.astralweb.tech&type=tcp#Lithuania%20%F0%9F%87%B1%F0%9F%87%B9
