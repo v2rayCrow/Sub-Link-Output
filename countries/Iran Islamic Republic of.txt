@@ -1,1 +1,2 @@
+trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#Iran%2C%20Islamic%20Republic%20of%20%F0%9F%87%AE%F0%9F%87%B7
 vless://5c192fd7-ef98-4112-a20c-129108fcd7e9@217.60.193.1:443?alpn=h2&encryption=none&fp=firefox&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#Iran%2C%20Islamic%20Republic%20of%20%F0%9F%87%AE%F0%9F%87%B7
