@@ -2,4 +2,5 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#Japan%20%F0%9F%87%AF%F0%9
 trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&sni=definite-sturgeon.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@upright-impala.rooster465.autos:443?allowInsecure=1&sni=upright-impala.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@14.137.238.144:10000?#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJhZGQiOiI0NS43Ni4yMDIuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpa3N1emNwIiwicGNzIjoiIiwicG9ydCI6IjQwMTAiLCJwcyI6IkphcGFuIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ

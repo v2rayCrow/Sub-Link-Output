@@ -1,0 +1,1 @@
+vless://867bac5c-b78e-4f5c-ac03-4ec4b18141aa@book2.korzelo.ir:2083?path=%2F&security=none&encryption=none&host=play.google.com&type=ws#Denmark%20%F0%9F%87%A9%F0%9F%87%B0
