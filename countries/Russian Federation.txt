@@ -1,2 +1,5 @@
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:4100?path=%2Fv1&security=&encryption=none&host=live.ok.ru&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:2200?path=%2Fv1&security=&encryption=none&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
+vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
