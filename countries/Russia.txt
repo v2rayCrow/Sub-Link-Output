@@ -1,1 +1,2 @@
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447/?sni=devideo.h2corp.org#Russia%20%F0%9F%87%B7%F0%9F%87%BA
