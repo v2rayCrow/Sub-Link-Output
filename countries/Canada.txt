@@ -1,5 +1,4 @@
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@185.196.61.82:8080#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@108.162.192.4:443?encryption=none&fp=chrome&host=soucuovls.pages.dev&path=pyip%3Dproxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.183.85.24:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#Canada%20%F0%9F%87%A8%F0%9F%87%A6
