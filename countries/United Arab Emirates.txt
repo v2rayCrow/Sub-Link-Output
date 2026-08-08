@@ -1,0 +1,1 @@
+vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=qq&host=sync.watchwave.link&path=%2Fapi%2Fv1%2Frooms%2F63368e3dbb%2Fsync&security=tls&sni=cdn.tracker.yandex.net&type=ws#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
