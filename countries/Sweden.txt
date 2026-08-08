@@ -1,3 +1,4 @@
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.99.238:443?encryption=none&fp=&mode=auto&path=%2Fapi%2Fv1%2Fdata&pbk=UtbgFz4_cQT5v3SkjxgQ4QfOu7SLHkXXeO1pcxxTrT8&security=reality&sni=recaptcha.net.cn&type=xhttp#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
+vless://ffa289e7-a058-493a-b234-3db1f26378d7@194.87.30.161:22647?path=%2F&security=&encryption=none&type=ws#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
