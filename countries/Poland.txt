@@ -1,5 +1,5 @@
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@54.37.233.40:34045#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-trojan://ND91608427@discrete-basilisk.rooster465.autos:443?allowInsecure=1&sni=discrete-basilisk.rooster465.autos#Poland%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1

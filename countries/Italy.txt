@@ -1,1 +1,2 @@
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?insecure=1&sni=it-one.quiet-rogue.site#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@31.76.113.32:443/?sni=it-one.quiet-rogue.site#Italy%20%F0%9F%87%AE%F0%9F%87%B9
