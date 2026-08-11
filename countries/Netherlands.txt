@@ -1,7 +1,6 @@
-vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@84.32.101.222:443?encryption=none&fp=firefox&security=tls&sni=ddc-chr.astralweb.tech&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.222.167:62145?encryption=none&security=none&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&serviceName=grpc&type=grpc#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&security=reality&serviceName=grpc&sni=speed.cloudflare.com&type=grpc#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@188.164.248.69:443?path=%2F&security=tls&encryption=none&insecure=0&host=free-7f1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=free-7f1.pages.dev#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=5.255.102.165#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443/?sni=grape-turbo-fr.roxa.org#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
