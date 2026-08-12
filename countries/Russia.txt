@@ -7,4 +7,6 @@ vless://55009b9b-7b9c-4830-86c6-cb058a7a2e2f@168.222.202.187:4100/?type=ws&encry
 vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://5d0206d9-fb42-4c8b-a84b-3d95ab0f42c7@109.73.196.160:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none&host=vms.lifetime51.workers.dev&path=%2F&security=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?path=%2Fv1&security=&encryption=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?security=reality&encryption=none&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru#Russia%20%F0%9F%87%B7%F0%9F%87%BA
