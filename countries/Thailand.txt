@@ -1,0 +1,2 @@
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443/?sni=gorbachev-th.kvnfreetest.uk#Thailand%20%F0%9F%87%B9%F0%9F%87%AD
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?sni=gorbachev-th.kvnfreetest.uk#Thailand%20%F0%9F%87%B9%F0%9F%87%AD

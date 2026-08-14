@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5azZBZ1IvTnpBamlnL0h0KzZjUVBTTHhVU0dWTVE0OVFDaDhKSUdGUzVJPQ@e4.cover20.ir:16156?type=tcp#Iran%20%F0%9F%87%AE%F0%9F%87%B7
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Iran%20%F0%9F%87%AE%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206UGNPRTUybHlHTzZNRlJtNi9tNWhmdUMzTnBOb2NrRHZjbk5ZZ3ExOE5pND0@79.175.134.49:39880#Iran%20%F0%9F%87%AE%F0%9F%87%B7
