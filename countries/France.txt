@@ -21,5 +21,4 @@ vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#France%20%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443/?insecure=1&sni=host-vds2-fr.kvncococ.org#France%20%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?insecure=1&sni=host-vds2-fr.kvncococ.org#France%20%F0%9F%87%AB%F0%9F%87%B7
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#France%20%F0%9F%87%AB%F0%9F%87%B7
