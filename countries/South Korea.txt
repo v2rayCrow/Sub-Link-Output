@@ -10,3 +10,4 @@ trojan://ND91608427@moved-meerkat.rooster465.autos:443?allowInsecure=1&sni=moved
 trojan://ND91608427@pure-ram.rooster465.autos:443?allowInsecure=1&sni=pure-ram.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
 trojan://ND91608427@select-ferret.rooster465.autos:443?allowInsecure=1&sni=select-ferret.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=1&sni=striking-maggot.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
+trojan://ND91608427@uncommon-feline.rooster465.autos:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
