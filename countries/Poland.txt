@@ -10,7 +10,6 @@ trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-ba
 trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1#Poland%20%F0%9F%87%B5%F0%9F%87%B1
-vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@pl4.lckdwn.ru:443?encryption=none&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@82.26.91.87:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=faster.yandex-apicloud.ru&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?encryption=none&fp=&host=wikihow.com&mode=auto&path=%2F&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&security=reality&sni=wikihow.com&type=xhttp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
