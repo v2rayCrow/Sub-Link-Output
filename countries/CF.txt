@@ -1,1 +1,0 @@
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr76.mechvpn.online:443?flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CF%20%F0%9F%8C%90
