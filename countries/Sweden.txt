@@ -1,0 +1,1 @@
+vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?alpn=h2&encryption=none&fp=firefox&mode=auto&path=%2F&security=tls&sni=e7e90e6b.ferrin.uk&type=xhttp#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
