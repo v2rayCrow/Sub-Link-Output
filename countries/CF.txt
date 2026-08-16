@@ -1,3 +1,4 @@
 trojan://FH72359861@charming-puma.rooster465.autos:443?allowInsecure=0#CF%20%F0%9F%8C%90
 trojan://FH72359861@topical-shark.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%8C%90
+vless://871bb9e5-ac38-4d87-b4fe-84f01ee55df7@bagsell.axiomed.ir:443?encryption=none&security=tls&sni=tzKss6GPuMp40C9t7NsmE.BAGsell-aXIomed-iR.WOrKErs.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=tzkss6gpump40c9t7nsme.bagsell-axiomed-ir.workers.dev&path=%2Fvl%2F7vCpuRK8JkrdBOttRmBQT%3Fed%3D2560#CF%20%F0%9F%8C%90
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?insecure=1&sni=host-vds2-fr.kvncococ.org#CF%20%F0%9F%8C%90

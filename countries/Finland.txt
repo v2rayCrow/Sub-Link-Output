@@ -3,6 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4eWV6ZDQwbHIydzR6ejA4@93.123.13.7:16460#Finl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://9f108161-c3cf-444b-989a-2d864b165435@93.123.13.7:40312?encryption=none&security=none&type=tcp&headerType=none#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@179.198.50.131:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&fp=firefox&type=xhttp&sni=wikihow.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://ab16b404-1d3a-4ba6-a37c-67bed61e3b5d@93.123.13.7:15139?encryption=none&security=none&type=tcp&headerType=none#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://c863c8f0-cda1-429c-be76-cbefc8a418a1@93.123.13.7:15755?security=none&encryption=none&headerType=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://Apt1923_N9x234gn_Nal5Nx3j_s@222.167.212.24:8443/?sni=grape-power-pl.ddnsguru.com#Finland%20%F0%9F%87%AB%F0%9F%87%AE
