@@ -1,4 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZHZWNFJ3UFhmM2hjYXM4K3g5bnlUc2xrL2ZLdFBwcHBNUDR6ZDRxNUtBPQ@e2.cover20.ir:30874?type=tcp#Iran%20%F0%9F%87%AE%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVzM4MnozUGNIdHB6Mk8ycXJFSlpGTjFBcFA5enZuZ1VIdUJ0a3BwdGIwPQ@e1.cover20.ir:51570?type=tcp#Iran%20%F0%9F%87%AE%F0%9F%87%B7
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Iran%20%F0%9F%87%AE%F0%9F%87%B7
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#Iran%20%F0%9F%87%AE%F0%9F%87%B7
