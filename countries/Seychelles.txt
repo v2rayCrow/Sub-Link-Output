@@ -1,4 +1,3 @@
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&host=po.fastbrokencompony.com&path=%2F&security=tls&sni=po.fastbrokencompony.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&host=po.fastbrokencompony.com&path=%2F&security=tls&sni=po.fastbrokencompony.com&type=ws#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
+vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@45.130.125.114:8443?path=%2F&security=tls&encryption=none&insecure=0&host=free-hzr113-cdn.soren-app.com.&type=ws&allowInsecure=0&sni=ssl.soren-app.com.#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
