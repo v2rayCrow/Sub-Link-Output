@@ -28,3 +28,4 @@ trojan://PQ05174892@fleet-pony.rooster465.autos:443?allowInsecure=1#CF%20%F0%9F%
 trojan://PQ05174892@infinite-anteater.rooster465.autos:443?allowInsecure=0&sni=infinite-anteater.rooster465.autos#CF%20%F0%9F%8C%90
 trojan://PQ05174892@stable-python.rooster465.autos:443?allowInsecure=0#CF%20%F0%9F%8C%90
 trojan://PQ05174892@welcome-monitor.rooster465.autos:443#CF%20%F0%9F%8C%90
+trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443#CF%20%F0%9F%8C%90
