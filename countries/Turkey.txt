@@ -1,2 +1,0 @@
-vless://c6c03582-a4d2-4efe-9af1-83e730b11f9a@130.185.123.32:19896?security=none&encryption=none&headerType=none&type=tcp#Turkey%20%F0%9F%87%B9%F0%9F%87%B7
-vless://cae7b931-eef6-4637-a782-5537bca137f1@trp.soundfiy.ir:61169?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#Turkey%20%F0%9F%87%B9%F0%9F%87%B7
