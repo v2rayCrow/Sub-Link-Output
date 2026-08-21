@@ -3,3 +3,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#Canada%20%F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://716426fa-bcb7-4eb9-b460-36399ebf740d@lizca2.footballfantasyforum.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=lizca2.footballfantasyforum.com#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@188.114.97.6:443?encryption=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=none&host=josni.hoyes.cloudns.ch&path=musiclovers85_musiclovers85&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@one-for-all.levikogjgfdd.ir:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Canada%20%F0%9F%87%A8%F0%9F%87%A6
