@@ -35,7 +35,6 @@ vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?encryption=none
 vless://c7e9c591-2764-423a-afca-efbd010fd396@46.101.163.124:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c7e9c591-2764-423a-afca-efbd010fd396@79.132.143.192:2053?allowInsecure=1&encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c7e9c591-2764-423a-afca-efbd010fd396@194.154.30.154:443?encryption=none&fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://c7e9c591-2764-423a-afca-efbd010fd396@84.247.171.77:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c7e9c591-2764-423a-afca-efbd010fd396@93.115.19.15:2053?allowInsecure=1&encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c1943f8a-11c6-402d-a439-dc0be226d916@77.110.99.144:443?security=reality&encryption=none&pbk=jArfQhwueyEcn5c5OkbtFavMJbiLM9aWH3Xbxnu6EEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://c7e9c591-2764-423a-afca-efbd010fd396@77.110.100.63:2053?encryption=none&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
