@@ -1,2 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206QXdKZ21sN0REcFV3aVU1SjlSblFPWENkdmtSdjJUV3VpelpmdzdRRTM0ND06SHhpZ0dOYkRPOHh5Tk5lOXR1WUpRUXcwa3NTRjdJN0JtMWV0U2Z3KzZKND0@65.109.211.136:43185#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+trojan://HxigGNbDO8xyNNe9tuYJQQw0ksSF7I7Bm1etSfw%2B6J4%3D@65.109.211.136:28344?security=none&headerType=&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?encryption=none&host=81.177.214.150&path=%2F&security=tls&sni=fin4.wba-pn.ru&type=ws#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#Finland%20%F0%9F%87%AB%F0%9F%87%AE
