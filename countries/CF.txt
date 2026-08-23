@@ -1,1 +1,2 @@
 trojan://AE62539071@humorous-hawk.rooster465.autos:443?allowInsecure=1&sni=humorous-hawk.rooster465.autos#CF%20%F0%9F%8C%90
+vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&sni=GERMAN.sarzamiiinahang.ir&type=xhttp#CF%20%F0%9F%8C%90
