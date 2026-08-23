@@ -1,1 +1,0 @@
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?insecure=1&sni=iq5ny.pleiades.codes#Moldova%20%F0%9F%87%B2%F0%9F%87%A9
