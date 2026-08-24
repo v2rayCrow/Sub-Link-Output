@@ -1,2 +1,5 @@
 vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?encryption=none&host=81.177.214.150&path=%2F&security=tls&sni=fin4.wba-pn.ru&type=ws#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132-243-223-227.sslip.io:2101?encryption=none&fp=chrome&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&fp=firefox&security=tls&serviceName=fi-grpc-test&sni=132-243-223-227.sslip.io&type=grpc#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vmess://eyJhZGQiOiI2NS4xMDkuMjExLjEzNiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmODM2MjNiYS1hOWZkLTQxMTItYmE5ZC1hZDAwNDJiN2Y3NDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjMzMTIwIiwicHMiOiJGaW5sYW5kIFx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Finland%20%F0%9F%87%AB%F0%9F%87%AE
