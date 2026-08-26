@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZell3Wg@193.168.199.192:8388#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175.sslip.io:2083?encryption=none&fp=chrome&security=tls&sni=213.165.40.175.sslip.io&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.60.203:62145?encryption=none&security=none&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443/?insecure=1&sni=olp.crsmaps.com#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
