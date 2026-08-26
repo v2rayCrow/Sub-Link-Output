@@ -1,2 +1,2 @@
-vless://2b622609-bb92-49e8-9631-4ada00324f47@45.155.68.9:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://2b622609-bb92-49e8-9631-4ada00324f47@it2ws.wba-pn.ru:443?encryption=none&path=%2F&security=tls&sni=it2ws.wba-pn.ru&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?encryption=none&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Italy%20%F0%9F%87%AE%F0%9F%87%B9

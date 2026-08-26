@@ -1,8 +1,0 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU@fr4.levikogjgfdd.ir:8388#CF%20%F0%9F%8C%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@fr3.levikogjgfdd.ir:8388#CF%20%F0%9F%8C%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@nl1.levikogjgfdd.ir:8388#CF%20%F0%9F%8C%90
-vless://8ddedcc7-6c4e-4df3-a190-ac40926f6694@cf.levikogjgfdd.ir:8880?path=%2Fpyip&security=&encryption=none&host=late-boat-fbd7.152-de6.workers.dev&type=ws#CF%20%F0%9F%8C%90
-vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@cf.levikogjgfdd.ir:8880?path=%2F&security=&encryption=none&host=weathered-lake-e883.35-bc4.workers.dev&type=ws#CF%20%F0%9F%8C%90
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2053&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&insecure=0&allowInsecure=0#CF%20%F0%9F%8C%90
-hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#CF%20%F0%9F%8C%90
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443/?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#CF%20%F0%9F%8C%90
