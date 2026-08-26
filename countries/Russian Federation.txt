@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none&host=vms.lifetime51.workers.dev&path=%2F&security=none&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
 vless://d0471048-b677-48a4-94d1-50c0a4fb7191@212.67.10.55:445?#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
 vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
