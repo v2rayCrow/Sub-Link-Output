@@ -1,2 +1,0 @@
-trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#CF%20%F0%9F%8C%90
-vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?encryption=none&path=%2F&security=none&type=ws#CF%20%F0%9F%8C%90
