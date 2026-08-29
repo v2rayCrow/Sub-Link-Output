@@ -1,2 +1,1 @@
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@185.147.27.164:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=user-6a8d949a.noooo.win&insecure=0&allowInsecure=0&flow=xtls-rprx-vision#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
