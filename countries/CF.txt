@@ -1,0 +1,5 @@
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ%3D%3D@am11.levikogjgfdd.ir:8388#CF%20%F0%9F%8C%90
+vless://238bc88c-6f47-4622-9d6f-cab2ed76f098@am8.levikogjgfdd.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#CF%20%F0%9F%8C%90
+vless://2bc72bec-0c2a-4c6b-aa9f-138bfce7ba0d@am9.levikogjgfdd.ir:24477?security=none&encryption=none&headerType=none&type=tcp#CF%20%F0%9F%8C%90
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@usa0003rlbhy01.tcp-reset-club.net:443/?sni=usa0003rlbhy01.tcp-reset-club.net#CF%20%F0%9F%8C%90
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#CF%20%F0%9F%8C%90
