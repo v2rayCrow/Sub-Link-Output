@@ -25,3 +25,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?encryption=none&fp=chrome&security=tls&sni=wsnl24.wba-pn.ru&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?encryption=none&fp=firefox&path=%2F&security=tls&sni=tg1.wba-pn.ru&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://ae2009b9-76cb-4d18-8612-7515b2b84398@tg1.wba-pn.ru:443?encryption=none&fp=qq&host=tg1.wba-pn.ru&path=%2F&security=tls&sni=tg1.wba-pn.ru&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443/?insecure=1&sni=hys13.wba-pn.ru#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
