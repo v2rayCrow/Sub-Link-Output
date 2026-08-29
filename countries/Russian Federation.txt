@@ -1,6 +1,0 @@
-vless://6d60c73d-5915-4cf8-b155-e522dfd863bb@31.128.37.67:16560?encryption=none&security=none&type=tcp#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?mode=multi&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?path=%2Fv1&security=none&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-vless://db7de26b-96d8-452c-8b9d-4a6bf55a7da7@87.249.54.103:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Russian%20Federation%20%F0%9F%87%B7%F0%9F%87%BA
