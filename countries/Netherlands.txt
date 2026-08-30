@@ -1,8 +1,7 @@
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SFJxd29zZlhxbWxsY2hhNHcrSzNMeFlCOHZKK0wxcVJKd0JaZ1ZFMWtSWT0=@84.235.171.56:45819#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://4e25f371-acc5-4eb6-afb3-b763ee75537d@72.56.115.125:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=rotterdam.korgivps.ru#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-vless://5181e3af-4a0c-47d7-8beb-7e4fa4786cdd@201.24.51.241:4100?encryption=none&path=%2Fv1&security=none&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://9ffaf9f7-a2ad-47ef-9256-f607b3b3c6cc@wsnl24.wba-pn.ru:8443?encryption=none&fp=chrome&security=tls&sni=wsnl24.wba-pn.ru&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://ae2009b9-76cb-4d18-8612-7515b2b84398@64.188.59.203:443?encryption=none&fp=firefox&path=%2F&security=tls&sni=tg1.wba-pn.ru&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://ae2009b9-76cb-4d18-8612-7515b2b84398@tg1.wba-pn.ru:443?encryption=none&fp=qq&host=tg1.wba-pn.ru&path=%2F&security=tls&sni=tg1.wba-pn.ru&type=ws#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
@@ -20,5 +19,3 @@ hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.163:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://oCYFcbOo8s@201.51.24.4:443/?sni=hys22.wba-pn.ru#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://oCYFcbOo8s@hys22.wba-pn.ru:443/?sni=hys22.wba-pn.ru#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.138:8443/?sni=grape-turbo-fr.roxa.org#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
