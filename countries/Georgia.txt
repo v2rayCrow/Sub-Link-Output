@@ -1,1 +1,0 @@
-vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@217.11.167.94:2046?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=f5link.ru#Georgia%20%F0%9F%87%AC%F0%9F%87%AA
