@@ -1,2 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=%2F&security=none&type=ws#Belize%20%F0%9F%87%A7%F0%9F%87%BF
-vless://74ed78f1-4095-47e6-b043-094e494fb7e5@45.131.4.115:80?encryption=none&host=worker3.gisenoj224.workers.dev&path=%2FsVnT0vhrV7WAl52Z&security=none&type=ws#Belize%20%F0%9F%87%A7%F0%9F%87%BF
