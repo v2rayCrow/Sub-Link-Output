@@ -1,1 +1,1 @@
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&path=%2F&security=none&type=ws#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
+vless://7836b28e-8451-4596-ad3e-e3601b2335ba@64.188.82.152:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cloudflare.vhub.pro&fp=safari&type=ws&allowInsecure=0&sni=cloudflare.vhub.pro#Estonia%20%F0%9F%87%AA%F0%9F%87%AA

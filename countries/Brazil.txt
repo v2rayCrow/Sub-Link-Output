@@ -1,1 +1,2 @@
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#Brazil%20%F0%9F%87%A7%F0%9F%87%B7
 vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#Brazil%20%F0%9F%87%A7%F0%9F%87%B7
