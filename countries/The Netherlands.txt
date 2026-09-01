@@ -48,3 +48,7 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?flow=xtls-rprx-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://8e8e4592-6088-4d00-b061-ef5456d0eb9c@72.56.117.75:443?encryption=none&fp=firefox&security=tls&sni=hys41.wba-pn.ru&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://8e8e4592-6088-4d00-b061-ef5456d0eb9c@hys41.wba-pn.ru:443?encryption=none&fp=firefox&security=tls&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@5.129.224.93:443?encryption=none&fp=firefox&security=tls&sni=hys42.wba-pn.ru&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://f0d24eb0-a88a-455f-92b8-3a99c38dfb0c@hys42.wba-pn.ru:443?encryption=none&fp=qq&host=hys42.wba-pn.ru&path=%2F&security=tls&sni=hys42.wba-pn.ru&type=ws#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://CnVfXXvMzh@72.56.92.120:443/?insecure=1&sni=hys13.wba-pn.ru#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443/?insecure=1&sni=hys13.wba-pn.ru#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
