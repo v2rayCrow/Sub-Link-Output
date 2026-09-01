@@ -1,12 +1,5 @@
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cnJSOTdPNkpJUnpTUkc4dUhpbVZDZ0xFc3NqaXB0aGlDNEhsaWVxLzQvdz06SHRiNkF3QVJZQnQrMTkzTEZ5RG5mZTFmUytRRHU5SkhzaVN3MXdhTjB1Yz0@65.109.215.50:13049#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cnJSOTdPNkpJUnpTUkc4dUhpbVZDZ0xFc3NqaXB0aGlDNEhsaWVxLzQvdz06QitnbXJQMXR4UWxpVFR3ME5OVm9IWit3ak5BTDNuS0hab3BMdHFsRUFuST0@65.109.215.50:13049#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-trojan://B%2BgmrP1txQliTTw0NNVoHZ%2BwjNAL3nKHZopLtqlEAnI%3D@65.109.215.50:51773?security=none&headerType=&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-trojan://Htb6AwARYBt%2B193LFyDnfe1fS%2BQDu9JHsiSw1waN0uc%3D@65.109.215.50:51773?security=none&headerType=&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://845a492d-21e6-4cc0-abbb-b66813a163c0@65.109.215.50:39633?security=&encryption=none&headerType=&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://de5b01f7-0697-49ec-aeb1-6ef0361344fb@65.109.215.50:39633?encryption=none&security=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NWE0OTJkLTIxZTYtNGNjMC1hYmJiLWI2NjgxM2ExNjNjMCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IkZpbmxhbmQgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-vmess://eyJhZGQiOiI2NS4xMDkuMjE1LjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRlNWIwMWY3LTA2OTctNDllYy1hZWIxLTZlZjAzNjEzNDRmYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjY5ODAiLCJwcyI6IkZpbmxhbmQgXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443/?insecure=1&sni=fast.wwwinternetvideo.click#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443/?insecure=1&sni=fast.wwwinternetvideo.click#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-se.roxa.org#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&sni=hopp-legend-se.roxa.org#Finland%20%F0%9F%87%AB%F0%9F%87%AE

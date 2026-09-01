@@ -1,3 +1,2 @@
-vless://7836b28e-8451-4596-ad3e-e3601b2335ba@64.188.82.152:443?path=%2Fwebsocket%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cloudflare.vhub.pro&fp=safari&type=ws&allowInsecure=0&sni=cloudflare.vhub.pro#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
