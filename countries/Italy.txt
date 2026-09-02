@@ -1,6 +1,1 @@
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?encryption=none&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443?encryption=none&fp=qq&path=%2FRoBeRt&security=tls&sni=milan.adaspoloandco.com&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
-vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&host=itproxy4.lockdwn.com&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&host=itproxy4.lockdwn.com&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20528ms

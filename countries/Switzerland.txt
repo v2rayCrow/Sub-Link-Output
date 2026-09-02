@@ -1,1 +1,0 @@
-hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD

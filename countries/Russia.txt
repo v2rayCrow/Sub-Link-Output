@@ -1,7 +1,2 @@
-vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@193.233.255.43:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.sellflow.org#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://2ae1bbd2-dd81-4737-bbec-6a8c1c74e8f1@195.19.164.87:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&path=%2Fv1&security=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=user-6a917f32.noooo.win&fp=firefox&packetEncoding=xudp#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Russia%20%F0%9F%87%B7%F0%9F%87%BA
+vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=none&path=/v1#Russia%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20615ms
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=multi&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#Russia%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%201168ms
