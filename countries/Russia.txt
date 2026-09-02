@@ -5,5 +5,3 @@ vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&security=
 vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=user-6a917f32.noooo.win&fp=firefox&packetEncoding=xudp#Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://85223e1a-f55d-4d0d-b27d-39e8be49d220@83.147.246.153:4100?path=%2Fv1&security=none&encryption=none&host=live.ok.ru&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@176.108.245.3:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go2.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#Russia%20%F0%9F%87%B7%F0%9F%87%BA
