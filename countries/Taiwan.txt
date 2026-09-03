@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20582ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.152.189:50099#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20589ms
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.230.216:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#Taiwan%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20857ms

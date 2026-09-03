@@ -1,2 +1,2 @@
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&encryption=none&headerType=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20289ms
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?encryption=none&security=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20299ms
+vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?encryption=none&security=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20280ms
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%201156ms
