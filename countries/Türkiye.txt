@@ -1,3 +1,2 @@
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?encryption=none&security=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20285ms
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?&type=tcp&headerType=none&path=/#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20859ms
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&encryption=none&headerType=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%203324ms
+vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&encryption=none&headerType=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20289ms
+vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?encryption=none&security=none&type=tcp#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7%20%7C%20299ms
