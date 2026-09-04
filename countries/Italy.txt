@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20309ms
-vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?encryption=none&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20412ms
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20419ms
-vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&host=itproxy4.lockdwn.com&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20452ms
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20508ms
+vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?encryption=none&host=itproxy4.lockdwn.com&path=%2F&security=none&type=ws#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%20705ms
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Italy%20%F0%9F%87%AE%F0%9F%87%B9%20%7C%204695ms
