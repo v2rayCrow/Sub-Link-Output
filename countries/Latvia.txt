@@ -1,2 +1,2 @@
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#Latvia%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20982ms
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#Latvia%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%2010188ms
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#Latvia%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20909ms
+vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#Latvia%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%201374ms

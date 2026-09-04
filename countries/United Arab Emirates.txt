@@ -1,1 +1,1 @@
-vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@151.243.182.249:443?path=%2F&security=none&encryption=none&type=ws#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20454ms
+vless://98673856-cd6f-4aa0-b2c9-d2ec90c0f47b@151.243.182.249:443?path=%2F&security=none&encryption=none&type=ws#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA%20%7C%20585ms
