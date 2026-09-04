@@ -1,5 +1,6 @@
-vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?encryption=none&host=pl2.lckdwn.ru&path=%2F&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20464ms
-vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?path=/&security=none&encryption=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20480ms
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20525ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20630ms
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%201424ms
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20652ms
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?encryption=none&path=%2F4bc027a44532&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20677ms
+vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?path=%2F&security=none&encryption=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20715ms
+vless://78791f9e-fe09-4d4f-88ec-895764bae0d6@94.183.209.58:443?encryption=none&host=pl2.lckdwn.ru&path=%2F&security=none&type=ws#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20716ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20792ms
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.10:33743?security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&spx=%2F&type=grpc&serviceName=TunService&sni=www.google.com#Poland%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20811ms
