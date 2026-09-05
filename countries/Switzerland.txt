@@ -1,2 +1,1 @@
-vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD
 vless://51231507-67c3-4141-ab08-a69eb121c716@138.124.67.80:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B0S7A-ceRt0c3aRqbeQG69FVSkK-si6NWLBEM_QuC3U&security=reality&sid=16&sni=tradingview.com&type=tcp#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD

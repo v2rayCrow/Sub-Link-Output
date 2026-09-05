@@ -1,1 +1,2 @@
+vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?flow=xtls-rprx-vision&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
