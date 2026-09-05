@@ -1,1 +1,0 @@
-vless://336501b6-51d2-11ee-a993-f23c9164ca5d@e94a36e2-tl4g00-trhks8-1c9em.hk3.hyhuawei.com:443?security=reality&encryption=none&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&headerType=none&fp=chrome&type=tcp&sni=updates.cdn-apple.com#Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0
