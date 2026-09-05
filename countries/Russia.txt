@@ -1,2 +1,0 @@
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#Russia%20%F0%9F%87%B7%F0%9F%87%BA
-vless://553e3253-c454-431d-a7e6-42bc06ea5e14@91.224.86.107:9830?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&sni=dl.google.com&serviceName=grpc-tunnel#Russia%20%F0%9F%87%B7%F0%9F%87%BA
