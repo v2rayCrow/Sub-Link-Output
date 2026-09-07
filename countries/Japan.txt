@@ -1,2 +1,2 @@
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?mode=gun&security=reality&encryption=none&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+vless://31d84170-673e-4653-afaf-0656656be6dc@52.68.64.80:25892?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.com&fp=chrome&flow=xtls-rprx-vision&sid=9b0f012413fd&pbk=20EMD5w9RCv9W_MtV6PfJAcKwSUpRfdQ_uA_UBHggRE#Japan%20%F0%9F%87%AF%F0%9F%87%B5
