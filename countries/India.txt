@@ -1,1 +1,0 @@
-vless://50ddfd92-dc79-4777-a256-41e34d56836e@194.61.31.126:2053?encryption=none&fp=&pbk=R06_DTSjzQI9DswvRz9OqSBECfSwlpCMPR4DCc9oXyw&security=reality&sid=c0cb7457deebbc70&sni=www.apple.com&type=tcp#India%20%F0%9F%87%AE%F0%9F%87%B3
