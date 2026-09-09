@@ -1,1 +1,0 @@
-vless://403548f6-8748-426c-8559-da7a9d75d876@206.1.96.235:443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=f_dIoYu9rqNbm_YV3Kv6DT9_fYPcI-PLuJSFya0b7Ek&fp=chrome&spx=/wxafNmAzLZqajbK&type=xhttp&sni=android.clients.google.com&sid=c76cb5776cd92d13#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
