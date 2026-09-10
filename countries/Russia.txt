@@ -1,0 +1,1 @@
+vless://419f25c1-bc35-412e-93fb-258efee859b5@ru2.oshost.network:80?path=/api/v2/stream&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&type=ws#Russia%20%F0%9F%87%B7%F0%9F%87%BA

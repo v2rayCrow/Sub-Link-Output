@@ -1,0 +1,1 @@
+vless://42994234-1689-48bc-8d01-cfb16e7b017a@45.74.158.180:443?security=reality&encryption=none&pbk=MgyA2FY0p2q_VOwoL9T1Z3rzpKEcGjfN61QliGcyHA8&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=ca41ef1263c02279#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
