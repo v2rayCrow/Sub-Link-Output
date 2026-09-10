@@ -1,1 +1,0 @@
-vless://2656399e-872b-4075-9ff5-13233e232986@104.194.132.45:443?security=reality&encryption=none&pbk=mfu7C9i9NmH6W6f6709YrSkKUlzJxcmQ8wJDVs5dJA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.dodostatic.net&sid=e714475894bda1e4#Russia%20%F0%9F%87%B7%F0%9F%87%BA
