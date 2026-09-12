@@ -1,2 +1,1 @@
-vless://3f9f2bda-0b9c-8469-7381-a73de2255619@170.168.97.8:8443?mode=gun&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#Spain%20%F0%9F%87%AA%F0%9F%87%B8
 vless://43c23116-1115-4af4-a0f0-56f02841a605@185.254.205.79:19842?security=reality&encryption=none&pbk=sfOfuQeJBlKfDnPL_EMWUxMIiFAN8BNKjtWDUvlsjzM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=25ebc9e0a912#Spain%20%F0%9F%87%AA%F0%9F%87%B8
