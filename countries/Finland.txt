@@ -1,1 +1,0 @@
-vless://3a22ca95-bd99-4c6b-a799-f8f73930ea05@144.31.90.72:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&security=reality&sid=00a61d55a07de885&sni=fl.convert-flow.net&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
