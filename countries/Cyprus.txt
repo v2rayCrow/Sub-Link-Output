@@ -1,2 +1,0 @@
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.218:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Cyprus%20%F0%9F%87%A8%F0%9F%87%BE
-vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&security=reality&sid=84fc&sni=deepl.com&type=tcp#Cyprus%20%F0%9F%87%A8%F0%9F%87%BE
