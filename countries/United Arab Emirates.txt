@@ -1,1 +1,1 @@
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@89.47.55.5:443?mode=auto&path=/&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA

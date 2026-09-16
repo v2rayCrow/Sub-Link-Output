@@ -1,0 +1,1 @@
+vless://32721515-985b-4773-9e70-5d2e1b88a060@212.16.92.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=jobinvest.ru&type=tcp#Iran%20%F0%9F%87%AE%F0%9F%87%B7
