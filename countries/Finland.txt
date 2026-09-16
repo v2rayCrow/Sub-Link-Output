@@ -1,2 +1,1 @@
-vless://2713d763-325f-4dcb-8656-cca54cbea4d9@2.29.42.188:443?security=none&encryption=none&headerType=none&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
 vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&security=reality&sid=7da2eae792187ab9&sni=images.unsplash.com&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
