@@ -1,1 +1,1 @@
-vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&security=reality&sid=7da2eae792187ab9&sni=images.unsplash.com&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&fp=&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&security=reality&sid=d368b94e275ab080&sni=www.google.com&type=tcp#Finland%20%F0%9F%87%AB%F0%9F%87%AE
