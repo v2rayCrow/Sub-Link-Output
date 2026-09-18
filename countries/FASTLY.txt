@@ -1,0 +1,1 @@
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?encryption=none&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=R8Mogel1wypEIpcUXnGmG1cuzT9POghNhqJcw4-CLx0&type=xhttp&path=/&mode=auto#FASTLY%20%F0%9F%87%AB%F0%9F%87%A6%F0%9F%87%B8%F0%9F%87%B9%F0%9F%87%B1%F0%9F%87%BE

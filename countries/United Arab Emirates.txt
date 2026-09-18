@@ -1,0 +1,1 @@
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@45.88.13.5:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=TunService#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
