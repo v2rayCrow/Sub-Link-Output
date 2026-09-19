@@ -1,1 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://3ed76962-2a7a-4d3f-cb64-1f4e67f87314@51.79.29.205:55368?encryption=none&type=grpc&mode=gun&security=reality&fp=chrome&sni=play-apps-features.googleusercontent.com&pbk=dRr0vACepXMHCyOwaQ_-KqXjHJxIap-xpY4Ev0n2YSA#Canada%20%F0%9F%87%A8%F0%9F%87%A6
