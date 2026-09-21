@@ -1,5 +1,2 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-vless://3ed76962-2a7a-4d3f-cb64-1f4e67f87314@51.79.29.205:55368?mode=gun&security=reality&encryption=none&pbk=dRr0vACepXMHCyOwaQ_-KqXjHJxIap-xpY4Ev0n2YSA&fp=chrome&type=grpc&sni=play-apps-features.googleusercontent.com#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-vless://2cb2774b-475b-4759-f6f2-18b70e8501f8@51.79.29.205:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=play-apps-features.googleusercontent.com&pbk=GCANC7DeRAKLmXKEWXd2bkRwKl1XTyuWy1ObBB0AKC0&spx=/#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://3ed76962-2a7a-4d3f-cb64-1f4e67f87314@51.79.29.205:55368?mode=gun&security=reality&encryption=none&pbk=dRr0vACepXMHCyOwaQ_-KqXjHJxIap-xpY4Ev0n2YSA&fp=chrome&type=grpc&sni=play-apps-features.googleusercontent.com#Canada%20%F0%9F%87%A8%F0%9F%87%A6
