@@ -1,1 +1,0 @@
-vless://6261bc9c-128d-446a-9e16-7b340c7544e6@199.232.78.159:80?encryption=none&security=none&type=ws&host=yaSharClass.global.ssl.fastly.net&path=/#FASTLY%20%F0%9F%87%AB%F0%9F%87%A6%F0%9F%87%B8%F0%9F%87%B9%F0%9F%87%B1%F0%9F%87%BE
