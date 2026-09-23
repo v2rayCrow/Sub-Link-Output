@@ -1,2 +1,1 @@
-vless://303c2140-19ff-4eea-b1b1-865d4160d261@194.238.57.23:443?security=reality&encryption=none&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&fp=chrome&spx=/&type=grpc&sni=ai.android&sid=53499a662395#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
-vless://5b754a1a-11aa-4df9-a8ba-44af9a579fe1@77.221.142.242:8443?security=reality&encryption=none&pbk=MjRaYQ5TjfU2rfHxVQ2Sa4nXRHHvsMvi3DW-x09n8Ts&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sweden.b2ai.top#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
+vless://303c2140-19ff-4eea-b1b1-865d4160d261@194.238.57.23:443?encryption=none&security=reality&sni=ai.android&fp=chrome&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&spx=/&type=grpc#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
