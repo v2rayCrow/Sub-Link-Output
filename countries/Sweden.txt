@@ -1,0 +1,1 @@
+vless://718b9643-20e3-4f9e-9f8d-87ce6801d55e@191.44.114.66:443?encryption=none&type=grpc&security=reality&sni=ai.android&fp=chrome&pbk=uE1WBdW9se1rQnx8Vh-a1jjaehzK-iUmCVrPui5KU3g&sid=53499a662395&spx=/&allowInsecure=1#Sweden%20%F0%9F%87%B8%F0%9F%87%AA

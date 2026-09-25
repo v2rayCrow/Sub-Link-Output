@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+vless://44557727-e197-45c5-9637-d8455491fa9a@124.156.230.31:48795?security=reality&encryption=none&pbk=CXaG2QJnsoxAplVbaof9bDKbsFqLJ3W2zfZ8LzNBdgg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Japan%20%F0%9F%87%AF%F0%9F%87%B5

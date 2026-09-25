@@ -1,0 +1,1 @@
+vless://6933bb34-cb01-4605-88c3-f335e4307d23@37.221.79.226:18443?encryption=none&type=tcp&security=reality&sni=www.sony.com&fp=chrome&pbk=9hnmqap98ULg2y1fk4aqAtQEtPLQPIypZNmnrb42VWs&sid=50d9ee91&spx=/&allowInsecure=1#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7

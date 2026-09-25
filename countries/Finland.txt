@@ -1,0 +1,1 @@
+vless://63aaea7f-2847-4f41-afab-0836b1cf79d9@me1.movieseryalirani.ir:443?security=reality&encryption=none&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&headerType=none&fp=chrome&type=tcp&sni=matrix-client.matrix.org&sid=8d814a#Finland%20%F0%9F%87%AB%F0%9F%87%AE
