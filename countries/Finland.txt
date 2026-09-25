@@ -1,2 +1,0 @@
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=chrome&spx=/AhmadV2ray&type=tcp&flow=xtls-rprx-vision&sni=144.31.27.215&sid=568d87a47271344e#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@144.31.27.215:43000?security=reality&encryption=none&pbk=dxCQnOekn14riFxt3vdwDNydvW47FsmwFG6BJ2mUgEg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=&sid=568d87a47271344e#Finland%20%F0%9F%87%AB%F0%9F%87%AE
