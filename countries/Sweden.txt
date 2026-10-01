@@ -1,1 +1,2 @@
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=surstreming.vvzzkontaktezzvv.garden&sid=fb442438e2223836#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
+vless://4496d9fb-37da-4c7f-98bb-eb1ccf110c4d@132.243.231.22:443?security=reality&encryption=none&pbk=nF_kEdHan2dgl2tlQ_dtNaKZ4oORhuiFrXHbtEDcT2Q&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=nordic.global-cdn.org&sid=2d6d073dc88f22a8#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
