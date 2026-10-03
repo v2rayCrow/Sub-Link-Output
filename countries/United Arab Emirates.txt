@@ -1,1 +1,0 @@
-vless://4275431a-f97c-4d84-929a-9ef411d3d10b@89.125.95.229:443?mode=auto&path=/&security=reality&encryption=none&pbk=-XhK_SoQ-5CyefHn-QBhsSpnq2mFHRBod6ramT2J9lg&fp=chrome&type=xhttp&sni=r1256197.s2537.vm.mydomain.zone#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
