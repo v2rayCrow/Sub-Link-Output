@@ -1,6 +1,4 @@
-vless://7078e8e7-94d0-4736-97cd-b981419a41ef@i-fr1.fpradius.com:443?mode=gun&security=reality&encryption=none&pbk=gynxhWoRzcr8EofzydhBqYpC-sD-Lz26camc0QA75nM&fp=chrome&type=grpc&serviceName=grpc&sni=i-fr1.fpradius.com&sid=538f0ce800212178#France%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#France%20%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@fra.loozerp.wiki:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=ff776ff77be48b88#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@185.171.202.105:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fra.loozerp.wiki&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&headerType=none#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?encryption=none&fp=&pbk=i1OqphFMJNL_xwV5zES4icJTPBHtSgieOt3FYns9zB0&security=reality&sid=2b&sni=www.amazon.com&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
