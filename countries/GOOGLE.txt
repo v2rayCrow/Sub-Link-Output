@@ -1,1 +1,0 @@
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@35.185.179.62:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&type=tcp&headerType=none#GOOGLE%20%F0%9F%87%AC%F0%9F%87%B4%F0%9F%87%B4%F0%9F%87%AC%F0%9F%87%B1%F0%9F%87%AA
