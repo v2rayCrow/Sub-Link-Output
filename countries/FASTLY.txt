@@ -1,0 +1,1 @@
+vless://33016f3d-8509-493c-bd8b-d26447d48135@psf-2.weedly.top:80?encryption=none&host=stigmata.ir&path=/&security=none&type=ws#FASTLY%20%F0%9F%87%AB%F0%9F%87%A6%F0%9F%87%B8%F0%9F%87%B9%F0%9F%87%B1%F0%9F%87%BE
