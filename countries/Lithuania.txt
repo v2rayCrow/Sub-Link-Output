@@ -1,1 +1,1 @@
-vless://7610be85-9855-4010-8929-ce16d4993969@84.32.215.96:443?security=reality&encryption=none&pbk=5pR15ATlWW3tVzfnMN3xoiN56LjIUbhnOMp37ZvTFUc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app26.betust.net&sid=d44d6d46#Lithuania%20%F0%9F%87%B1%F0%9F%87%B9
+vless://2eceaf2b-a775-5a9c-9990-dad2b3660fb6@62.77.158.1:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=sVhkyiMXvpofflCdSszxQmsqOXV1kg1Ldxq1a9mOPjs&security=reality&sid=6a&sni=online.1c.ru&type=tcp#Lithuania%20%F0%9F%87%B1%F0%9F%87%B9
