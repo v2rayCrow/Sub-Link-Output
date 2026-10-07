@@ -1,1 +1,0 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?security=&encryption=none&host=vms.lifetime37.workers.dev&type=ws#CLOUDFLARE%20%F0%9F%87%A8%F0%9F%87%B1%F0%9F%87%B4%F0%9F%87%BA%F0%9F%87%A9%F0%9F%87%AB%F0%9F%87%B1%F0%9F%87%A6%F0%9F%87%B7%F0%9F%87%AA
