@@ -1,1 +1,0 @@
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&security=reality&sid=46455ff0&sni=addons.mozilla.org&type=tcp#Poland%20%F0%9F%87%B5%F0%9F%87%B1
