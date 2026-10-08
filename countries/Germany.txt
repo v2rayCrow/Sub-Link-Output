@@ -1,4 +1,5 @@
 vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=tcp&encryption=none&security=none#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.62.162:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.srv.vbuste.ru&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@147.45.63.64:443?security=reality&encryption=none&pbk=9J5SrrBYJ4Tz_zpSM3n-EWuin5jmUqEI8LJ5htsGZy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com#Germany%20%F0%9F%87%A9%F0%9F%87%AA
