@@ -1,8 +1,6 @@
+vless://6f876b28-1b3e-4088-85c0-d299e56bfccd@172.64.88.168:8880?encryption=none&host=throbbing-haze-fbde.388-6c4.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#Cloudflare%20%F0%9F%8C%90
-vless://e7f6f783-6754-4228-a5d0-aeed84b9949a@172.66.214.247:8880?encryption=none&host=sweet-sun-c70f.317-ba5.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
-vless://30e4c878-15ca-4f53-ab32-04c60ecd3f31@172.65.90.52:8880?encryption=none&security=none&type=ws&host=blue-rice-7142.30-346.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#Cloudflare%20%F0%9F%8C%90
-vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.187.219:8880?&security=none&type=ws&headerType=&host=tiny-feather-4c41.227.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net#Cloudflare%20%F0%9F%8C%90
-vless://160ca353-676d-4b7f-a041-0289e388b865@172.66.140.62:8880?security=none&sni=skk.moe&type=ws&host=proud-cloud-7bdd.208-a52.workers.dev#Cloudflare%20%F0%9F%8C%90
-vless://ed189537-41de-4abe-9f8b-bb75d457722d@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=lucky-cake-4f58.318-5ee.workers.dev&type=ws#Cloudflare%20%F0%9F%8C%90
-vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#Cloudflare%20%F0%9F%8C%90
-vless://1b3ad465-d37e-48a2-bb53-d7fddfc97b11@172.67.209.127:8880?security=none&type=ws&host=calm-silence-d4a1.217.workers.dev#Cloudflare%20%F0%9F%8C%90
+vless://7e3cd2f1-0de5-4717-9002-64d8597bc577@172.64.88.251:8880?encryption=none&host=dry-credit-fc26.203-d8c.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#Cloudflare%20%F0%9F%8C%90
+vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?host=soft-band-8da6.426.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#Cloudflare%20%F0%9F%8C%90
+vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#Cloudflare%20%F0%9F%8C%90
+vless://50414e45-4c5f-5a45-5553-5dd075c8ae9b@104.25.199.149:80?security=none&type=ws&path=/api/ws&host=web-app-gjn19f.z0zxy6ehuwgs.workers.dev&packetEncoding=xudp&sni=web-app-gjn19f.z0zxy6ehuwgs.workers.dev#Cloudflare%20%F0%9F%8C%90
