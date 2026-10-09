@@ -1,1 +1,0 @@
-vless://4f466863-b6c5-4fdc-955e-7a601c18d89a@217.26.30.125:7443?mode=gun&security=reality&encryption=none&pbk=EuRD8QK-uL3uQqnQ_IC2Ybj7v8feXRxCiEaXYjhHx3c&fp=chrome&type=grpc&sni=yahoo.com#Russia%20%F0%9F%87%B7%F0%9F%87%BA
