@@ -1,1 +1,2 @@
-vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&encryption=none&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=3c4041d3#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
