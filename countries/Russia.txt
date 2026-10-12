@@ -1,0 +1,1 @@
+vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@tundra.venorix.online:443?security=reality&encryption=none&pbk=IHm9_n5a0hMAvgclNtwWpNpq68Xdj9-Q5NG3eLkcFjE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tundra.venorix.online&sid=52fe21c959620cd8#Russia%20%F0%9F%87%B7%F0%9F%87%BA
