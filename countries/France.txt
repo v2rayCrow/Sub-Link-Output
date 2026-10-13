@@ -1,4 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#France%20%F0%9F%87%AB%F0%9F%87%B7
 vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?authority=&encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=/3f9d322afd1602c&type=grpc#France%20%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#France%20%F0%9F%87%AB%F0%9F%87%B7
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#France%20%F0%9F%87%AB%F0%9F%87%B7
