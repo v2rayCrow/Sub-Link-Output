@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:57541?security=reality&encryption=none&pbk=hAtfAzXQrbxyqiK3b2XrsxZ35sWiN8iqp0LvjKr9_DE&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=22b19630280c3f#Japan%20%F0%9F%87%AF%F0%9F%87%B5
