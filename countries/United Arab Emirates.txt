@@ -1,3 +1,2 @@
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.32:443?encryption=none&fp=&pbk=qvVoQPNyuM86jBvBqOL-Z9VO_C9jMi_ZH8bb4fotNWA&security=reality&serviceName=astracat&sid=7ec4374ffc6308fd&sni=www.yandex.ru&type=grpc#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&fp=&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&security=reality&serviceName=astracat&sid=ed435c242097fd05&sni=www.yandex.ru&type=grpc#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=none&type=ws&host=uae.unixzone.us&path=/#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
