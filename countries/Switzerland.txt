@@ -1,2 +1,0 @@
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@ch.srv.vbuste.ru:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=ch.srv.vbuste.ru&sid=4be4110078ebed4a#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@138.124.9.0:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EqN5QtvWGccdkmL5ZNVDBRxRhWgr6g_vr3ABT8Q2dW4&security=reality&sid=ff0ddf949624ef2a&sni=freefl.aiage.work&type=tcp#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD
