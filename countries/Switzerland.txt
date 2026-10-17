@@ -1,0 +1,1 @@
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@167.148.183.51:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=chrome&type=grpc&sni=ch.srv.vbuste.ru&sid=4be4110078ebed4a#Switzerland%20%F0%9F%87%A8%F0%9F%87%AD
