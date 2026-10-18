@@ -1,2 +1,2 @@
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&security=reality&sid=3c6afdc4124d0560&sni=lv.aiage.work&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
 vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&security=reality&sid=33acba1b&sni=www.apple.com&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&security=reality&sid=3c6afdc4124d0560&sni=lv.aiage.work&type=tcp#Latvia%20%F0%9F%87%B1%F0%9F%87%BB
