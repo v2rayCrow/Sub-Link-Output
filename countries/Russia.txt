@@ -1,1 +1,0 @@
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@168.113.135.90:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m-vruvc.mvpstr.com&fp=chrome&pbk=ZtAlhN1pU4MTmv4KaX9J_5_8KWnwy9IOnc-BLzIf234&sid=11ac376e18d20343&type=tcp&headerType=none#Russia%20%F0%9F%87%B7%F0%9F%87%BA
