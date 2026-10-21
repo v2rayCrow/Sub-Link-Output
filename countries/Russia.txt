@@ -1,0 +1,1 @@
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&security=reality&sid=725e6ea0&type=tcp#Russia%20%F0%9F%87%B7%F0%9F%87%BA

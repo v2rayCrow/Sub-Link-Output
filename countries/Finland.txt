@@ -1,1 +1,0 @@
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?&sni=45.144.234.157&type=ws&headerType=none&host=45.144.234.157&path=/vless#Finland%20%F0%9F%87%AB%F0%9F%87%AE
