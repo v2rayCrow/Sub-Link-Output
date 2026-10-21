@@ -1,2 +1,0 @@
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&host=132.243.65.82&mode=auto&path=/&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
-vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&security=reality&encryption=none&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
