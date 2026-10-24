@@ -1,8 +1,8 @@
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@89.34.230.66:60023?mode=gun&security=reality&encryption=none&pbk=PFL3AoMNTu9-VrM2WIrvQl2l-ibVgR5vIE1Vh-txKVg&fp=chrome&type=grpc&sni=starlink.com&sid=6070d424a64f75#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?type=tcp&headerType=none#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?security=reality&type=tcp&packetEncoding=none&sni=www.adobe.com&fp=chrome&flow=xtls-rprx-vision&sid=1625a2a79d01328f&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@nl2.himoy.space:443?security=reality&encryption=none&pbk=vWFi5WROH6RUA3U7MiULYSOBc9h1ZbXyYVUjwvvJn0E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl2.himoy.space&sid=3bf45f37318782a0#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
