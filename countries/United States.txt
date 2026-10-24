@@ -1,4 +1,1 @@
-vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=35cd899f8de04801&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@185.243.99.100:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-vless://52919204-4ed9-42c8-97a0-0f01d007f898@154.40.55.185:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.oracle.com&fp=chrome&flow=xtls-rprx-vision&sid=7f&pbk=XY0OTrgnRWxHbqBC8u4qFWvZakjNZY83AAnL_lwHu1M#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
