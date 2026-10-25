@@ -1,2 +1,0 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@158.247.241.102:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81#South%20Korea%20%F0%9F%87%B0%F0%9F%87%B7
