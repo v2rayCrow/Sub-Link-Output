@@ -1,4 +1,2 @@
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@193.111.248.80:2053?encryption=none&fp=&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&serviceName=api&sid=afee962d&sni=nl3.mycloud1.org&type=grpc#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?security=reality&encryption=none&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=125ba3#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-vless://50a98bb9-8680-44b3-9962-902fff4631cf@31.76.15.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YM1SjW-RyGtPYs_SgjtfaIxJpw2m-TZ8qnNFxkDxHV0&security=reality&sid=a5543a67f52ea8ab&sni=www.apple.com&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.196:443?security=reality&encryption=none&pbk=jwLEnDwGROadL1ax-SrVC50sE5slaP7TbGQtBxkcTws&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=c2.qwyak.ru&sid=8c9ab0f7b293f9ef#Germany%20%F0%9F%87%A9%F0%9F%87%AA

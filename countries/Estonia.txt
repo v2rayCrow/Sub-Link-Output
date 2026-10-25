@@ -1,1 +1,1 @@
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@ee1.mycloud1.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=ee1.mycloud1.org&type=tcp#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
+vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?mode=auto&security=reality&encryption=none&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&type=xhttp&sni=player.vimeo.com#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
