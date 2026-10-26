@@ -1,2 +1,0 @@
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?security=reality&encryption=none&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finlandlanzarotte.live#Finland%20%F0%9F%87%AB%F0%9F%87%AE
-vless://4a935df7-d1d3-4097-8d14-7f52ecd9877c@fififi.rosgosfactory.site:8443?security=reality&encryption=none&pbk=GRvqneKLdDsXByMTw2aOckP_jQRusQI5wip57LOZl3k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fififi.rosgosfactory.site&sid=b7d24e#Finland%20%F0%9F%87%AB%F0%9F%87%AE
