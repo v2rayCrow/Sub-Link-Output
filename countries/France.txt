@@ -1,1 +1,1 @@
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#France%20%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#France%20%F0%9F%87%AB%F0%9F%87%B7

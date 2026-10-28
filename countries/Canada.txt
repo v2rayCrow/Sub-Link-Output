@@ -1,2 +1,0 @@
-vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&fp=chrome&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#Canada%20%F0%9F%87%A8%F0%9F%87%A6

@@ -1,1 +1,1 @@
-vless://4b1be712-774c-4b65-8491-a3339e124a70@78.135.73.168:443?security=reality&encryption=none&pbk=w0yEuw7sPMCEwk9_vDVoqjBhJsGoPvR7TsxIZVJy3iw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr2.tv-quoralyx.top&sid=f4b2a12c#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&security=reality&sni=tr.peregrine-sub.net&fp=chrome&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&type=xhttp&host=tr.peregrine-sub.net&path=/&mode=auto#T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7
