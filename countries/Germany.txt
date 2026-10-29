@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&security=reality&sni=sundaylanzgem.site&type=tcp#Germany%20%F0%9F%87%A9%F0%9F%87%AA
 vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?security=reality&encryption=none&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=125ba3#Germany%20%F0%9F%87%A9%F0%9F%87%AA
