@@ -1,1 +1,2 @@
 vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?security=reality&encryption=none&pbk=DNCphTaL7BtXj1HybzMFir0ki_IiM62kr6ddIZYxagw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steamcommunity.com&sid=5c56a4cfea5866c0#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Canada%20%F0%9F%87%A8%F0%9F%87%A6
