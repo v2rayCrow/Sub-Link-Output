@@ -1,0 +1,1 @@
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#Cyprus%20%F0%9F%87%A8%F0%9F%87%BE
