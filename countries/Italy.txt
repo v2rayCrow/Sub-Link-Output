@@ -1,1 +1,1 @@
-vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=tg-lovers-free.com&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&spx=/HesarWeb#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=tg-lovers-free.com&fp=chrome&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&sid=f00f58383241c807&spx=/HesarWeb#Italy%20%F0%9F%87%AE%F0%9F%87%B9

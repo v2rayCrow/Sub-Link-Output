@@ -1,1 +1,0 @@
-vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=amd.com&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#Poland%20%F0%9F%87%B5%F0%9F%87%B1
