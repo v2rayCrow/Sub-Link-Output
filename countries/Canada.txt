@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steamcommunity.com&fp=chrome&pbk=DNCphTaL7BtXj1HybzMFir0ki_IiM62kr6ddIZYxagw&sid=5c56a4cfea5866c0#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://0083a0f5-4418-44c2-a9ec-6dce0c26fb94@212.69.135.70:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#Canada%20%F0%9F%87%A8%F0%9F%87%A6
