@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#Canada%20%F0%9F%87%A8%F0%9F%87%A6
 vless://39826f32-f5ca-42a5-ab33-188f7d199478@149.56.209.48:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rV2Qmjr31w2nxtnMcbwHJNY2wxJynjmxwbKPlfSgET4&security=reality&sid=1c72fb25098b8807&sni=www.apple.com&type=tcp#Canada%20%F0%9F%87%A8%F0%9F%87%A6
