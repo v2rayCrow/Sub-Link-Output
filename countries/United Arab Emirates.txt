@@ -1,1 +1,0 @@
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@89.125.48.218:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb&sni=nl3-edge.gacvpn.site#United%20Arab%20Emirates%20%F0%9F%87%A6%F0%9F%87%AA
