@@ -1,0 +1,2 @@
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&headerType=none&type=tcp&sni=absolute-disaster.org&insecure=0&flow=xtls-rprx-vision#Russia%20%F0%9F%87%B7%F0%9F%87%BA
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&security=reality&sni=absolute-disaster.org&type=tcp#Russia%20%F0%9F%87%B7%F0%9F%87%BA

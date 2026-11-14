@@ -1,2 +1,1 @@
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-vless://36c06e11-028b-40a1-a91f-c8f38f03e829@jp.yi-yi.xyz:8443?security=reality&encryption=none&pbk=g3T4dVyrbNixv7HvSMlh91cYBa5kEsZCEInB7Xc_AEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=956d8072a694ff37#Japan%20%F0%9F%87%AF%F0%9F%87%B5
