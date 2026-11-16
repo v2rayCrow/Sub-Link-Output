@@ -1,1 +1,0 @@
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@62764fg.nl19.h1clayd.shop:443?type=grpc&security=reality&fp=chrome&pbk=RqABpaIKrmdoK0pwnQ5zUP2c3Dh5cLw0ueT1hb35txk&sid=cd9f7c819a97cea9&sni=62764fg.nl19.h1clayd.shop&serviceName=4c9e80459954&spx=/#Estonia%20%F0%9F%87%AA%F0%9F%87%AA
