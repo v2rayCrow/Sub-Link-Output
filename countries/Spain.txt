@@ -1,1 +1,0 @@
-vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?security=reality&encryption=none&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0dfc23fe80778c00#Spain%20%F0%9F%87%AA%F0%9F%87%B8
