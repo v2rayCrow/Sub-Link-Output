@@ -1,1 +1,1 @@
-vless://352a250d-080b-47b5-b7db-f9f8fa31c551@45.192.12.92:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nltimes.nl&fp=chrome&pbk=aUOP5gJGQ1QFhdZuREZ8yosfPavFiJ6f_EySIBZ2WCE&spx=/HesarWeb#Poland%20%F0%9F%87%B5%F0%9F%87%B1
+vless://352a250d-080b-47b5-b7db-f9f8fa31c551@45.192.12.92:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nltimes.nl&fp=chrome&pbk=aUOP5gJGQ1QFhdZuREZ8yosfPavFiJ6f_EySIBZ2WCE&type=tcp&headerType=none#Poland%20%F0%9F%87%B5%F0%9F%87%B1
