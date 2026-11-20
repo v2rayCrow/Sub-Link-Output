@@ -1,1 +1,1 @@
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#France%20%F0%9F%87%AB%F0%9F%87%B7
+vless://0b7d73f8-0965-4c17-8709-3b86d2eeff86@31.97.199.38:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=africamediaconnect.fr&fp=chrome&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&sid=5b4a12ef7e1694dd#France%20%F0%9F%87%AB%F0%9F%87%B7

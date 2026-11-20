@@ -1,0 +1,1 @@
+vless://3ce21bf2-b696-48c9-b840-e558f9842097@132.243.231.121:443?encryption=none&security=reality&sni=www.lovoo.com&fp=chrome&pbk=Kaf_Q4LZabmCH2k_-KvO605-qGLoNwpVihJqzxCLQCI&sid=8de63f2667919267&spx=/&flow=xtls-rprx-vision#Sweden%20%F0%9F%87%B8%F0%9F%87%AA
