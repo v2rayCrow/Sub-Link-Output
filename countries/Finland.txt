@@ -1,0 +1,1 @@
+vless://2c901d22-8586-4682-8d6c-2634672b1517@85.192.48.20:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ussr.party&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Finland%20%F0%9F%87%AB%F0%9F%87%AE
