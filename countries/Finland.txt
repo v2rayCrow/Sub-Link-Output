@@ -1,0 +1,1 @@
+vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.178:6443?fp=chrome&pbk=incJdGcSQObiuBxmGneu0LFLO4MnjEnx5MX6e1q98k8&security=reality&serviceName=/api/v1/update&sid=ffd956560a594225&sni=adaptivesupport.amd.com&type=grpc#Finland%20%F0%9F%87%AB%F0%9F%87%AE
