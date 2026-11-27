@@ -1,0 +1,1 @@
+vless://18baf01c-99b2-4675-997c-1ec73e3eadff@45.158.197.237:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#Seychelles%20%F0%9F%87%B8%F0%9F%87%A8
