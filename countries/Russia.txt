@@ -1,0 +1,1 @@
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@72.56.4.84:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Im1i3eUtm7uDxUOA0rNWef9bILxsBvK_ElfejZTpQW0&security=reality&sni=absolute-disaster.org&type=tcp#Russia%20%F0%9F%87%B7%F0%9F%87%BA
